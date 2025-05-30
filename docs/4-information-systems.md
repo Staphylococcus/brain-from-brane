@@ -64,18 +64,9 @@ Higher-order [information](glossary.md#information) constructs—such as ideas, 
 
 This evolutionary pathway illustrates how increasingly sophisticated informational constructs, initially reliant on human [cognition](glossary.md#cognition) for their existence and propagation, can achieve a level of structural and operational complexity that allows them to be instantiated as autonomous agents, representing a new phase in the universe's capacity to process information and organize matter.
 
-## **4.a. Material Organization and Dynamics**
-
-These systems have a material basis, though it may be distributed and diverse:
-
--   **Language, for instance, utilizes:**
-    -   **Neural networks** in human brains acting as "repeaters and amplifiers," which also introduce "jitter" (sources of variation or mutation) but concurrently act as "stabilizing forces" by selecting against or failing to propagate non-viable or less resonant variations.
-    -   **Externalized forms like texts, digital records, and other symbolic artifacts** provide greater temporal stability and serve as anchors, mitigating excessive drift and enabling broader transmission across time and space.
--   The applicability of this specific "repeater/jitter/anchor" model to all forms of abstract information systems (e.g., mathematical concepts, philosophical frameworks, [algorithms](glossary.md#algorithms) prior to execution) is an area for further delineation. Their "substrates" might include formal notation, logical consistency within a system of thought, or the documented code of an algorithm. "Replication" mechanisms might differ, relying on logical deduction, pedagogical transmission, scholarly review, or software compilation, each with its own modes of ensuring fidelity or introducing "jitter" (e.g., misinterpretation, bugs in code).
-
-## **4.b. Emergent Stability and Longevity**
-
-The **[stability and recurrence](glossary.md#stability-and-recurrence)** of these information systems are not inherent or static but are **[emergent properties](glossary.md#emergent-properties)** achieved through ongoing dynamic interactions within the "[flow of reality](glossary.md#flow-of-reality)". Their persistence and influence depend on their ability to be learned, replicated, and instantiated in suitable substrates (ranging from human minds to computational hardware). Factors contributing to their longevity and robustness include their utility, adaptability, internal coherence, resonance with host psychology or social needs, the stability of their material instantiations, and their success in the competitive informational environment.
+See also:
+-   [4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md)
+-   [4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity.md)
 
 ---
 
