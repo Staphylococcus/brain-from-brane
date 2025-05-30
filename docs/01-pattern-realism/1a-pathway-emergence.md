@@ -145,11 +145,20 @@ The development of these semantic capabilities represents a significant increase
 ## V. Full-Blown Semantics: Symbolic Systems, Language, and Shared Meaning
 
 ```mermaid
-graph LR
-  TA["Token A: 'tree'"] --> PH["Phrase: 'The tree fell'"]
-  TB["Token B: 'fell'"] --> PH
-  PH --> ME["Shared Interpretation"]
-```
+sequenceDiagram
+  participant Env as Environment
+  participant A as Agent A
+  participant CG as CommonGround
+  participant B as Agent B
+
+  Env-->>A: event "tree falls"
+  A-->>A: perceive & tokenize → "tree", "fell"
+  A-->>CG: propose phrase "The tree fell"
+  CG-->>B: shared conventions / grammar
+  A-->>B: transmit "The tree fell"
+  B-->>B: parse & decode to concept
+  B-->>Env: act on "tree fell"
+``` 
 
 The [emergence](../glossary.md#emergence) of full-blown semantic capabilities, most notably exemplified by human language and abstract thought, represents a pinnacle in the development of information processing by [agents](../glossary.md#agent). This stage is characterized by the use of symbolic systems, where arbitrary tokens (sounds, gestures, written marks) become systematically associated with concepts, objects, actions, and even other symbols. This allows for a combinatorial explosion of meaning, enabling communication, complex reasoning, and the construction of shared conceptual worlds.
 
@@ -194,3 +203,4 @@ graph LR
 **Summary:** This pathway illustrates how raw organizational patterns transform into rich semantic structures through successive stages of detection, representation, and symbolic abstraction, culminating in the complex, shared information systems that define human cognition.
 
 ---
+[<< Previous: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Up: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: **1.b. Emergence of Consciousness** >>](1b-emergence-of-consciousness.md)
