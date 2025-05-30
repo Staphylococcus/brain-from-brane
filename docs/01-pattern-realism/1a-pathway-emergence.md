@@ -110,10 +110,20 @@ The [emergence](../glossary.md#emergence) of simple life forms marks a crucial s
 ## IV. Developing Semantics: Complex Agents, Internal Representation, and Prediction
 
 ```mermaid
-flowchart TD
-  SI[Sensory Input] --> NM[Neural Representation]
-  NM --> PD[Prediction Module]
-  PD --> AC[Action Selection]
+flowchart LR
+  Env[Environment] --|raw data|--> SI[Sensory Input]
+  SI --|feature extraction|--> SE[Sensory Encoding]
+  SE --|encoded representation|--> GM[Generative Model]
+  GM --|prediction|--> PR[Prediction]
+  SI -.->|actual input| PR
+  PR & SI --|compute error|--> PE[Prediction Error]
+  PE --|learning signal|--> LU[Model Update]
+  LU --|update model|--> GM
+  GM --|select action|--> AS[Action Selection]
+  AS --|interaction|--> Env
+  subgraph Context
+    MEM[Memory & Context] --|modulates|--> GM
+  end
 ```
 
 The transition from proto-semantics to more developed semantic capabilities occurs with the [emergence](../glossary.md#emergence) of increasingly complex [agents](../glossary.md#agent), particularly those possessing nervous systems. These systems, themselves highly organized and dynamic configurations of [worldsheets](../glossary.md#worldsheet), allow for novel ways of processing environmental and internal information, leading to the formation of internal representations and predictive models, thereby enriching the nature of meaning for the [agent](../glossary.md#agent).
