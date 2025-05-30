@@ -13,3 +13,7 @@ Within this inherently structured, holistic flow, the distinctions, borders, and
 "Subjectivity" here primarily refers to distinctions being **agent-relative**. They arise from the evolved, functional **"inside-out lens"** of information-processing agents. These agents "carve up," interpret, and assign significance to aspects of the continuous, structured flow of reality. They do so to make sense of it, navigate it, and interact with it in ways that promote their own persistence and continuity. These evolved systems are often highly attuned to the underlying physical propensities, as recognizing and utilizing these inherent "joints" or patterns in reality is generally adaptive.
 
 Thus, the process of forming distinctions is a dialogue between the agent's needs and cognitive framework, and the pre-existing, physically-grounded structural characteristics of the universe. Certain patterns are more likely to be perceived or stabilized as distinct entities because the fundamental physics itself makes them more stable, recurrent, or energetically favorable.
+
+---
+
+[<< Previous: 2 Oneness and Interconnectedness](2-oneness-interconnectedness.md) | [Next: 2b Reconciling Oneness and Competition >>](2b-reconciling-oneness-and-competition.md)

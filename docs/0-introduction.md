@@ -11,3 +11,7 @@ A central theme is the co-evolution of agents and the higher-order information s
 The ontology further examines the mechanisms by which information systems and agents influence physical reality, how the modern Information Age is reshaping informational boundaries and collective consciousness, and how the informational legacies of agents persist and continue to participate in the universal flow even after the dissolution of their specific biological forms.
 
 Ultimately, this framework culminates in a view of reality as an all-encompassing, inherently structured yet fundamentally fluid process ("Panta Rhei"), where all stabilities are emergent and all forms are part of a continuous becoming. This exploration aims to provide a coherent, broadly materialistic (or 'informational physicalist') account of existence, agency, and the profound, constitutive role of information at all scales of reality.
+
+---
+
+[Next: 1 Pattern Realism >>](1-pattern-realism.md)

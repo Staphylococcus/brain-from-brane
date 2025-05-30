@@ -53,3 +53,6 @@ The emergence of full-blown semantic capabilities, most notably exemplified by h
     - The "competitive dynamics" (Section 5) of these information systems are largely played out in the semantic realm, as different conceptual frameworks and narratives vie for acceptance and influence within the cognitive landscapes of host agents.
 
 Full-blown semantics, therefore, represents a level where the "inside-out lens" not only models the immediate environment for persistence but actively constructs, shares, and navigates complex, abstract, and culturally transmitted worlds of meaning. This capacity is deeply intertwined with the evolution of human sociality and cognition, and its material basis remains the intricate patterns of neural activity (worldsheets) shaped by both biological evolution and cultural learning.
+
+---
+[<< Previous: 1a Nature of Information](1a-nature-of-information.md) | [Next: 1b Emergence of Consciousness >>](1b-emergence-of-consciousness.md)
