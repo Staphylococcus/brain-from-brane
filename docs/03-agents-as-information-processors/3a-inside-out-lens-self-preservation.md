@@ -26,25 +26,12 @@ The sophistication and integration of these characteristics reflects the depth a
 
 Rather than a single developmental trajectory, the Inside-Out Lens develops along multiple independent dimensions that can progress at different rates and reach different levels of sophistication across agent types:
 
-**Self-Model Sophistication (0-25 points)**
-- **Basic (0-8):** Simple self/non-self discrimination and basic state awareness
-- **Intermediate (9-16):** Coherent self-representation with properties and capabilities
-- **Advanced (17-25):** Rich self-understanding including meta-cognitive awareness and identity reflection
-
-**World-Model Integration (0-25 points)**  
-- **Basic (0-8):** Immediate environmental awareness and simple cause-effect understanding
-- **Intermediate (9-16):** Spatial-temporal modeling with predictive capacity
-- **Advanced (17-25):** Complex multi-scale world models with abstract reasoning
-
-**Temporal Coherence (0-25 points)**
-- **Basic (0-8):** Present-moment processing with minimal past/future integration
-- **Intermediate (9-16):** Episodic memory and basic planning capacity
-- **Advanced (17-25):** Rich autobiographical continuity and sophisticated future modeling
-
-**Boundary Flexibility (0-25 points)**
-- **Basic (0-8):** Rigid self/non-self boundaries with defensive responses
-- **Intermediate (9-16):** Context-sensitive boundary adjustment while maintaining core identity
-- **Advanced (17-25):** Dynamic perspective-taking and empathetic boundary modulation
+| Dimension | Basic (0-8) | Intermediate (9-16) | Advanced (17-25) |
+|-----------|-------------|---------------------|------------------|
+| **Self-Model Sophistication** | Simple self/non-self discrimination and basic state awareness | Coherent self-representation with properties and capabilities | Rich self-understanding including meta-cognitive awareness and identity reflection |
+| **World-Model Integration** | Immediate environmental awareness and simple cause-effect understanding | Spatial-temporal modeling with predictive capacity | Complex multi-scale world models with abstract reasoning |
+| **Temporal Coherence** | Present-moment processing with minimal past/future integration | Episodic memory and basic planning capacity | Rich autobiographical continuity and sophisticated future modeling |
+| **Boundary Flexibility** | Rigid self/non-self boundaries with defensive responses | Context-sensitive boundary adjustment while maintaining core identity | Dynamic perspective-taking and empathetic boundary modulation |
 
 These dimensions develop independently, creating diverse lens profiles rather than a single complexity score.
 
