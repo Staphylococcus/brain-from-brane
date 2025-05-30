@@ -34,4 +34,4 @@ The transition from basic [organizational/structural pattern](../glossary.md#org
 [^ Overview](../../README.md)
 
 ---
-[<< Previous: README.md](..\..\README.md) | [Home: README.md](..\..\README.md) | [Glossary: glossary.md](..\glossary.md) | [Next: **1.a. From Organizational Information to Semantic Information: A Pathway of Emergence** >>](1a-pathway-emergence.md)
+[<< Previous: README.md](../../README.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: **1.a. From Organizational Information to Semantic Information: A Pathway of Emergence** >>](1a-pathway-emergence.md)

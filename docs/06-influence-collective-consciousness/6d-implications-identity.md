@@ -9,4 +9,4 @@ The redrawing of these informational borders has profound implications for both 
 The challenge for agents within this fluid informational environment is to develop critical literacies and adaptive strategies to navigate these complexities, fostering resilient and informed identities while contributing to a more nuanced and integrated collective understanding.
 
 ---
-[<< Previous: 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md) | [Up: 6. The Information Age and Shifting Borders: Mechanisms of Influence](6-influence-collective-consciousness.md) | [Next: 7. Agentive Dissolution and the Enduring Flow of Informational Legacies >>](..\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md)
+[<< Previous: 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md) | [Up: 6. The Information Age and Shifting Borders: Mechanisms of Influence](6-influence-collective-consciousness.md) | [Next: 7. Agentive Dissolution and the Enduring Flow of Informational Legacies >>](../07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)

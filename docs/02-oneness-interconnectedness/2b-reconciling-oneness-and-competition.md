@@ -7,4 +7,4 @@ This competition is driven primarily by [**resource scarcity**](../glossary.md#r
 Thus, competition does not necessarily contradict fundamental oneness but is a characteristic of how distinct patterns interact and strive for persistence at emergent levels under conditions of limitation.
 
 ---
-[<< Previous: **2. a. Emergent and Subjective Distinctions within a Structured Whole**](2a-emergent-subjective-distinctions.md) | [Up: **2. Oneness, Interconnectedness, and the Nature of Distinctions**](2-oneness-interconnectedness.md) | [Next: [Agents](../glossary.md#agent) as Information Processors >>](..\03-agents-as-information-processors\3-agents-as-information-processors.md)
+[<< Previous: **2. a. Emergent and Subjective Distinctions within a Structured Whole**](2a-emergent-subjective-distinctions.md) | [Up: **2. Oneness, Interconnectedness, and the Nature of Distinctions**](2-oneness-interconnectedness.md) | [Next: [Agents](../glossary.md#agent) as Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)

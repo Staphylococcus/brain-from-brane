@@ -25,7 +25,7 @@ def get_relative_path(target_abs_path, current_file_abs_path):
     current_dir = os.path.dirname(current_file_abs_path)
     try:
         rel_path = os.path.relpath(target_abs_path, current_dir)
-        return rel_path.replace("\\\\", "/") 
+        return rel_path.replace(os.sep, "/") # Changed from rel_path.replace("\\\\", "/")
     except ValueError: 
         return target_abs_path 
 
