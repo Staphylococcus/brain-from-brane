@@ -26,8 +26,8 @@ Several factors contribute to the varied facets of an informational legacy's per
 Ultimately, the enduring flow of an informational legacy is a complex interplay between the intrinsic qualities of the information itself (shaped by its originating agent) and the dynamic, selective, and interpretive environment provided by future agents and information systems.
 
 See also:
-- [7.a. Mechanism of Persistence](7a-mechanism-persistence.md)
-- [7.b. Dynamic and Conditional Persistence](7b-dynamic-conditional-persistence.md)
+- [7.a. Mechanism of Persistence](./7a-mechanism-persistence.md)
+- [7.b. Dynamic and Conditional Persistence](./7b-dynamic-conditional-persistence.md)
 
 ---
-[Previous: 6. Mechanisms of Influence and Redrawing Borders in Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 8. Fluid Reality](8-fluid-reality.md)
+[Previous: 6. The Information Age and Shifting Borders: Mechanisms of Influence](../06-influence-collective-consciousness/6-influence-collective-consciousness.md) | [Next: 8. Fluid Reality](../08-fluid-reality/8-fluid-reality.md)

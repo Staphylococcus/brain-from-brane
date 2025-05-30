@@ -10,4 +10,4 @@ Historically, information systems primarily shape physical reality by restructur
 A significant new development is the rise of **AI systems** with agentic capabilities. These systems, as complex instantiations of information, can **directly manipulate matter and interact with the physical world** (e.g., automated manufacturing, robotics guided by computer vision LLMs) without the same degree of continuous human cognitive mediation. This represents a new, more direct pathway for information systems to exert causal influence, moving beyond solely influencing human minds to directly shaping the material environment. The development of autonomous drones or AI-controlled infrastructure are examples of this direct material agency.
 
 ---
-[<< Previous: 6. The Information Age and Shifting Borders](6-influence-collective-consciousness.md) | [Next: 6.b. Redrawing Borders in Collective Consciousness >>](6b-redrawing-borders-collective-consciousness.md)
+[<< Previous: 6. The Information Age and Shifting Borders](./6-influence-collective-consciousness.md) | [Next: 6.b. Redrawing Borders in Collective Consciousness >>](./6b-redrawing-borders-collective-consciousness.md)

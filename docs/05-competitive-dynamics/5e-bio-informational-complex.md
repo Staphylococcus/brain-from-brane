@@ -1,6 +1,6 @@
 # **5.e. The Bio-Informational Complex (BIC)**
 
-Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](glossary.md#bio-informational-complex)**.
+Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex)**.
 
 ### **5.e.1. Concise Characterization**
 
@@ -15,9 +15,9 @@ In short, the host *embodies* the information, while the information *shapes* th
 
 The presence of a BIC can be inferred from several key indicators reflecting the depth of integration between host and information system:
 
-1.  **[Cognitive Dominance](glossary.md#cognitive-dominance):** The information system occupies a significant portion of the host's cognitive activity and attention.
+1.  **[Cognitive Dominance](../glossary.md#cognitive-dominance):** The information system occupies a significant portion of the host's cognitive activity and attention.
 2.  **Resource Allocation:** The host dedicates substantial resources (time, energy, material assets) to the information system.
-3.  **Protective Reactions:** The host exhibits strong defensive responses when the information system is challenged, indicative of its perceived centrality to the host's identity or worldview (e.g., [cognitive dissonance](glossary.md#cognitive-dissonance), pronounced emotional reactions, or social exclusion of dissenters).
+3.  **Protective Reactions:** The host exhibits strong defensive responses when the information system is challenged, indicative of its perceived centrality to the host's identity or worldview (e.g., [cognitive dissonance](../glossary.md#cognitive-dissonance), pronounced emotional reactions, or social exclusion of dissenters).
 
 The consistent manifestation of these characteristics suggests a deep fusion of host and information system into a functional BIC.
 
@@ -33,7 +33,7 @@ The typical life-cycle unfolds in five recognizable phases:
 | **(IV) Propagation**| Host actively recruits or transmits the pattern to new hosts / substrates. | Evangelism, replication, scaling.                         |
 | **(V) Drift or Breakdown** | Pattern mutates, fragments, or loses support.                         | Reform, schism, extinction.                               |
 
-The “repeater / jitter / anchor” forces introduced earlier ([Section 4.a](4a-material-organization-dynamics.md)) operate throughout this cycle, modulating fidelity and variation.
+The “repeater / jitter / anchor” forces introduced earlier ([Section 4.a](../04-information-systems/4a-material-organization-dynamics.md)) operate throughout this cycle, modulating fidelity and variation.
 
 ### **5.e.4. Functional Spectrum**
 
@@ -43,7 +43,7 @@ BICs are not intrinsically beneficial or harmful; their net effect on host vital
 -   **Commensal BIC** – Information thrives with negligible cost or benefit to the host (e.g., benign hobby fandoms).
 -   **Parasitic BIC** – Information prospers at the host’s expense (e.g., self-harm cults, predatory conspiracy networks).
 
-The classification is fluid: contextual shifts ([resource scarcity](glossary.md#resource-scarcity), [technological change](glossary.md#technological-change), new competing patterns) can push a single BIC along this continuum.
+The classification is fluid: contextual shifts ([resource scarcity](../glossary.md#resource-scarcity), [technological change](../glossary.md#technological-change), new competing patterns) can push a single BIC along this continuum.
 
 ### **5.e.5. Illustrative Instances**
 
@@ -63,4 +63,4 @@ These hypotheses, derived from the BIC framework, suggest avenues for further em
 
 ---
 
-[<< Previous: 5.d. Ethical Dimensions](5d-ethical-dimensions.md) | [Next: 6. Influence of Collective Consciousness >>](6-influence-collective-consciousness.md)
+[<< Previous: 5.d. Ethical Dimensions](5d-ethical-dimensions.md) | [Next: 6. Influence of Collective Consciousness >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)

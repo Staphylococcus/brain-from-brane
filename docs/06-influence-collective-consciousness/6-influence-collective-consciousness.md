@@ -9,4 +9,4 @@ See also:
 - [6.d. Implications for Individual and Collective Identity](6d-implications-identity.md)
 
 ---
-[Previous: 5. Competitive Dynamics](5-competitive-dynamics.md) | [Next: 7. Agentive Dissolution and Informational Legacies >>](7-agentive-dissolution-legacy.md)
+[Previous: 5. Competitive Dynamics](../05-competitive-dynamics/5-competitive-dynamics.md) | [Next: 7. Agentive Dissolution and Informational Legacies >>](../07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)
