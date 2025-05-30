@@ -25,4 +25,4 @@ The transition from basic [organizational/structural pattern](glossary.md#organi
 
 ---
 
-[<< Previous: Introduction](README.md#introduction-core-concepts-of-an-informational-universe) | [Next: 1a Pathway Emergence >>](1a-pathway-emergence.md)
+[<< Previous: Introduction](../README.md#introduction-core-concepts-of-an-informational-universe) | [Next: 1a Pathway Emergence >>](1a-pathway-emergence.md)
