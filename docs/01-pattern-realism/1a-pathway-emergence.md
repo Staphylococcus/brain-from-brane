@@ -51,7 +51,7 @@ flowchart LR
   note1["*Photon here represents the virtual exchange, not a bound constituent"]:::note
 ```
 
-As established ([Section 1.a](1-pattern-realism.md)), the dynamics of fundamental strings and their [worldsheets](../glossary.md#worldsheet) give rise to stable, quantized vibrational modes, manifesting as distinct elementary particles. These particles, possessing consistent properties, form the first layer of **stable building blocks**. They further combine, governed by the inherent structural propensities of reality ([Section 2.a](../02-oneness-interconnectedness/2a-emergent-subjective-distinctions.md)), to form stable atoms, molecules, and larger physical structures. This layered [emergence](../glossary.md#emergence) of stable forms provides the necessary, reliable physical substrate upon which more complex informational processes can be built. This level of information remains purely [organizational](../glossary.md#organizational-information) and structural.
+As established ([Section 1](1-pattern-realism.md)), the dynamics of fundamental strings and their [worldsheets](../glossary.md#worldsheet) give rise to stable, quantized vibrational modes, manifesting as distinct elementary particles. These particles, possessing consistent properties, form the first layer of **stable building blocks**. They further combine, governed by the inherent structural propensities of reality ([Section 2.a](../02-oneness-interconnectedness/2a-emergent-subjective-distinctions.md)), to form stable atoms, molecules, and larger physical structures. This layered [emergence](../glossary.md#emergence) of stable forms provides the necessary, reliable physical substrate upon which more complex informational processes can be built. This level of information remains purely [organizational](../glossary.md#organizational-information) and structural.
 
 *Stage I takeaway: Stable physical patterns provide the substrate for emergent semantic processes.*
 
@@ -148,7 +148,7 @@ The development of these semantic capabilities represents a significant increase
 sequenceDiagram
   participant Env as Environment
   participant A as Agent A
-  participant CG as CommonGround
+  participant CG as "Common Ground"
   participant B as Agent B
 
   Env-->>A: event "tree falls"
