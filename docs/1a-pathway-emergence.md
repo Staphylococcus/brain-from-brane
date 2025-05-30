@@ -54,5 +54,12 @@ The [emergence](glossary.md#emergence) of full-blown semantic capabilities, most
 
 Full-blown semantics, therefore, represents a level where the "inside-out lens" not only models the immediate environment for persistence but actively constructs, shares, and navigates complex, abstract, and culturally transmitted worlds of meaning. This capacity is deeply intertwined with the evolution of human sociality and cognition, and its material basis remains the intricate patterns of neural activity ([worldsheets](glossary.md#worldsheet)) shaped by both biological evolution and cultural learning.
 
+**VI. Core Principles in the Emergence of Semantic Information**
+
+- **Physical Grounding:** All forms of information, including [semantic information](glossary.md#semantic-information), remain instantiated in physical patterns (ultimately configurations of **[worldsheets](glossary.md#worldsheet)** organized at progressively higher levels of complexity).
+- **[Emergence](glossary.md#emergence) through Organization and Interaction:** Meaning is not a pre-existing substance but an emergent property arising from the functional organization of systems and their goal-directed interactions with an environment.
+- **The "Inside-Out Lens" as the Locus of Meaning:** For information to become meaningful *to an [agent](glossary.md#agent)*, it must be processed, structured, and contextualized by that [agent's](glossary.md#agent) "inside-out lens" in relation to its needs, goals, and existence (primarily self-preservation and the propagation of its form).
+- **Evolutionary and Functional Basis:** Especially for biological [agents](glossary.md#agent), the capacity for semantic processing evolved due to its adaptive advantages in navigating a complex world. (The application of these principles to non-biological [agents](glossary.md#agent) like Artificial Intelligence, and how they might achieve or simulate semantic understanding, is explored further in Section 3.c.)
+
 ---
 [<< Previous: 1 Pattern Realism](1-pattern-realism.md#nature-of-information--fundamental-and-organizational) | [Next: 1b Emergence of Consciousness >>](1b-emergence-of-consciousness.md)

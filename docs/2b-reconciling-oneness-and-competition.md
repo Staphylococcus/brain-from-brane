@@ -1,4 +1,4 @@
-# Reconciling Oneness with Competition
+# **2.b. Reconciling Oneness with Competition**
 
 The observed **competitive nature** of various systems (e.g., biological organisms, ideologies, languages) is an [**emergent dynamic**](glossary.md#emergent-property) that occurs *within* this interconnected whole.
 
