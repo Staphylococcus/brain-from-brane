@@ -57,13 +57,27 @@ As established ([Section 1.a](1-pattern-realism.md)), the dynamics of fundamenta
 
 ## II. Environmental Information: Patterns as Potential Cues
 
+The environment, composed of stable physical structures and their dynamic interactions (all ultimately arising from the configurations and interactions of **[worldsheets](../glossary.md#worldsheet)**), presents a rich tapestry of physical patterns—light reflecting from surfaces, chemical gradients, pressure waves, etc. These **patterns of [worldsheets](../glossary.md#worldsheet)** are not inherently semantic but constitute *potential information* or environmental cues. They are physical regularities that can be detected and correlated with other events or conditions by an [agent](../glossary.md#agent) capable of doing so.
+
+### Divergent Interpretations: Color Patch on Leaf
+
 ```mermaid
 flowchart LR
-  A["Atoms & Molecules"] --> E["Environmental Patterns"]
-  E --> S["Agent Senses"]
+  P["Pattern: red patch on leaf"] --> A1["Agent 1: Butterfly"]
+  A1 --> I1["Interprets as 'nectar guide'"]
+  P --> A2["Agent 2: Dog"]
+  A2 --> I2["Does not interpret"]
 ```
 
-The environment, composed of stable physical structures and their dynamic interactions (all ultimately arising from the configurations and interactions of **[worldsheets](../glossary.md#worldsheet)**), presents a rich tapestry of physical patterns—light reflecting from surfaces, chemical gradients, pressure waves, etc. These **patterns of [worldsheets](../glossary.md#worldsheet)** are not inherently semantic but constitute *potential information* or environmental cues. They are physical regularities that can be detected and correlated with other events or conditions by an [agent](../glossary.md#agent) capable of doing so.
+### Divergent Interpretations: Scent Plume
+
+```mermaid
+flowchart LR
+  S["Pattern: floral scent plume"] --> M["Agent 1: Moth"]
+  M --> R1["Interprets as 'flower location'"]
+  S --> F["Agent 2: Frog"]
+  F --> R2["Interprets as 'prey location'"]
+```
 
 *Stage II takeaway: Environmental patterns only become meaningful when detected and correlated by an agent.*
 
