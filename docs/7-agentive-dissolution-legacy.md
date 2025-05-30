@@ -25,13 +25,9 @@ Several factors contribute to the varied facets of an informational legacy's per
 
 Ultimately, the enduring flow of an informational legacy is a complex interplay between the intrinsic qualities of the information itself (shaped by its originating agent) and the dynamic, selective, and interpretive environment provided by future agents and information systems.
 
-## 7. a. Mechanism of Persistence
-
-This persistence is not presented as a spiritual afterlife but occurs through the **information they created, contributed to, or were an integral part of**. This includes ideas, cultural works, scientific discoveries, technological innovations, and the enduring patterns of their actions and relationships. These are all informational constructs that can, in principle, be copied, transmitted, and instantiated in new substrates.
-
-## 7. b. Dynamic and Conditional Persistence
-
-This informational legacy persists by maintaining its **emergent stability and recurrence** through continued instantiation, replication, and interaction within ongoing human (and potentially AI) cognitive processes, cultural memory (e.g., texts, art, oral traditions), and societal structures. Its persistence is therefore dynamic and conditional upon these active processes of remembrance, reinterpretation, and re-instantiation by other "inside-out lenses" or information processing systems. A legacy is not static; it is continuously re-evaluated and can evolve in meaning and impact as it interacts with new informational contexts and host systems.
+See also:
+- [7.a. Mechanism of Persistence](7a-mechanism-persistence.md)
+- [7.b. Dynamic and Conditional Persistence](7b-dynamic-conditional-persistence.md)
 
 ---
 [Previous: 6. Mechanisms of Influence and Redrawing Borders in Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 8. Fluid Reality](8-fluid-reality.md)
