@@ -8,9 +8,9 @@ The "Brain from Brane" ontology unfolds progressively, starting with core defini
 
 [Glossary](docs/glossary.md)
 
-### [0 Introduction](docs/0-introduction.md)
+### Introduction: Core Concepts of an Informational Universe
 
-Our journey begins with a fundamental re-imagining of the universe: not merely as a stage for physical events, but as a dynamic, higher-dimensional **informational continuum**. This "Brain from Brane" ontology posits that the intricate dance between information, matter, and consciousness is key to understanding reality. We explore how complexity and meaning emerge from an evolving tapestry of informational patterns, moving beyond a view of reality as just a collection of physical objects. The [Introduction](docs/0-introduction.md) lays out these foundational concepts and the framework's overarching purpose.
+Our journey begins with a fundamental re-imagining of the universe: not merely as a stage for physical events, but as a dynamic, higher-dimensional **informational continuum**. This "Brain from Brane" ontology posits that the intricate dance between information, matter, and consciousness is key to understanding reality. We explore how complexity and meaning emerge from an evolving tapestry of informational patterns, aiming for a coherent, broadly 'informational physicalist' account of existence.
 
 ### [1 Pattern Realism](docs/1-pattern-realism.md)
 
@@ -32,6 +32,18 @@ As agents interact and evolve, they don't just process information individually;
 
 Finally, the ontology examines the **Competitive Dynamics** that are inherent not only between agents but also within and between these vast Information Systems themselves. [Competitive Dynamics (5)](docs/5-competitive-dynamics.md) explores how these systems, much like biological organisms, vie for resources—attention, adoption, influence, and the physical substrates required for their maintenance and propagation. This competition drives the evolution of ideas, technologies, and social structures. It explains how certain narratives become dominant, how ideologies clash and transform, and how technological advancements can disrupt and reconfigure the informational landscape. These dynamics are not necessarily destructive; they are also the engine of innovation and adaptation, constantly shaping the complex interplay between agents, the information they process, and the societies they build. This concluding perspective brings the ontology full circle, showing a universe that is not static but constantly co-evolving through the interplay of information, agency, and systemic competition.
 
-## Getting Started
+### [6 Mechanisms of Influence and Redrawing Borders in Collective Consciousness](docs/6-influence-collective-consciousness.md)
 
-To navigate the content, simply open the respective Markdown files in your preferred Markdown viewer or editor. Each file contains detailed discussions and insights into the various components of the ontology.
+The influence of these information systems isn't confined to abstract realms; they actively shape physical reality and collective human experience. [Mechanisms of Influence and Redrawing Borders in Collective Consciousness (6)](docs/6-influence-collective-consciousness.md) explores two key pathways: traditionally, through human agents whose altered cognitive states lead to material changes, and increasingly, via direct AI-mediated actions on the physical world. Furthermore, the unprecedented global flow of information in our current age is dynamically redrawing conceptual and cultural boundaries. This section examines how external informational "currents" interact with existing internal landscapes, leading to the erosion of old borders, the formation of new hybrid informational spaces, and a fundamental reshaping of individual and collective identity and awareness.
+
+### [7 Agentive Dissolution and the Enduring Flow of Informational Legacies](docs/7-agentive-dissolution-legacy.md)
+
+Given that agents are temporary, self-organizing patterns, what becomes of their informational contributions upon their dissolution? [Agentive Dissolution and the Enduring Flow of Informational Legacies (7)](docs/7-agentive-dissolution-legacy.md) addresses this by proposing that an agent's "informational legacy"—their ideas, creations, and the patterns of their actions—can persist and continue to influence the world. This persistence isn't a spiritual afterlife but occurs through the continued instantiation, replication, and reinterpretation of these informational constructs by other agents (human or AI) and information systems. The richness, longevity, and transformative power of such a legacy are often correlated with the complexity and novelty of the originating agent, and its endurance is a dynamic, conditional process shaped by future informational contexts and host systems.
+
+### [8 Fluid Reality](docs/8-fluid-reality.md)
+
+Culminating this exploration, the ontology presents a vision of **Fluid Reality**. [Fluid Reality (8)](docs/8-fluid-reality.md) posits that, at its most fundamental, reality is not a collection of static entities but a dynamic, inherently structured flow—a continuous process of becoming and transformation ("Panta Rhei"). Within this flux, all observable structures, from fundamental particles to complex information systems, and even the seemingly steadfast laws of physics, are understood as emergent properties. They represent exceptionally stable, self-reinforcing, and widely instantiated patterns that form a consistent background against which more transient phenomena play out, emphasizing the universe's continuous, creative unfolding.
+
+## Start Your Journey Here
+
+After reviewing the introductory concepts above, you can begin your deeper exploration of the "Brain from Brane" ontology with [1 Pattern Realism](docs/1-pattern-realism.md). Each subsequent document builds upon the last, guiding you through this interconnected framework.
