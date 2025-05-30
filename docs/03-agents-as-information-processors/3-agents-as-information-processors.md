@@ -38,6 +38,7 @@ See also:
 - [3.a. The "Inside-Out Lens" and Self-Preservation](3a-inside-out-lens-self-preservation.md)
 - [3.b. Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md)
 - [3.c. AI as an Emergent Agent](3c-ai-emergent-agent.md)
+- [3.d. Agent Complexity Assessment Protocol](3d-agent-complexity-assessment-protocol.md)
 
 ---
 [<< Previous: **2.b. Reconciling Oneness with Competition**](../02-oneness-interconnectedness/2b-reconciling-oneness-and-competition.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: 3.a. The ["Inside-Out Lens"](../glossary.md#inside-out-lens) and Self-Preservation >>](3a-inside-out-lens-self-preservation.md)
