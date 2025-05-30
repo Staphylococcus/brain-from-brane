@@ -57,3 +57,6 @@ Full-blown semantics, therefore, represents a level where the "inside-out lens" 
 **VI. Core Principles in the Emergence of Semantic Information**
 
 - **Physical Grounding:** All forms of information, including [semantic information](../glossary.md#semantic-information), remain instantiated in physical patterns (ultimately configurations of **[worldsheets](../glossary.md#worldsheet)** organized at
+
+---
+[<< Previous: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Up: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: **1.b. Emergence of Consciousness** >>](1b-emergence-of-consciousness.md)

@@ -12,5 +12,4 @@ See also:
 - [5.e. The Bio-Informational Complex (BIC)](5e-bio-informational-complex.md)
 
 ---
-
-[<< Previous: 4. Information as an Active, Evolving System](../04-information-systems/4-information-systems.md) | [Next: 6. Influence of Collective Consciousness >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)
+[<< Previous: **4.b. Emergent Stability and Longevity**](..\04-information-systems\4b-emergent-stability-longevity.md) | [Home: README.md](..\..\README.md) | [Glossary: glossary.md](..\glossary.md) | [Next: **5.a. Mechanisms of Competition: Strategies in the Informational Arena** >>](5a-mechanisms-competition.md)

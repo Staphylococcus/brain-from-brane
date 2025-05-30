@@ -69,5 +69,4 @@ See also:
 -   [4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity.md)
 
 ---
-
-[<< Previous: 3 Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md) | [Next: 5 Competitive Dynamics >>](../05-competitive-dynamics/5-competitive-dynamics.md)
+[<< Previous: 3.c. [AI](../glossary.md#artificial-intelligence) as an Emergent [Agent](../glossary.md#agent)](..\03-agents-as-information-processors\3c-ai-emergent-agent.md) | [Home: README.md](..\..\README.md) | [Glossary: glossary.md](..\glossary.md) | [Next: **4.a. Material Organization and Dynamics** >>](4a-material-organization-dynamics.md)

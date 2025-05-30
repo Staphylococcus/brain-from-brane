@@ -30,4 +30,4 @@ See also:
 - [7.b. Dynamic and Conditional Persistence](./7b-dynamic-conditional-persistence.md)
 
 ---
-[Previous: 6. The Information Age and Shifting Borders: Mechanisms of Influence](../06-influence-collective-consciousness/6-influence-collective-consciousness.md) | [Next: 8. Fluid Reality](../08-fluid-reality/8-fluid-reality.md)
+[<< Previous: 6.d. Implications for Individual and Collective Identity](..\06-influence-collective-consciousness\6d-implications-identity.md) | [Home: README.md](..\..\README.md) | [Glossary: glossary.md](..\glossary.md) | [Next: 7.a. Mechanism of Persistence >>](7a-mechanism-persistence.md)

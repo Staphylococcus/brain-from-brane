@@ -15,5 +15,4 @@ Within this inherently structured, holistic flow, the distinctions, borders, and
 Thus, the process of forming distinctions is a dialogue between the agent's needs and cognitive framework, and the pre-existing, physically-grounded structural characteristics of the universe. Certain patterns are more likely to be perceived or stabilized as distinct entities because the fundamental physics itself makes them more stable, recurrent, or energetically favorable.
 
 ---
-
-[<< Previous: 2 Oneness and Interconnectedness](2-oneness-interconnectedness.md) | [Next: 2b Reconciling Oneness and Competition >>](2b-reconciling-oneness-and-competition.md)
+[<< Previous: **2. Oneness, Interconnectedness, and the Nature of Distinctions**](2-oneness-interconnectedness.md) | [Up: **2. Oneness, Interconnectedness, and the Nature of Distinctions**](2-oneness-interconnectedness.md) | [Next: **2.b. Reconciling Oneness with Competition** >>](2b-reconciling-oneness-and-competition.md)

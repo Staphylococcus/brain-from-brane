@@ -13,5 +13,4 @@ The universe is fundamentally a single, interconnected whole. This entirety can 
 [^ Overview](../../README.md)
 
 ---
-
-[<< 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../01-pattern-realism/1-pattern-realism.md) | [3. Agents as Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)
+[<< Previous: **1.c. Addressing the "Hard Problem" of Consciousness**](..\01-pattern-realism\1c-hard-problem-of-consciousness.md) | [Home: README.md](..\..\README.md) | [Glossary: glossary.md](..\glossary.md) | [Next: **2. a. Emergent and Subjective Distinctions within a Structured Whole** >>](2a-emergent-subjective-distinctions.md)

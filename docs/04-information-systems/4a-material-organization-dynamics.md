@@ -8,5 +8,4 @@ These systems have a material basis, though it may be distributed and diverse:
 -   The applicability of this specific "repeater/jitter/anchor" model to all forms of abstract information systems (e.g., mathematical concepts, philosophical frameworks, [algorithms](../glossary.md#algorithms) prior to execution) is an area for further delineation. Their "substrates" might include formal notation, logical consistency within a system of thought, or the documented code of an algorithm. "Replication" mechanisms might differ, relying on logical deduction, pedagogical transmission, scholarly review, or software compilation, each with its own modes of ensuring fidelity or introducing "jitter" (e.g., misinterpretation, bugs in code).
 
 ---
-
-[<< Previous: 4. Information as an Active, Evolving System](4-information-systems.md) | [Next: 4.b. Emergent Stability and Longevity >>](4b-emergent-stability-longevity.md)
+[<< Previous: **4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)**](4-information-systems.md) | [Up: **4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)**](4-information-systems.md) | [Next: **4.b. Emergent Stability and Longevity** >>](4b-emergent-stability-longevity.md)

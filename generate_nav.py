@@ -15,56 +15,101 @@ def get_h1_title(filepath):
                 if line.startswith("# "):
                     return line[2:].strip()
     except FileNotFoundError:
-        pass  # Should be handled by file existence checks before calling
-    # Fallback title if H1 not found or file error
+        pass 
     return os.path.splitext(os.path.basename(filepath))[0].replace('-', ' ').title()
 
 def get_relative_path(target_abs_path, current_file_abs_path):
     """Computes the relative path from the directory of current_file_abs_path to target_abs_path."""
-    if not target_abs_path: # Handle cases where a target (e.g. parent) might be None
+    if not target_abs_path: 
         return "#" 
     current_dir = os.path.dirname(current_file_abs_path)
     try:
         rel_path = os.path.relpath(target_abs_path, current_dir)
-        return rel_path.replace("\\\\", "/") # Ensure forward slashes for Markdown
-    except ValueError: # Can happen on Windows if paths are on different drives
-        return target_abs_path # Fallback to absolute path (less ideal)
-
+        return rel_path.replace("\\\\", "/") 
+    except ValueError: 
+        return target_abs_path 
 
 # --- Main Document Processing ---
 def build_document_map(docs_abs_dir):
     """Builds an ordered list of document information dictionaries."""
     all_files_ordered = []
+    print(f"Debug: docs_abs_dir = {docs_abs_dir}")
+
+    try:
+        listed_items = os.listdir(docs_abs_dir)
+        print(f"Debug: items in docs_abs_dir = {listed_items}")
+    except Exception as e:
+        print(f"Debug: Error listing directory {docs_abs_dir}: {e}")
+        return []
+
+    section_dirs_candidates = []
+    for d_item in listed_items:
+        path_d_item = os.path.join(docs_abs_dir, d_item)
+        if os.path.isdir(path_d_item):
+            section_dirs_candidates.append(d_item)
+    print(f"Debug: candidate directories in docs_abs_dir = {section_dirs_candidates}")
     
     section_dirs = sorted([
-        d for d in os.listdir(docs_abs_dir)
-        if os.path.isdir(os.path.join(docs_abs_dir, d)) and re.match(r"^\\d{2}-", d)
+        d for d in section_dirs_candidates
+        if re.match(r"^\d{2}-", d) 
     ])
+    print(f"Debug: matched section_dirs = {section_dirs}")
 
-    for section_dir_name in section_dirs:
+    if not section_dirs:
+        print("Debug: No section directories found matching the pattern '\\\\d{2}-'.")
+        return []
+
+    for section_dir_name in section_dirs: # e.g., "01-pattern-realism"
         current_section_abs_dir = os.path.join(docs_abs_dir, section_dir_name)
         
-        dir_number_prefix = section_dir_name.split('-', 1)[0]
-        dir_name_suffix = section_dir_name.split('-', 1)[1]
-        expected_main_filename = f"{dir_number_prefix}-{dir_name_suffix}.md"
+        dir_number_prefix_str = section_dir_name.split('-', 1)[0] # "01", "02", ...
+        dir_name_suffix = section_dir_name.split('-', 1)[1]    # "pattern-realism"
+        
+        try:
+            # Number used in filenames, typically without leading zero for 01-09
+            file_number_str = str(int(dir_number_prefix_str)) # "1", "2", ...
+        except ValueError:
+            print(f"Warning: Could not parse number from directory prefix {dir_number_prefix_str} in {section_dir_name}")
+            file_number_str = dir_number_prefix_str # Fallback
+
+        print(f"Debug: Processing section {section_dir_name}: dir_num_prefix='{dir_number_prefix_str}', file_num_str='{file_number_str}', suffix='{dir_name_suffix}'")
+
+        # Expected main filename based on observed pattern (e.g., "1-pattern-realism.md")
+        expected_main_filename = f"{file_number_str}-{dir_name_suffix}.md"
         main_section_file_abs_path = os.path.join(current_section_abs_dir, expected_main_filename)
         
         main_section_doc_info = None
         
         if not os.path.exists(main_section_file_abs_path):
-            # Fallback: try to find any <number>-<name>.md that isn't a subsection
-            glob_pattern = os.path.join(current_section_abs_dir, f"{dir_number_prefix}-*.md")
-            potential_main_files = glob.glob(glob_pattern)
-            # Filter out subsections like 1a-, 1b-
-            actual_main_files = [
-                f for f in potential_main_files 
-                if not re.match(f"^{dir_number_prefix}[a-z]+-", os.path.basename(f))
-            ]
-            if actual_main_files:
-                main_section_file_abs_path = actual_main_files[0] # Take the first match
+            print(f"Debug: Primary expected main file '{expected_main_filename}' not found in {current_section_abs_dir}.")
+            # Fallback 1: Try with leading zero in filename (e.g., "01-pattern-realism.md")
+            expected_main_filename_alt = f"{dir_number_prefix_str}-{dir_name_suffix}.md"
+            main_section_file_abs_path_alt = os.path.join(current_section_abs_dir, expected_main_filename_alt)
+            if os.path.exists(main_section_file_abs_path_alt):
+                main_section_file_abs_path = main_section_file_abs_path_alt
+                print(f"Debug: Found main file (alt name with leading zero): {main_section_file_abs_path}")
             else:
-                print(f"Warning: Main section file for {section_dir_name} not found (expected {expected_main_filename}).")
-                main_section_file_abs_path = None
+                print(f"Debug: Alt main file '{expected_main_filename_alt}' also not found.")
+                # Fallback 2: More general glob for <file_number_str>-*.md (e.g. "1-*.md") and filter out subsections
+                glob_pattern = os.path.join(current_section_abs_dir, f"{file_number_str}-*.md") # e.g. "1-*.md"
+                potential_main_files = glob.glob(glob_pattern)
+                print(f"Debug: Main file globbing with '{glob_pattern}', found: {potential_main_files}")
+                
+                actual_main_files = [
+                    f_path for f_path in potential_main_files 
+                    if not re.match(f"^{file_number_str}[a-z]+-", os.path.basename(f_path)) # e.g. not "1a-..."
+                ]
+                print(f"Debug: Filtered actual_main_files (glob): {actual_main_files}")
+
+                if actual_main_files:
+                    actual_main_files.sort(key=lambda p: len(os.path.basename(p))) # Prefer shorter names
+                    main_section_file_abs_path = actual_main_files[0]
+                    print(f"Debug: Found main file (glob): {main_section_file_abs_path}")
+                else:
+                    print(f"Warning: Main section file for {section_dir_name} not found via primary, alt, or glob methods.")
+                    main_section_file_abs_path = None 
+        else:
+            print(f"Debug: Found main file (primary name): {main_section_file_abs_path}")
 
         if main_section_file_abs_path and os.path.exists(main_section_file_abs_path):
             title = get_h1_title(main_section_file_abs_path)
@@ -78,20 +123,36 @@ def build_document_map(docs_abs_dir):
                 "main_section_parent_title": None 
             }
             all_files_ordered.append(main_section_doc_info)
+            print(f"Debug: Added main doc: {main_section_doc_info['file_name']}")
+        else:
+            # Ensure it's really None if not found, to avoid issues with subsection parent title
+            main_section_file_abs_path = None 
+            main_section_doc_info = None
+            print(f"Debug: Main section file for {section_dir_name} was ultimately not processed.")
+
 
         # Find subsection files (e.g., 1a-..., 1b-...)
-        # Ensure they are sorted correctly (e.g., 1a, 1b, ... then 10a)
-        subsection_files_names = sorted([
-            f for f in os.listdir(current_section_abs_dir)
-            if f.endswith(".md") and 
-               (not main_section_file_abs_path or f != os.path.basename(main_section_file_abs_path)) and 
-               re.match(f"^{dir_number_prefix}[a-z]+-", f)
-        ])
+        # Regex should match <file_number_str>[a-z]+- (e.g. "1a-")
+        # Also check for <dir_number_prefix_str>[a-z]+- (e.g. "01a-") just in case
+        subsection_file_names = []
+        try:
+            items_in_subdir = os.listdir(current_section_abs_dir)
+            subsection_file_names = sorted([
+                f_name for f_name in items_in_subdir
+                if f_name.endswith(".md") and
+                   (not main_section_file_abs_path or f_name != os.path.basename(main_section_file_abs_path)) and
+                   (re.match(f"^{file_number_str}[a-z]+-", f_name) or  # Primary: "1a-"
+                    re.match(f"^{dir_number_prefix_str}[a-z]+-", f_name)) # Fallback: "01a-"
+            ])
+        except Exception as e:
+            print(f"Debug: Error listing subsection files in {current_section_abs_dir}: {e}")
 
-        for sub_file_name in subsection_files_names:
+        print(f"Debug: Found subsection files for {section_dir_name} (using '{file_number_str}[a-z]+-' or '{dir_number_prefix_str}[a-z]+-'): {subsection_file_names}")
+
+        for sub_file_name in subsection_file_names:
             sub_file_abs_path = os.path.join(current_section_abs_dir, sub_file_name)
             title = get_h1_title(sub_file_abs_path)
-            parent_title_for_sub = "Up" # Default
+            parent_title_for_sub = "Up" 
             if main_section_doc_info and main_section_doc_info["title"]:
                 parent_title_for_sub = main_section_doc_info["title"]
 
@@ -104,13 +165,14 @@ def build_document_map(docs_abs_dir):
                 "main_section_parent_path": main_section_file_abs_path if main_section_doc_info else None,
                 "main_section_parent_title": parent_title_for_sub
             })
+            print(f"Debug: Added subsection doc: {sub_file_name}")
             
     return all_files_ordered
 
 def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path):
     """Generates and applies navigation footers to each document."""
     if not ordered_docs:
-        print("No documents found to process.")
+        print("No documents found to process for footer generation.") # Changed message
         return
 
     for i, current_doc in enumerate(ordered_docs):
@@ -119,7 +181,6 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
 
         parts = []
 
-        # Previous Link
         if prev_doc:
             rel_path = get_relative_path(prev_doc["abs_path"], current_doc["abs_path"])
             parts.append(f'[<< Previous: {prev_doc["title"]}]({rel_path})')
@@ -127,7 +188,6 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
             rel_path_readme = get_relative_path(readme_abs_path, current_doc["abs_path"])
             parts.append(f'[<< Previous: README.md]({rel_path_readme})')
             
-        # Up Link / Home & Glossary
         if not current_doc["is_main_section_file"]: 
             if current_doc["main_section_parent_path"] and current_doc["main_section_parent_title"] != "Up":
                 rel_path_up = get_relative_path(current_doc["main_section_parent_path"], current_doc["abs_path"])
@@ -139,9 +199,9 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
             rel_path_readme = get_relative_path(readme_abs_path, current_doc["abs_path"])
             rel_path_glossary = get_relative_path(glossary_abs_path, current_doc["abs_path"])
             parts.append(f'[Home: README.md]({rel_path_readme})')
-            parts.append(f'[Glossary: glossary.md]({rel_path_glossary})')
+            if glossary_abs_path: # Only add glossary if path is valid
+                 parts.append(f'[Glossary: glossary.md]({rel_path_glossary})')
 
-        # Next Link
         if next_doc:
             rel_path = get_relative_path(next_doc["abs_path"], current_doc["abs_path"])
             parts.append(f'[Next: {next_doc["title"]} >>]({rel_path})')
@@ -166,17 +226,23 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
         
         if last_hr_index != -1:
             content_lines = lines[:last_hr_index]
-        else:
+        else: # If no ---, append to end
+            print(f"Warning: No '---' separator found in {current_doc['file_name']}. Appending footer to end.")
             content_lines = lines 
+            # Remove trailing newlines from original content if HR is missing
+            while content_lines and (not content_lines[-1].strip() or content_lines[-1] == '\\n'):
+                content_lines.pop()
 
-        while content_lines and not content_lines[-1].strip():
-            content_lines.pop()
-        
+
+        # Ensure there's a blank line before ---, unless content is empty
         if content_lines and content_lines[-1].strip() != "":
-            content_lines.append("\\n") 
-        
-        content_lines.append("---\\n")
-        content_lines.append(footer_content + "\\n")
+            content_lines.append("\n") 
+        elif not content_lines: # If file was empty or only newlines
+             content_lines.append("\n")
+
+
+        content_lines.append("---\n")
+        content_lines.append(footer_content + "\n")
 
         try:
             with open(current_doc["abs_path"], 'w', encoding='utf-8') as f:
@@ -187,18 +253,36 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
 
 # --- Execution ---
 if __name__ == "__main__":
+    # Assuming the script is in the project root directory
     PROJECT_ROOT_ABS = os.path.dirname(os.path.abspath(__file__))
     DOCS_ABS_DIR = os.path.join(PROJECT_ROOT_ABS, DOCS_DIR_NAME)
     
     README_ABS_PATH = os.path.join(PROJECT_ROOT_ABS, "README.md")
+    # Glossary is inside DOCS_DIR
     GLOSSARY_ABS_PATH = os.path.join(DOCS_ABS_DIR, "glossary.md")
+
+    print(f"Debug: Project root: {PROJECT_ROOT_ABS}")
+    print(f"Debug: Docs directory: {DOCS_ABS_DIR}")
+    print(f"Debug: README path: {README_ABS_PATH}")
+    print(f"Debug: Glossary path: {GLOSSARY_ABS_PATH}")
+
 
     if not os.path.isdir(DOCS_ABS_DIR):
         print(f"Error: Docs directory not found at {DOCS_ABS_DIR}")
     elif not os.path.exists(README_ABS_PATH):
         print(f"Error: README.md not found at {README_ABS_PATH}")
+    # Glossary is optional for footer generation logic, but good to check
     elif not os.path.exists(GLOSSARY_ABS_PATH):
-        print(f"Error: glossary.md not found at {GLOSSARY_ABS_PATH}")
+        print(f"Warning: glossary.md not found at {GLOSSARY_ABS_PATH}. Glossary links may be affected.")
+        # Set to None if not found, so get_relative_path handles it gracefully if used
+        # GLOSSARY_ABS_PATH = None # generate_and_apply_footers checks this
+        ordered_docs = build_document_map(DOCS_ABS_DIR)
+        if ordered_docs:
+            generate_and_apply_footers(ordered_docs, README_ABS_PATH, GLOSSARY_ABS_PATH) # Pass potentially None glossary path
+            print("\\nNavigation footers update process complete.")
+        else:
+            print("No documents were identified by build_document_map.")
+
     else:
         print(f"Scanning documents in: {DOCS_ABS_DIR}")
         ordered_docs = build_document_map(DOCS_ABS_DIR)
@@ -212,4 +296,5 @@ if __name__ == "__main__":
             generate_and_apply_footers(ordered_docs, README_ABS_PATH, GLOSSARY_ABS_PATH)
             print("\\nNavigation footers update process complete.")
         else:
-            print("No documents were found to process based on the expected structure.")
+            # Specific message if build_document_map returns empty
+            print("No documents were identified by build_document_map. Please check debug output above for issues in file/directory discovery.")

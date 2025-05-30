@@ -11,5 +11,4 @@ However, the framework acknowledges that while this explains the *function* and 
 [^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)
 
 ---
-
-[<< 1.b. Emergence of Consciousness](1b-emergence-of-consciousness.md) | [2. Oneness, Interconnectedness, and the Nature of Distinctions >>](../02-oneness-interconnectedness/2-oneness-interconnectedness.md)
+[<< Previous: **1.b. Emergence of Consciousness**](1b-emergence-of-consciousness.md) | [Up: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: **2. Oneness, Interconnectedness, and the Nature of Distinctions** >>](..\02-oneness-interconnectedness\2-oneness-interconnectedness.md)
