@@ -65,8 +65,10 @@ The environment, composed of stable physical structures and their dynamic intera
 flowchart LR
   P["Pattern: red patch on leaf"] --> A1["Agent 1: Butterfly"]
   A1 --> I1["Interprets as 'nectar guide'"]
-  P --> A2["Agent 2: Dog"]
-  A2 --> I2["Does not interpret"]
+  P --> A2["Agent 2: Bat"]
+  A2 --> I2["Does not interpret due to poor vision"]
+  P --> A3["Agent 3: Dog"]
+  A3 --> I3["Does not interpret due to lack of meaning"]
 ```
 
 ### Divergent Interpretations: Scent Plume
@@ -85,9 +87,14 @@ flowchart LR
 
 ```mermaid
 sequenceDiagram
-  Environment-->>Receptor: pattern detected
-  Receptor-->>Agent: trigger response
-  Agent-->>Environment: behavior (e.g., move)
+  participant Env as Environment
+  participant Rec as Receptor
+  participant Int as InternalState
+  participant Ag as Agent
+  Env-->>Rec: pattern detected
+  Rec-->>Int: encode functional valence
+  Int-->>Ag: trigger response
+  Ag-->>Env: behavior (e.g., move or avoid)
 ```
 
 The [emergence](../glossary.md#emergence) of simple life forms marks a crucial step. These [agents](../glossary.md#agent), as self-preserving "pockets of the universe" ([Section 3](../../03-agents-as-information-processors/3-agents-as-information-processors.md)), begin to interact with environmental cues in a way that fosters their persistence. This interaction is the dawn of proto-semantics:
