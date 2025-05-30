@@ -1,10 +1,29 @@
-# **1.c. Addressing the "Hard Problem" of Consciousness**
+# **1.c. Addressing the "Hard Problem" of Consciousness
 
-The framework approaches the challenge of subjective experience ([qualia](../glossary.md#qualia)) by first questioning the potential [**anthropocentrism**](../glossary.md#anthropocentrism) in how "qualia" are often defined and privileged, suggesting this framing might sometimes obscure understanding.
+## Table of Contents
+- [1. Critique of Anthropocentrism](#critique-of-anthropocentrism)
+- [2. Evolutionary and Functional Framing](#evolutionary-and-functional-framing)
+- [3. The Ontological Gap](#the-ontological-gap)
+- [4. Implications and Ongoing Inquiry](#implications-and-ongoing-inquiry)
 
-It then proposes an **evolutionary and functional explanation:** subjective states (e.g., the feeling of pain, the perception of color) are evolved, stabilizing features of certain organisms. They are integral to an [**"inside-out lens"**](../glossary.md#inside-out-lens) – a first-person perspective – which structures information in a way that is highly adaptive for self-preservation, navigation, and the overall continuity of that "[self-aware](../glossary.md#self-awareness) pocket" of the universe.
+## 1. Critique of Anthropocentrism
+The framework approaches the challenge of subjective experience ([qualia](../glossary.md#qualia)) by first questioning the potential [**anthropocentrism**](../glossary.md#anthropocentrism) in how "qualia" are often defined and privileged, suggesting that privileging human-centric descriptors may sometimes obscure a more universal informational understanding.
 
-However, the framework acknowledges that while this explains the *function* and *adaptive advantage* of such subjective states, the precise ontological nature of *how* non-experiential material organization gives rise to irreducible, first-person phenomenal experience remains a profound area of ongoing inquiry and a central challenge for any comprehensive materialist account.
+## 2. Evolutionary and Functional Framing
+It then proposes an **evolutionary and functional explanation**: subjective states (e.g., the feeling of pain, the perception of color) are evolved, stabilizing features of certain organisms. They constitute an [**inside-out lens**](../glossary.md#inside-out-lens) – a first-person perspective – which organizes information adaptively for self-preservation, navigation, and the continuity of a "[self-aware](../glossary.md#self-awareness) pocket" of the universe.
+
+```mermaid
+flowchart LR
+    External_Stimuli -->|Sensory Processing| Neural_Organization
+    Neural_Organization -->|Integration| Phenomenal_Experience
+    Phenomenal_Experience -->|Behavioral Feedback| Adaptive_Modulation
+```
+
+## 3. The Ontological Gap
+However, while this accounts for *function* and *adaptive advantage*, the precise ontological nature of *how* non-experiential material organization gives rise to irreducible, first-person phenomenal experience remains unresolved. This encapsulates the core "hard problem": bridging the explanatory gap between physical processes and subjective qualia.
+
+## 4. Implications and Ongoing Inquiry
+This section highlights that addressing this gap requires interdisciplinary research, spanning neuroscience, philosophy, and information theory. Although a complete materialist account is an ongoing challenge, pattern realism suggests focusing on informational structures and functional regularities as potential avenues.
 
 ---
 
