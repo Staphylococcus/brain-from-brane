@@ -301,5 +301,4 @@ The protocol evaluates agent complexity across five independent dimensions, each
 **Ecological Validity:** Assessment contexts that reflect natural behavioral repertoires and environmental challenges.
 
 ---
-
-[<< Previous: **3.c. AI as an Emergent Agent**](3c-ai-emergent-agent.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: 4. Information Systems >>](../04-information-systems/4-information-systems.md)
+[<< Previous: 3.c. [AI](../glossary.md#artificial-intelligence) as an Emergent [Agent](../glossary.md#agent)](3c-ai-emergent-agent.md) | [Up: [Agents](../glossary.md#agent) as Information Processors](3-agents-as-information-processors.md) | [Next: **4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)** >>](../04-information-systems/4-information-systems.md)
