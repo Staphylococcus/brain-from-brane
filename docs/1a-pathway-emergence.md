@@ -1,4 +1,4 @@
-# **1.a.1. From Organizational Information to Semantic Information: A Pathway of Emergence**
+# **1.a. From Organizational Information to Semantic Information: A Pathway of Emergence**
 
 The transition from the fundamental, [organizational information](glossary.md#organizational-information) embodied in **patterns of [worldsheets](glossary.md#worldsheet)** to [semantic information](glossary.md#semantic-information)—information that holds meaning and reference for an [agent](glossary.md#agent)—is a complex multi-stage process of [emergence](glossary.md#emergence). This section outlines a plausible pathway for this development, consistent with the principles of this ontology. It emphasizes that meaning is not an intrinsic property of [fundamental information](glossary.md#fundamental-information) (i.e., the [worldsheets](glossary.md#worldsheet) themselves) but arises from the functional role and interpretation of **patterns within these [worldsheets](glossary.md#worldsheet)** by increasingly complex systems, particularly through the [agent's](glossary.md#agent) "inside-out lens".
 
