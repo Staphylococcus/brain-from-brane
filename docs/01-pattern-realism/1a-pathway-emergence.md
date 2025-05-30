@@ -34,14 +34,14 @@ flowchart LR
 
   %% show dynamic gluon field as a sea
   subgraph "Gluon Field (sea of gluons)"
-    WS_E["Worldsheet E"] --> G["Gluon\n(dynamic sea)"]
+    WS_E["Worldsheet E"] --> G["Gluon (dynamic sea)"]
   end
 
   %% proton composition with sea annotation
-  U1 & U2 & D & G --> Proton["Proton\n(2U+1D + sea)"]
+  U1 & U2 & D & G --> Proton["Proton (2U+1D + sea)"]
 
   %% virtual photon mediator called out
-  WS_F["Worldsheet F"] --> Photon["Photon\n(virtual EM mediator)"]
+  WS_F["Worldsheet F"] --> Photon["Photon (virtual EM mediator)"]
 
   %% final assembly note
   Proton & Electron & Photon --> H["Hydrogen Atom"]
