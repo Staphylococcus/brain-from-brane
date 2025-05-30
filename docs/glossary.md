@@ -2,17 +2,20 @@
 
 A collection of key terms and definitions used throughout this project.
 
-## Agent
+## Agent <a name="agent"></a>
 An entity (biological, computational, or conceptual) that senses, processes, and acts upon information in order to achieve goals or maintain states.
 
-## Agent-relative
+## Agent-relative <a name="agent-relative"></a>
 Dependent on the perspective, capabilities, or context of a specific agent.
 
-## Adaptation
+## Adaptation <a name="adaptation"></a>
 In biology, a trait with a current functional role in the life of an organism that is maintained and evolved by means of natural selection. More broadly, the process by which an agent or system becomes better suited to its environment or context.
 
 ## Algorithms
 A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+
+## Bio-Informational Complex <a name="bio-informational-complex"></a>
+A tightly integrated unit where biological hosts and information systems function as quasi-organismic wholes that co-evolve and protect their informational patterns (see [5e-bio-informational-complex](05-competitive-dynamics/5e-bio-informational-complex.md)).
 
 ## Cognitive Biases
 Systematic patterns of deviation from norm or rationality in judgment. They are often studied in psychology, sociology and behavioral economics.
@@ -33,7 +36,7 @@ Interactions among agents or information systems driven by limited resources, se
 A complex emergent property, particularly involving self-awareness and subjective experience (qualia), arising from advanced informational processing within certain agents. Its precise ontological nature and the mechanisms of its emergence from non-experiential physical patterns remain a subject of profound inquiry.
 
 ## Cultural Evolution
-A form of [evolution](glossary.md#evolution) applied to cultural elements (e.g., beliefs, practices, technologies), describing their change over time, often through processes such as variation, selection, and [cultural transmission](glossary.md#cultural-transmission).
+A form of [evolution](#evolution) applied to cultural elements (e.g., beliefs, practices, technologies), describing their change over time, often through processes such as variation, selection, and [cultural transmission](#cultural-transmission).
 
 ## Cultural Memetics
 The study of cultural information and its transmission from an evolutionary perspective, often using analogies to genetics (memes as units of cultural information).
@@ -47,7 +50,7 @@ The process by which cultural elements (e.g., information, behaviors, customs, v
 ## Emergence
 The process by which novel, higher-level properties or behaviors arise from the interactions and organization of lower-level components.
 
-## Evolution
+## Evolution <a name="evolution"></a>
 The process of change in the heritable characteristics of biological populations over successive generations. More broadly, any process of gradual development and change in systems (e.g., cultural evolution, algorithmic evolution).
 
 ## Feedback Loops
@@ -59,35 +62,41 @@ Inherent structures, tendencies, or biases within reality that arise directly fr
 ## Fundamental Information
 The raw informational content underlying physical phenomena, often viewed as the lowest-level bits or qubits that constitute matter and energy.
 
+## Hard Problem of Consciousness <a name="hard-problem-of-consciousness"></a>
+The puzzle of why and how physical processes in certain agents give rise to subjective qualitative experiences (qualia). See [1c-hard-problem-of-consciousness](01-pattern-realism/1c-hard-problem-of-consciousness.md).
+
 ## Higher-Order Information Systems
 Complex, abstract informational constructs whose primary existence and function are in the realm of information, though they may require physical instantiation (e.g., language, mathematics, software, culture, scientific theories, ideologies, and legal systems). These systems emerge from and influence the interactions of agents.
 
 ## Ideologies
 Comprehensive and coherent sets of beliefs, values, and ideas that provide a framework for understanding the world and guiding social or political action.
 
-## Information System
-A network or collection of agents, processes, and structures that collect, store, transform, and disseminate information.
-
 ## Information
 Data that has been processed, organized, or structured in a way that imparts meaning or knowledge. Within this framework, it can be understood at multiple levels: fundamental (raw physical states), organizational (patterns and structures), and semantic (meaning for an agent).
 
-## "Inside-out lens"
-A metaphor for the agent-specific, first-person perspective that structures information in a way that is functionally adaptive for that agent's survival, navigation, and goal achievement.
+## Information System
+A network or collection of agents, processes, and structures that collect, store, transform, and disseminate information.
 
-## Organizational Information
-Patterns and structures formed by fundamental information that give rise to complexity and functional organization in systems.
+## Informational Continuum <a name="informational-continuum"></a>
+A dynamic, higher-dimensional informational substrate hypothesized as the fundamental fabric of reality, where informational patterns underpin physical structures and cognitive processes.
+
+## Inside-Out Lens <a name="inside-out-lens"></a>
+A metaphor for the agent-specific, first-person perspective that structures information in a functionally adaptive way for survival and goal-directed behavior.
 
 ## Natural Selection
 The process whereby organisms better adapted to their environment tend to survive and produce more offspring. It is a key mechanism of biological evolution.
+
+## Organizational Information
+Patterns and structures formed by fundamental information that give rise to complexity and functional organization in systems.
 
 ## Pattern Realism
 A philosophical perspective that treats matter/energy and information as complementary patterns for understanding the universe. It emphasizes that both physical and informational descriptions are valid lenses on reality.
 
 ## Qualia
-(singular: quale): The subjective, qualitative properties of experience; the "what it is like" aspect of consciousness (e.g., the redness of red, the painfulness of pain).
+The subjective, qualitative properties of experience; the "what it is like" aspect of consciousness (e.g., the redness of red, the painfulness of pain).
 
 ## Resource Scarcity
-A condition where the demand for a resource (material, energetic, cognitive, etc.) exceeds its availability. This scarcity is a primary driver of [competitive dynamics](glossary.md#competitive-dynamics), as agents or systems vie for these limited resources necessary for their survival, function, or propagation.
+A condition where the demand for a resource (material, energetic, cognitive, etc.) exceeds its availability. This scarcity is a primary driver of [competitive dynamics](#competitive-dynamics), as agents or systems vie for these limited resources necessary for their survival, function, or propagation.
 
 ## Self-Awareness
 A state of consciousness in which an agent recognizes itself as a distinct entity, separate from other entities and the environment, often involving introspection and a concept of self.
