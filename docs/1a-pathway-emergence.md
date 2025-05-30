@@ -58,8 +58,13 @@ Full-blown semantics, therefore, represents a level where the "inside-out lens" 
 
 - **Physical Grounding:** All forms of information, including [semantic information](glossary.md#semantic-information), remain instantiated in physical patterns (ultimately configurations of **[worldsheets](glossary.md#worldsheet)** organized at progressively higher levels of complexity).
 - **[Emergence](glossary.md#emergence) through Organization and Interaction:** Meaning is not a pre-existing substance but an emergent property arising from the functional organization of systems and their goal-directed interactions with an environment.
-- **The "Inside-Out Lens" as the Locus of Meaning:** For information to become meaningful *to an [agent](glossary.md#agent)*, it must be processed, structured, and contextualized by that [agent's](glossary.md#agent) "inside-out lens" in relation to its needs, goals, and existence (primarily self-preservation and the propagation of its form).
+- **The "Inside-Out Lens" as the Locus of Meaning:** For information to become meaningful *to an [agent](glossary.md#agent)*, it must be processed, structured, and contextualized by that [agent\'s](glossary.md#agent) "inside-out lens" in relation to its needs, goals, and existence (primarily self-preservation and the propagation of its form).
 - **Evolutionary and Functional Basis:** Especially for biological [agents](glossary.md#agent), the capacity for semantic processing evolved due to its adaptive advantages in navigating a complex world. (The application of these principles to non-biological [agents](glossary.md#agent) like Artificial Intelligence, and how they might achieve or simulate semantic understanding, is explored further in Section 3.c.)
 
 ---
-[<< Previous: 1 Pattern Realism](1-pattern-realism.md#nature-of-information--fundamental-and-organizational) | [Next: 1b Emergence of Consciousness >>](1b-emergence-of-consciousness.md)
+
+[^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)
+
+---
+
+[1.b. Emergence of Consciousness >>](1b-emergence-of-consciousness.md)

@@ -1,4 +1,4 @@
-# Pattern Realism: Matter/Energy and Information as Complementary Lenses
+# 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses
 
 The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional “[worldsheets](glossary.md#worldsheet).”** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
 
@@ -24,4 +24,15 @@ The transition from basic [organizational/structural pattern](glossary.md#organi
 
 ---
 
-[<< Previous: Introduction](../README.md#introduction-core-concepts-of-an-informational-universe) | [Next: 1a Pathway Emergence >>](1a-pathway-emergence.md)
+**Dive deeper:**
+- [1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md)
+- [1.b. Emergence of Consciousness](1b-emergence-of-consciousness.md)
+- [1.c. Addressing the "Hard Problem" of Consciousness](1c-hard-problem-of-consciousness.md)
+
+---
+
+[^ Overview](../README.md)
+
+---
+
+[2. Oneness, Interconnectedness, and the Nature of Distinctions >>](2-oneness-interconnectedness.md)
