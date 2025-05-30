@@ -1,4 +1,4 @@
-# Nature of Information – [Fundamental](glossary.md#fundamental-information) and [Organizational](glossary.md#organizational-information)
+# Nature of Information – Fundamental and Organizational
 
 From the information perspective, the dynamic [worldsheets](glossary.md#worldsheet) can be treated as **structured signals**—persistent differences that can, in principle, be copied, transformed, or lost. From the matter/energy perspective, those same [worldsheets](glossary.md#worldsheet) are **vibrational excitations** carrying momentum, charge, and so on. The descriptive shift changes the questions we ask (about entropy versus about forces) but not the underlying stuff. For brevity, the remainder of Section 1 adopts the informational viewpoint, with the tacit understanding that every statement has a dual reading in conventional physical terms.
 

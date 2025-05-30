@@ -1,4 +1,4 @@
-# **4. [Information Systems](glossary.md#information-systems)**
+# **4. Information Systems**
 
 [Information systems](glossary.md#information-systems) play a crucial role in shaping the behavior of [agents](glossary.md#agent) and the [cultural narratives](glossary.md#cultural-narratives) that emerge within a society. These systems are not merely passive constructs; they are active, evolving entities that influence and are influenced by the agents that interact with them. 
 
@@ -12,11 +12,11 @@ Agents, whether biological, human, or artificial, engage with information system
 
 - **[Cognitive Frameworks](glossary.md#cognitive-frameworks):** Information systems serve as cognitive frameworks that help agents make sense of their experiences. They provide the necessary context for understanding complex interactions and phenomena, allowing agents to navigate their environments effectively.
 
-- **[Resource Competition](glossary.md#resource-competition):** Information systems often compete for cognitive resources within agents. As agents process information, they must allocate their limited cognitive capacities to various systems, leading to the emergence of dominant narratives or ideologies that shape collective behavior.
+- **[Resource Scarcity](glossary.md#resource-scarcity):** Information systems often compete for cognitive resources within agents. As agents process information, they must allocate their limited cognitive capacities to various systems, leading to the emergence of dominant narratives or ideologies that shape collective behavior.
 
 - **Influence on Decision-Making:** The structure and content of information systems can significantly influence the decision-making processes of agents. For instance, cultural narratives can shape values, beliefs, and priorities, guiding agents' actions in ways that align with the prevailing system.
 
-## **4.3 [Evolution](glossary.md#evolution) of Information Systems**
+## **4.3 Evolution of Information Systems**
 
 Information systems are not static; they evolve over time in response to the changing needs and behaviors of agents. This evolution can occur through various mechanisms, including:
 

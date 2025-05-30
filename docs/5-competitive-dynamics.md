@@ -1,4 +1,4 @@
-# Competitive Dynamics of [Information Systems](glossary.md#information-systems)
+# Competitive Dynamics of Information Systems
 
 ## **5. Competitive Dynamics**
 
