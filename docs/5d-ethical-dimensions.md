@@ -1,0 +1,7 @@
+# **5.d. Ethical Dimensions**
+
+The often-fierce competition between information systems, and the potential for them to exert profound influence over host agents and societies, highlights their potent and sometimes destructive power. Within this framework, [ethical systems](glossary.md#ethical-system) themselves are understood as emergent information systems. They arise to evaluate, regulate, or modulate these competitive dynamics, introducing normative constraints, goals, or principles for judging the "fitness" or acceptability of other information systems and the behaviors they engender. These ethical systems, however, are not above the fray; they also compete, evolve, and vie for dominance, influencing the "rules of engagement" for informational competition and shaping how societies decide which information systems to foster, tolerate, or proscribe. The ongoing debate and evolution of [ethical frameworks](glossary.md#ethical-frameworks) surrounding new technologies like AI, for example, is a direct manifestation of this dynamic.
+
+---
+
+[<< Previous: 5.c. Evolutionary Outcomes of Competition](5c-evolutionary-outcomes-competition.md) | [Next: 5.e. The Bio-Informational Complex (BIC) >>](5e-bio-informational-complex.md)
