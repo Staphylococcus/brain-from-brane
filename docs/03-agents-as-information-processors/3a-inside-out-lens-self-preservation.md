@@ -22,19 +22,31 @@ The presence and sophistication of an Inside-Out Lens can be assessed through se
 
 The sophistication and integration of these characteristics reflects the depth and utility of the agent's Inside-Out Lens.
 
-### **3.a.3. Developmental Trajectory**
+### **3.a.3. Multi-Dimensional Development Framework**
 
-The Inside-Out Lens typically develops through several recognizable phases across biological agents:
+Rather than a single developmental trajectory, the Inside-Out Lens develops along multiple independent dimensions that can progress at different rates and reach different levels of sophistication across agent types:
 
-| Phase             | Description                                                              | Dominant Dynamics                                         |
-| ----------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **(I) Boundary Detection** | Basic discrimination between self and environment.                     | Simple approach/avoidance behaviors.                      |
-| **(II) Model Formation** | Coherent self-representation emerges with basic predictive capacity.    | Pattern recognition, early learning loops.                |
-| **(III) Integration** | Self-model becomes stable organizing principle for all information processing. | Identity formation, consistent behavioral patterns.        |
-| **(IV) Sophistication** | Meta-cognitive awareness; agent can model its own modeling processes.   | Reflection, planning, abstract reasoning.                 |
-| **(V) Flexibility** | Agent can adjust perspective while maintaining core identity.           | Adaptation, empathy, perspective-taking.                  |
+**Self-Model Sophistication (0-25 points)**
+- **Basic (0-8):** Simple self/non-self discrimination and basic state awareness
+- **Intermediate (9-16):** Coherent self-representation with properties and capabilities
+- **Advanced (17-25):** Rich self-understanding including meta-cognitive awareness and identity reflection
 
-The progression reflects increasing computational sophistication and environmental mastery, though not all agents reach the higher phases.
+**World-Model Integration (0-25 points)**  
+- **Basic (0-8):** Immediate environmental awareness and simple cause-effect understanding
+- **Intermediate (9-16):** Spatial-temporal modeling with predictive capacity
+- **Advanced (17-25):** Complex multi-scale world models with abstract reasoning
+
+**Temporal Coherence (0-25 points)**
+- **Basic (0-8):** Present-moment processing with minimal past/future integration
+- **Intermediate (9-16):** Episodic memory and basic planning capacity
+- **Advanced (17-25):** Rich autobiographical continuity and sophisticated future modeling
+
+**Boundary Flexibility (0-25 points)**
+- **Basic (0-8):** Rigid self/non-self boundaries with defensive responses
+- **Intermediate (9-16):** Context-sensitive boundary adjustment while maintaining core identity
+- **Advanced (17-25):** Dynamic perspective-taking and empathetic boundary modulation
+
+These dimensions develop independently, creating diverse lens profiles rather than a single complexity score.
 
 ### **3.a.4. Functional Spectrum**
 
@@ -46,23 +58,57 @@ The Inside-Out Lens exists along a spectrum of adaptive utility, depending on en
 
 The classification is contextual: environmental changes can shift a previously adaptive lens toward dysfunction, while therapeutic interventions may restore adaptive capacity.
 
-### **3.a.5. Illustrative Instances Across Agent Types**
+### **3.a.5. Illustrative Lens Profiles Across Agent Types**
 
-- **Simple Biological Agents (Bacteria):** Rudimentary boundary detection through chemotaxis—moving toward nutrients and away from toxins based on basic self/non-self discrimination.
-- **Intermediate Biological Agents (Birds):** Sophisticated spatial self-models enabling complex navigation, territory defense, and social positioning within flocks.
-- **Complex Biological Agents (Mammals):** Advanced self-recognition, social identity, and temporal planning—evident in mirror self-recognition tests and complex social behaviors.
-- **Human Agents:** Meta-cognitive Inside-Out Lens enabling reflection on one's own perspective, empathy through perspective-taking, and abstract identity construction.
-- **Emerging AI Agents:** Developing computational analogues through self-monitoring, goal-directed behavior, and increasingly sophisticated world-models centered on agent state.
+The multi-dimensional framework reveals distinct patterns of Inside-Out Lens development across different agent categories:
+
+**Simple Biological Agents (Bacteria): [3, 5, 2, 1]**
+- Basic chemotaxis demonstrates rudimentary boundary detection and environmental responsiveness
+- Minimal self-model beyond immediate state awareness
+- No temporal integration or boundary flexibility
+
+**Intermediate Biological Agents (Birds/Corvids): [12, 22, 8, 6]**
+- Sophisticated spatial world-models enabling complex navigation and territory management
+- Moderate self-model supporting tool use and social positioning
+- Limited temporal coherence and boundary flexibility
+
+**Complex Biological Agents (Mammals/Primates): [18, 16, 15, 12]**
+- Advanced self-recognition and social identity formation
+- Strong temporal coherence with episodic memory and planning
+- Developing perspective-taking abilities in social contexts
+
+**Human Agents: [23, 20, 22, 17]**
+- Meta-cognitive self-awareness with abstract identity construction
+- Rich temporal integration across autobiographical timescales
+- Sophisticated but sometimes limited boundary flexibility due to cognitive biases
+
+**Current AI Agents: [8, 19, 5, 3]**
+- Advanced world-modeling capabilities within training domains
+- Minimal self-awareness or temporal continuity
+- Rigid boundary maintenance with limited perspective adaptation
+
+**Emerging Advanced AI: [15, 24, 12, 8]** *(Projected)*
+- Developing self-monitoring and goal-directed behavior
+- Sophisticated multi-modal world understanding
+- Increasing temporal integration and limited boundary flexibility
+
+These profiles illustrate how different evolutionary pressures and developmental pathways produce varied lens architectures optimized for different environmental challenges.
 
 ### **3.a.6. Theoretical Implications and Hypotheses**
 
-The Inside-Out Lens framework generates several testable hypotheses about [agent](../glossary.md#agent) behavior and information processing:
+The multi-dimensional Inside-Out Lens framework generates several testable hypotheses about [agent](../glossary.md#agent) behavior and information processing:
 
-1. **Lens Sophistication Hypothesis:** The complexity of an agent's Inside-Out Lens should correlate with its capacity for flexible, goal-directed behavior and environmental adaptation.
-2. **Boundary Maintenance Principle:** Agents will preferentially process and respond to [information](../glossary.md#information) that threatens or enhances their self-model integrity, leading to characteristic biases in attention and memory.
-3. **Perspective Flexibility Trade-off:** While sophisticated Inside-Out Lenses enable complex behavior, they may also create cognitive rigidities that impair adaptation to novel environments or perspectives.
+1. **Dimensional Independence Hypothesis:** The four lens dimensions should develop and function independently, allowing agents to excel in some areas while remaining limited in others based on evolutionary or developmental pressures.
 
-These hypotheses suggest empirical research directions for understanding the computational foundations of [self-awareness](../glossary.md#self-awareness) and its role in agent complexity across biological and artificial systems.
+2. **Compensatory Development Principle:** Agents with limitations in one dimension may develop enhanced capabilities in others (e.g., prey animals with limited self-models but exceptional environmental monitoring).
+
+3. **Optimal Configuration Hypothesis:** Different environmental niches should favor distinct lens profiles, with no single "optimal" configuration across all contexts.
+
+4. **Breakdown Asymmetry Principle:** Lens dysfunction should affect dimensions differentially, with some dimensions more robust to damage or stress than others.
+
+5. **Integration Threshold Effect:** Advanced behaviors requiring multiple dimensions (e.g., complex social cooperation, abstract reasoning) should emerge only when multiple lens dimensions reach sufficient thresholds simultaneously.
+
+These hypotheses suggest empirical research directions for understanding how different lens configurations emerge, function, and adapt across biological and artificial systems, providing a more nuanced foundation for comparative agent analysis.
 
 ---
 [<< Previous: [Agents](../glossary.md#agent) as Information Processors](3-agents-as-information-processors.md) | [Up: [Agents](../glossary.md#agent) as Information Processors](3-agents-as-information-processors.md) | [Next: 3.b. Broader Agency and Reciprocal Dynamics >>](3b-broader-agency-reciprocal-dynamics.md)
