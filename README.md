@@ -5,6 +5,7 @@ Welcome to the "Brain from Brane" project, which presents a comprehensive ontolo
 ## Project Structure
 
 - [0 Introduction](docs/0-introduction.md): Introduction to the ontology, outlining fundamental concepts and the framework's purpose.
+- [Glossary](docs/glossary.md): Key terms and definitions used throughout the project.
 - [1 Pattern Realism](docs/1-pattern-realism.md): Discussion of pattern realism, presenting matter/energy and information as complementary lenses for understanding the universe.
 - [1a Nature of Information](docs/1a-nature-of-information.md): Exploration of the nature of information, distinguishing between fundamental and organizational aspects.
 - [1a1 Pathway of Emergence](docs/1a1-pathway-emergence.md): Outline of the pathway of emergence from organizational to semantic information, detailing the stages of development.

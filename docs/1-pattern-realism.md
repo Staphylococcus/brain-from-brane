@@ -21,7 +21,7 @@ Within this informational lens, information is not a secondary add-on but co-fun
 
 Thus, there is an **inseparable link between the strings and the informational patterns they realise**. A **string** *is* its dynamic pattern of existence; describing that pattern in energy units or in bits are alternate projections of the same object. Ontologically, we therefore lean toward what philosophers call **ontic structural realism**: reality is structured process; “material” and “informational” are two coherent but partial glosses on that structure.
 
-The transition from basic organisational/structural pattern (e.g., the worldsheets underlying an atom) to *semantic* or *processed* information is therefore not a jump from “matter” to “information,” but a climb up the same pattern hierarchy toward configurations that model, predict, and act upon other configurations.
+The transition from basic organisational/structural pattern (e.g., the patterns of worldsheets underlying an atom) to *semantic* or *processed* information is therefore not a jump from “matter” to “information,” but a climb up the same pattern hierarchy toward configurations that model, predict, and act upon other configurations.
 
 ---
 
