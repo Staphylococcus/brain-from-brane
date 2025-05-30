@@ -1,5 +1,8 @@
 # Brain from Brane: An Ontology of Information and Fluid Reality
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
 Welcome to the "Brain from Brane" project, which presents a comprehensive ontology that conceptualizes the universe as a dynamic, higher-dimensional informational continuum. This framework explores the intricate relationships between information, matter, and consciousness, providing insights into the nature of reality and the role of agents as information processors.
 
 ## Project Structure
@@ -47,3 +50,41 @@ Culminating this exploration, the ontology presents a vision of **Fluid Reality*
 ## Start Your Journey Here
 
 After reviewing the introductory concepts above, you can begin your deeper exploration of the "Brain from Brane" ontology with [1 Pattern Realism](docs/01-pattern-realism/1-pattern-realism.md). Each subsequent document builds upon the last, guiding you through this interconnected framework.
+
+## License and Citation
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+
+### How to Cite
+
+If you use this ontology framework in your research, please cite it as:
+
+```
+Zayarskiy, V. (2025). Brain from Brane: An Ontology of Information and Fluid Reality. 
+DOI: 10.5281/zenodo.XXXXXXX
+```
+
+For BibTeX:
+```bibtex
+@misc{brainfrombrane2025,
+  title={Brain from Brane: An Ontology of Information and Fluid Reality},
+  author={Zayarskiy, Vas},
+  year={2025},
+  doi={10.5281/zenodo.XXXXXXX},
+  url={https://github.com/Staphylococcus/brain-from-brane}
+}
+```
+
+### Using the Measurement Frameworks
+
+The operationalized measurement frameworks (ACAP, BIC Assessment, etc.) are freely available for:
+- Academic research and publication
+- Commercial applications and consulting
+- Educational use and adaptation
+- Integration into software and assessment tools
+
+Attribution is required - please cite the source framework when using these instruments.
+
+## Contributing
+
+We welcome contributions to expand and refine this ontology framework. Please see our [contribution guidelines](CONTRIBUTING.md) for more information.

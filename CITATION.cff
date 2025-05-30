@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this ontology framework, please cite it as below."
+type: dataset
+title: "Brain from Brane: An Ontology of Information and Fluid Reality"
+abstract: "A comprehensive ontology that conceptualizes the universe as a dynamic, higher-dimensional informational continuum, exploring the intricate relationships between information, matter, and consciousness, with operationalized measurement frameworks for agent complexity and bio-informational complexes."
+authors:
+  - family-names: "Zayarskiy"
+    given-names: "Vas"
+date-released: 2025-05-30
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/Staphylococcus/brain-from-brane"
+keywords:
+  - ontology
+  - information theory
+  - consciousness
+  - agency
+  - bio-informational complexes
+  - agent complexity assessment
+  - pattern realism
+  - fluid reality
+  - information systems
+  - competitive dynamics
