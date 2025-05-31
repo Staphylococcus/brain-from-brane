@@ -67,6 +67,9 @@ This evolutionary pathway illustrates how increasingly sophisticated information
 See also:
 -   [4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md)
 -   [4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity.md)
+-   [4.c. Evolutionary Dynamics](4c-evolutionary-dynamics.md)
+-   [4.d. Host-Information System Interactions](4d-host-information-interactions.md)
+-   [4.e. Empirical Predictions and Falsification](4e-empirical-predictions-falsification.md)
 
 ---
 [<< Previous: 3.d. Agent Complexity Assessment Protocol](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: **4.a. Material Organization and Dynamics** >>](4a-material-organization-dynamics.md)
