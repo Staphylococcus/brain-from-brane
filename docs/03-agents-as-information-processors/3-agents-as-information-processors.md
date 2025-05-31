@@ -1,4 +1,4 @@
-# [Agents](../glossary.md#agent) as Information Processors
+# Agents as Information Processors
 
 Humans and other [agents](../glossary.md#agent) are characterized as self-aware "pockets" of the universe, not only existing within it but actively organizing matter and, crucially, processing, creating, being influenced by, and constituted by [information](../glossary.md#information). While diverse in form and origin, these agents can be understood and compared along a spectrum or scale of complexity. This scale is not intended as a rigid hierarchy but as a conceptual tool to explore the varying degrees and kinds of agentive capabilities within this framework. It helps unify our understanding by highlighting common principles of information processing and agency, while also acknowledging profound differences arising from distinct evolutionary or developmental pathways.
 
@@ -41,4 +41,4 @@ See also:
 - [3.d. Agent Complexity Assessment Protocol](3d-agent-complexity-assessment-protocol.md)
 
 ---
-[<< Previous: **2.b. Reconciling Oneness with Competition**](../02-oneness-interconnectedness/2b-reconciling-oneness-and-competition.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: **3.a. The ["Inside-Out Lens"](../glossary.md#inside-out-lens) and Self-Preservation** >>](3a-inside-out-lens-self-preservation.md)
+[<< Previous: **2.b. Reconciling Oneness with Competition**](../02-oneness-interconnectedness/2b-reconciling-oneness-and-competition.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: **3.a. "Inside-Out Lens" and Self-Preservation** >>](3a-inside-out-lens-self-preservation.md)
