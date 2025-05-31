@@ -8,7 +8,7 @@ See also:
 - [5.a. Mechanisms of Competition: Strategies in the Informational Arena](5a-mechanisms-competition.md)
 - [5.b. Arenas and Levels of Competition](5b-arenas-levels-competition.md)
 - [5.c. Evolutionary Outcomes of Competition](5c-evolutionary-outcomes-competition.md)
-- [5.d. Ethical Dimensions](5d-ethical-dimensions.md)
+- [5.d Ethical Dimensions](5d-ethical-dimensions/index.md)
 - [5.e. The Bio-Informational Complex (BIC)](5e-bio-informational-complex.md)
 
 ---
