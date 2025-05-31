@@ -3,6 +3,7 @@
 ## Contents
 - [I. Foundation: Stable Structures and Inherent Patterns](#i-foundation-stable-structures-and-inherent-patterns)
 - [II. Environmental Information: Patterns as Potential Cues](#ii-environmental-information-patterns-as-potential-cues)
+- [II.5. The Bridge: From Environmental Patterns to True Agency](#ii5-the-bridge-from-environmental-patterns-to-true-agency)
 - [III. Proto-Semantics: Simple Agents, Detection, and Functional Significance](#iii-proto-semantics-simple-agents-detection-and-functional-significance)
 - [IV. Developing Semantics: Complex Agents, Internal Representation, and Prediction](#iv-developing-semantics-complex-agents-internal-representation-and-prediction)
 - [V. Full-Blown Semantics: Symbolic Systems, Language, and Shared Meaning](#v-full-blown-semantics-symbolic-systems-language-and-shared-meaning)
@@ -14,7 +15,8 @@ The transition from the fundamental, [organizational information](../glossary.md
 ```mermaid
 graph LR
   A(["I<br>Worldsheet Patterns"]) --> B(["II<br>Environmental Cues"])
-  B --> C(["III<br>Proto-Semantics"])
+  B --> B5(["II.5<br>Thermodynamic Bridge"])
+  B5 --> C(["III<br>Proto-Semantics"])
   C --> D(["IV<br>Neural Codes"])
   D --> E(["V<br>Symbolic Syntax"])
   E --> F(["VI<br>Cultural Narratives"])
@@ -161,12 +163,13 @@ flowchart TB
   APS -.->|create new gradients| EG
   IOL -.->|bias molecular selection| MF
   ACN -.->|template new structures| DS
-    %% Temporal dynamics indicator
+  
+  %% Temporal dynamics indicator
   classDef fast stroke:#ffcccc
-  classDef medium stroke:#ffffcc  
+  classDef medium stroke:#ffffcc 
   classDef slow stroke:#ccffcc
   classDef semantic stroke:#ccccff
-  
+
   class MF,SP fast
   class DS,CT,ACN medium
   class PC,BD,APS slow
