@@ -14,6 +14,12 @@ In biology, a trait with a current functional role in the life of an organism th
 ## Algorithms
 A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
+## Autocatalytic <a name="autocatalytic"></a>
+Describing chemical reaction networks that catalyze their own production and reproduction. When molecular networks reach a connectivity threshold, collective autocatalysis becomes possible, transforming passive structures into active, self-maintaining systems.
+
+## Autopoietic <a name="autopoietic"></a>
+Referring to systems that maintain their identity through continuous self-production and boundary maintenance. Autopoietic systems exhibit production closure where the network's components are produced by the network itself through its own organization, creating autonomous agents with clear operational boundaries.
+
 ## Bio-Informational Complex <a name="bio-informational-complex"></a>
 A tightly integrated unit where biological hosts and information systems function as quasi-organismic wholes that co-evolve and protect their informational patterns (see [5e-bio-informational-complex](05-competitive-dynamics/5e-bio-informational-complex.md)).
 
@@ -47,6 +53,12 @@ Stories, myths, and accounts shared within a culture that explain its origins, v
 ## Cultural Transmission
 The process by which cultural elements (e.g., information, behaviors, customs, values) are passed from one individual to another or from one generation to the next, through learning or imitation.
 
+## Dissipative Adaptation <a name="dissipative-adaptation"></a>
+Jeremy England's principle describing how matter in sustained far-from-equilibrium conditions experiences thermodynamic driving toward configurations that more efficiently dissipate energy through stochastic exploration and statistical selection.
+
+## Dissipative Structures <a name="dissipative-structures"></a>
+Based on Ilya Prigogine's theory, these are organized patterns that maintain their structure through continuous energy flow, representing the first self-stabilizing configurations that persist far longer than their individual molecular components.
+
 ## Emergence
 The process by which novel, higher-level properties or behaviors arise from the interactions and organization of lower-level components.
 
@@ -61,6 +73,9 @@ Inherent structures, tendencies, or biases within reality that arise directly fr
 
 ## Fundamental Information
 The raw informational content underlying physical phenomena, often viewed as the lowest-level bits or qubits that constitute matter and energy.
+
+## Full-Blown Semantics <a name="full-blown-semantics"></a>
+The highest level of semantic processing involving symbolic systems, language, and shared meaning. Characterized by the ability to associate internal concepts with external symbols, engage in combinatorial syntax, and participate in culturally transmitted worlds of meaning.
 
 ## Hard Problem of Consciousness <a name="hard-problem-of-consciousness"></a>
 The puzzle of why and how physical processes in certain agents give rise to subjective qualitative experiences (qualia). See [1c-hard-problem-of-consciousness](01-pattern-realism/1c-hard-problem-of-consciousness.md).
@@ -91,6 +106,9 @@ Patterns and structures formed by fundamental information that give rise to comp
 
 ## Pattern Realism
 A philosophical perspective that treats matter/energy and information as complementary patterns for understanding the universe. It emphasizes that both physical and informational descriptions are valid lenses on reality.
+
+## Proto-Semantics <a name="proto-semantics"></a>
+An early stage of semantic information processing where simple agents begin to assign basic functional meaning to environmental patterns. Environmental patterns acquire rudimentary functional significance for the agent's self-preservation, as structured by its primitive "inside-out lens."
 
 ## Qualia
 The subjective, qualitative properties of experience; the "what it is like" aspect of consciousness (e.g., the redness of red, the painfulness of pain).
