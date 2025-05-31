@@ -6,7 +6,9 @@
 - [Information Levels](#information-levels)
 - [Ontic Structural Realism](#ontic-structural-realism)
 
-The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional “[worldsheets](../glossary.md#worldsheet).”** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
+The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
+
+Information and matter represent complementary aspects of physical processes, as demonstrated in quantum mechanics where the same phenomenon can be described in terms of both energy/momentum and information content. The worldsheet metaphor provides an intuitive visualization of this duality: imagine fundamental processes as dynamic patterns that can be 'read' through either lens.
 
 Throughout this document we will examine that fabric through two mutually-entailing descriptive lenses, a concept central to [Pattern Realism](../glossary.md#pattern-realism):
 
@@ -25,9 +27,15 @@ graph TD
 
 **Practical Example:** Imagine a photon’s worldsheet—the same two-dimensional sweep can be read under the matter/energy lens to track its momentum and energy, or under the information lens to follow patterns like polarization states that carry semantic significance for an observer.
 
-Nothing ontological separates these views; they are bookkeeping schemes applied to the same underlying pattern. When the prose privileges informational vocabulary, it should be read as a perspectival choice, not as a claim that “information floats free of matter.”
+Nothing ontological separates these views; they are bookkeeping schemes applied to the same underlying pattern. When the prose privileges informational vocabulary, it should be read as a perspectival choice, not as a claim that "information floats free of matter."
 
-## Nature of Information – Fundamental and Organizational
+## Dual Lenses
+
+This dual-lens approach is central to Pattern Realism. Rather than privileging either materialist or informationalist accounts, we recognize that both perspectives capture essential aspects of the same underlying reality. The matter/energy lens excels at tracking conservation laws, forces, and causal dynamics—the domain of traditional physics. The information lens excels at understanding pattern recognition, distinguishability, complexity, and meaning-making—increasingly crucial as we study biological and cognitive systems.
+
+Neither lens is more "fundamental" than the other; they are complementary tools for understanding different aspects of structured processes. A complete description often requires switching between lenses or using both simultaneously, much like how quantum mechanics employs both wave and particle descriptions depending on the experimental context.
+
+## Information Levels
 
 From the information perspective, the dynamic [worldsheets](../glossary.md#worldsheet) can be treated as **structured signals**—persistent differences that can, in principle, be copied, transformed, or lost. From the matter/energy perspective those same [worldsheets](../glossary.md#worldsheet) are **vibrational excitations** carrying momentum, charge, and so on. The descriptive shift changes the questions we ask (about entropy versus about forces) but not the underlying stuff. For brevity, this section primarily adopts the informational viewpoint, with the tacit understanding that every statement has a dual reading in conventional physical terms.
 
@@ -35,6 +43,8 @@ Within this informational lens, information is not a secondary add-on but co-fun
 
 - **[Fundamental Information](../glossary.md#fundamental-information)**: This encompasses the **intrinsic properties** of these **fundamental strings**. Crucially, their specific, **stable, and quantized modes of vibration** determine their apparent characteristics (like mass, charge, and spin). Each such stable vibrational mode manifests as a **distinct type of elementary particle**, forming the first layer of **stable building blocks** from which more complex structures [emerge](../glossary.md#emergence). These particle properties, born from specific vibrational patterns, in turn define the nature of the strings' **[worldsheets](../glossary.md#worldsheet)** and their subsequent interactions.
 - **[Organizational Information](../glossary.md#organizational-information)**: This is embodied in the **specific configurations and histories (the [worldsheets](../glossary.md#worldsheet))** of these **strings** through spacetime – their dynamic form, interactions (such as joining and splitting), and relational configurations. It also manifests as the **broader emergent patterns and structures** that arise from the collective tapestry of these interwoven **[worldsheets](../glossary.md#worldsheet)** when observed at different scales.
+
+These foundational and organizational patterns set the stage for the emergence of **[Semantic Information](../glossary.md#semantic-information)**—information that carries meaning for an interpreting agent. This crucial transition from raw pattern to interpreted meaning represents a key threshold in the information hierarchy, explored in detail in [1.a. Pathway of Emergence](1a-pathway-emergence.md).
 
 ## Ontic Structural Realism
 
