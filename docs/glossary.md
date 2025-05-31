@@ -62,6 +62,12 @@ Based on Ilya Prigogine's theory, these are organized patterns that maintain the
 ## Emergence
 The process by which novel, higher-level properties or behaviors arise from the interactions and organization of lower-level components.
 
+## Ethical Frameworks <a name="ethical-frameworks"></a>
+Systematic approaches to moral reasoning and decision-making that provide principles, values, and methods for determining right and wrong. These function as information systems that compete for cognitive resources and behavioral influence within individuals and societies.
+
+## Ethical Systems <a name="ethical-system"></a>
+Emergent information systems that compete for cognitive dominance and behavioral influence, functioning as active competitors for moral authority rather than neutral tools for reasoning. Examples include religious moral codes, secular humanist principles, and utilitarian frameworks.
+
 ## Evolution <a name="evolution"></a>
 The process of change in the heritable characteristics of biological populations over successive generations. More broadly, any process of gradual development and change in systems (e.g., cultural evolution, algorithmic evolution).
 
@@ -92,17 +98,35 @@ Data that has been processed, organized, or structured in a way that imparts mea
 ## Information System
 A network or collection of agents, processes, and structures that collect, store, transform, and disseminate information.
 
+## Information Warfare
+The competitive struggle between information systems for cognitive dominance and behavioral influence, particularly evident in moral disagreements where competing ethical frameworks battle for control over human consciousness and decision-making.
+
 ## Informational Continuum <a name="informational-continuum"></a>
 A dynamic, higher-dimensional informational substrate hypothesized as the fundamental fabric of reality, where informational patterns underpin physical structures and cognitive processes.
 
 ## Inside-Out Lens <a name="inside-out-lens"></a>
 A metaphor for the agent-specific, first-person perspective that structures information in a functionally adaptive way for survival and goal-directed behavior.
 
+## Meta-Ethical Frameworks <a name="meta-ethical-frameworks"></a>
+Information systems that compete to define what counts as valid moral reasoning, legitimate moral authority, and appropriate moral evidence. Examples include moral realism, moral relativism, evolutionary ethics, divine command theory, and procedural ethics.
+
+## Moral Pluralism <a name="moral-pluralism"></a>
+The recognition that multiple viable approaches to ethics can coexist and compete productively, requiring institutional designs that accommodate diverse ethical frameworks while preventing harmful exploitation.
+
+## Moral Realism <a name="moral-realism"></a>
+A meta-ethical framework claiming that objective moral facts exist independently of human beliefs, attitudes, or conventions, and that moral statements can be literally true or false.
+
+## Moral Relativism <a name="moral-relativism"></a>
+A meta-ethical framework claiming that moral truths are relative to cultures, societies, or individuals, with no universal moral standards existing across all contexts.
+
 ## Natural Selection
 The process whereby organisms better adapted to their environment tend to survive and produce more offspring. It is a key mechanism of biological evolution.
 
 ## Organizational Information
 Patterns and structures formed by fundamental information that give rise to complexity and functional organization in systems.
+
+## Parasitic Frameworks <a name="parasitic-frameworks"></a>
+Ethical systems that exploit moral sentiments for destructive ends, extracting resources from adherents while providing little benefit to individual flourishing or social cooperation. Distinguished from mutualistic frameworks that promote both individual and community welfare.
 
 ## Pattern Realism
 A philosophical perspective that treats matter/energy and information as complementary patterns for understanding the universe. It emphasizes that both physical and informational descriptions are valid lenses on reality.
@@ -118,6 +142,9 @@ A condition where the demand for a resource (material, energetic, cognitive, etc
 
 ## Self-Awareness
 A state of consciousness in which an agent recognizes itself as a distinct entity, separate from other entities and the environment, often involving introspection and a concept of self.
+
+## Self-Stabilizing Patterns <a name="self-stabilizing-patterns"></a>
+Organizational structures that maintain their coherence and identity through continuous energy flow and internal self-production processes. These patterns emerge at multiple scales from basic dissipative structures through complex autopoietic systems. Examples include: dissipative structures maintaining organization through energy gradients, autocatalytic networks with mutual reinforcement loops, autopoietic systems with production closure and boundary maintenance, behavioral patterns where meaning-action couplings enhance survival, and nested hierarchies of mutual stabilization across scales. [Ethical frameworks](#ethical-frameworks) represent sophisticated examples of self-stabilizing patterns that develop exceptional persistence through cultural transmission and normative reinforcement.
 
 ## Semantic Information
 Informational content that carries meaning or purpose for an agent, arising from organizational information and its interpretive context.
@@ -135,4 +162,4 @@ Shared standards of acceptable behavior by groups. Social norms can both be info
 The development and application of new tools, techniques, systems, or methods of organization, often leading to significant changes in how information is processed, societies function, or environments are manipulated.
 
 ## Worldsheet
-In string theory, the two-dimensional surface swept out by a string as it propagates and vibrates through spacetime. A slice of the worldsheet at a given time represents the string's complete configuration (shape and position) at that moment, while the overall geometry of the worldsheet encodes the string's entire history, including its vibrational states.
+In string theory, the two-dimensional surface traced out by a one-dimensional string as it propagates through space-time.
