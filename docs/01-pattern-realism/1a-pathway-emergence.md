@@ -83,6 +83,36 @@ flowchart LR
 
 *Stage II takeaway: Environmental patterns only become meaningful when detected and correlated by an agent.*
 
+## II.5. The Bridge: From Environmental Patterns to True Agency
+
+The transition from passive environmental patterns to active [agents](../glossary.md#agent) capable of proto-semantic interpretation follows a thermodynamically driven progression that bridges the gap between mere physical complexity and true agency:
+
+```mermaid
+flowchart TB
+  EP["Environmental Patterns<br/>(Stage II)"] --> TI["Thermodynamic Imperative"]
+  TI --> DS["Dissipative Structures<br/>(Prigogine)"]
+  DS --> AC["Autocatalytic Networks<br/>(Kauffman)"]
+  AC --> AP["Autopoietic Boundaries<br/>(Maturana/Varela)"]
+  AP --> IOL["Inside-Out Lens<br/>Birth of Agency"]
+  IOL --> PS["Proto-Semantics<br/>(Stage III)"]
+  
+  subgraph "Functional Valences"
+    PS --> UV["Useful for<br/>Autopoiesis"]
+    PS --> DV["Disruptive to<br/>Autopoiesis"] 
+    PS --> IV["Irrelevant"]
+  end
+```
+
+- **Thermodynamic Imperative and Dissipative Structures:** Following the principles articulated by Jeremy England and building on Ilya Prigogine's work on dissipative structures, collections of molecules in energy-rich environments are driven by thermodynamic necessity to form complex, stable, energy-dissipating patterns. These far-from-equilibrium systems naturally evolve toward configurations that more efficiently channel and dissipate energy flows, creating increasingly sophisticated **patterns of [worldsheets](../glossary.md#worldsheet)** that exhibit emergent order and stability.
+
+- **Autocatalytic Threshold:** At a certain threshold of organizational complexity, as described in Stuart Kauffman's work on autocatalytic sets, one such energy-dissipating pattern achieves *autocatalysis*—becoming a self-sustaining, self-reproducing network of chemical reactions. This represents a qualitative leap: the pattern now actively maintains and reproduces its own organizational structure, transforming from a passive dissipative structure into an active, self-maintaining system. The **patterns of [worldsheets](../glossary.md#worldsheet)** are no longer merely dissipating energy but are actively organizing it for self-perpetuation.
+
+- **Autopoietic Boundary Formation:** Building on the autopoietic theory of Humberto Maturana and Francisco Varela, this self-sustaining network develops a clear organizational boundary—distinguishing "self" from "environment." This boundary is not merely physical but informational and functional: it defines what constitutes the system's internal organization versus external perturbations. At this moment, a true autonomous [agent](../glossary.md#agent) [emerges](../glossary.md#emergence)—a bounded, self-producing, and self-maintaining entity.
+
+- **Birth of the "Inside-Out Lens":** With the establishment of autopoietic organization, the [agent's](../glossary.md#agent) "inside-out lens" ([Section 3.a](../../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) is born. This lens is fundamentally functional and entirely oriented toward the maintenance of autopoietic organization. Environmental **patterns of [worldsheets](../glossary.md#worldsheet)** are now systematically evaluated through this primitive semantic filter: they are either "useful for autopoiesis" (nutrients, building materials, favorable conditions), "disruptive to autopoiesis" (toxins, threats, degradative conditions), or "irrelevant" (patterns that neither enhance nor threaten the system's self-maintenance). This functional evaluation constitutes the most primitive form of meaning—the dawn of proto-semantics.
+
+*Stage II.5 takeaway: Thermodynamic necessity drives the emergence of autopoietic agents with primitive functional meaning.*
+
 ## III. Proto-Semantics: Simple Agents, Detection, and Functional Significance
 
 ```mermaid
