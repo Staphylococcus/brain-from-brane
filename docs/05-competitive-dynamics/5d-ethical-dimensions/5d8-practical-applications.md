@@ -195,13 +195,4 @@ Universities represent institutions where multiple ethical frameworks compete fo
 - **Resource Allocation**: University budgets reflect competitive outcomes among ethical frameworks
 
 ---
-
-**Navigation:**
-- [← Previous: Comparative Analysis](5d7-comparative-analysis.md)
-- [↑ Back to Overview](5d-ethical-dimensions.md)  
-- [→ Next: Managing Competition](5d9-managing-competition.md)
-
-**Related Sections:**
-- [5.a. Mechanisms of Competition](../5a-mechanisms-competition.md) - General competitive strategies
-- [5.b. Arenas and Levels of Competition](../5b-arenas-levels-competition.md) - Where competition occurs
-- [6.a. Mechanisms for Influence on Reality](../../06-influence-collective-consciousness/6a-mechanisms-influence-reality.md) - How frameworks shape material reality
+[<< Previous: **5.d.7. Comparative Analysis: Ethics vs. Established Moral Philosophy**](5d7-comparative-analysis.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.d.9. Managing Ethical Competition: Intervention Strategies** >>](5d9-managing-competition.md)

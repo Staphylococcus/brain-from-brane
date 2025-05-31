@@ -178,13 +178,4 @@ This analysis reveals that the competitive information systems framework for eth
 The framework's ultimate justification is pragmatic: if it helps create conditions where beneficial ethical frameworks flourish while harmful ones are contained, then it succeeds in its core purpose. This success must be measured empirically through the welfare of individuals and communities, the quality of moral discourse, and the effectiveness of institutions in managing ethical pluralism.
 
 ---
-
-**Navigation:**
-- [← Previous: Managing Competition](5d9-managing-competition.md)
-- [↑ Back to Overview](5d-ethical-dimensions.md)  
-- [→ Next: Bio-Informational Complex](../5e-bio-informational-complex.md)
-
-**Related Sections:**
-- [2.a. Emergent Subjective Distinctions](../../02-oneness-interconnectedness/2a-emergent-subjective-distinctions.md) - Framework's relationship to subjective experience
-- [4.b. Emergent Stability and Longevity](../../04-information-systems/4b-emergent-stability-longevity.md) - Self-stabilization in information systems
-- [8. Fluid Reality](../../08-fluid-reality/8-fluid-reality.md) - Implications for understanding reality as competitive information dynamics
+[<< Previous: **5.d.1. Ethical Systems as Competing Information Systems**](5d1-ethical-systems-competing.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns** >>](5d2-self-stabilizing-patterns.md)

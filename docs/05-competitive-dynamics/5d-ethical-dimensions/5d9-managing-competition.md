@@ -201,13 +201,4 @@ Developing individual and community capacity to resist exploitative ethical fram
 - Social safety nets reducing desperation-driven vulnerability to harmful ethical frameworks
 
 ---
-
-**Navigation:**
-- [← Previous: Practical Applications](5d8-practical-applications.md)
-- [↑ Back to Overview](5d-ethical-dimensions.md)  
-- [→ Next: Framework Implications](5d10-framework-implications.md)
-
-**Related Sections:**
-- [5.c. Evolutionary Outcomes of Competition](../5c-evolutionary-outcomes-competition.md) - Selection pressures favoring beneficial vs. harmful frameworks
-- [6.b. Redrawing Borders of Collective Consciousness](../../06-influence-collective-consciousness/6b-redrawing-borders-collective-consciousness.md) - How interventions can shift collective moral boundaries
-- [7.a. Mechanism of Persistence](../../07-agentive-dissolution-legacy/7a-mechanism-persistence.md) - How beneficial frameworks can outlast their creators
+[<< Previous: **5.d.8. Practical Applications and Case Studies**](5d8-practical-applications.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.e. The Bio-Informational Complex (BIC)** >>](../5e-bio-informational-complex.md)
