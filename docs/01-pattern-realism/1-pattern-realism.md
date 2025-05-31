@@ -6,9 +6,9 @@
 - [Information Levels](#information-levels)
 - [Ontic Structural Realism](#ontic-structural-realism)
 
-The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
-
 Information and matter represent complementary aspects of physical processes, as demonstrated in quantum mechanics where the same phenomenon can be described in terms of both energy/momentum and information content. The worldsheet metaphor provides an intuitive visualization of this duality: imagine fundamental processes as dynamic patterns that can be 'read' through either lens.
+
+The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
 
 Throughout this document we will examine that fabric through two mutually-entailing descriptive lenses, a concept central to [Pattern Realism](../glossary.md#pattern-realism):
 
