@@ -29,6 +29,46 @@ def get_relative_path(target_abs_path, current_file_abs_path):
     except ValueError: 
         return target_abs_path 
 
+def process_subsection_directory(subsection_dir_path, subsection_dir_name, parent_section_info, file_number_str, dir_number_prefix_str):
+    """Process files within a subsection subdirectory (e.g., 4b-emergent-stability-longevity/)."""
+    subsection_files = []
+    print(f"Debug: Processing subsection directory: {subsection_dir_path}")
+    
+    try:
+        items_in_subsection = os.listdir(subsection_dir_path)
+        markdown_files = [f for f in items_in_subsection if f.endswith('.md')]
+        markdown_files.sort()  # Alphabetical ordering within subsection
+        print(f"Debug: Found markdown files in {subsection_dir_name}: {markdown_files}")
+        
+        for md_file in markdown_files:
+            file_abs_path = os.path.join(subsection_dir_path, md_file)
+            title = get_h1_title(file_abs_path)
+            
+            # Determine parent info for nested files
+            parent_title = "Up"
+            parent_path = None
+            if parent_section_info:
+                parent_title = parent_section_info["title"]
+                parent_path = parent_section_info["abs_path"]
+            
+            subsection_files.append({
+                "abs_path": file_abs_path,
+                "title": title,
+                "parent_dir_name": parent_section_info["parent_dir_name"] if parent_section_info else subsection_dir_name,
+                "file_name": md_file,
+                "is_main_section_file": False,
+                "main_section_parent_path": parent_path,
+                "main_section_parent_title": parent_title,
+                "is_nested_file": True,
+                "subsection_dir_name": subsection_dir_name
+            })
+            print(f"Debug: Added nested file: {md_file}")
+            
+    except Exception as e:
+        print(f"Debug: Error processing subsection directory {subsection_dir_path}: {e}")
+    
+    return subsection_files
+
 # --- Main Document Processing ---
 def build_document_map(docs_abs_dir):
     """Builds an ordered list of document information dictionaries."""
@@ -128,44 +168,60 @@ def build_document_map(docs_abs_dir):
             # Ensure it's really None if not found, to avoid issues with subsection parent title
             main_section_file_abs_path = None 
             main_section_doc_info = None
-            print(f"Debug: Main section file for {section_dir_name} was ultimately not processed.")
-
-
-        # Find subsection files (e.g., 1a-..., 1b-...)
-        # Regex should match <file_number_str>[a-z]+- (e.g. "1a-")
-        # Also check for <dir_number_prefix_str>[a-z]+- (e.g. "01a-") just in case
-        subsection_file_names = []
+            print(f"Debug: Main section file for {section_dir_name} was ultimately not processed.")        # Find subsection files (e.g., 1a-..., 1b-...) and subsection directories
+        # First collect all items that could be subsections
+        subsection_items = []
         try:
             items_in_subdir = os.listdir(current_section_abs_dir)
-            subsection_file_names = sorted([
-                f_name for f_name in items_in_subdir
-                if f_name.endswith(".md") and
-                   (not main_section_file_abs_path or f_name != os.path.basename(main_section_file_abs_path)) and
-                   (re.match(f"^{file_number_str}[a-z]+-", f_name) or  # Primary: "1a-"
-                    re.match(f"^{dir_number_prefix_str}[a-z]+-", f_name)) # Fallback: "01a-"
-            ])
+            for item_name in items_in_subdir:
+                item_path = os.path.join(current_section_abs_dir, item_name)
+                
+                # Check if item matches subsection pattern (both files and directories)
+                if (re.match(f"^{file_number_str}[a-z]+-", item_name) or  # Primary: "1a-"
+                    re.match(f"^{dir_number_prefix_str}[a-z]+-", item_name)):  # Fallback: "01a-"
+                    
+                    # Skip if it's the main section file
+                    if main_section_file_abs_path and item_name == os.path.basename(main_section_file_abs_path):
+                        continue
+                        
+                    subsection_items.append((item_name, item_path))
+            
+            subsection_items.sort()  # Sort by name for consistent ordering
+            
         except Exception as e:
-            print(f"Debug: Error listing subsection files in {current_section_abs_dir}: {e}")
+            print(f"Debug: Error listing subsection items in {current_section_abs_dir}: {e}")
 
-        print(f"Debug: Found subsection files for {section_dir_name} (using '{file_number_str}[a-z]+-' or '{dir_number_prefix_str}[a-z]+-'): {subsection_file_names}")
+        print(f"Debug: Found subsection items for {section_dir_name}: {[item[0] for item in subsection_items]}")
 
-        for sub_file_name in subsection_file_names:
-            sub_file_abs_path = os.path.join(current_section_abs_dir, sub_file_name)
-            title = get_h1_title(sub_file_abs_path)
-            parent_title_for_sub = "Up" 
-            if main_section_doc_info and main_section_doc_info["title"]:
-                parent_title_for_sub = main_section_doc_info["title"]
+        # Process each subsection item (file or directory)
+        for item_name, item_path in subsection_items:
+            if os.path.isfile(item_path) and item_name.endswith('.md'):
+                # Handle traditional flat subsection file
+                title = get_h1_title(item_path)
+                parent_title_for_sub = "Up" 
+                if main_section_doc_info and main_section_doc_info["title"]:
+                    parent_title_for_sub = main_section_doc_info["title"]
 
-            all_files_ordered.append({
-                "abs_path": sub_file_abs_path,
-                "title": title,
-                "parent_dir_name": section_dir_name,
-                "file_name": sub_file_name,
-                "is_main_section_file": False,
-                "main_section_parent_path": main_section_file_abs_path if main_section_doc_info else None,
-                "main_section_parent_title": parent_title_for_sub
-            })
-            print(f"Debug: Added subsection doc: {sub_file_name}")
+                all_files_ordered.append({
+                    "abs_path": item_path,
+                    "title": title,
+                    "parent_dir_name": section_dir_name,
+                    "file_name": item_name,
+                    "is_main_section_file": False,
+                    "main_section_parent_path": main_section_file_abs_path if main_section_doc_info else None,
+                    "main_section_parent_title": parent_title_for_sub,
+                    "is_nested_file": False,
+                    "subsection_dir_name": None
+                })
+                print(f"Debug: Added flat subsection doc: {item_name}")
+                
+            elif os.path.isdir(item_path):
+                # Handle nested subsection directory
+                nested_files = process_subsection_directory(
+                    item_path, item_name, main_section_doc_info, 
+                    file_number_str, dir_number_prefix_str
+                )
+                all_files_ordered.extend(nested_files)
             
     return all_files_ordered
 
