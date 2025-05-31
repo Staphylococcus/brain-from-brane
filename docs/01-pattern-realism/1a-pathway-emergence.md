@@ -87,29 +87,101 @@ flowchart LR
 
 The transition from passive environmental patterns to active [agents](../glossary.md#agent) capable of proto-semantic interpretation follows a thermodynamically driven progression that bridges the gap between mere physical complexity and true agency:
 
+**Legend:**
+- 🌊 **Thermodynamic Layer**: Driven by energy gradients and dissipative efficiency
+- ⚛️ **Autocatalytic Layer**: Self-sustaining chemical reaction networks  
+- 🔄 **Autopoietic Layer**: Self-producing organizational systems
+- 🎯 **Proto-Semantic Layer**: Functional meaning assignment
+
+**Process Timescales:**
+- 🔴 **Fast (microseconds-milliseconds)**: Molecular fluctuations, selection pressure
+- 🟡 **Medium (seconds-minutes)**: Structure formation, network connectivity  
+- 🟢 **Slow (minutes-hours)**: Production closure, boundary formation
+- 🔵 **Semantic (variable)**: Meaning evaluation and assignment
+
+**Arrow Types:**
+- **Solid arrows (→)**: Direct causal influence
+- **Dotted arrows (-.->)**: Feedback/modulation effects
+- **Subgraph boundaries**: Overlapping functional layers, not rigid separations
+
 ```mermaid
 flowchart TB
-  EP["Environmental Patterns<br/>(Stage II)"] --> TI["Thermodynamic Imperative"]
-  TI --> DS["Dissipative Structures<br/>(Prigogine)"]
-  DS --> AC["Autocatalytic Networks<br/>(Kauffman)"]
-  AC --> AP["Autopoietic Boundaries<br/>(Maturana/Varela)"]
-  AP --> IOL["Inside-Out Lens<br/>Birth of Agency"]
+  %% Input from Stage II
+  EP["Environmental Patterns<br/>(Stage II)"] --> EG["Sustained Energy Gradients<br/>(far-from-equilibrium driving)"]
+  
+  %% Thermodynamic Layer
+  subgraph TD ["🌊 Thermodynamic Driving"]
+    EG -->|continuous driving| MF["Molecular Fluctuations<br/>(stochastic exploration)"]
+    MF -->|statistical selection| SP["Selection for Dissipative Efficiency<br/>(England's principle)"]
+    SP --> DS["Dissipative Structures<br/>(Prigogine order)"]
+    DS -.->|modify energy landscape| EG
+    DS -->|stabilize efficient paths| SP
+  end
+  
+  %% Autocatalytic Layer - overlaps with thermodynamic
+  subgraph AC_Layer ["⚛️ Autocatalytic Emergence"]
+    DS -->|complexity accumulation| CT["Connectivity Threshold<br/>(Kauffman criticality)"]
+    CT -->|phase transition| ACN["Autocatalytic Networks<br/>(collective autocatalysis)"]
+    ACN -->|positive feedback| CT
+    ACN -.->|enhance dissipation| DS
+    ACN -->|emergent catalytic closure| CC["Catalytic Closure<br/>(self-sustaining chemistry)"]
+    CC -->|maintain connectivity| ACN
+  end
+  
+  %% Autopoietic Layer - emerges from autocatalytic
+  subgraph AP_Layer ["🔄 Autopoietic Organization"]
+    CC -->|operational closure| PC["Production Closure<br/>(Maturana/Varela)"]
+    PC --> BD["Boundary Formation<br/>(inside/outside)"]
+    BD --> APS["Autopoietic System<br/>(autonomous agent)"]
+    APS -->|maintain production| PC
+    APS -->|reinforce boundaries| BD
+    APS -.->|stabilize autocatalysis| CC
+  end
+  
+  %% Proto-Semantic Layer - qualitative leap
+  subgraph PS_Layer ["🎯 Proto-Semantic Processing"]
+    APS -->|enables| VE["Viability Evaluation<br/>(functional assessment)"]
+    VE --> IOL["Inside-Out Lens<br/>(meaning assignment)"]
+    IOL -->|behavior modulation| APS
+    IOL -->|pattern discrimination| VE
+    IOL -.->|selective pressure| SP
+  end
+  
+  %% Outputs to Stage III
   IOL --> PS["Proto-Semantics<br/>(Stage III)"]
   
-  subgraph "Functional Valences"
-    PS --> UV["Useful for<br/>Autopoiesis"]
-    PS --> DV["Disruptive to<br/>Autopoiesis"] 
-    PS --> IV["Irrelevant"]
+  %% Functional meaning space
+  subgraph FM ["Functional Meaning Space"]
+    PS --> UV["Autopoiesis<br/>Enhancing"]
+    PS --> DV["Autopoiesis<br/>Threatening"] 
+    PS --> IV["Autopoiesis<br/>Neutral"]
   end
+  
+  %% Cross-scale feedback (multi-directional)
+  APS -.->|create new gradients| EG
+  IOL -.->|bias molecular selection| MF
+  ACN -.->|template new structures| DS
+    %% Temporal dynamics indicator
+  classDef fast stroke:#ffcccc
+  classDef medium stroke:#ffffcc  
+  classDef slow stroke:#ccffcc
+  classDef semantic stroke:#ccccff
+  
+  class MF,SP fast
+  class DS,CT,ACN medium
+  class PC,BD,APS slow
+  class VE,IOL,PS semantic
 ```
 
-- **Thermodynamic Imperative and Dissipative Structures:** Following the principles articulated by Jeremy England and building on Ilya Prigogine's work on dissipative structures, collections of molecules in energy-rich environments are driven by thermodynamic necessity to form complex, stable, energy-dissipating patterns. These far-from-equilibrium systems naturally evolve toward configurations that more efficiently channel and dissipate energy flows, creating increasingly sophisticated **patterns of [worldsheets](../glossary.md#worldsheet)** that exhibit emergent order and stability.
+- **Thermodynamic Imperative and Dissipative Structures:** Following Jeremy England's work on dissipative adaptation and building on Ilya Prigogine's theory of dissipative structures, matter in sustained far-from-equilibrium conditions experiences constant thermodynamic driving toward configurations that more efficiently dissipate energy. This is not a gradual process but involves stochastic exploration of molecular configurations followed by statistical selection for dissipative efficiency. The resulting dissipative structures modify their local energy landscape, creating feedback loops that stabilize efficient energy-dissipating pathways—the foundational **patterns of [worldsheets](../glossary.md#worldsheet)** that exhibit emergent order.
 
-- **Autocatalytic Threshold:** At a certain threshold of organizational complexity, as described in Stuart Kauffman's work on autocatalytic sets, one such energy-dissipating pattern achieves *autocatalysis*—becoming a self-sustaining, self-reproducing network of chemical reactions. This represents a qualitative leap: the pattern now actively maintains and reproduces its own organizational structure, transforming from a passive dissipative structure into an active, self-maintaining system. The **patterns of [worldsheets](../glossary.md#worldsheet)** are no longer merely dissipating energy but are actively organizing it for self-perpetuation.
+- **Autocatalytic Threshold and Network Emergence:** Stuart Kauffman's work reveals that autocatalytic emergence occurs through a critical phase transition: when molecular networks reach a connectivity threshold, collective autocatalysis suddenly becomes possible. This represents a qualitative leap where individual chemical reactions become coupled into self-sustaining, self-reproducing networks. The emergence of catalytic closure—where the network as a whole catalyzes its own production—transforms passive dissipative structures into active, self-maintaining systems. These autocatalytic networks enhance energy dissipation efficiency while creating the foundation for operational autonomy.
 
-- **Autopoietic Boundary Formation:** Building on the autopoietic theory of Humberto Maturana and Francisco Varela, this self-sustaining network develops a clear organizational boundary—distinguishing "self" from "environment." This boundary is not merely physical but informational and functional: it defines what constitutes the system's internal organization versus external perturbations. At this moment, a true autonomous [agent](../glossary.md#agent) [emerges](../glossary.md#emergence)—a bounded, self-producing, and self-maintaining entity.
+- **Autopoietic Organization and Production Closure:** Building on Maturana and Varela's autopoietic theory, the transition from autocatalytic networks to true autopoietic systems involves the emergence of production closure—where the network's components are produced by the network itself through its own organization. This creates a fundamental boundary between "self" and "environment" that is not merely physical but organizational and functional. The autopoietic system maintains its identity through continuous self-production, establishing the first genuine autonomous [agent](../glossary.md#agent) with clear operational boundaries.
 
-- **Birth of the "Inside-Out Lens":** With the establishment of autopoietic organization, the [agent's](../glossary.md#agent) "inside-out lens" ([Section 3.a](../../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) is born. This lens is fundamentally functional and entirely oriented toward the maintenance of autopoietic organization. Environmental **patterns of [worldsheets](../glossary.md#worldsheet)** are now systematically evaluated through this primitive semantic filter: they are either "useful for autopoiesis" (nutrients, building materials, favorable conditions), "disruptive to autopoiesis" (toxins, threats, degradative conditions), or "irrelevant" (patterns that neither enhance nor threaten the system's self-maintenance). This functional evaluation constitutes the most primitive form of meaning—the dawn of proto-semantics.
+- **Birth of Proto-Semantic Processing:** The emergence of autopoietic organization enables a qualitative shift in information processing—the development of viability evaluation. The system can now assess environmental patterns in terms of their functional significance for autopoietic maintenance. This creates the "inside-out lens" ([Section 3.a](../../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md))—a systematic evaluation system that assigns functional meaning to environmental **patterns of [worldsheets](../glossary.md#worldsheet)**. Patterns are categorized as autopoiesis-enhancing (resources), autopoiesis-threatening (dangers), or autopoiesis-neutral (irrelevant), constituting the most primitive form of semantic processing.
+
+- **Multi-Scale Feedback and Temporal Dynamics:** The progression involves feedback across multiple scales and timescales: rapid molecular fluctuations, intermediate dissipative structure formation, slower autocatalytic network development, and the emergence of stable autopoietic organization. Critically, later stages reshape earlier ones—autopoietic systems create new energy gradients, proto-semantic processing biases molecular selection, and autocatalytic networks template new dissipative structures. This multi-directional causality ensures that agency, once emerged, actively participates in shaping its own foundational processes.
 
 *Stage II.5 takeaway: Thermodynamic necessity drives the emergence of autopoietic agents with primitive functional meaning.*
 
