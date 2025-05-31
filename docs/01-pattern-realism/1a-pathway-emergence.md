@@ -313,106 +313,35 @@ graph LR
 
 To ensure scientific rigor, the framework's model of semantic information emergence must include testable predictions that could potentially refute or require substantial revision of the theoretical claims:
 
-### 1.a.1. Stage Progression Predictions
-
-**Prediction:** The emergence of semantic information follows a specific developmental sequence: organizational patterns → environmental cues → thermodynamic coupling → proto-semantics → neural representation → symbolic systems, with each stage building necessarily on the previous ones.
-
-**Falsification Conditions:**
-- Discovery of biological systems that develop symbolic communication without prior neural representation capabilities
-- Identification of agents with sophisticated proto-semantic abilities that lack any thermodynamic coupling with their environment
-- Evidence of semantic information emerging directly from organizational patterns without intermediate developmental stages
-
-### 1.a.2. Thermodynamic Bridge Necessity
-
-**Prediction:** The transition from environmental patterns to proto-semantics requires thermodynamic coupling between agent and environment, creating the energetic basis for the "inside-out lens" to develop functional significance attribution.
-
-**Falsification Conditions:**
-- Discovery of agents that develop meaningful environmental responses without any thermodynamic exchange with their environment
-- Demonstration that semantic information can emerge in completely isolated systems with no energy flow
-- Evidence of "inside-out lens" development in systems that maintain thermodynamic equilibrium with their environment
-
-### 1.a.3. Autocatalytic Semantic Development
-
-**Prediction:** Once proto-semantics emerges, the development toward full semantic information exhibits autocatalytic properties, where semantic capabilities accelerate their own enhancement through positive feedback loops.
-
-**Falsification Conditions:**
-- Biological systems that develop proto-semantic abilities but show no evidence of accelerated semantic development over evolutionary timescales
-- Semantic capabilities that consistently inhibit rather than enhance further semantic development
-- Linear rather than exponential progression in semantic complexity despite adequate environmental complexity and selection pressures
-
-### 1.a.4. Autopoietic Integration Requirements
-
-**Prediction:** Advanced semantic information requires autopoietic organization where agents maintain their semantic coherence through active boundary maintenance and self-referential processes.
-
-**Falsification Conditions:**
-- Discovery of agents with sophisticated semantic abilities that show no autopoietic organization or boundary maintenance
-- Semantic systems that function effectively while being completely passive with respect to their own organization
-- Evidence that semantic coherence can be maintained without any self-referential processes
-
-### 1.a.5. Symbolic Threshold Predictions
-
-**Prediction:** The transition to symbolic systems represents a qualitative threshold where combinatorial semantic possibilities expand exponentially, enabling cultural transmission and abstract concept formation.
-
-**Falsification Conditions:**
-- Gradual, linear progression from neural representation to symbolic systems without any identifiable threshold effects
-- Symbolic systems that show no combinatorial expansion of semantic possibilities compared to pre-symbolic representations
-- Evidence of cultural transmission and abstract concepts in agents lacking symbolic systems
+| Criterion | Framework Prediction | Falsification Conditions |
+|-----------|---------------------|--------------------------|
+| **Stage Progression Predictions** | The emergence of semantic information follows a specific developmental sequence: organizational patterns → environmental cues → thermodynamic coupling → proto-semantics → neural representation → symbolic systems, with each stage building necessarily on the previous ones | • Discovery of biological systems that develop symbolic communication without prior neural representation capabilities<br>• Identification of agents with sophisticated proto-semantic abilities that lack any thermodynamic coupling with their environment<br>• Evidence of semantic information emerging directly from organizational patterns without intermediate developmental stages |
+| **Thermodynamic Bridge Necessity** | The transition from environmental patterns to proto-semantics requires thermodynamic coupling between agent and environment, creating the energetic basis for the "inside-out lens" to develop functional significance attribution | • Discovery of agents that develop meaningful environmental responses without any thermodynamic exchange with their environment<br>• Demonstration that semantic information can emerge in completely isolated systems with no energy flow<br>• Evidence of "inside-out lens" development in systems that maintain thermodynamic equilibrium with their environment |
+| **Autocatalytic Semantic Development** | Once proto-semantics emerges, the development toward full semantic information exhibits autocatalytic properties, where semantic capabilities accelerate their own enhancement through positive feedback loops | • Biological systems that develop proto-semantic abilities but show no evidence of accelerated semantic development over evolutionary timescales<br>• Semantic capabilities that consistently inhibit rather than enhance further semantic development<br>• Linear rather than exponential progression in semantic complexity despite adequate environmental complexity and selection pressures |
+| **Autopoietic Integration Requirements** | Advanced semantic information requires autopoietic organization where agents maintain their semantic coherence through active boundary maintenance and self-referential processes | • Discovery of agents with sophisticated semantic abilities that show no autopoietic organization or boundary maintenance<br>• Semantic systems that function effectively while being completely passive with respect to their own organization<br>• Evidence that semantic coherence can be maintained without any self-referential processes |
+| **Symbolic Threshold Predictions** | The transition to symbolic systems represents a qualitative threshold where combinatorial semantic possibilities expand exponentially, enabling cultural transmission and abstract concept formation | • Gradual, linear progression from neural representation to symbolic systems without any identifiable threshold effects<br>• Symbolic systems that show no combinatorial expansion of semantic possibilities compared to pre-symbolic representations<br>• Evidence of cultural transmission and abstract concepts in agents lacking symbolic systems |
 
 ## Comparative Framework Analysis
 
-### 1.a.6. Positioning Relative to Competing Theories
-
 The Brain from Brane pathway emergence model distinguishes itself from several established theoretical frameworks:
 
-#### Information Integration Theory (IIT)
-**Traditional Position:** Consciousness emerges from integrated information (Φ) in any system that exhibits non-zero phi, with semantic content arising from the specific structure of integrated information.
+| Theory | Traditional Position | Framework Distinction | Empirical Differentiator |
+|--------|---------------------|----------------------|--------------------------|
+| **Information Integration Theory (IIT)** | Consciousness emerges from integrated information (Φ) in any system that exhibits non-zero phi, with semantic content arising from the specific structure of integrated information | While acknowledging information integration, emphasizes the evolutionary and thermodynamic contexts that shape how integration develops. Semantic information requires not just integration but specific developmental pathways that create functional significance for agents | Framework predicts semantic information requires evolutionary development and environmental coupling, whereas IIT suggests any integrated information system could potentially be conscious regardless of its developmental history |
+| **Predictive Processing Theory** | Cognition emerges from hierarchical predictive models that minimize prediction error through active inference, with semantic content arising from successful predictive modeling | Incorporates predictive modeling within the broader context of thermodynamic coupling and autopoietic organization. Prediction is one component of semantic development but not sufficient without the evolutionary context that shapes what needs to be predicted and why | Framework predicts that semantic information requires more than predictive accuracy—it requires the development of functional significance through thermodynamic coupling and autocatalytic development processes |
+| **Enactive Cognition Theory** | Cognition emerges from embodied interaction between agent and environment, with meaning arising from the history of structural coupling and co-evolution | Shares emphasis on agent-environment coupling but provides more specific mechanistic details about thermodynamic requirements and stage-based development. Adds the autocatalytic and autopoietic dimensions that enactive theory often treats more generally | Framework provides specific predictions about thermodynamic thresholds and autocatalytic transitions that distinguish it from more general enactive approaches |
+| **Computational Theory of Mind** | Mental states and semantic content are computational states; meaning arises from symbolic manipulation according to syntactic rules that preserve semantic relationships | Rejects the idea that syntax can be divorced from developmental and thermodynamic context. Semantic information emerges not from abstract computation but from the specific evolutionary processes that create functional significance within thermodynamically coupled systems | Framework predicts that purely syntactic systems cannot develop genuine semantic information without thermodynamic coupling and evolutionary development, whereas computational theory suggests meaning can emerge from any appropriately structured symbolic manipulation |
+| **Panpsychist Information Theories** | Consciousness and semantic information are fundamental features of reality, present at all scales from elementary particles to complex systems | While grounding all information in worldsheet patterns, emphasizes that semantic information specifically emerges through developmental processes. Not all information is semantic; the transition requires specific autocatalytic and autopoietic organizational achievements | Framework predicts specific thresholds and transitions in semantic development, whereas panpsychist theories suggest semantic information should be present at all organizational scales |
 
-**Framework Distinction:** While acknowledging information integration, emphasizes the evolutionary and thermodynamic contexts that shape how integration develops. Semantic information requires not just integration but specific developmental pathways that create functional significance for agents.
+### Unique Contributions of the Framework
 
-**Empirical Differentiator:** Framework predicts semantic information requires evolutionary development and environmental coupling, whereas IIT suggests any integrated information system could potentially be conscious regardless of its developmental history.
-
-#### Predictive Processing Theory
-**Traditional Position:** Cognition emerges from hierarchical predictive models that minimize prediction error through active inference, with semantic content arising from successful predictive modeling.
-
-**Framework Distinction:** Incorporates predictive modeling within the broader context of thermodynamic coupling and autopoietic organization. Prediction is one component of semantic development but not sufficient without the evolutionary context that shapes what needs to be predicted and why.
-
-**Empirical Differentiator:** Framework predicts that semantic information requires more than predictive accuracy—it requires the development of functional significance through thermodynamic coupling and autocatalytic development processes.
-
-#### Enactive Cognition Theory
-**Traditional Position:** Cognition emerges from embodied interaction between agent and environment, with meaning arising from the history of structural coupling and co-evolution.
-
-**Framework Distinction:** Shares emphasis on agent-environment coupling but provides more specific mechanistic details about thermodynamic requirements and stage-based development. Adds the autocatalytic and autopoietic dimensions that enactive theory often treats more generally.
-
-**Empirical Differentiator:** Framework provides specific predictions about thermodynamic thresholds and autocatalytic transitions that distinguish it from more general enactive approaches.
-
-#### Computational Theory of Mind
-**Traditional Position:** Mental states and semantic content are computational states; meaning arises from symbolic manipulation according to syntactic rules that preserve semantic relationships.
-
-**Framework Distinction:** Rejects the idea that syntax can be divorced from developmental and thermodynamic context. Semantic information emerges not from abstract computation but from the specific evolutionary processes that create functional significance within thermodynamically coupled systems.
-
-**Empirical Differentiator:** Framework predicts that purely syntactic systems cannot develop genuine semantic information without thermodynamic coupling and evolutionary development, whereas computational theory suggests meaning can emerge from any appropriately structured symbolic manipulation.
-
-#### Panpsychist Information Theories
-**Traditional Position:** Consciousness and semantic information are fundamental features of reality, present at all scales from elementary particles to complex systems.
-
-**Framework Distinction:** While grounding all information in worldsheet patterns, emphasizes that semantic information specifically emerges through developmental processes. Not all information is semantic; the transition requires specific autocatalytic and autopoietic organizational achievements.
-
-**Empirical Differentiator:** Framework predicts specific thresholds and transitions in semantic development, whereas panpsychist theories suggest semantic information should be present at all organizational scales.
-
-### 1.a.7. Unique Contributions of the Framework
-
-The Brain from Brane pathway emergence model offers several distinctive insights:
-
-1. **Thermodynamic Grounding:** Explicitly connects semantic emergence to thermodynamic coupling, providing energetic foundations for meaning that other theories often leave implicit.
-
-2. **Stage-Specific Predictions:** Offers detailed, testable predictions about specific developmental stages and transition criteria between them.
-
-3. **Autocatalytic Dynamics:** Incorporates self-reinforcing development processes that explain the acceleration of semantic complexity once proto-semantics emerges.
-
-4. **Autopoietic Integration:** Connects semantic development to self-maintenance and boundary-making processes that ground meaning in agent persistence.
-
-5. **Worldsheet Ontology:** Grounds all stages of development in fundamental physical patterns while explaining how higher-order semantic patterns emerge from but are not reducible to lower-level organizational information.
-
-6. **Falsifiable Architecture:** Provides specific criteria for empirical testing that distinguish it from less empirically constrained approaches to consciousness and meaning.
+| Contribution | Description |
+|--------------|-------------|
+| **Thermodynamic Grounding** | Explicitly connects semantic emergence to thermodynamic coupling, providing energetic foundations for meaning that other theories often leave implicit |
+| **Stage-Specific Predictions** | Offers detailed, testable predictions about specific developmental stages and transition criteria between them |
+| **Autocatalytic Dynamics** | Incorporates self-reinforcing development processes that explain the acceleration of semantic complexity once proto-semantics emerges |
+| **Autopoietic Integration** | Connects semantic development to self-maintenance and boundary-making processes that ground meaning in agent persistence |
+| **Worldsheet Ontology** | Grounds all stages of development in fundamental physical patterns while explaining how higher-order semantic patterns emerge from but are not reducible to lower-level organizational information |
+| **Falsifiable Architecture** | Provides specific criteria for empirical testing that distinguish it from less empirically constrained approaches to consciousness and meaning |
 
 ---
