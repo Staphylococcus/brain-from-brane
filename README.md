@@ -147,6 +147,11 @@ As temporary self-organizing patterns, agents dissolve, but their **informationa
 
 ## Framework Applications & Tools
 
+### 🧪 Experimental Validation
+- **[Crystallographic Periodicity Discovery](experiments/crystallographic-periodicity/)**: Successful prediction and measurement of filesystem timing patterns with 99.3% accuracy, validating geometric information theory predictions
+- **[Basement Experiments](experiments/basement-experiments/)**: Proposed micro-scale experiments across multiple domains to test information-physical interfaces
+- **[Complete Experimental Documentation](experiments/)**: Full protocols, results, and analysis for all validation studies
+
 ### Operationalized Measurement Frameworks
 - **[ACAP (Agent Complexity Assessment Protocol)](docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)**: Systematic framework for measuring agent capabilities across five dimensions
 - **[BIC Assessment Tools](docs/05-competitive-dynamics/5e-bio-informational-complex.md)**: Protocols for identifying and analyzing Bio-Informational Complexes
