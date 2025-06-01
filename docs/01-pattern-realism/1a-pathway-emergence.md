@@ -348,4 +348,4 @@ The Brain from Brane pathway emergence model distinguishes itself from several e
 | **Falsifiable Architecture** | Provides specific criteria for empirical testing that distinguish it from less empirically constrained approaches to consciousness and meaning |
 
 ---
-[<< Previous: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Up: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: **1.b. Emergence of Consciousness** >>](1b-emergence-of-consciousness.md)
+[<< Previous: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.b. Emergence of Consciousness >>](1b-emergence-of-consciousness.md)

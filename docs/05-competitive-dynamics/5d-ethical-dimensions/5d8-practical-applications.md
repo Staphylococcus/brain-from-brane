@@ -198,4 +198,4 @@ Universities represent institutions where multiple ethical frameworks compete fo
 - **Resource Allocation**: University budgets reflect competitive outcomes among ethical frameworks
 
 ---
-[<< Previous: **5.d.7. Comparative Analysis: Ethics vs. Established Moral Philosophy**](5d7-comparative-analysis.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.d.9. Managing Ethical Competition: Intervention Strategies** >>](5d9-managing-competition.md)
+[<< Previous: ⚙️ 5.d.7. Comparative Analysis: Ethics vs. Established Moral Philosophy](5d7-comparative-analysis.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.9. Managing Ethical Competition: Intervention Strategies >>](5d9-managing-competition.md)

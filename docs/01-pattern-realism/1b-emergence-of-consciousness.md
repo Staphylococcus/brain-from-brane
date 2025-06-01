@@ -19,4 +19,4 @@ stateDiagram-v2
 [^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)  
 
 ---
-[<< Previous: **1.a. From Organizational Information to Semantic Information: A Pathway of Emergence**](1a-pathway-emergence.md) | [Up: 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: **1.c. Addressing the "Hard Problem" of Consciousness** >>](1c-hard-problem-of-consciousness.md)
+[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.c. Addressing the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)

@@ -12,4 +12,4 @@ See also:
 - [6.d. Implications for Individual and Collective Identity](6d-implications-identity.md)
 
 ---
-[<< Previous: **5.e. The Bio-Informational Complex (BIC)**](../05-competitive-dynamics/5e-bio-informational-complex.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: 6.a. Mechanisms of Influence on Reality >>](6a-mechanisms-influence-reality.md)
+[<< Previous: ⚙️ 5.e. The Bio-Informational Complex (BIC)](../05-competitive-dynamics/5e-bio-informational-complex.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 6.a. Mechanisms of Influence on Reality >>](6a-mechanisms-influence-reality.md)

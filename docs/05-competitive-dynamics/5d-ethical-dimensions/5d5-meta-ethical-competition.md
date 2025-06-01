@@ -277,4 +277,4 @@ Understanding meta-ethical competition reveals several important insights:
 This analysis suggests that productive moral discourse requires explicit attention to meta-ethical assumptions and careful consideration of how different frameworks for understanding morality itself compete for influence and authority.
 
 ---
-[<< Previous: **5.d.4. Bio-Informational Complexes and Moral Identity**](5d4-bio-informational-complexes.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.d.6. Falsification Criteria for Ethical Competition Theory** >>](5d6-falsification-criteria.md)
+[<< Previous: ⚙️ 5.d.4. Bio-Informational Complexes and Moral Identity](5d4-bio-informational-complexes.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.6. Falsification Criteria for Ethical Competition Theory >>](5d6-falsification-criteria.md)

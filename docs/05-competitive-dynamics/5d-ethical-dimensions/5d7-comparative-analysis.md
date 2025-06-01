@@ -193,4 +193,4 @@ Understanding ethics as competitive information systems suggests different appro
 **Dialogue Facilitation**: Develop methods for productive competition between moral frameworks rather than attempting to eliminate moral disagreement.
 
 ---
-[<< Previous: **5.d.6. Falsification Criteria for Ethical Competition Theory**](5d6-falsification-criteria.md) | [Up: **5. Competitive Dynamics of Information Systems**](../5-competitive-dynamics.md) | [Next: **5.d.8. Practical Applications and Case Studies** >>](5d8-practical-applications.md)
+[<< Previous: ⚙️ 5.d.6. Falsification Criteria for Ethical Competition Theory](5d6-falsification-criteria.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.8. Practical Applications and Case Studies >>](5d8-practical-applications.md)

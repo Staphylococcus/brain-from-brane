@@ -338,4 +338,4 @@ Understanding stability mechanisms provides insights for intentionally designing
 The study of emergent stability and longevity reveals that information systems achieve persistence through active, adaptive processes rather than static resistance to change. This understanding is crucial for predicting which systems will survive, designing more robust beneficial systems, and developing strategies for managing harmful but stable information systems.
 
 ---
-[<< Previous: **4.a. Material Organization and Dynamics**](4a-material-organization-dynamics.md) | [Up: **4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)**](4-information-systems.md) | [Next: **4.c. Evolutionary Dynamics of Information Systems** >>](4c-evolutionary-dynamics.md)
+[<< Previous: ⚙️ 4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: ⚙️ 4.c. Evolutionary Dynamics of Information Systems >>](4c-evolutionary-dynamics.md)

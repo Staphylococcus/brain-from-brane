@@ -86,4 +86,4 @@ The Brain from Brane framework's **gradient agency ontology** distinguishes itse
 | **Falsifiable Developmental Predictions** | Provides specific, measurable predictions about AI agency development trajectories through established assessment protocols |
 
 ---
-[<< Previous: 3.b. Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: 3.d. Agent Complexity Assessment Protocol >>](3d-agent-complexity-assessment-protocol.md)
+[<< Previous: ⚙️ 3.b. Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md) | [Up: 🔍 Agents as Information Processors](3-agents-as-information-processors.md) | [Next: ⚙️ 3.d. Agent Complexity Assessment Protocol >>](3d-agent-complexity-assessment-protocol.md)
