@@ -19,28 +19,20 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 ## Table of Contents
 
 - [Project Structure](#project-structure)
-- [Abstraction Altitudes: How to Navigate This Framework](#abstraction-altitudes-how-to-navigate-this-framework)
-- [Introduction: Core Concepts of an Informational Universe](#introduction-core-concepts-of-an-informational-universe)
-- [1 Pattern Realism](#1-pattern-realism)
-  - [Pathway Emergence (1a)](#pathway-emergence-1a)
-  - [Emergence of Consciousness (1b)](#emergence-of-consciousness-1b)
-  - [Hard Problem of Consciousness (1c)](#hard-problem-of-consciousness-1c)
-- [2 Oneness and Interconnectedness](#2-oneness-and-interconnectedness)
-  - [Emergent Subjective Distinctions (2a)](#emergent-subjective-distinctions-2a)
-  - [Reconciling Oneness and Competition (2b)](#reconciling-oneness-and-competition-2b)
-- [3 Agents as Information Processors](#3-agents-as-information-processors)
-  - [Inside-Out Lens & Self-Preservation (3a)](#inside-out-lens-self-preservation-3a)
-  - [Broader Agency & Reciprocal Dynamics (3b)](#broader-agency-reciprocal-dynamics-3b)
-  - [AI as an Emergent Agent (3c)](#ai-as-an-emergent-agent-3c)
-- [4 Information Systems](#4-information-systems)
-- [5 Competitive Dynamics](#5-competitive-dynamics)
-- [6 Mechanisms of Influence and Redrawing Borders in Collective Consciousness](#6-mechanisms-of-influence-and-redrawing-borders-in-collective-consciousness)
-- [7 Agentive Dissolution and the Enduring Flow of Informational Legacies](#7-agentive-dissolution-and-the-enduring-flow-of-informational-legacies)
-- [8 Fluid Reality](#8-fluid-reality)
-- [Start Your Journey Here](#start-your-journey-here)
+- [Abstraction Altitudes: Choose Your Exploration Level](#abstraction-altitudes-choose-your-exploration-level)
+- [The Framework Journey: Eight Interconnected Explorations](#the-framework-journey-eight-interconnected-explorations)
+  - [Introduction: Core Concepts of an Informational Universe](#introduction-core-concepts-of-an-informational-universe)
+  - [1 Pattern Realism](#1-pattern-realism)
+  - [2 Oneness and Interconnectedness](#2-oneness-and-interconnectedness)
+  - [3 Agents as Information Processors](#3-agents-as-information-processors)
+  - [4 Information Systems](#4-information-systems)
+  - [5 Competitive Dynamics](#5-competitive-dynamics)
+  - [6 Mechanisms of Influence and Collective Consciousness](#6-mechanisms-of-influence-and-collective-consciousness)
+  - [7 Agentive Dissolution and Informational Legacy](#7-agentive-dissolution-and-informational-legacy)
+  - [8 Fluid Reality](#8-fluid-reality)
+- [Begin Your Journey](#begin-your-journey)
+- [Framework Applications & Tools](#framework-applications--tools)
 - [License and Citation](#license-and-citation)
-  - [How to Cite](#how-to-cite)
-- [Using the Measurement Frameworks](#using-the-measurement-frameworks)
 - [Contributing](#contributing)
 
 ## Project Structure
@@ -74,7 +66,7 @@ Our exploration begins with a fundamental reimagining: the universe as a dynamic
 ### [1 Pattern Realism](docs/01-pattern-realism/1-pattern-realism.md) 🔍
 *Reality as Co-Fundamental Information and Matter Patterns*
 
-**Pattern Realism** establishes our foundational perspective: reality consists of dynamic patterns best understood through two co-fundamental lenses—matter/energy and information. Information unfolds in layers from **Fundamental Information** (basic properties of foundational entities like **Worldsheets**) through **Organizational Information** (structural complexities) to **Semantic Information** (meaningful content interpreted by agents through their "inside-out lens"). This layered emergence enables consciousness to arise as a sophisticated informational property where agents develop self-awareness through their unique lens-mediated environmental interactions.
+**Pattern Realism** establishes our foundational perspective: reality consists of dynamic patterns best understood through two co-fundamental lenses—matter/energy and information. Information unfolds in layers from **Fundamental Information** (basic properties of foundational entities like **Worldsheets**) through **Organizational Information** (structural complexities) to **Semantic Information** (meaningful content interpreted by agents through their "inside-out lens"). This layered emergence enables consciousness to arise when the inside-out lens becomes **recursive**—examining itself through autopoietic self-reference, creating the sophisticated informational property where agents develop self-awareness through their unique lens-mediated environmental interactions.
 
 🔍 **Explore Deeper**: [Pathway Emergence (1a)](docs/01-pattern-realism/1a-pathway-emergence.md) • [Consciousness Emergence (1b)](docs/01-pattern-realism/1b-emergence-of-consciousness.md) • [Hard Problem Solutions (1c)](docs/01-pattern-realism/1c-hard-problem-of-consciousness.md)
 
