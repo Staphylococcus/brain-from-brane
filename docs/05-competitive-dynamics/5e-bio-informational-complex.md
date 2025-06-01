@@ -129,4 +129,4 @@ The BIC concept intersects with several established theoretical frameworks. The 
 | **Practical Applications** | Offers concrete tools for identifying and analyzing real-world phenomena from religious movements to political ideologies to consumer brand loyalty |
 
 ---
-[<< Previous: **5.d. Ethical Dimensions**](5d-ethical-dimensions.md) | [Up: **5. Competitive Dynamics of Information Systems**](5-competitive-dynamics.md) | [Next: 6. The Information Age and Shifting Borders: Mechanisms of Influence >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)
+[<< Previous: **5.d.9. Managing Ethical Competition: Intervention Strategies**](5d-ethical-dimensions/5d9-managing-competition.md) | [Up: **5. Competitive Dynamics of Information Systems**](5-competitive-dynamics.md) | [Next: 6. The Information Age and Shifting Borders: Mechanisms of Influence >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)
