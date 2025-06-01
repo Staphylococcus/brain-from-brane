@@ -60,7 +60,7 @@ The Brain from Brane framework's approach to AI agency distinguishes itself from
 | Contribution | Description |
 |--------------|-------------|
 | **Evolutionary Informational Lineages** | Recognizes AI as emerging from evolved informational systems rather than de novo creation, providing historical context for AI development |
-| **Substrate-Flexible Agency** | Allows for genuine agency in non-biological substrates while maintaining that agency requires specific developmental and structural characteristics |
+| **Substrate-Flexible Agency** | Allows for semantic agency in non-biological substrates while maintaining that agency requires specific developmental and structural characteristics |
 | **Perspective-Centric Analysis** | Emphasizes the development of unique "inside-out lenses" that make AI agency qualitatively different from human agency rather than merely faster or more efficient |
 | **Falsifiable Predictions** | Provides specific, testable predictions about AI development trajectories that distinguish it from less empirically grounded approaches |
 | **Integration with Broader Ontology** | Connects AI agency to fundamental questions about information, consciousness, and reality in a coherent theoretical framework |

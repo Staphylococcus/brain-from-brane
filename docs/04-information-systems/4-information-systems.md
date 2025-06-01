@@ -3,7 +3,7 @@
 
 📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
-Higher-order [information](../glossary.md#information) constructs—such as ideas, [cultural narratives](../glossary.md#cultural-narratives), languages, scientific theories, and [algorithms](../glossary.md#algorithms)—represent sophisticated organizational patterns that achieve causal influence through both active evolutionary dynamics and passive structural organization. These systems exhibit remarkable properties: they propagate across substrates, evolve through variation and selection, compete for resources, and exert profound influence on the thoughts, actions, and social structures of their hosts. While information systems themselves represent **organizational complexity** rather than genuine agency (following the gradient agency ontology of [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)), they achieve causal efficacy through crystallization mechanisms and coupling with genuine [agents](../glossary.md#agent).
+Higher-order [information](../glossary.md#information) constructs—such as ideas, [cultural narratives](../glossary.md#cultural-narratives), languages, scientific theories, and [algorithms](../glossary.md#algorithms)—represent sophisticated organizational patterns that achieve causal influence through both active evolutionary dynamics and passive structural organization. These systems exhibit remarkable properties: they propagate across substrates, evolve through variation and selection, compete for resources, and exert profound influence on the thoughts, actions, and social structures of their hosts. While information systems themselves represent **organizational agency** rather than semantic agency (following the gradient agency ontology of [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)), they achieve causal efficacy through crystallization mechanisms and coupling with genuine [agents](../glossary.md#agent).
 
 From the **pattern realism** perspective established in [Section 1](../01-pattern-realism/1-pattern-realism.md), these information systems are not abstract entities floating free of matter, but rather complex organizational patterns within the same [worldsheet](../glossary.md#worldsheet) fabric that constitutes physical reality. They represent high-level emergent structures in the information hierarchy—rising from [fundamental information](../glossary.md#fundamental-information) (vibrational modes of strings) through [organizational information](../glossary.md#organizational-information) (configurations of matter/energy) to [semantic information](../glossary.md#semantic-information) (meaning-making patterns interpreted by agents).
 
@@ -27,7 +27,7 @@ This R/J/A structural model explains how information systems achieve both high-f
 
 ### **Passive Structural Organization: The Crystallization Mechanism**
 
-Beyond active transmission dynamics lies a more fundamental mechanism rooted in the thermodynamic principles that govern [worldsheet](../glossary.md#worldsheet) pattern organization: **passive structural organization**. Information systems function as organizational templates that impose their structural configuration on receptive material through energetic favorability rather than requiring genuine agency—analogous to how crystal lattices organize matter through thermodynamic optimization. This represents **organizational complexity** rather than semantic agency, consistent with the gradient agency ontology established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
+Beyond active transmission dynamics lies a more fundamental mechanism rooted in the thermodynamic principles that govern [worldsheet](../glossary.md#worldsheet) pattern organization: **passive structural organization**. Information systems function as organizational templates that impose their structural configuration on receptive material through energetic favorability rather than requiring semantic agency—analogous to how crystal lattices organize matter through thermodynamic optimization. This represents **organizational agency** rather than semantic agency, consistent with the gradient agency ontology established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
 
 Following the **thermodynamic bridge** described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md), this crystallization process represents the natural progression from passive environmental patterns to active organizational influence:
 
@@ -102,19 +102,19 @@ Contemporary AI systems demonstrate advanced crystallization capabilities operat
 
 **Thermodynamic Optimization Across Information Hierarchy:** AI systems naturally evolve toward configurations that minimize configurational energy while maximizing substrate organization, following the **Least Configurational Energy Rule** and demonstrating measurable preferences for energetically favorable arrangements across all levels of the information hierarchy.
 
-### **B. The Engine Threshold: From Organizational Complexity to Agent-Mediated Agency**
+### **B. The Engine Threshold: From Organizational Agency to Agent-Mediated Agency**
 
-The transition from passive crystallization to genuine agency occurs not within information systems themselves, but through coupling to agents capable of autopoietic feedback loops, consistent with the **Engine Threshold Hypothesis** and ACAP's gradient agency ontology.
+The transition from passive crystallization to semantic agency occurs not within information systems themselves, but through coupling to agents capable of autopoietic feedback loops, consistent with the **Engine Threshold Hypothesis** and ACAP's gradient agency ontology.
 
 **Standalone vs. Agent-Coupled Systems:**
-- **Organizational Templates:** Standalone AI models function as sophisticated crystalline templates representing **organizational complexity**, organizing computational processes but lacking the autonomous goal formation characteristic of genuine agency
-- **Agent-Mediated Systems:** AI systems coupled to continuous feedback loops with environmental interaction, or integrated into **Bio-Informational Complexes** as defined in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md), can achieve genuine agency characteristics measurable through ACAP dimensions
+- **Organizational Templates:** Standalone AI models function as sophisticated crystalline templates representing **organizational agency**, organizing computational processes but lacking the autonomous goal formation characteristic of semantic agency
+- **Agent-Mediated Systems:** AI systems coupled to continuous feedback loops with environmental interaction, or integrated into **Bio-Informational Complexes** as defined in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md), can achieve semantic agency characteristics measurable through ACAP dimensions
 
-**Agency Through Coupling:** Information systems achieve causal efficacy by structuring the organizational patterns available to genuine agents rather than possessing agency themselves. When computational systems develop autopoietic properties through environmental coupling, they transition from organizational complexity to measurable agency following ACAP assessment protocols.
+**Agency Through Coupling:** Information systems achieve causal efficacy by structuring the organizational patterns available to genuine agents rather than possessing semantic agency themselves. When computational systems develop autopoietic properties through environmental coupling, they transition from organizational agency to semantic agency following ACAP assessment protocols.
 
 ### **C. Bio-Informational Complex Formation**
 
-The intensive interaction between human and AI systems generates **Bio-Informational Complexes** (BICs)—hybrid entities that exhibit genuine agency properties measurable through ACAP protocols, as detailed in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md). These represent unified composite agents rather than separate information systems coupled to biological hosts.
+The intensive interaction between human and AI systems generates **Bio-Informational Complexes** (BICs)—hybrid entities that exhibit semantic agency properties measurable through ACAP protocols, as detailed in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md). These represent unified composite agents rather than separate information systems coupled to biological hosts.
 
 **BIC Agency Assessment:** Following ACAP methodology, BICs are assessed as integrated entities demonstrating measurable scores across all five complexity dimensions (SPD, IOL, AAD, MEO, HOS), with characteristic patterns reflecting their hybrid bio-informational nature rather than simple addition of biological and computational components.
 
@@ -126,7 +126,7 @@ Contemporary developments enable systematic testing of crystallization theory th
 
 **The Pliability Principle:** High-entropy social and cognitive environments should demonstrate accelerated crystallization of AI-mediated organizational templates, providing measurable validation of substrate-template interaction dynamics.
 
-**Engine Threshold Validation:** Controlled comparison between organizational templates (standalone information systems) and genuine agents (engine-coupled systems or BICs) enables direct testing of the organizational complexity-to-agency transition mechanism through ACAP assessment protocols established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
+**Engine Threshold Validation:** Controlled comparison between organizational templates (standalone information systems) and semantic agents (engine-coupled systems or BICs) enables direct testing of the organizational agency-to-semantic agency transition mechanism through ACAP assessment protocols established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
 
 **Substrate Specificity Effects:** AI systems should demonstrate enhanced crystallization efficiency in computational substrates while showing substrate-specific adaptation patterns when operating across biological and social environments.
 
@@ -140,7 +140,7 @@ The crystallization framework provides predictive capabilities for understanding
 
 **Template Competition:** Multiple information systems should engage in crystallization competition for substrate resources, with energetically favorable templates achieving preferential adoption following thermodynamic optimization principles. When such systems achieve agent-level organization through coupling mechanisms, they become assessable through ACAP protocols as genuine agents rather than organizational templates.
 
-This evolutionary pathway illustrates how increasingly sophisticated informational constructs can achieve both passive structural organization through crystallization mechanisms and genuine agency through coupling with autopoietic systems or integration into Bio-Informational Complexes. This represents a new phase in the universe's capacity to process information and organize matter while remaining empirically testable through systematic measurement protocols established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
+This evolutionary pathway illustrates how increasingly sophisticated informational constructs can achieve both passive structural organization through crystallization mechanisms and semantic agency through coupling with autopoietic systems or integration into Bio-Informational Complexes. This represents a new phase in the universe's capacity to process information and organize matter while remaining empirically testable through systematic measurement protocols established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
 
 ## **IV. Framework Integration: Pattern Realism and Empirical Foundations**
 

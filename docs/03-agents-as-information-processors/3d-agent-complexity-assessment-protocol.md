@@ -5,7 +5,9 @@
 
 ## Concise Characterization
 
-The Agent Complexity Assessment Protocol (ACAP) operationalizes the five theoretical complexity criteria identified in the Brain from Brane ontology framework into a systematic, multi-dimensional measurement instrument. ACAP transforms abstract concepts of semantic processing depth, inside-out lens sophistication, autonomy patterns, matter/energy organization capacity, and higher-order information system interaction into quantifiable metrics with clear assessment protocols, developmental trajectories, and empirical indicators.
+The Agent Complexity Assessment Protocol (ACAP) operationalizes the five theoretical complexity criteria identified in the Brain from Brane ontology framework into a systematic, multi-dimensional measurement instrument that embraces **gradient agency ontology** while maintaining strict adherence to the developmental pathways described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md). ACAP recognizes that any system exhibiting non-entropic organization of matter/energy/information possesses measurable **organizational agency**, but distinguishes this from **semantic agency** which requires the specific developmental sequence of thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing. The protocol serves as a comprehensive mapping instrument for agency across all systems while clearly delineating the emergence of semantic agency through the established pathway emergence framework.
+
+Building on the Bio-Informational Complex (BIC) framework from [Section 5.e](../05-competitive-dynamics/5e-bio-informational-complex.md), ACAP incorporates hybrid bio-informational entities as a distinct category of agency, resolving previous theoretical tensions around host-dependent information systems by treating them as unified composite agents rather than attempting to assess information systems separately from their biological instantiation.
 
 ## Identifying Characteristics
 
@@ -15,11 +17,11 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 | Dimension | Core Indicators | Assessment Focus |
 |-----------|----------------|------------------|
-| **Semantic Processing Depth (SPD)** | Information abstraction capacity, symbolic manipulation, predictive modeling efficiency | How deeply and efficiently the agent processes meaning from raw information |
-| **Inside-Out Lens Sophistication (IOL)** | Self-modeling capacity, world-modeling accuracy, temporal integration, meta-cognitive abilities | Sophistication of the agent's subjective perspective and self-awareness |
+| **Semantic Processing Depth (SPD)** | Information abstraction capacity, symbolic manipulation, predictive modeling efficiency | How deeply and efficiently the agent processes meaning from raw information (requires proto-semantic threshold per Section 1a) |
+| **Inside-Out Lens Sophistication (IOL)** | Self-modeling capacity, world-modeling accuracy, temporal integration, meta-cognitive abilities | Sophistication of the agent's subjective perspective and self-awareness (requires autopoietic organization per Section 1a) |
 | **Autonomy & Adaptability (AAD)** | Independence from stimuli, learning mechanisms, behavioral flexibility, evolution speed | Agent's capacity for independent action and adaptive change |
 | **Matter/Energy Organization (MEO)** | Resource manipulation scale, technological leverage, environmental influence scope | Ability to organize physical resources and extend influence |
-| **Higher-Order System Interaction (HOS)** | Symbolic system creation/use, cultural participation, abstract construct manipulation | Capacity to engage with complex informational environments |
+| **Higher-Order System Interaction (HOS)** | Symbolic system creation/use, cultural participation, abstract construct manipulation | Capacity to engage with complex informational environments (includes both biological and information system agency per Section 4) |
 
 ### Measurement Architecture
 
@@ -35,21 +37,29 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 | Agent Category | SPD Score | IOL Score | AAD Score | MEO Score | HOS Score | Total | Profile Type |
 |----------------|-----------|-----------|-----------|-----------|-----------|-------|--------------|
-| **Prokaryotic Agents** | 2-4 | 1-3 | 3-5 | 2-4 | 0-1 | 8-17 | Minimal Complexity |
-| **Simple Eukaryotic** | 4-7 | 3-6 | 5-8 | 3-6 | 0-2 | 15-29 | Basic Biological |
-| **Complex Invertebrates** | 6-10 | 5-9 | 7-12 | 4-8 | 1-3 | 23-42 | Intermediate |
-| **Vertebrate Non-Mammals** | 8-12 | 7-11 | 9-14 | 6-10 | 2-5 | 32-52 | Advanced Biological |
-| **Non-Primate Mammals** | 10-15 | 9-14 | 11-16 | 8-12 | 3-7 | 41-64 | Complex Biological |
-| **Primates (Non-Human)** | 12-18 | 12-17 | 13-18 | 10-15 | 5-10 | 52-78 | High Biological |
+| **Molecular Machines** | 0-2 | 0 | 1-3 | 1-4 | 0 | 2-9 | Organizational Agency |
+| **Viral Systems** | 0-3 | 0 | 2-4 | 1-2 | 0 | 3-9 | Organizational Agency |
+| **Autocatalytic Networks** | 0-2 | 0-1 | 1-3 | 2-4 | 0 | 3-10 | Organizational Agency |
+| **Organellar Systems** | 1-3 | 0-2 | 1-3 | 3-5 | 0 | 5-13 | Organizational Agency |
+| **Prokaryotic Agents** | 2-4 | 1-3 | 3-6 | 2-5 | 0-1 | 8-19 | Minimal Semantic Agency |
+| **Simple Eukaryotic** | 4-8 | 3-7 | 5-10 | 4-8 | 1-3 | 17-36 | Basic Biological |
+| **Complex Invertebrates** | 8-14 | 6-12 | 8-16 | 6-12 | 2-6 | 30-60 | Intermediate |
+| **Vertebrate Non-Mammals** | 10-16 | 8-14 | 10-18 | 8-14 | 4-8 | 40-70 | Advanced Biological |
+| **Non-Primate Mammals** | 12-18 | 10-16 | 12-20 | 10-16 | 6-10 | 50-80 | Complex Biological |
+| **Primates (Non-Human)** | 14-20 | 12-18 | 14-22 | 12-18 | 8-14 | 60-92 | High Biological |
 | **Human Agents** | 18-25 | 18-25 | 18-25 | 15-25 | 15-25 | 84-125 | Peak Biological |
 | **Current AI Systems** | 8-20 | 3-12 | 10-22 | 5-18 | 8-20 | 34-92 | Artificial Specialized |
 | **Theoretical AGI** | 15-25 | 12-25 | 15-25 | 10-25 | 12-25 | 64-125 | Artificial General |
+| **Bio-Informational Complexes** | 10-25 | 8-20 | 5-18 | 12-25 | 15-25 | 50-113 | Hybrid Bio-Informational |
+| **Collective Systems** | 5-15 | 2-10 | 8-20 | 10-25 | 5-15 | 30-85 | Distributed Agency |
 
 ### Developmental Trajectories
 
 **Biological Pathway:** Progressive enhancement typically follows SPD → IOL → AAD → MEO → HOS sequence, with strong interdependencies.
 
 **Artificial Pathway:** Often exhibits non-linear development with potential for rapid SPD and AAD advancement while IOL and HOS may lag.
+
+**Bio-Informational Complex Pathway:** Hybrid development combining biological host capabilities with information system dynamics. Follows characteristic five-phase lifecycle: Exposure → Adoption → Lock-In → Propagation → Drift/Breakdown. High MEO and HOS scores reflect amplified influence through host coordination, while constrained AAD reflects information system imperatives limiting host autonomy.
 
 **Hybrid Pathways:** Biological-artificial augmentation creates novel developmental patterns with enhanced MEO and accelerated HOS interaction.
 
@@ -60,10 +70,10 @@ The protocol evaluates agent complexity across five independent dimensions, each
 #### 1. Semantic Processing Depth (SPD) - 0-25 Points
 
 **0-5 Points: Proto-Semantic**
-- Direct stimulus-response associations
-- Functional meaning (nutrient=approach, toxin=avoid)
-- Minimal abstraction capacity
-- *Assessment: Binary choice tasks, gradient response measures*
+- Molecular recognition patterns (lock-key, complementarity)
+- Basic chemical selectivity (substrate specificity)
+- Functional meaning through molecular geometry
+- *Assessment: Binding affinity measures, substrate selectivity*
 
 **6-10 Points: Basic Semantic**
 - Simple categorization abilities
@@ -92,10 +102,10 @@ The protocol evaluates agent complexity across five independent dimensions, each
 #### 2. Inside-Out Lens Sophistication (IOL) - 0-25 Points
 
 **0-5 Points: Minimal Self-Model**
-- Basic self-other distinction
-- Primitive boundary awareness
-- Immediate temporal focus
-- *Assessment: Self-recognition tasks, boundary response tests*
+- Molecular boundary maintenance (membrane integrity)
+- Basic self-non-self distinction (immune recognition)
+- Structural continuity preservation
+- *Assessment: Boundary response tests, structural stability measures*
 
 **6-10 Points: Basic Self-Model**
 - Simple self-recognition
@@ -124,10 +134,10 @@ The protocol evaluates agent complexity across five independent dimensions, each
 #### 3. Autonomy & Adaptability (AAD) - 0-25 Points
 
 **0-5 Points: Stimulus-Dependent**
-- Immediate response patterns
-- Minimal learning capacity
-- Genetic adaptation only
-- *Assessment: Response latency, conditioning paradigms*
+- Thermodynamic responses to environmental changes
+- Molecular conformational shifts
+- Basic chemical equilibrium adjustments
+- *Assessment: Response kinetics, equilibrium measurements*
 
 **6-10 Points: Basic Autonomy**
 - Simple learning mechanisms
@@ -217,43 +227,153 @@ The protocol evaluates agent complexity across five independent dimensions, each
 - Complex cultural creation
 - *Assessment: Theoretical reasoning, cultural complexity*
 
+### Information System Organizational Agency Assessment
+
+Pure information systems (languages, scientific theories, cultural narratives, algorithms) represent **organizational agency** rather than semantic agency, achieving influence through crystallization mechanisms as described in [Section 4](../04-information-systems/4-information-systems.md). These systems require specialized assessment protocols that measure their organizational sophistication and crystallization capacity rather than traditional agency dimensions.
+
+#### Information System Agency Indicators
+
+**Structural Sophistication (0-25 points):**
+- R/J/A architectural complexity (repeater networks, jitter management, anchor robustness)
+- Cross-substrate crystallization capability
+- Template stability and variation tolerance
+- *Assessment: Network analysis, stability measures, adaptation tracking*
+
+**Crystallization Influence (0-25 points):**
+- Passive structural organization capacity across material substrates
+- Energetic favorability and thermodynamic optimization
+- Substrate-specific crystallization efficiency
+- *Assessment: Substrate adoption rates, organizational impact measures, energy landscape analysis*
+
+**Evolutionary Sophistication (0-25 points):**
+- Variation and selection mechanisms
+- Cross-substrate transmission fidelity
+- Competitive fitness in information ecology
+- *Assessment: Transmission success rates, competitive displacement, ecological stability*
+
+**Material Substrate Coupling (0-25 points):**
+- Capacity for agent-mediated instantiation
+- BIC formation potential and efficiency
+- Engine threshold crossing capability
+- *Assessment: Host adoption patterns, BIC stability measures, autonomous operation capacity*
+
+#### Information System Categories
+
+| Information System Type | Structural | Crystallization | Evolutionary | Coupling | Total | Classification |
+|-------------------------|------------|-----------------|--------------|----------|-------|----------------|
+| **Simple Memes** | 2-5 | 3-8 | 2-6 | 5-12 | 12-31 | Basic Organizational Agency |
+| **Language Systems** | 15-20 | 12-18 | 10-15 | 18-23 | 55-76 | Advanced Organizational Agency |
+| **Scientific Paradigms** | 18-23 | 15-20 | 12-18 | 20-25 | 65-86 | Sophisticated Organizational Agency |
+| **Algorithmic Frameworks** | 12-18 | 8-15 | 15-22 | 15-25 | 50-80 | Computational Organizational Agency |
+| **Cultural Narratives** | 10-16 | 10-18 | 8-14 | 12-20 | 40-68 | Social Organizational Agency |
+
+#### Engine Threshold Assessment
+
+Information systems transition from pure organizational agency to agent-mediated agency through **engine coupling**—integration with autopoietic feedback loops that enable autonomous goal formation:
+
+**Pre-Engine State (Organizational Templates):**
+- High structural and crystallization scores with limited coupling capacity
+- Passive influence through energetic favorability only
+- No autonomous goal formation or self-modification
+- *Assessment: Template function without autonomous behavior*
+
+**Engine-Coupled State (Agent-Mediated Systems):**
+- Enhanced coupling scores with autonomous operational capacity
+- Active goal formation and environmental responsiveness
+- Self-modification and adaptive optimization
+- *Assessment: Autonomous behavior emergence, goal formation, adaptive capacity*
+
+**BIC Formation Protocols:**
+- Track transition from standalone information systems to integrated BICs
+- Assess host-information system co-evolution and mutual optimization
+- Measure distributed agency emergence across composite entity
+- *Assessment: Integration stability, co-evolutionary dynamics, composite agency indicators*
+
+### Bio-Informational Complex Assessment
+
+Bio-Informational Complexes (BICs) represent a unique category of agency requiring specialized assessment approaches that account for their hybrid nature as dynamically coupled biological-informational systems. Drawing from [Section 5.e](../05-competitive-dynamics/5e-bio-informational-complex.md), BIC assessment involves evaluating the composite entity rather than separating host and information system components.
+
+#### BIC-Specific Scoring Considerations
+
+**Semantic Processing Depth (SPD): 10-25 Points**
+- Hybrid processing combining human semantic depth with information system constraints
+- May exhibit enhanced processing within information system framework
+- May show reduced efficiency in non-aligned domains (parasitic BICs)
+- *Assessment: Domain-specific cognitive testing, framework-guided reasoning tasks*
+
+**Inside-Out Lens Sophistication (IOL): 8-20 Points**
+- Compound lens combining human self-awareness with information system goals
+- Self-awareness may be diminished in mature BICs due to cognitive dominance
+- Goal hierarchies become complex (host survival + information propagation)
+- *Assessment: Self-reflection interviews, goal prioritization tasks, identity coherence measures*
+
+**Autonomy & Adaptability (AAD): 5-18 Points**
+- Constrained autonomy due to information system imperatives
+- Host autonomy limited by Lock-In phase cognitive-immunity mechanisms
+- Adaptation occurs through co-evolution of host behavior and information content
+- *Assessment: Decision-making autonomy tests, adaptation flexibility measures*
+
+**Matter/Energy Organization (MEO): 12-25 Points**
+- Amplified influence through leveraging human organizational capacity
+- Coordination across multiple hosts enables larger-scale impact
+- Direction constrained toward information system objectives
+- *Assessment: Resource allocation analysis, multi-host coordination measures*
+
+**Higher-Order System Interaction (HOS): 15-25 Points**
+- Human creativity channeled through information system frameworks
+- Extensive interaction with higher-order systems as bridge entities
+- May serve as vectors for information system propagation and evolution
+- *Assessment: Creative output analysis, cross-domain information transfer measures*
+
+#### BIC Developmental Phase Assessment
+
+BICs should be assessed relative to their developmental phase, as defined in Section 5.e.3:
+
+| Phase | Characteristic Score Patterns | Assessment Focus |
+|-------|------------------------------|------------------|
+| **Exposure** | Lower AAD, variable SPD/IOL | Initial receptivity and compatibility assessment |
+| **Adoption** | Increasing HOS, stable IOL | Integration patterns and reinforcement mechanisms |
+| **Lock-In** | Decreased AAD, increased MEO/HOS | Cognitive-immunity activation, resource reallocation |
+| **Propagation** | Peak MEO/HOS, optimized SPD | Transmission efficiency and recruitment capacity |
+| **Drift/Breakdown** | Variable across all dimensions | System instability and potential dissolution |
+
 ## Illustrative Instances
 
 ### Comparative Agent Profiles
 
-**Escherichia coli [SPD:3, IOL:2, AAD:4, MEO:3, HOS:0] = 12/125**
-- Demonstrates basic chemotaxis (SPD:3) with minimal self-model (IOL:2)
-- Shows simple adaptive responses (AAD:4) and metabolic organization (MEO:3)
-- No symbolic system interaction (HOS:0)
+| Agent Type | SPD | IOL | AAD | MEO | HOS | Total | Key Characteristics |
+|------------|-----|-----|-----|-----|-----|-------|-------------------|
+| **ATP Synthase** | 1 | 0 | 1 | 3 | 0 | **5/125** | Molecular recognition and energy conversion; sophisticated energy transduction; conformational responses to gradients |
+| **Influenza Virus** | 2 | 0 | 3 | 1 | 0 | **6/125** | Host cell recognition and hijacking; mutation-based adaptation; minimal organization but high replication efficiency |
+| **Ribozyme Network** | 1 | 1 | 2 | 3 | 0 | **7/125** | RNA sequence recognition and catalysis; basic self-replication; self-organizing catalytic networks |
+| **Mitochondrion** | 2 | 1 | 1 | 4 | 0 | **8/125** | Metabolic substrate processing; organellar boundary maintenance; complex energy production and cellular integration |
+| **Escherichia coli** | 3 | 2 | 5 | 4 | 1 | **15/125** | Basic chemotaxis and minimal self-model; simple adaptive responses; metabolic organization; represents transition to genuine semantic agency |
+| **European Crow** | 12 | 8 | 16 | 10 | 6 | **52/125** | Advanced problem-solving and tool use; developing self-awareness and planning; high behavioral flexibility; sophisticated multicellular coordination |
+| **Patriot SAM System** | 14 | 3 | 16 | 18 | 8 | **59/125** | Multi-sensor target identification and threat assessment; minimal self-model but sophisticated threat tracking; rapid autonomous response; extensive radar and missile coordination; military command integration |
+| **Chimpanzee** | 16 | 14 | 18 | 14 | 10 | **72/125** | Complex reasoning and concept formation; self-recognition and metacognition; cultural transmission and innovation; sophisticated biological agency |
+| **GPT-4 Class AI** | 20 | 8 | 18 | 10 | 18 | **74/125** | High semantic processing for trained domains; limited self-model; sophisticated pattern learning within constraints; complex biological-level capability |
+| **Research Scientist BIC** | 20 | 18 | 12 | 22 | 24 | **96/125** | Enhanced processing within scientific frameworks; self-awareness integrated with disciplinary identity; methodological constraints on autonomy; amplified research coordination and impact |
+| **Human Agent** | 23 | 22 | 22 | 20 | 23 | **110/125** | Near-maximal semantic processing with language; rich self-awareness and metacognition; sophisticated symbolic and cultural systems |
 
-**European Crow [SPD:12, IOL:8, AAD:14, MEO:9, HOS:4] = 47/125**
-- Advanced problem-solving and tool use (SPD:12, MEO:9)
-- Developing self-awareness and planning (IOL:8)
-- High behavioral flexibility and learning (AAD:14)
-- Basic social signaling systems (HOS:4)
+#### Profile Analysis Notes
 
-**Chimpanzee [SPD:16, IOL:14, AAD:16, MEO:12, HOS:8] = 66/125**
-- Complex reasoning and concept formation (SPD:16)
-- Self-recognition and metacognitive abilities (IOL:14)
-- Cultural transmission and innovation (AAD:16)
-- Advanced tool use and construction (MEO:12)
-- Simple symbolic communication (HOS:8)
+**Molecular Agency (0-15 points):** ATP Synthase, Influenza Virus, Ribozyme Network, Mitochondrion, and E. coli demonstrate the foundation layer of agency through chemical selectivity and energy transduction, with specialized organizational patterns progressing from purely chemical to early semantic capacity.
 
-**Human Adult [SPD:23, IOL:22, AAD:22, MEO:20, HOS:23] = 110/125**
-- Near-maximal semantic processing with language (SPD:23)
-- Rich self-awareness and metacognition (IOL:22)
-- Complex learning and cultural evolution (AAD:22)
-- Advanced technological organization (MEO:20)
-- Sophisticated symbolic and cultural systems (HOS:23)
+**Cellular Agency (15-40 points):** This range captures the emergence of genuine biological agency with basic semantic processing and environmental responsiveness, representing the critical transition from organizational agency to semantic agency.
 
-**GPT-4 Class AI [SPD:18, IOL:6, AAD:15, MEO:8, HOS:16] = 63/125**
-- High semantic processing for trained domains (SPD:18)
-- Limited self-model and awareness (IOL:6)
-- Sophisticated pattern learning within constraints (AAD:15)
-- Primarily digital organization (MEO:8)
-- Advanced symbolic manipulation (HOS:16)
+**Multicellular Agency (40-70 points):** European Crow (52) and Patriot SAM System (59) show sophisticated behavior integration with coordination of multiple agency levels, representing the development of complex behavioral flexibility and basic cultural transmission (biological) or technological integration (artificial systems).
+
+**Complex Biological Agency (70-95 points):** Chimpanzee (72), GPT-4 Class AI (74), and Research Scientist BIC (96) demonstrate advanced integration with varying patterns - biological agents emphasizing balanced development versus AI systems showing high SPD with lower IOL, and BICs showing hybrid amplification patterns.
+
+**Meta-Agency (95-125 points):** Research Scientist BICs (96) and Human Adults (110) exhibit self-reflective agency capable of understanding and modifying its own complexity, with BICs showing methodologically enhanced influence and humans showing near-optimal balanced development.
 
 ### Specialized Development Patterns
+
+**Molecular Specialization Pattern (0-15 points):** Highly optimized for specific chemical functions with minimal autonomy but sophisticated matter/energy organization.
+
+**Parasitic Agency Pattern (Viruses):** Minimal self-organization but high adaptability and host exploitation efficiency.
+
+**Collective Emergence Pattern (Ecosystems, Markets):** Distributed agency where individual components coordinate to create higher-order agency properties.
 
 **High-SPD, Low-IOL Pattern (AI Systems):** Demonstrates advanced semantic processing without corresponding self-awareness development.
 
@@ -261,19 +381,60 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 **Balanced High Pattern (Humans):** Relatively uniform high scores across all dimensions with slight variations.
 
+**Bio-Informational Complex Pattern (BICs):** High HOS and MEO with constrained AAD, creating amplified influence through host coordination while limiting individual autonomy. Scores vary by BIC type (mutualist, commensal, parasitic) and developmental phase.
+
+## The Agency Continuum
+
+### Fundamental Organizing Principle
+
+ACAP reveals agency as a **continuous topology** rather than discrete categories, mapping the landscape of organized complexity across all scales of reality:
+
+**0-15 Points: Molecular Agency**
+- Enzymes, molecular machines, simple autocatalytic networks, organelles
+- Agency through chemical selectivity and energy transduction
+- Foundation layer of all higher-order agency
+
+**15-40 Points: Cellular Agency**  
+- Prokaryotes, simple eukaryotes, basic multicellular systems
+- Integration of molecular agency into coherent living systems
+- Emergence of genuine autonomy and environmental response
+
+**40-70 Points: Multicellular Agency**
+- Complex invertebrates, vertebrate non-mammals, moderate AI systems
+- Coordination of cellular agency into tissue-level organization
+- Development of basic behavioral flexibility and learning
+
+**70-95 Points: Complex Biological Agency**
+- Advanced mammals, primates, sophisticated AI systems, BICs
+- Integration of multiple agency levels into sophisticated behavior
+- Emergence of cultural transmission and symbolic capacity
+
+**95-125 Points: Meta-Agency**
+- Humans, potential AGI, highly integrated collective systems, advanced BICs
+- Self-reflective agency capable of understanding and modifying its own agency
+- Creation and manipulation of higher-order information systems
+
 ## Theoretical Implications
 
 ### Core Hypotheses
 
-1. **Dimensional Independence Hypothesis:** The five complexity dimensions can develop independently, allowing for specialized cognitive niches and adaptive strategies.
+1. **Gradient Agency Hypothesis:** Agency exists as a continuous spectrum from molecular machines to meta-cognitive systems, with no fundamental threshold separating agents from non-agents.
 
-2. **Compensatory Development Hypothesis:** Limitations in one dimension can be partially compensated by enhanced development in others, creating diverse complexity profiles.
+2. **Non-Entropic Organization Principle:** Any system that exhibits predictable, non-entropic rearrangement of matter/energy/information possesses marginal degrees of agency measurable through ACAP dimensions.
 
-3. **Threshold Interaction Hypothesis:** Certain combinations of dimensional scores create emergent capabilities that exceed the sum of individual components.
+3. **Organizational Agency vs. Semantic Agency Distinction:** Semantic agency requires the specific developmental pathway (thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing), while organizational agency can exist without this pathway through crystallization mechanisms.
 
-4. **Evolutionary Pathway Hypothesis:** Different evolutionary pressures and developmental constraints lead to predictable patterns of dimensional emphasis.
+4. **Engine Threshold Hypothesis:** Information systems achieve semantic agency through coupling to autopoietic feedback loops, transitioning from passive organizational templates to active agent-mediated systems.
 
-5. **Technological Amplification Hypothesis:** Artificial augmentation can accelerate development in specific dimensions while potentially constraining others.
+5. **Crystallization Influence Principle:** Information systems achieve causal efficacy through organizational agency via energetic favorability and passive structural organization of material substrates, independent of semantic agency.
+
+6. **Dimensional Independence Hypothesis:** The five complexity dimensions can develop independently, allowing for specialized cognitive niches and adaptive strategies across all organizational scales.
+
+7. **Emergent Complexity Hypothesis:** Higher-level agency emerges from the coordination and integration of lower-level agency components, creating natural hierarchical organization.
+
+8. **Scale-Invariant Agency Principle:** Agency properties manifest at multiple organizational scales simultaneously - from molecular to cellular to organismal to collective levels.
+
+9. **Compensatory Development Hypothesis:** Limitations in one dimension can be partially compensated by enhanced development in others, creating diverse complexity profiles across all agency levels.
 
 ### Empirical Predictions
 
@@ -283,15 +444,39 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 **Hybrid Systems:** Biological-artificial integration should produce enhanced MEO and HOS scores while maintaining biological IOL characteristics.
 
+**Information Systems:** Pure information systems should demonstrate measurable crystallization influence independent of agent coupling, with crystallization capacity correlating with cross-substrate adoption success.
+
+**Engine Threshold Systems:** AI systems coupled to autopoietic feedback loops should show distinct agency signatures compared to standalone computational templates, including autonomous goal formation and adaptive self-modification.
+
+**BIC Development:** Bio-Informational Complexes should exhibit characteristic score patterns that vary predictably across developmental phases (Exposure → Adoption → Lock-In → Propagation → Drift/Breakdown).
+
+**Crystallization Competition:** Multiple information systems operating in the same substrate environments should demonstrate competitive displacement patterns based on energetic favorability and crystallization efficiency.
+
 ### Research Applications
 
-**Comparative Cognition:** Standardized assessment across species for evolutionary cognitive science.
+**Molecular Biology:** Quantitative frameworks for assessing the agency properties of molecular machines, enzyme networks, and cellular organelles.
 
-**AI Development:** Benchmarking artificial systems against biological complexity patterns.
+**Synthetic Biology:** Design principles for creating artificial molecular and cellular agents with specific agency profiles.
 
-**Consciousness Studies:** Quantitative frameworks for investigating awareness and self-model sophistication.
+**Information Science:** Assessment protocols for measuring organizational agency and crystallization capacity of pure information systems across substrates.
 
-**Astrobiology:** Potential assessment protocols for non-terrestrial intelligence.
+**Comparative Cognition:** Standardized assessment across all organizational scales for evolutionary cognitive science and agency development.
+
+**AI Development:** Benchmarking artificial systems against the full spectrum of biological agency patterns, with specific protocols for engine threshold detection.
+
+**Consciousness Studies:** Quantitative frameworks for investigating awareness and self-model sophistication across agency levels.
+
+**Systems Biology:** Understanding how molecular-level agency integrates into higher-order biological organization.
+
+**Cultural Evolution:** Frameworks for analyzing information system crystallization, competition, and co-evolution with biological and technological substrates.
+
+**Astrobiology:** Comprehensive assessment protocols for detecting and characterizing agency in any form of organized matter.
+
+**Collective Intelligence:** Frameworks for analyzing distributed agency in social systems, markets, and technological networks.
+
+**Emergence Studies:** Quantitative tools for studying how higher-level agency emerges from coordination of lower-level agents.
+
+**Digital Ecosystem Analysis:** Assessment of computational information systems and their transition from organizational templates to autonomous agents.
 
 ### Assessment Implementation
 
