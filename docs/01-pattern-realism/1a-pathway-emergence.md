@@ -9,7 +9,7 @@
 - [II.5. The Bridge: From Environmental Patterns to True Agency](#ii5-the-bridge-from-environmental-patterns-to-true-agency)
 - [III. Proto-Semantics: Simple Agents, Detection, and Functional Significance](#iii-proto-semantics-simple-agents-detection-and-functional-significance)
 - [IV. Developing Semantics: Complex Agents, Internal Representation, and Prediction](#iv-developing-semantics-complex-agents-internal-representation-and-prediction)
-- [V. [Full-Blown Semantics](../glossary.md#full-blown-semantics): Symbolic Systems, Language, and Shared Meaning](#v-full-blown-semantics-symbolic-systems-language-and-shared-meaning)
+- [V. Full-Blown Semantics: Symbolic Systems, Language, and Shared Meaning](#v-full-blown-semantics-symbolic-systems-language-and-shared-meaning)
 - [VI. Core Principles in the Emergence of Semantic Information](#vi-core-principles-in-the-emergence-of-semantic-information)
 
 
