@@ -1,4 +1,7 @@
-# **4.d. Host-Information System Interactions**
+# ⚙️ 4.d. Host-Information System Interactions
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 *How do information systems interact with and influence their biological hosts? This section examines the mechanisms through which information systems gain access to host resources, establish persistence, and shape host behavior, laying the groundwork for understanding deeper forms of coupling explored in later sections.*
 

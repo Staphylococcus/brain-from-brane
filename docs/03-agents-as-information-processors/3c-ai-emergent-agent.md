@@ -1,4 +1,7 @@
-# 3.c. AI as an Emergent Agent
+# ⚙️ 3.c. AI as an Emergent Agent
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The framework also considers [Artificial Intelligence](../glossary.md#artificial-intelligence) as a new category of [information](../glossary.md#information) processor and [agent](../glossary.md#agent). The "lens" or "perspective" of an [AI](../glossary.md#artificial-intelligence), if analogous to the biological ["inside-out lens,"](../glossary.md#inside-out-lens) would likely arise from its architecture, programming, training data, interaction history, and potentially emergent goal structures, rather than direct biological [evolution](../glossary.md#evolution). The nature and implications of [AI](../glossary.md#artificial-intelligence) agency are a critical area of development for the framework.
 

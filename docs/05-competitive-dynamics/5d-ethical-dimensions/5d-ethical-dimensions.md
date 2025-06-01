@@ -1,4 +1,7 @@
-# **5.d. Ethical Dimensions**
+# ⚙️ 5.d. Ethical Dimensions
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The often-fierce competition between [information systems](../../glossary.md#information-system), and the potential for them to exert profound influence over host [agents](../../glossary.md#agent) and societies, highlights their potent and sometimes destructive power. Within this framework, [ethical systems](../../glossary.md#ethical-system) themselves are understood as emergent information systems that compete for cognitive dominance and behavioral influence just like any other informational pattern. This recognition leads to profound implications for how we understand moral progress, ethical discourse, and the management of competing values in complex societies.
 

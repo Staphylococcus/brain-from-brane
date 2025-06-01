@@ -1,4 +1,7 @@
-# 6.a. Mechanisms of Influence on Reality
+# ⚙️ 6.a. Mechanisms of Influence on Reality
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 Information systems exert influence on physical reality through two primary mechanisms:
 
 ### 6.a.1. Traditional (Agent-Mediated):

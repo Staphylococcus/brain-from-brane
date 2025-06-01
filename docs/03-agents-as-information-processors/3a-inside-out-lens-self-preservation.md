@@ -1,4 +1,7 @@
-# **3.a. "Inside-Out Lens" and Self-Preservation**
+# ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The capacity for [self-awareness](../glossary.md#self-awareness) emerges from a fundamental information-processing architecture: the **["Inside-Out Lens"](../glossary.md#inside-out-lens)**. This evolved first-person perspective represents one of the most crucial innovations in biological information processing, transforming how [agents](../glossary.md#agent) organize sensory data, construct world-models, and navigate complex environments.
 

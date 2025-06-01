@@ -1,4 +1,7 @@
-# **5.d.4. Bio-Informational Complexes and Moral Identity**
+# ⚙️ 5.d.4. Bio-Informational Complexes and Moral Identity
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The coupling between hosts and ethical systems creates particularly powerful [Bio-Informational Complexes](../5e-bio-informational-complex.md) where moral identity becomes central to personal and social functioning:
 

@@ -1,4 +1,7 @@
-# 6.d. Implications for Individual and Collective Identity
+# ⚙️ 6.d. Implications for Individual and Collective Identity
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The redrawing of these informational borders has profound implications for both individual and collective identity. As traditional anchors of identity (e.g., nationality, local community, fixed cultural narratives) are challenged or supplemented by new, often digitally mediated, affiliations and information sources, individuals may experience:
 

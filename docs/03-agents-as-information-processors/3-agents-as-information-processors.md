@@ -1,4 +1,7 @@
-# Agents as Information Processors
+# 🔍 Agents as Information Processors
+*Medium Altitude Exploration*
+
+📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
 Humans and other [agents](../glossary.md#agent) are characterized as self-aware "pockets" of the universe, not only existing within it but actively organizing matter and, crucially, processing, creating, being influenced by, and constituted by [information](../glossary.md#information). While diverse in form and origin, these agents can be understood and compared along a spectrum or scale of complexity. This scale is not intended as a rigid hierarchy but as a conceptual tool to explore the varying degrees and kinds of agentive capabilities within this framework. It helps unify our understanding by highlighting common principles of information processing and agency, while also acknowledging profound differences arising from distinct evolutionary or developmental pathways.
 

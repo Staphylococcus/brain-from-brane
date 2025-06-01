@@ -1,4 +1,7 @@
-# **4.a. Material Organization and Dynamics**
+# ⚙️ 4.a. Material Organization and Dynamics
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Information systems are material organizations—specific patterns of physical processes that exhibit persistence, variation, and competitive dynamics. While we can analyze them through the information lens (focusing on pattern structure and meaning), they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
 

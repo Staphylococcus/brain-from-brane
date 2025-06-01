@@ -2,6 +2,9 @@
 
 A collection of key terms and definitions used throughout this project.
 
+## Abstraction Altitudes <a name="abstraction-altitudes"></a>
+A meta-design principle organizing the framework into multiple levels of detail and complexity, allowing readers to engage with concepts at their preferred "altitude"—from high-level overviews to detailed technical analysis. Each altitude provides complete narrative coherence while enabling deeper exploration at lower levels.
+
 ## Agent <a name="agent"></a>
 An entity (biological, computational, or conceptual) that senses, processes, and acts upon information in order to achieve goals or maintain states.
 

@@ -1,4 +1,7 @@
-# **5.d.1. Ethical Systems as Competing Information Systems**
+# ⚙️ 5.d.1. Ethical Systems as Competing Information Systems
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 [Ethical frameworks](../../glossary.md#ethical-frameworks) exhibit all the characteristic dynamics of information systems competing for limited cognitive resources and behavioral expression. Like other information patterns, they:
 

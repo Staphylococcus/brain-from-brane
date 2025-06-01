@@ -40,6 +40,7 @@ We welcome contributions to the Brain from Brane ontology framework! This docume
 ### For Theoretical Content
 - Maintain consistency with core framework principles
 - Use precise terminology as defined in the [Glossary](docs/glossary.md)
+- Follow the [Abstraction Altitudes](docs/abstraction-altitudes.md) design principle
 - Provide clear reasoning and evidence for new concepts
 - Follow the established document structure and formatting
 

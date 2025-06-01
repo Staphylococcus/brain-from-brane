@@ -1,4 +1,7 @@
-# 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders
+# ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The "fluid dynamics" metaphor offers a useful lens to understand these shifts. External informational "inflows," massively amplified by global networks, act as powerful new "currents" impinging upon and interacting with the existing internal "currents" of a group's or individual's established informational landscape (their dominant beliefs, narratives, and conceptual frameworks). This interaction is not passive; the inherent structure of reality as a "dynamic, inherently structured flow"—ultimately composed of interacting worldsheets—means these informational patterns are always in motion, influencing and being influenced.
 

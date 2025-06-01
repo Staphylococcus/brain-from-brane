@@ -1,4 +1,7 @@
-# Brain from Brane: An Ontology of Information and Fluid Reality
+# 🔭 Brain from Brane: An Ontology of Information and Fluid Reality
+*High Altitude Overview*
+
+📍 **Altitude**: High (10,000+ feet) - Panoramic Overview
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
@@ -16,6 +19,7 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 ## Table of Contents
 
 - [Project Structure](#project-structure)
+- [Abstraction Altitudes: How to Navigate This Framework](#abstraction-altitudes-how-to-navigate-this-framework)
 - [Introduction: Core Concepts of an Informational Universe](#introduction-core-concepts-of-an-informational-universe)
 - [1 Pattern Realism](#1-pattern-realism)
   - [Pathway Emergence (1a)](#pathway-emergence-1a)
@@ -44,6 +48,20 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 The "Brain from Brane" ontology unfolds progressively, starting with core definitions and building towards a comprehensive model of information, reality, and consciousness. This structured overview allows you to grasp the main arguments at a high level, with direct links to explore each concept in depth.
 
 [Glossary](docs/glossary.md)
+
+## Abstraction Altitudes: How to Navigate This Framework
+
+This framework employs **[Abstraction Altitudes](docs/abstraction-altitudes.md)** as a core design principle, allowing you to engage with concepts at your preferred level of detail and complexity. Like choosing your altitude when viewing a landscape, each level provides a complete, coherent perspective while enabling deeper exploration.
+
+**🔭 High Altitude (This Document)**: Complete end-to-end narrative of the entire framework—ideal for first-time readers, executives, or those seeking a comprehensive overview.
+
+**🔍 Medium Altitude (Main Sections)**: Detailed exploration of major concepts like Pattern Realism, Agents, and Information Systems—perfect for students, researchers, or practitioners developing domain expertise.
+
+**⚙️ Low Altitude (Subsections)**: Granular analysis of specific mechanisms, applications, and empirical frameworks—designed for specialists, implementers, and researchers conducting detailed analysis.
+
+**Navigate Your Way**: Every section maintains this principle—providing complete coverage at its chosen altitude while offering pathways to deeper detail. Choose your level based on your interests, time constraints, and expertise. You can always move between altitudes as your understanding evolves.
+
+*[Learn more about Abstraction Altitudes →](docs/abstraction-altitudes.md)*
 
 ### Introduction: Core Concepts of an Informational Universe
 

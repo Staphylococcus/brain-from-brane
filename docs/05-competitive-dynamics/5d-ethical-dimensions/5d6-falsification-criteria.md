@@ -1,4 +1,7 @@
-# **5.d.6. Falsification Criteria for Ethical Competition Theory**
+# ⚙️ 5.d.6. Falsification Criteria for Ethical Competition Theory
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 [← Back to Overview](5d-ethical-dimensions.md) | [Next: Comparative Analysis →](5d7-comparative-analysis.md)
 

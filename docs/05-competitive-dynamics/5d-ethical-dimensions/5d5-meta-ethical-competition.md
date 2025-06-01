@@ -1,4 +1,7 @@
-# **5.d.5. Meta-Ethical Competition: Frameworks for Evaluation**
+# ⚙️ 5.d.5. Meta-Ethical Competition: Frameworks for Evaluation
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 A crucial dimension of ethical competition involves meta-ethical frameworks—information systems that compete to define what counts as valid moral reasoning itself:
 

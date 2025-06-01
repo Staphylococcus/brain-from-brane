@@ -1,4 +1,7 @@
-# **5.d.3. Mechanisms of Ethical Competition**
+# ⚙️ 5.d.3. Mechanisms of Ethical Competition
+*Low Altitude Analysis*
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Ethical systems employ sophisticated strategies in their competition for moral dominance, often mirroring the general competitive mechanisms identified in [Section 5.a](../5a-mechanisms-competition.md):
 
