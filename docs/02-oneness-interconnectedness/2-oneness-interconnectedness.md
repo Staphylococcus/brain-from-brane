@@ -170,5 +170,4 @@ Science itself represents a **collective crystallization process** where human a
 5. **Practical Applications**: Framework applies to consciousness, culture, technology, ethics, and science
 
 ---
-
-[<< Previous: ⚙️ 1.c. Addressing the "Hard Problem" of Consciousness](../01-pattern-realism/1c-hard-problem-of-consciousness.md) | [Home: Framework Overview](../../README.md) | [Next: ⚙️ 2.a. Emergent and Subjective Distinctions >>](2a-emergent-subjective-distinctions.md)
+[<< Previous: ⚙️ 1.c. Addressing the "Hard Problem" of Consciousness](../01-pattern-realism/1c-hard-problem-of-consciousness.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 2. a. Emergent and Subjective Distinctions within a Structured Whole >>](2a-emergent-subjective-distinctions.md)
