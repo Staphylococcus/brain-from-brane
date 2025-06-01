@@ -26,6 +26,9 @@ Referring to systems that maintain their identity through continuous self-produc
 ## Bio-Informational Complex <a name="bio-informational-complex"></a>
 A tightly integrated unit where biological hosts and information systems function as quasi-organismic wholes that co-evolve and protect their informational patterns (see [5e-bio-informational-complex](05-competitive-dynamics/5e-bio-informational-complex.md)).
 
+## Boundary Stabilization <a name="boundary-stabilization"></a>
+A mechanism of [outward stabilization propensity](#outward-stabilization-propensity) whereby stable patterns create well-defined interfaces that constrain neighboring patterns, reducing local entropy. This mechanism operates across scales from quantum systems to biological organisms to information networks, enabling self-stabilizing patterns to extend their organizational influence to surrounding environments.
+
 ## Cognitive Biases
 Systematic patterns of deviation from norm or rationality in judgment. They are often studied in psychology, sociology and behavioral economics.
 
@@ -41,6 +44,9 @@ The set of shared beliefs, ideas, attitudes, and knowledge that are common to a 
 ## Competitive Dynamics
 Interactions among agents or information systems driven by limited resources, selection pressures, and adaptive strategies.
 
+## Crystallization <a name="crystallization"></a>
+In information systems, the process by which information patterns impose their organizational structure on receptive material substrates through thermodynamic favorability rather than active control. Like physical crystal formation, this passive structural organization creates energetic "valleys" that naturally channel material processes toward ordered states, enabling information systems to achieve causal influence through organizational templates rather than semantic agency. See [Passive Structural Organization](04-information-systems/4-information-systems.md#passive-structural-organization-the-crystallization-mechanism).
+
 ## Consciousness
 A complex emergent property, particularly involving self-awareness and subjective experience (qualia), arising from advanced informational processing within certain agents. Its precise ontological nature and the mechanisms of its emergence from non-experiential physical patterns remain a subject of profound inquiry.
 
@@ -55,6 +61,9 @@ Stories, myths, and accounts shared within a culture that explain its origins, v
 
 ## Cultural Transmission
 The process by which cultural elements (e.g., information, behaviors, customs, values) are passed from one individual to another or from one generation to the next, through learning or imitation.
+
+## Cascading Order <a name="cascading-order"></a>
+A mechanism of [outward stabilization propensity](#outward-stabilization-propensity) whereby local stability creates conditions that favor the emergence of higher-order organizational patterns. This process explains how complex hierarchical organizations emerge from simpler components, with stable patterns at one level creating the foundation for increasingly sophisticated organizational structures at higher levels.
 
 ## Dissipative Adaptation <a name="dissipative-adaptation"></a>
 Jeremy England's principle describing how matter in sustained far-from-equilibrium conditions experiences thermodynamic driving toward configurations that more efficiently dissipate energy through stochastic exploration and statistical selection.
@@ -101,6 +110,9 @@ Data that has been processed, organized, or structured in a way that imparts mea
 ## Information System
 A network or collection of agents, processes, and structures that collect, store, transform, and disseminate information.
 
+## Information Crystallization <a name="information-crystallization"></a>
+A mechanism of [outward stabilization propensity](#outward-stabilization-propensity) whereby organized information patterns tend to recruit and organize previously unstructured information, much like crystal nucleation in physical systems. This process enables stable information patterns to extend their organizational influence by creating coherent structures from disordered informational environments.
+
 ## Information Warfare
 The competitive struggle between information systems for cognitive dominance and behavioral influence, particularly evident in moral disagreements where competing ethical frameworks battle for control over human consciousness and decision-making.
 
@@ -128,8 +140,14 @@ The process whereby organisms better adapted to their environment tend to surviv
 ## Organizational Information
 Patterns and structures formed by fundamental information that give rise to complexity and functional organization in systems.
 
+## Outward Stabilization Propensity <a name="outward-stabilization-propensity"></a>
+A fundamental scale-invariant principle whereby self-stabilizing patterns exhibit a tendency to extend their stability outward to their environment. When a pattern achieves internal stability—whether through quantum mechanical ground states, thermodynamic equilibria, biological homeostasis, or informational consistency—it tends to create zones of increased order and predictability in the surrounding medium through active pattern propagation. This principle operates through four primary mechanisms: [boundary stabilization](#boundary-stabilization), [template effects](#template-effects), [information crystallization](#information-crystallization), and [cascading order](#cascading-order). See [Pattern Stability and Outward Stabilization](01-pattern-realism/1-pattern-realism.md#pattern-stability-and-outward-stabilization).
+
 ## Parasitic Frameworks <a name="parasitic-frameworks"></a>
 Ethical systems that exploit moral sentiments for destructive ends, extracting resources from adherents while providing little benefit to individual flourishing or social cooperation. Distinguished from mutualistic frameworks that promote both individual and community welfare.
+
+## Pattern Persistence Over Material Permanence <a name="pattern-persistence-over-material-permanence"></a>
+A fundamental principle spanning both physical and informational organization whereby organized systems maintain their structural integrity while individual substrate elements undergo continuous replacement. Just as crystal lattices maintain structural coherence while atoms exchange through diffusion and recrystallization, information systems preserve their organizational patterns while substrate elements (neurons, personnel, hardware components) are continuously replaced. This principle demonstrates that pattern stability operates independently of material permanence across scales from quantum systems to complex organizations.
 
 ## Pattern Realism
 A philosophical perspective that treats matter/energy and information as complementary patterns for understanding the universe. It emphasizes that both physical and informational descriptions are valid lenses on reality.
@@ -147,7 +165,7 @@ A condition where the demand for a resource (material, energetic, cognitive, etc
 A state of consciousness in which an agent recognizes itself as a distinct entity, separate from other entities and the environment, often involving introspection and a concept of self.
 
 ## Self-Stabilizing Patterns <a name="self-stabilizing-patterns"></a>
-Organizational structures that maintain their coherence and identity through continuous energy flow and internal self-production processes. These patterns emerge at multiple scales from basic dissipative structures through complex autopoietic systems. Examples include: dissipative structures maintaining organization through energy gradients, autocatalytic networks with mutual reinforcement loops, autopoietic systems with production closure and boundary maintenance, behavioral patterns where meaning-action couplings enhance survival, and nested hierarchies of mutual stabilization across scales. [Ethical frameworks](#ethical-frameworks) represent sophisticated examples of self-stabilizing patterns that develop exceptional persistence through cultural transmission and normative reinforcement.
+Organizational structures that maintain their coherence and identity through continuous energy flow and internal self-production processes. These patterns emerge at multiple scales from basic dissipative structures through complex autopoietic systems and exhibit [outward stabilization propensity](#outward-stabilization-propensity)—the tendency to extend their stability to surrounding environments. Examples include: dissipative structures maintaining organization through energy gradients, autocatalytic networks with mutual reinforcement loops, autopoietic systems with production closure and boundary maintenance, behavioral patterns where meaning-action couplings enhance survival, and nested hierarchies of mutual stabilization across scales. [Ethical frameworks](#ethical-frameworks) represent sophisticated examples of self-stabilizing patterns that develop exceptional persistence through cultural transmission and normative reinforcement.
 
 ## Semantic Information
 Informational content that carries meaning or purpose for an agent, arising from organizational information and its interpretive context.
@@ -160,6 +178,9 @@ A hierarchy of information types:
 
 ## Social Norms
 Shared standards of acceptable behavior by groups. Social norms can both be informal understandings that govern the behavior of members of a society, as well as be codified into rules and laws.
+
+## Template Effects <a name="template-effects"></a>
+A mechanism of [outward stabilization propensity](#outward-stabilization-propensity) whereby self-stabilizing patterns serve as templates that guide the formation of similar or complementary patterns nearby. This process enables stable patterns to propagate their organizational structure by providing structural blueprints that neighboring systems can adopt, creating expanding zones of coherent organization around stable pattern cores.
 
 ## Technological Advancements
 The development and application of new tools, techniques, systems, or methods of organization, often leading to significant changes in how information is processed, societies function, or environments are manipulated.
