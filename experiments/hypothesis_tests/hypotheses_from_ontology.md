@@ -98,6 +98,20 @@ If information structures are like crystals, they can have "defects."
     *   Ensure sufficient `NUM_ITERATIONS_PER_CONFIG` and `NUM_INSTANCES_PER_DEFECT_DENSITY` (especially around the predicted peak) to get robust CV measurements.
 *   **Ontological Significance**: This hypothesis posits a specific, non-monotonic behavior of processing stability (CV) based on the *count and correlation* of defects. If confirmed, it would strongly suggest that the geometric nature and arrangement of defects, not just their overall density, play a critical role in system stability, aligning with the ontology's emphasis on geometric information patterns.
 
+*   **Prediction (Ontology Proponent):**
+    *   The CV for a *small, critical number* (e.g., 1-5) of **line defects** will show one or more distinct peaks, significantly higher than for (a) zero defects, (b) an equivalent number of isolated point defects, and (c) a significantly larger number of line defects (e.g., 10-20).
+    *   The CV for **point defects** will show a more monotonic, gradual increase with defect count, possibly with a sharp rise only at very high defect densities if at all.
+    *   The absolute execution time is expected to increase with any defect, but the *variability* (CV) is the key indicator of geometric destabilization.
+*   **Test Script:** `h5_critical_destabilization_test.py`
+*   **Initial Results Summary (H5):**
+    *   **Date:** $(date +%Y-%m-%d) <!-- TODO: Update date -->
+    *   **Key Findings:** The H5 experiment provided strong evidence supporting the hypothesis.
+        *   **Line Defects:** Showed pronounced CV peaks at 1 line defect (CV ~0.0125) and 4 line defects (CV ~0.0158). These CVs were notably higher than for 2, 3, or 5+ line defects, and also generally higher than for equivalent low-count point defects. The CV for 2 line defects was surprisingly low (~0.0019), close to baseline.
+        *   **Point Defects:** Generally showed low CVs, with a significant spike only at 100 defects (CV ~0.0265).
+    *   **Visual Confirmation:** The plot `h5_cv_vs_defect_count.png` visually confirms these distinct peaks for line defects and the different behavior of point defects.
+    *   **Detailed Analysis:** See `h5_analysis_and_next_steps.md` for a full numerical breakdown, plot interpretation, and further planned investigations.
+    *   **Conclusion:** The results suggest that a small number of correlated geometric defects (lines) can indeed cause localized processing instability (CV peaks) not observed with a similar number of uncorrelated defects or a larger number of correlated defects. This supports the core idea of H5. Further investigation is planned for the anomalous low CV at 2 line defects.
+
 ---
 
 **Challenges for the "Brain from Brane" Project:**
