@@ -11,6 +11,9 @@ dist/
 .installed.cfg
 *.egg
 
+# Python virtual environment
+.venv/
+
 # Development artifacts
 .Python
 develop-eggs/
