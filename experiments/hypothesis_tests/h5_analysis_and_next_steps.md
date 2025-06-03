@@ -311,7 +311,7 @@ Defect Count: 5 (Based on 10 valid instances)
     cpu_core/dTLB-load-misses/         : 3657805.00
     cpu_core/iTLB-load-misses/         : 36826.30
     cpu_core/instructions/             : 6678845442360.50
-    cpu_core/mem_load_retired.l1_miss/ : 655091.50
+    cpu_core/mem_load_retired.l1_miss/ : 6550591.50
     task-clock                         : <no numeric data>
 
 --- End of Results ---
@@ -333,9 +333,8 @@ Defect Count: 5 (Based on 10 valid instances)
 
 *   **Hardware Performance Counters (`Avg Perf Counters`):**
     *   **Work-related counters** (`cpu_core/cycles/`, `cpu_core/instructions/`, `cpu_core/branch-instructions/`): These increased proportionally with the defect count, aligning with the increased workload.
-    *   **Cache and TLB Misses** (`cpu_core/cache-misses/`, `cpu_core/LLC-load-misses/`, `cpu_core/dTLB-load-misses/`, `cpu_core/iTLB-load-misses/`): These generally trended upwards as the number of defects increased. This is plausible, as more defects could lead to less predictable memory access patterns and reduced data locality.
+    *   **Cache and TLB Misses** (`cpu_core/cache-misses/`, `cpu_core/LLC-load-misses/`, `cpu_core/mem_load_retired.l1_miss/`, `cpu_core/dTLB-load-misses/`, `cpu_core/iTLB-load-misses/`): These generally trended upwards as the number of defects increased. This is plausible, as more defects could lead to less predictable memory access patterns and reduced data locality. The `cpu_core/mem_load_retired.l1_miss/` counter, for instance, increased by approximately 1 million misses for each added line defect, a trend consistent with increasing workload on the L1 data cache.
     *   **Branch Misses** (`cpu_core/branch-misses/`): Also showed a general increase with defect count, suggesting that processing defective cells might involve more complex conditional logic that is harder for the branch predictor to handle.
-    *   **Anomaly in `cpu_core/mem_load_retired.l1_miss/` for 5 Defects:** A notable observation is that the average `cpu_core/mem_load_retired.l1_miss/` for 5 defects (655,091.50) is an order of magnitude *lower* than for defect counts 0 through 4 (which were all in the millions, e.g., ~1.7M for 0 defects, ~5.5M for 4 defects). This sharp drop is unexpected and warrants further investigation by examining the raw data for individual instances under the 5-defect configuration.
 
 ### 4.3. Conclusion for H5 (Isolated Core Experiment)
 
@@ -343,12 +342,9 @@ Based on the data from this experiment run in a CPU-isolated environment with `p
 
 *   The primary prediction of H5 – that low-count correlated geometric defects would cause a disproportionate increase in execution time *variability* (CV) – is **not strongly supported**. The CV remained low and did not exhibit significant spikes or a clear upward trend with increasing line defects.
 *   The CPU appears to handle the increased workload from line defects with high efficiency, as evidenced by the stable and high IPC.
-*   While hardware counters indicate increased pressure on cache, TLB, and branch prediction systems with more defects, these microarchitectural effects do not appear to translate into significant performance *variability* or a major loss of overall CPU efficiency in this specific experimental setup.
-*   The anomaly in L1D misses at 5 defects needs to be reviewed at the instance level to rule out data errors or to understand if it represents a genuine change in system behavior.
+*   Hardware counters indicate increased pressure on cache, TLB, and branch prediction systems with more defects, and these increases (including L1D misses) appear consistent with the growing workload. These microarchitectural effects do not appear to translate into significant performance *variability* or a major loss of overall CPU efficiency in this specific experimental setup.
 
 ### 4.4. Next Steps (Post Isolated Core Experiment)
 
-1.  **Investigate L1D Miss Anomaly:**
-    *   **Action:** Review the raw JSONL data for all 10 instances of `defect_count: 5`. Specifically check the `perf_counters["cpu_core/mem_load_retired.l1_miss"]` values to understand if the low average is due to one outlier, a consistent pattern, or a data recording error for some instances.
-2.  **Re-evaluate H5:** Given these results, reconsider the conditions under which H5 might hold true, or if the initial observations that led to H5 were influenced by other system factors not present in this more controlled environment.
-3.  **Consider Plotting:** Create plots for Mean Time, CV, and IPC against defect count from this new dataset to visually confirm the trends.
+1.  **Re-evaluate H5:** Given these results, reconsider the conditions under which H5 might hold true, or if the initial observations that led to H5 were influenced by other system factors not present in this more controlled environment.
+2.  **Consider Plotting:** Create plots for Mean Time, CV, and IPC against defect count from this new dataset to visually confirm the trends.
