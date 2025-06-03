@@ -169,4 +169,186 @@ The visual plot of CV vs. Defect Count provides clear insights:
     *   **Action (Lower Priority):** If resources permit, conduct a focused run on point defects with counts around 100 (e.g., 75, 90, 100, 110, 125) with increased iterations/instances to characterize this peak more precisely.
 
 4.  **Refine H5 Interpretation (Post Follow-up Experiments):**
-    *   After the focused runs (especially for low-count line defects), re-evaluate and refine the interpretations from both the ontology proponent and conventional perspectives. If the dip at 2 line defects is robust, it adds another layer of complexity and interest to the ontology's predictions about geometric interactions.
+    *   After the focused runs (especially for low-count line defects), re-evaluate and refine the interpretations from both the ontology proponent and conventional perspectives. If the dip at 2 line defects is a robust phenomenon, it adds another layer of complexity and interest to the ontology's predictions about geometric interactions.
+
+## 4. H5 Follow-up: Isolated CPU Core with Perf Monitoring
+
+Date: June 3, 2025 (Server Experiment)
+
+Experiment Script: `h5_isolated_perf_test.py` (assisted by `_run_perf_target_iterations.py`)
+Results File: `h5_isolated_perf_results.jsonl`
+Analysis Script: `analyze_h5_results.py`
+
+Environment:
+*   Server: Intel Core i5-12400F (6 cores, 12 logical CPUs)
+*   CPU Isolation: Physical Core 5 (logical CPUs 10 and 11) isolated using kernel parameters (`isolcpus=10,11`, `nohz_full=10,11`, `rcu_nocbs=10,11`).
+*   `perf`: `linux-perf` used with `kernel.perf_event_paranoid=1`.
+*   Process Pinning: Experiment script and `perf stat` pinned to CPU 10.
+
+Key Configuration Parameters (from `h5_isolated_perf_test.py`):
+*   `GRID_SIZE = 50`
+*   `BASE_CELL_WORK_UNITS = 1`
+*   `DEFECT_CELL_WORK_UNITS = 101`
+*   `BUSY_WORK_ITERATIONS_PER_WORK_UNIT = 10000`
+*   `NUM_ITERATIONS_PER_CONFIG` (for helper script, per instance): `25`
+*   `NUM_INSTANCES_PER_COUNT` (in main script): `10`
+*   `LINE_DEFECT_COUNTS_TO_TEST = [0, 1, 2, 3, 4, 5]`
+*   `PERF_EVENTS` monitored: `["cycles", "instructions", "cache-references", "cache-misses", "branch-instructions", "branch-misses", "mem_load_retired.l1_miss", "LLC-loads", "LLC-load-misses", "dTLB-load-misses", "iTLB-load-misses", "cpu-clock", "task-clock"]`
+
+### 4.1. Summary of Aggregated Results (from `analyze_h5_results.py`)
+
+```text
+--- Aggregated Experiment Results ---
+
+Defect Count: 0 (Based on 10 valid instances)
+  Avg Mean Time (ns): 971263104.68
+  Avg CV:             0.005002
+  Avg IPC:            5.8314
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 68835.80
+    cpu_core/LLC-loads/                : 305619.10
+    cpu_core/branch-instructions/      : 111463115289.60
+    cpu_core/branch-misses/            : 1186371.30
+    cpu_core/cache-misses/             : 491961.30
+    cpu_core/cache-references/         : 2155700.50
+    cpu_core/cycles/                   : 106219053309.60
+    cpu_core/dTLB-load-misses/         : 58517.00
+    cpu_core/iTLB-load-misses/         : 2574.30
+    cpu_core/instructions/             : 619402529913.60
+    cpu_core/mem_load_retired.l1_miss/ : 1736968.30
+    task-clock                         : <no numeric data>
+
+Defect Count: 1 (Based on 10 valid instances)
+  Avg Mean Time (ns): 2946215779.03
+  Avg CV:             0.004582
+  Avg IPC:            5.8027
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 104249.70
+    cpu_core/LLC-loads/                : 555703.40
+    cpu_core/branch-instructions/      : 337987650477.40
+    cpu_core/branch-misses/            : 1577276.10
+    cpu_core/cache-misses/             : 692971.40
+    cpu_core/cache-references/         : 2956443.80
+    cpu_core/cycles/                   : 321662532792.80
+    cpu_core/dTLB-load-misses/         : 826489.60
+    cpu_core/iTLB-load-misses/         : 11510.60
+    cpu_core/instructions/             : 1866495271915.90
+    cpu_core/mem_load_retired.l1_miss/ : 2754697.00
+    task-clock                         : <no numeric data>
+
+Defect Count: 2 (Based on 10 valid instances)
+  Avg Mean Time (ns): 4939556566.22
+  Avg CV:             0.005268
+  Avg IPC:            5.7449
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 142939.30
+    cpu_core/LLC-loads/                : 789442.90
+    cpu_core/branch-instructions/      : 559236177252.00
+    cpu_core/branch-misses/            : 1990476.30
+    cpu_core/cache-misses/             : 964036.40
+    cpu_core/cache-references/         : 4145839.30
+    cpu_core/cycles/                   : 539024954856.10
+    cpu_core/dTLB-load-misses/         : 1587415.70
+    cpu_core/iTLB-load-misses/         : 20497.90
+    cpu_core/instructions/             : 3096623623033.50
+    cpu_core/mem_load_retired.l1_miss/ : 3734167.10
+    task-clock                         : <no numeric data>
+
+Defect Count: 3 (Based on 10 valid instances)
+  Avg Mean Time (ns): 6780185393.45
+  Avg CV:             0.006663
+  Avg IPC:            5.8290
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 172618.00
+    cpu_core/LLC-loads/                : 1026121.20
+    cpu_core/branch-instructions/      : 778352025084.20
+    cpu_core/branch-misses/            : 2345322.50
+    cpu_core/cache-misses/             : 1155547.70
+    cpu_core/cache-references/         : 4902175.60
+    cpu_core/cycles/                   : 739391866699.60
+    cpu_core/dTLB-load-misses/         : 2374897.50
+    cpu_core/iTLB-load-misses/         : 45829.00
+    cpu_core/instructions/             : 4309894256235.80
+    cpu_core/mem_load_retired.l1_miss/ : 4610855.60
+    task-clock                         : <no numeric data>
+
+Defect Count: 4 (Based on 10 valid instances)
+  Avg Mean Time (ns): 8695987328.07
+  Avg CV:             0.005615
+  Avg IPC:            5.8140
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 207332.50
+    cpu_core/LLC-loads/                : 1240060.90
+    cpu_core/branch-instructions/      : 996124489867.60
+    cpu_core/branch-misses/            : 2741436.30
+    cpu_core/cache-misses/             : 1382647.40
+    cpu_core/cache-references/         : 5795231.50
+    cpu_core/cycles/                   : 948641716441.50
+    cpu_core/dTLB-load-misses/         : 3169041.40
+    cpu_core/iTLB-load-misses/         : 41280.00
+    cpu_core/instructions/             : 5515438191605.00
+    cpu_core/mem_load_retired.l1_miss/ : 5533190.00
+    task-clock                         : <no numeric data>
+
+Defect Count: 5 (Based on 10 valid instances)
+  Avg Mean Time (ns): 10582895894.50
+  Avg CV:             0.005929
+  Avg IPC:            5.7849
+  Avg Perf Counters:
+    cpu-clock                          : <no numeric data>
+    cpu_core/LLC-load-misses/          : 250610.30
+    cpu_core/LLC-loads/                : 1509107.80
+    cpu_core/branch-instructions/      : 1195976165235.20
+    cpu_core/branch-misses/            : 3114594.50
+    cpu_core/cache-misses/             : 1560930.50
+    cpu_core/cache-references/         : 6742075.70
+    cpu_core/cycles/                   : 1154533935140.90
+    cpu_core/dTLB-load-misses/         : 3657805.00
+    cpu_core/iTLB-load-misses/         : 36826.30
+    cpu_core/instructions/             : 6678845442360.50
+    cpu_core/mem_load_retired.l1_miss/ : 655091.50
+    task-clock                         : <no numeric data>
+
+--- End of Results ---
+```
+
+### 4.2. Interpretation and H5 Evaluation (Isolated Core Experiment)
+
+*   **Mean Execution Time (`Avg Mean Time (ns)`):**
+    *   As anticipated, the average execution time increased substantially and roughly linearly with the number of line defects. This is consistent with each defect line adding a fixed amount of additional computational work.
+
+*   **Coefficient of Variation (`Avg CV`):**
+    *   The CV values remained consistently low across all defect counts (ranging from ~0.0046 to ~0.0067).
+    *   There was no clear or significant trend of increasing CV as line defect counts increased. Specifically, there was no indication of a sharp rise in variability at low defect counts that would suggest "critical destabilization."
+    *   This observation **does not strongly support** the core tenet of H5 concerning increased execution time variability due to low-count correlated defects in this controlled environment.
+
+*   **Instructions Per Cycle (`Avg IPC`):**
+    *   The IPC remained very high (between ~5.74 and ~5.83) and relatively stable across all defect configurations.
+    *   This indicates that the CPU maintained high efficiency, and the introduction of line defects did not lead to significant pipeline stalls or a major degradation in the rate of instruction execution.
+
+*   **Hardware Performance Counters (`Avg Perf Counters`):**
+    *   **Work-related counters** (`cpu_core/cycles/`, `cpu_core/instructions/`, `cpu_core/branch-instructions/`): These increased proportionally with the defect count, aligning with the increased workload.
+    *   **Cache and TLB Misses** (`cpu_core/cache-misses/`, `cpu_core/LLC-load-misses/`, `cpu_core/dTLB-load-misses/`, `cpu_core/iTLB-load-misses/`): These generally trended upwards as the number of defects increased. This is plausible, as more defects could lead to less predictable memory access patterns and reduced data locality.
+    *   **Branch Misses** (`cpu_core/branch-misses/`): Also showed a general increase with defect count, suggesting that processing defective cells might involve more complex conditional logic that is harder for the branch predictor to handle.
+    *   **Anomaly in `cpu_core/mem_load_retired.l1_miss/` for 5 Defects:** A notable observation is that the average `cpu_core/mem_load_retired.l1_miss/` for 5 defects (655,091.50) is an order of magnitude *lower* than for defect counts 0 through 4 (which were all in the millions, e.g., ~1.7M for 0 defects, ~5.5M for 4 defects). This sharp drop is unexpected and warrants further investigation by examining the raw data for individual instances under the 5-defect configuration.
+
+### 4.3. Conclusion for H5 (Isolated Core Experiment)
+
+Based on the data from this experiment run in a CPU-isolated environment with `perf` monitoring:
+
+*   The primary prediction of H5 – that low-count correlated geometric defects would cause a disproportionate increase in execution time *variability* (CV) – is **not strongly supported**. The CV remained low and did not exhibit significant spikes or a clear upward trend with increasing line defects.
+*   The CPU appears to handle the increased workload from line defects with high efficiency, as evidenced by the stable and high IPC.
+*   While hardware counters indicate increased pressure on cache, TLB, and branch prediction systems with more defects, these microarchitectural effects do not appear to translate into significant performance *variability* or a major loss of overall CPU efficiency in this specific experimental setup.
+*   The anomaly in L1D misses at 5 defects needs to be reviewed at the instance level to rule out data errors or to understand if it represents a genuine change in system behavior.
+
+### 4.4. Next Steps (Post Isolated Core Experiment)
+
+1.  **Investigate L1D Miss Anomaly:**
+    *   **Action:** Review the raw JSONL data for all 10 instances of `defect_count: 5`. Specifically check the `perf_counters["cpu_core/mem_load_retired.l1_miss"]` values to understand if the low average is due to one outlier, a consistent pattern, or a data recording error for some instances.
+2.  **Re-evaluate H5:** Given these results, reconsider the conditions under which H5 might hold true, or if the initial observations that led to H5 were influenced by other system factors not present in this more controlled environment.
+3.  **Consider Plotting:** Create plots for Mean Time, CV, and IPC against defect count from this new dataset to visually confirm the trends.
