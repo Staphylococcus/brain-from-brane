@@ -5,12 +5,20 @@ This experiment is a follow-up to H5 to specifically investigate the low CV obse
 for 2 line defects with higher statistical confidence.
 It focuses only on line defects with counts 0, 1, 2, 3, and 4,
 using increased iterations and instances per configuration.
+
+MODIFIED FOR TEMPERATURE LOGGING: This version will only run the baseline (0 defects)
+configuration and log CPU temperatures during that run.
+
+MODIFIED FOR FULL RUN: This version will run line defect counts [0, 1, 2, 3, 4, 5]
+with higher iterations and instances. Temperature logging is disabled.
 """
 
 import time
 import statistics
 import random
 import copy
+import subprocess
+import os
 
 # --- Make @profile a no-op if line_profiler is not being used ---
 try:
@@ -25,16 +33,19 @@ except NameError:
 GRID_SIZE = 50  # Grid will be GRID_SIZE x GRID_SIZE
 BASE_CELL_WORK_UNITS = 1 # Multiplier for busy work in a normal cell
 DEFECT_CELL_WORK_UNITS = 101 # Multiplier for busy work in a defective cell (BASE + INCREASE)
-# Using the same calibrated value from H4/H5
 BUSY_WORK_ITERATIONS_PER_WORK_UNIT = 10000
 
-# Increased for higher statistical confidence on these specific counts
 NUM_ITERATIONS_PER_CONFIG = 25 
 NUM_INSTANCES_PER_COUNT = 10   
 
-# Defect counts to test directly - focus on the area of interest
-LINE_DEFECT_COUNTS = [0, 1, 2, 3, 4] 
-# POINT_DEFECT_COUNTS are not tested in this follow-up script
+# LINE_DEFECT_COUNTS = [0] # MODIFIED: Only baseline for this temp logging run
+LINE_DEFECT_COUNTS = [0, 1, 2, 3, 4, 5] # Run full set of low line defect counts
+
+# --- Paths for temperature logging ---
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+TEMP_LOGGER_SCRIPT = os.path.join(SCRIPT_DIR, "utils", "log_cpu_temps.py")
+TEMP_LOGGER_STOP_FLAG = os.path.join(SCRIPT_DIR, "stop_temp_logging.flag")
+TEMP_LOG_OUTPUT = os.path.join(SCRIPT_DIR, "temperature_log_h5_followup_baseline.csv") # Specific name
 
 # --- Crystal and Defect Implementation (Copied from H5, unchanged) ---
 class CrystalGrid:
@@ -168,7 +179,7 @@ def run_single_config_test(crystal, defect_type, defect_count, defect_work_units
 
 def run_experiment():
     """Runs the focused follow-up experiment."""
-    print("🔬 H5 FOLLOW-UP: INVESTIGATE LOW CV FOR 2 LINE DEFECTS")
+    print("🔬 H5 FOLLOW-UP (LOW COUNT LINE DEFECTS - FULL RUN)")
     print(f"Grid Size: {GRID_SIZE}x{GRID_SIZE}, Base Work Units: {BASE_CELL_WORK_UNITS}")
     print(f"Defect Work Units: {DEFECT_CELL_WORK_UNITS}")
     print(f"Busy Work Iterations per Unit: {BUSY_WORK_ITERATIONS_PER_WORK_UNIT}")
@@ -176,25 +187,67 @@ def run_experiment():
     print("-" * 80)
     print("Defect Type,Defect Count,Mean Exec Time (ms),CV")
 
+    # --- Start Temperature Logger ---
+    logger_process = None
+    # default_temp_log_path = os.path.join(SCRIPT_DIR, "temperature_log.csv")
+    # if os.path.exists(default_temp_log_path):
+    #     try:
+    #         os.remove(default_temp_log_path)
+    #         print(f"Removed existing default temp log: {default_temp_log_path}")
+    #     except OSError as e:
+    #         print(f"Error removing existing temp log {default_temp_log_path}: {e}") 
+    # 
+    # if os.path.exists(TEMP_LOGGER_STOP_FLAG):
+    #      os.remove(TEMP_LOGGER_STOP_FLAG)
+    # 
+    # if not os.path.exists(TEMP_LOGGER_SCRIPT):
+    #     print(f"ERROR: Temperature logger script not found at {TEMP_LOGGER_SCRIPT}")
+    #     print("Skipping temperature logging.")
+    # else:
+    #     print(f"Starting temperature logger: {TEMP_LOGGER_SCRIPT}")
+    #     python_executable = "python3"
+    #     venv_python = os.path.join(SCRIPT_DIR, "..", ".venv", "bin", "python3") 
+    #     if os.path.exists(venv_python):
+    #         python_executable = venv_python
+    #         print(f"Using venv python: {python_executable}")
+    #     else:
+    #         print(f"Using system python: {python_executable}")
+    #     
+    #     try:
+    #         logger_process = subprocess.Popen([python_executable, TEMP_LOGGER_SCRIPT])
+    #         print(f"Temperature logger process started (PID: {logger_process.pid}).")
+    #         time.sleep(2) 
+    #     except Exception as e:
+    #         print(f"Failed to start temperature logger: {e}")
+    #         logger_process = None
+    # -------------------------------- (Temperature Logging Disabled)
+
     crystal = CrystalGrid(GRID_SIZE, BASE_CELL_WORK_UNITS)
 
     try:
-        # Test Line Defects by count (focused range)
-        print("\nStarting: Focused Line Defects Loop (by count)")
-        for count in LINE_DEFECT_COUNTS:
-            print(f"Starting: Line Defects, Count: {count}")
-            
-            # For baseline (count=0), num_instances can be 1 to save time, or use full for max confidence.
-            # Using full NUM_INSTANCES_PER_COUNT for baseline here for consistency in measurement.
-            current_instances = NUM_INSTANCES_PER_COUNT 
-            
-            mean_ns, cv = run_single_config_test(crystal, "line", count, DEFECT_CELL_WORK_UNITS, 
-                                                    process_crystal, BUSY_WORK_ITERATIONS_PER_WORK_UNIT,
-                                                    NUM_ITERATIONS_PER_CONFIG, current_instances)
-            defect_type_str = "Baseline" if count == 0 else "Line"
-            print(f"{defect_type_str},{count},{mean_ns / 1e6:.3f},{cv:.6f}")
-            print(f"Finished: Line Defects, Count: {count}")
-        print("Finished: Focused Line Defects Loop (by count)")
+        print("\nStarting: Focused Line Defects Loop (Full Run)")
+        for count in LINE_DEFECT_COUNTS: 
+            if count == 0:
+                print(f"Starting: Line Defects, Count: {count} (Baseline)")
+                current_instances = NUM_INSTANCES_PER_COUNT # Use full instances for baseline too
+                
+                mean_ns, cv = run_single_config_test(crystal, "line", count, DEFECT_CELL_WORK_UNITS, 
+                                                        process_crystal, BUSY_WORK_ITERATIONS_PER_WORK_UNIT,
+                                                        NUM_ITERATIONS_PER_CONFIG, current_instances)
+                defect_type_str = "Baseline" # Keep "Baseline" for count 0 for clarity
+                print(f"{defect_type_str},{count},{mean_ns / 1e6:.3f},{cv:.6f}")
+                print(f"Finished: Line Defects, Count: {count}")
+            else:
+                print(f"Starting: Line Defects, Count: {count}")
+                current_instances = NUM_INSTANCES_PER_COUNT
+                
+                mean_ns, cv = run_single_config_test(crystal, "line", count, DEFECT_CELL_WORK_UNITS, 
+                                                        process_crystal, BUSY_WORK_ITERATIONS_PER_WORK_UNIT,
+                                                        NUM_ITERATIONS_PER_CONFIG, current_instances)
+                defect_type_str = "Line"
+                print(f"{defect_type_str},{count},{mean_ns / 1e6:.3f},{cv:.6f}")
+                print(f"Finished: Line Defects, Count: {count}")
+        print("Finished: Focused Line Defects Loop (Full Run)")
 
     except Exception as e:
         print("\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
@@ -202,9 +255,41 @@ def run_experiment():
         import traceback
         traceback.print_exc()
         print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n")
+    finally:
+        # --- Stop Temperature Logger ---
+        if logger_process:
+            print("Signaling temperature logger to stop...")
+            # with open(TEMP_LOGGER_STOP_FLAG, 'w') as f_stop:
+            #     f_stop.write('stop')
+            # 
+            # print("Waiting for temperature logger to terminate...")
+            # try:
+            #     logger_process.wait(timeout=10) 
+            #     if logger_process.poll() is None:
+            #         print("Temperature logger did not terminate in time, attempting to kill.")
+            #         logger_process.kill()
+            #         logger_process.wait(timeout=5)
+            #     print("Temperature logger process finished.")
+            # except subprocess.TimeoutExpired:
+            #     print("Timeout waiting for logger to stop. It might still be running.")
+            # except Exception as e:
+            #     print(f"Error managing logger process: {e}")
+            # 
+            # if os.path.exists(default_temp_log_path):
+            #     try:
+            #         os.rename(default_temp_log_path, TEMP_LOG_OUTPUT)
+            #         print(f"Temperature log saved to: {TEMP_LOG_OUTPUT}")
+            #     except OSError as e:
+            #         print(f"Error renaming temp log {default_temp_log_path} to {TEMP_LOG_OUTPUT}: {e}")
+            # else:
+            #     print(f"Warning: Expected temperature log {default_temp_log_path} not found for renaming.")
+        
+        # if os.path.exists(TEMP_LOGGER_STOP_FLAG):
+        #      os.remove(TEMP_LOGGER_STOP_FLAG)
+        # -------------------------------- (Temperature Logging Disabled)
 
     print("-" * 80)
-    print("Follow-up experiment finished.")
+    print("H5 Follow-up (Low Count Line Defects - Full Run) finished.")
 
 if __name__ == "__main__":
     run_experiment() 

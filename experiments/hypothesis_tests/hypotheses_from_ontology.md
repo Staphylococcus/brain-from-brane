@@ -102,15 +102,26 @@ If information structures are like crystals, they can have "defects."
     *   The CV for a *small, critical number* (e.g., 1-5) of **line defects** will show one or more distinct peaks, significantly higher than for (a) zero defects, (b) an equivalent number of isolated point defects, and (c) a significantly larger number of line defects (e.g., 10-20).
     *   The CV for **point defects** will show a more monotonic, gradual increase with defect count, possibly with a sharp rise only at very high defect densities if at all.
     *   The absolute execution time is expected to increase with any defect, but the *variability* (CV) is the key indicator of geometric destabilization.
-*   **Test Script:** `h5_critical_destabilization_test.py`
-*   **Initial Results Summary (H5):**
+*   **Test Script:** `h5_critical_destabilization_test.py` (initial) and `h5_followup_low_count_lines_test.py` (follow-up)
+*   **Experimental Results Summary (H5 & Follow-up):**
     *   **Date:** $(date +%Y-%m-%d) <!-- TODO: Update date -->
-    *   **Key Findings:** The H5 experiment provided strong evidence supporting the hypothesis.
-        *   **Line Defects:** Showed pronounced CV peaks at 1 line defect (CV ~0.0125) and 4 line defects (CV ~0.0158). These CVs were notably higher than for 2, 3, or 5+ line defects, and also generally higher than for equivalent low-count point defects. The CV for 2 line defects was surprisingly low (~0.0019), close to baseline.
-        *   **Point Defects:** Generally showed low CVs, with a significant spike only at 100 defects (CV ~0.0265).
-    *   **Visual Confirmation:** The plot `h5_cv_vs_defect_count.png` visually confirms these distinct peaks for line defects and the different behavior of point defects.
-    *   **Detailed Analysis:** See `h5_analysis_and_next_steps.md` for a full numerical breakdown, plot interpretation, and further planned investigations.
-    *   **Conclusion:** The results suggest that a small number of correlated geometric defects (lines) can indeed cause localized processing instability (CV peaks) not observed with a similar number of uncorrelated defects or a larger number of correlated defects. This supports the core idea of H5. Further investigation is planned for the anomalous low CV at 2 line defects.
+    *   **Initial H5 Run (`h5_critical_destabilization_test.py`):**
+        *   **Key Findings:** This experiment, characterized by a very low baseline CV (~0.0015), provided initial evidence supporting the hypothesis.
+            *   **Line Defects:** Showed pronounced CV peaks at 1 line defect (CV ~0.0125) and 4 line defects (CV ~0.0158). These CVs were notably higher than for 2, 3, or 5+ line defects, and also higher than for equivalent low-count point defects. The CV for 2 line defects was anomalously low (~0.0019), close to the baseline.
+            *   **Point Defects:** Generally showed low CVs, with a significant spike only at 100 defects (CV ~0.0265).
+        *   **Visual Confirmation:** The plot `h5_cv_vs_defect_count.png` from this run visually confirmed these distinct peaks for line defects relative to the very low baseline.
+        *   **Detailed Analysis:** See `h5_analysis_and_next_steps.md`.
+    *   **H5 Follow-up Run (`h5_followup_low_count_lines_test.py`):**
+        *   **Purpose:** To investigate the low-count line defect behavior (especially the 2-line anomaly) with higher statistical confidence (increased iterations/instances).
+        *   **Key Findings:** This more intensive experiment yielded a significantly higher baseline CV (~0.0191).
+            *   The CVs for 1-4 line defects were all lower than this new baseline (ranging from ~0.0168 to ~0.0173) and did not show prominent peaks *above* this baseline.
+            *   The anomalously low CV for 2 line defects from the initial run was not replicated; its CV was in line with other defect counts in this follow-up.
+        *   **Detailed Analysis:** See `h5_followup_analysis.md`.
+    *   **Combined Conclusion for H5:**
+        *   The initial H5 results, obtained under conditions of exceptionally low baseline timing variability, suggested that a small number of correlated geometric defects (lines) could cause localized processing instability (CV peaks) not observed with uncorrelated defects or different defect counts. This supported H5.
+        *   However, the follow-up experiment, with more robust sampling and a significantly higher baseline CV, did not replicate these distinct peaks relative to its own baseline. This suggests that the observed phenomenon might be highly sensitive to the underlying system stability (i.e., the "noise floor" of the measurements).
+        *   The difference in baseline CV between the two runs is a critical factor. Potential contributors include the duration and intensity of computational load leading to variations in CPU temperature or other system-level factors that can increase timing variability.
+        *   **Current Status of H5:** The strong initial support for H5 is now qualified. The hypothesis that specific low counts of correlated defects cause *destabilization above baseline* appears to depend heavily on achieving a very low-noise measurement environment. Further investigation into factors affecting baseline CV, such as CPU temperature, is warranted to understand the conditions under which such geometric signatures might be reliably observed.
 
 ---
 
