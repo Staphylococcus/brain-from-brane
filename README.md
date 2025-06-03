@@ -35,32 +35,6 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 - [License and Citation](#license-and-citation)
 - [Contributing](#contributing)
 
-## Experimental Validation Update
-
-**June 2, 2025** - Recent experimental work has provided support for several core predictions of the Brain from Brane framework regarding information geometry effects in computational systems:
-
-### Key Findings
-1. **Crystallographic Filesystem Periodicity**: 99.3% accuracy predicting timing patterns (CV = 0.140 vs predicted 0.150)
-2. **Fractal Computation Signatures**: 5.4x higher timing variability in fractal vs linear algorithms  
-3. **Geometric Array Access Patterns**: 2.9x higher timing variability in geometric vs sequential access
-4. **Cross-Domain Consistency**: Similar geometric signature patterns across multiple computational systems
-
-### Significance
-- Multi-domain validation of geometric information theory predictions
-- Evidence for information-physical interfaces with nanosecond precision timing
-- Rapid experimental protocol (30-minute validation session)
-- Framework predictions supported across filesystem, computation, and data structure domains
-
-**Quick Test (30 seconds):**
-```bash
-git clone https://github.com/Staphylococcus/brain-from-brane.git
-cd brain-from-brane/experiments/crystallographic-periodicity/scripts/
-python3 simple_geometry_test.py
-```
-
-**Documentation:** [Complete Experimental Results →](experiments/)
-
----
 
 ## Project Structure
 
