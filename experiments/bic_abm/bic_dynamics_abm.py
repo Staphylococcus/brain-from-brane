@@ -3,7 +3,7 @@ from abm_components import InfoSys, Agent
 
 # Simulation Parameters (Portfolio Model)
 NUM_AGENTS = 50
-NUM_GENERATIONS = 100
+NUM_GENERATIONS = 200
 INTERACTIONS_PER_AGENT_PER_GENERATION = 5
 DIRECT_EXPOSURE_PROBABILITY = 0.075 # Increased from 0.05
 AGENT_MAX_COMMITMENT_CAPACITY = 1.5 # Max total strength an agent can hold
@@ -14,6 +14,56 @@ COMMITMENT_DECAY_RATE = 0.005       # Strength decay per generation for committe
 MIN_STRENGTH_FOR_LOCKED_IN_DECAY_MODIFIER = 0.7 # Min strength for locked-in IS to benefit from reduced decay
 AFFINITY_REINFORCEMENT_MULTIPLIER = 2.0 # New global parameter for agent initialization
 # AGENT_INITIAL_VITALITY = 1.0 # This will be handled by default in Agent class for now
+AVERAGE_AGENT_DEGREE = 10 # New parameter for network model
+
+def _generate_simple_random_network(agents_list, avg_degree):
+    """Generates a simple undirected random network (adjacency list)."""
+    num_agents = len(agents_list)
+    agent_ids = [agent.id for agent in agents_list]
+    agent_neighbors_map = {agent_id: [] for agent_id in agent_ids}
+    
+    if num_agents == 0 or avg_degree == 0:
+        return agent_neighbors_map
+
+    for agent_id in agent_ids:
+        # Attempt to add edges until avg_degree is met for this agent
+        # This is a heuristic and might not result in exact avg_degree for all nodes
+        # or a perfectly regular graph, but aims for general connectivity.
+        while len(agent_neighbors_map[agent_id]) < avg_degree:
+            # Find potential neighbors (not self, not already a neighbor)
+            potential_neighbor_ids = [pid for pid in agent_ids if pid != agent_id and pid not in agent_neighbors_map[agent_id]]
+            
+            if not potential_neighbor_ids:
+                break # No more unique neighbors to connect to
+            
+            chosen_neighbor_id = random.choice(potential_neighbor_ids)
+            
+            # Add edge if the chosen neighbor also has capacity for more edges (optional, but helps distribute)
+            # For simplicity in this first pass, we'll just add, but be mindful of creating super-hubs if avg_degree is high.
+            # Let's ensure the chosen neighbor isn't already at its target degree to avoid over-connecting some nodes too much.
+            if len(agent_neighbors_map[chosen_neighbor_id]) < avg_degree:
+                agent_neighbors_map[agent_id].append(chosen_neighbor_id)
+                agent_neighbors_map[chosen_neighbor_id].append(agent_id)
+            else:
+                # If chosen neighbor is full, this agent might not reach full avg_degree
+                # if all other available nodes are also full. This is a limitation of this simple algorithm.
+                # To try to mitigate, let's try to find another one a few times.
+                found_another = False
+                for _ in range(num_agents): # Try a few more times to find a non-full neighbor
+                    alt_neighbor_id = random.choice(potential_neighbor_ids)
+                    if len(agent_neighbors_map[alt_neighbor_id]) < avg_degree and alt_neighbor_id not in agent_neighbors_map[agent_id] :
+                        agent_neighbors_map[agent_id].append(alt_neighbor_id)
+                        agent_neighbors_map[alt_neighbor_id].append(agent_id)
+                        found_another = True
+                        break
+                if not found_another:
+                    break # Couldn't find a suitable neighbor quickly
+
+    # Final check to remove duplicates just in case (shouldn't happen with current logic but good practice)
+    for agent_id in agent_ids:
+        agent_neighbors_map[agent_id] = list(set(agent_neighbors_map[agent_id]))
+        
+    return agent_neighbors_map
 
 def run_simulation():
     infosystems = [
@@ -32,9 +82,13 @@ def run_simulation():
                     initial_commitment_strength=INITIAL_COMMITMENT_STRENGTH,
                     commitment_reinforcement_bonus=COMMITMENT_REINFORCEMENT_BONUS,
                     affinity_reinforcement_multiplier=AFFINITY_REINFORCEMENT_MULTIPLIER
+                    # initial_vitality will use Agent class default
                     ) for i in range(NUM_AGENTS)]
+    
+    agent_neighbors_map = _generate_simple_random_network(agents, AVERAGE_AGENT_DEGREE)
 
-    print(f"Starting simulation with {NUM_AGENTS} agents, {len(infosystems)} InfoSys, for {NUM_GENERATIONS} generations (Portfolio Model v2 - Affinity Propagation).")
+    print(f"Starting simulation with {NUM_AGENTS} agents on a network (avg degree ~{AVERAGE_AGENT_DEGREE}), {len(infosystems)} InfoSys, for {NUM_GENERATIONS} generations.")
+    print(f"Model: Portfolio v2 + Affinity Propagation + Vitality + Networked Interactions.")
     print(f"Agent capacity: {AGENT_MAX_COMMITMENT_CAPACITY}, IS growth: {COMMITMENT_GROWTH_RATE}, IS decay: {COMMITMENT_DECAY_RATE}, Affinity Multiplier: {AFFINITY_REINFORCEMENT_MULTIPLIER}")
 
     history = []
@@ -50,11 +104,20 @@ def run_simulation():
         # Step 2: Agent Interaction & Propagation
         for agent in agents:
             if agent.is_commitments: # Agent must have at least one IS to propagate
+                agent_actual_neighbors = agent_neighbors_map.get(agent.id, [])
+                if not agent_actual_neighbors: # Agent has no neighbors
+                    continue
+
                 for _ in range(INTERACTIONS_PER_AGENT_PER_GENERATION):
-                    target_agent = random.choice(agents)
-                    if target_agent.id != agent.id:
-                        agent.attempt_propagation(target_agent, infosystems)
-        
+                    # Propagate to a random neighbor
+                    target_agent_id = random.choice(agent_actual_neighbors)
+                    if 0 <= target_agent_id < len(agents):
+                        target_agent = agents[target_agent_id]
+                        if target_agent.id != agent.id: 
+                            agent.attempt_propagation(target_agent, infosystems)
+                    else:
+                        print(f"Warning: Agent {agent.id} attempting to propagate to invalid target_agent_id {target_agent_id}")
+
         # Step 3: Update IS States (growth, lock-in)
         for agent in agents:
             agent.update_is_states(infosystems,

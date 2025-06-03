@@ -387,6 +387,135 @@ Building on the Affinity Propagation model, this phase introduces the concept of
   - **IS6 (Mutualistic) Still Fails:** The positive vitality impact of IS6 was not enough to overcome its low infectivity and high lock-in threshold.
   - **Model Sensitivity:** The dynamics of the system are sensitive to the interplay of infectivity, propagation mechanics, and now vitality impacts. The most infectious IS (IS5) dominated despite its parasitic nature.
 
+**Phase 1.e: Networked Interactions (Portfolio v2 + Affinity Propagation + Vitality + Network)**
+
+- **Rationale:**
+    - To move beyond the well-mixed assumption where any agent can interact with any other.
+    - To model how spatial or social structures (represented abstractly as a network) might affect IS propagation, leading to the formation of "BIC blobs" or echo chambers.
+    - To see if network structures can provide niches for less aggressive ISs or slow down the dominance of highly infectious ones.
+
+- **Key Changes in Model (for Run 9 onwards):**
+    - New simulation parameter: `AVERAGE_AGENT_DEGREE`.
+    - A `_generate_simple_random_network(agents_list, avg_degree)` function is added to create an `agent_neighbors_map` (adjacency list) at the start of the simulation.
+    - **`attempt_propagation` (in `run_simulation`):** The interaction step in `run_simulation` is modified. Instead of choosing a random agent from the entire population, a propagating agent now randomly chooses a target agent only from its list of direct neighbors in `agent_neighbors_map`.
+
+**Run 9: First Networked Model (avg_degree=6) (2025-06-03)**
+
+- **Model Type:** Portfolio Model with Affinity Propagation, Vitality, and Networked Interactions (as described in Phase 1.e).
+- **Parameters Used:** Same as Run 8 (boosted base parameters, `AFFINITY_REINFORCEMENT_MULTIPLIER = 2.0`, vitality impacts for IS1-IS6), with the addition of:
+    - `AVERAGE_AGENT_DEGREE = 6`
+- **Observed Dynamics (Summary at Generation 99):**
+    - **Uncommitted Agents:** 0. All 50 agents were committed.
+    - **Agent Vitality (Initial Avg: 1.00):**
+        - Average: 1.00
+        - Min: 0.85
+        - Max: 1.10
+    - **IS Stats (Committed Agents | Avg Strength | Locked-in | Vitality Impact):**
+        - IS1 (Commensal, V: 0.0): 47 committed | 0.35 avg str | 23 locked
+        - IS2 (Mutualistic, V: +0.002): 48 committed | 0.40 avg str | 17 locked
+        - IS3 (Commensal, V: 0.0): 47 committed | 0.27 avg str | 21 locked
+        - IS4 (Slightly Parasitic, V: -0.001): 47 committed | 0.31 avg str | 10 locked
+        - IS5 (Parasitic, V: -0.003): 37 committed | 0.29 avg str | 11 locked
+        - IS6 (Mutualistic, V: +0.005): 0 committed
+    - **Portfolio Size Distribution (Num ISs: Num Agents):**
+        - 3 ISs: 3 agents
+        - 4 ISs: 18 agents
+        - 5 ISs: 29 agents
+- **Interpretation:**
+    - **Profound Impact of Network Structure:** The introduction of a network drastically changed the competitive landscape compared to the well-mixed Run 8.
+    - **No Single Dominant IS:** Unlike Run 8 where parasitic IS5 achieved hegemony, Run 9 shows a much more balanced ecosystem. IS1, IS2, IS3, and IS4 are all highly prevalent (47-48 agents) with comparable strengths. IS5 is still successful (37 agents) but not overwhelmingly dominant.
+    - **Slower, More Contested Spread:** The network appears to have localized interactions, preventing any single IS from achieving rapid global saturation. This allowed multiple ISs to establish themselves in different parts of the "social graph."
+    - **Healthier Agent Population:** Average agent vitality returned to 1.00 (from 0.90 in Run 8), and minimum vitality also improved. This is because the parasitic IS5 did not achieve the same overwhelming strength and widespread, high-strength adoption, allowing the mutualistic IS2 to perform better.
+    - **Increased Portfolio Diversity:** Agents tended to have even larger portfolios (many with 5 ISs), suggesting that the localized spread allowed agents to be exposed to and adopt a wider variety of ISs from their neighbors before any single one could dominate their cognitive capacity globally.
+    - **IS6 Still Fails:** Despite the network, IS6's parameters remain too challenging for it to gain any foothold.
+    - **"BIC Blobs" Implied:** The results strongly suggest that localized "blobs" of IS consensus formed and competed, leading to a more diverse and less centralized outcome.
+
+**Run 10: Networked Model (avg_degree=10) (2025-06-03)**
+
+- **Model Type:** Portfolio Model with Affinity Propagation, Vitality, and Networked Interactions.
+- **Parameters Used:** Same as Run 9 (`AVERAGE_AGENT_DEGREE = 6`), except:
+    - `AVERAGE_AGENT_DEGREE = 10`
+- **Observed Dynamics (Summary at Generation 99):**
+    - **Uncommitted Agents:** 0. All 50 agents were committed.
+    - **Agent Vitality (Initial Avg: 1.00):**
+        - Average: 0.91
+        - Min: 0.79
+        - Max: 1.17
+    - **IS Stats (Committed Agents | Avg Strength | Locked-in | Vitality Impact):**
+        - IS5 (Parasitic, V: -0.003): 50 committed | 0.75 avg str | 50 locked (Dominant)
+        - IS1 (Commensal, V: 0.0): 50 committed | 0.47 avg str | 34 locked
+        - IS3 (Commensal, V: 0.0): 40 committed | 0.23 avg str | 4 locked
+        - IS2 (Mutualistic, V: +0.002): 14 committed | 0.16 avg str | 1 locked
+        - IS6 (Mutualistic, V: +0.005): 9 committed | 0.14 avg str | 1 locked
+        - IS4 (Slightly Parasitic, V: -0.001): 3 committed | 0.13 avg str | 0 locked
+    - **Portfolio Size Distribution (Num ISs: Num Agents):**
+        - 2 ISs: 5 agents
+        - 3 ISs: 30 agents
+        - 4 ISs: 10 agents
+        - 5 ISs: 4 agents
+        - 6 ISs: 1 agent
+- **Interpretation:**
+    - **Increased Connectivity Favors IS5 Dominance:** Increasing `AVERAGE_AGENT_DEGREE` from 6 (Run 9) to 10 shifted the outcome significantly. Parasitic IS5 became dominant (all agents, high strength, full lock-in), similar to its behavior in the well-mixed Run 8. This supports the idea that higher network density moves outcomes closer to well-mixed conditions.
+    - **Reduced Diversity:** Compared to Run 9, overall IS diversity decreased. While IS1 remains a strong co-commitment, IS2, IS3, and IS4 saw their presence and/or strength considerably reduced.
+    - **Lower Agent Vitality:** Average vitality dropped to 0.91 (from 1.00 in Run 9), reflecting the increased burden of the dominant parasitic IS5. Minimum vitality also dropped.
+    - **Emergence of IS6 Niche:** Surprisingly, IS6 (Mutualistic, very low infectivity) managed to secure a small niche (9 agents, 1 locked). The increased number of connections might have provided it with just enough propagation opportunities to find and lock into a few agents not immediately saturated by IS5, despite IS5's overall dominance.
+    - **Portfolio Composition:** The typical portfolio size shifted towards 3 ISs, likely due to IS5's high strength consuming more cognitive capacity and outcompeting weaker ISs for portfolio space.
+    - **Hypothesis Support:** These results support the part of the hypothesis that increasing network degree leads to outcomes more similar to well-mixed models (i.e., convergence towards a dominant IS).
+
+**Run 11: Networked Model (avg_degree=6, 200 generations) (2025-06-03)**
+
+- **Model Type:** Portfolio Model with Affinity Propagation, Vitality, and Networked Interactions.
+- **Parameters Used:** Same as Run 9 (`AVERAGE_AGENT_DEGREE = 6`, 100 generations), except:
+    - `NUM_GENERATIONS = 200`
+- **Observed Dynamics (Summary at Generation 199):**
+    - **Uncommitted Agents:** 0.
+    - **Agent Vitality (Initial Avg: 1.00):**
+        - Average: 1.15
+        - Min: 1.00
+        - Max: 1.31
+    - **IS Stats (Committed Agents | Avg Strength | Locked-in | Vitality Impact):**
+        - IS1 (Commensal, V: 0.0): 48 committed | 0.26 avg str | 3 locked
+        - IS2 (Mutualistic, V: +0.002): 50 committed | 0.33 avg str | 49 locked
+        - IS3 (Commensal, V: 0.0): 50 committed | 0.25 avg str | 18 locked
+        - IS4 (Slightly Parasitic, V: -0.001): 50 committed | 0.25 avg str | 20 locked
+        - IS5 (Parasitic, V: -0.003): 46 committed | 0.28 avg str | 5 locked
+        - IS6 (Mutualistic, V: +0.005): 35 committed | 0.20 avg str | 0 locked
+    - **Portfolio Size Distribution (Num ISs: Num Agents):**
+        - Most agents held 6 ISs (32 agents) or 5 ISs (15 agents). 3 agents held 4 ISs.
+- **Interpretation:**
+    - **Increased Diversity and Vitality Over Longer Run:** Compared to Run 9 (100 generations with same degree 6), extending the simulation to 200 generations did not lead to convergence on a single dominant IS. Instead, the IS ecosystem became more diverse, with more ISs achieving widespread adoption (IS2, IS3, IS4 in all 50 agents; IS1 in 48).
+    - **Rise of Mutualistic ISs:** Notably, IS2 (Mutualistic) achieved near-universal lock-in (49/50 agents). More strikingly, IS6 (highly mutualistic, very low infectivity), which had zero presence in Run 9, established itself in 35 agents. This suggests that longer time scales in a moderately connected network can allow slow-spreading beneficial ISs to thrive.
+    - **Improved Agent Vitality:** Average agent vitality increased significantly to 1.15 (from 1.00 in Run 9), and minimum vitality rose to 1.00 (from 0.85). This reflects the increased influence of mutualistic ISs (IS2, IS6) and the contained, though still present, impact of parasitic IS5.
+    - **Contained Parasitism:** While IS5 (parasitic) spread to more agents (46 vs 37 in Run 9), its average strength remained moderate, and its lock-in count decreased further (5 vs 11 in Run 9). It did not achieve the dominance seen in more connected networks (Run 10) or well-mixed models (Run 8).
+    - **Larger Portfolios:** Agents developed even larger IS portfolios, with most holding 5 or 6 ISs. This indicates that the network structure, by slowing the spread of any single overwhelming IS, allows agents to accumulate a wider variety of commitments over time.
+    - **Hypothesis Nuance:** These results suggest that simply running the simulation longer does not necessarily lead to the same outcome as increasing network density. For a moderately connected network (degree 6), longer time fostered greater diversity and vitality, contrasting with the parasite dominance seen with higher connectivity (degree 10).
+
+**Run 12: Networked Model (avg_degree=10, 200 generations) (2025-06-03)**
+
+- **Model Type:** Portfolio Model with Affinity Propagation, Vitality, and Networked Interactions.
+- **Parameters Used:** Same as Run 10 (`AVERAGE_AGENT_DEGREE = 10`, 100 generations), except:
+    - `NUM_GENERATIONS = 200`
+- **Observed Dynamics (Summary at Generation 199):**
+    - **Uncommitted Agents:** 0.
+    - **Agent Vitality (Initial Avg: 1.00):**
+        - Average: 0.78
+        - Min: 0.59
+        - Max: 0.94
+    - **IS Stats (Committed Agents | Avg Strength | Locked-in | Vitality Impact):**
+        - IS1 (Commensal, V: 0.0): 50 committed | 0.30 avg str | 45 locked
+        - IS2 (Mutualistic, V: +0.002): 48 committed | 0.22 avg str | 0 locked
+        - IS3 (Commensal, V: 0.0): 50 committed | 0.19 avg str | 18 locked
+        - IS4 (Slightly Parasitic, V: -0.001): 26 committed | 0.17 avg str | 0 locked
+        - IS5 (Parasitic, V: -0.003): 50 committed | 0.68 avg str | 49 locked (Dominant)
+        - IS6 (Mutualistic, V: +0.005): 3 committed | 0.14 avg str | 0 locked
+    - **Portfolio Size Distribution (Num ISs: Num Agents):**
+        - Most agents held 5 ISs (28 agents) or 4 ISs (21 agents). 1 agent held 3 ISs.
+- **Interpretation:**
+    - **Parasitic Dominance Persists and Worsens Vitality:** Extending Run 10 (degree 10) to 200 generations showed that IS5's dominance is stable. Agent vitality further declined (avg 0.78, min 0.59), indicating the sustained negative impact of IS5.
+    - **Other ISs Weaken or Stagnate:** While IS1 (Commensal) remained widespread and highly locked-in, its average strength decreased. Other ISs like IS2 (Mutualistic) and IS3 (Commensal) spread to more agents but remained very weak. The niche for IS6 (Mutualistic) shrank significantly from Run 10 at 100 generations.
+    - **Larger but Weaker Portfolios:** Agents tended to fill their capacity with more ISs (peaking at 5), but these were often weak secondary commitments alongside the dominant IS5 and moderately strong IS1.
+    - **Confirmation of Network Density Impact:** This longer run with higher network density reinforces that denser networks, even over extended time, tend towards parasitic dominance and lower overall system health in this model, contrasting sharply with the outcomes in sparser networks (like Run 11).
+
 *(This section will be updated with results from running the simulation with different parameters and analyzing the outcomes.)*
 
 ---
