@@ -4,7 +4,6 @@
 **Altitude**: High (10,000+ feet) - Panoramic Overview
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 Welcome to the "Brain from Brane" project—a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum. This framework explores the intricate relationships between information, matter, and consciousness, providing insights into the nature of reality and the role of agents as information processors.
 
