@@ -106,163 +106,53 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 #### 1. Semantic Processing Depth (SPD) - 0-25 Points
 
-**0-5 Points: Proto-Semantic**
-- Molecular recognition patterns (lock-key, complementarity)
-- Basic chemical selectivity (substrate specificity)
-- Functional meaning through molecular geometry
-- *Assessment: Binding affinity measures, substrate selectivity*
-
-**6-10 Points: Basic Semantic**
-- Simple categorization abilities
-- Limited internal representation
-- Basic pattern recognition
-- *Assessment: Classification tasks, habituation studies*
-
-**11-15 Points: Intermediate Semantic**
-- Multi-modal information integration
-- Simple concept formation
-- Limited predictive modeling
-- *Assessment: Cross-modal matching, simple reasoning tasks*
-
-**16-20 Points: Advanced Semantic**
-- Abstract concept manipulation
-- Symbolic representation
-- Complex predictive modeling
-- *Assessment: Analogy tasks, symbolic reasoning, planning assessments*
-
-**21-25 Points: Full-Blown Semantic**
-- Recursive symbolic systems
-- Meta-representational abilities
-- Sophisticated theoretical modeling
-- *Assessment: Language competence, mathematical reasoning, scientific modeling*
+| Score Range | Level | Characteristics | Assessment Methods |
+|-------------|-------|-----------------|-------------------|
+| 0-5 Points | Proto-Semantic | Molecular recognition patterns (lock-key, complementarity), Basic chemical selectivity (substrate specificity), Functional meaning through molecular geometry | Binding affinity measures, substrate selectivity |
+| 6-10 Points | Basic Semantic | Simple categorization abilities, Limited internal representation, Basic pattern recognition | Classification tasks, habituation studies |
+| 11-15 Points | Intermediate Semantic | Multi-modal information integration, Simple concept formation, Limited predictive modeling | Cross-modal matching, simple reasoning tasks |
+| 16-20 Points | Advanced Semantic | Abstract concept manipulation, Symbolic representation, Complex predictive modeling | Analogy tasks, symbolic reasoning, planning assessments |
+| 21-25 Points | Full-Blown Semantic | Recursive symbolic systems, Meta-representational abilities, Sophisticated theoretical modeling | Language competence, mathematical reasoning, scientific modeling |
 
 #### 2. Inside-Out Lens Sophistication (IOL) - 0-25 Points
 
-**0-5 Points: Minimal Self-Model**
-- Molecular boundary maintenance (membrane integrity)
-- Basic self-non-self distinction (immune recognition)
-- Structural continuity preservation
-- *Assessment: Boundary response tests, structural stability measures*
-
-**6-10 Points: Basic Self-Model**
-- Simple self-recognition
-- Limited self-monitoring
-- Extended present awareness
-- *Assessment: Mirror tests, self-directed behavior*
-
-**11-15 Points: Developing Self-Model**
-- Enhanced self-awareness
-- Basic metacognitive abilities
-- Short-term planning capacity
-- *Assessment: False belief tasks, planning assessments*
-
-**16-20 Points: Advanced Self-Model**
-- Rich self-reflection
-- Complex metacognition
-- Medium-term goal integration
-- *Assessment: Metacognitive interviews, complex planning tasks*
-
-**21-25 Points: Sophisticated Self-Model**
-- Deep self-understanding
-- Meta-metacognitive abilities
-- Long-term identity coherence
-- *Assessment: Philosophical reflection, identity continuity measures*
+| Score Range | Level | Characteristics | Assessment Methods |
+|-------------|-------|-----------------|-------------------|
+| 0-5 Points | Minimal Self-Model | Molecular boundary maintenance (membrane integrity), Basic self-non-self distinction (immune recognition), Structural continuity preservation | Boundary response tests, structural stability measures |
+| 6-10 Points | Basic Self-Model | Simple self-recognition, Limited self-monitoring, Extended present awareness | Mirror tests, self-directed behavior |
+| 11-15 Points | Developing Self-Model | Enhanced self-awareness, Basic metacognitive abilities, Short-term planning capacity | False belief tasks, planning assessments |
+| 16-20 Points | Advanced Self-Model | Rich self-reflection, Complex metacognition, Medium-term goal integration | Metacognitive interviews, complex planning tasks |
+| 21-25 Points | Sophisticated Self-Model | Deep self-understanding, Meta-metacognitive abilities, Long-term identity coherence | Philosophical reflection, identity continuity measures |
 
 #### 3. Autonomy & Adaptability (AAD) - 0-25 Points
 
-**0-5 Points: Stimulus-Dependent**
-- Thermodynamic responses to environmental changes
-- Molecular conformational shifts
-- Basic chemical equilibrium adjustments
-- *Assessment: Response kinetics, equilibrium measurements*
-
-**6-10 Points: Basic Autonomy**
-- Simple learning mechanisms
-- Limited behavioral flexibility
-- Short-term memory integration
-- *Assessment: Learning curves, flexibility measures*
-
-**11-15 Points: Developing Autonomy**
-- Multiple learning modalities
-- Moderate behavioral innovation
-- Social learning capacity
-- *Assessment: Innovation tasks, social learning paradigms*
-
-**16-20 Points: Advanced Autonomy**
-- Complex learning strategies
-- High behavioral flexibility
-- Cultural transmission
-- *Assessment: Strategy assessment, cultural learning measures*
-
-**21-25 Points: Sophisticated Autonomy**
-- Meta-learning abilities
-- Intentional self-modification
-- Cumulative cultural evolution
-- *Assessment: Transfer learning, self-directed change measures*
+| Score Range | Level | Characteristics | Assessment Methods |
+|-------------|-------|-----------------|-------------------|
+| 0-5 Points | Stimulus-Dependent | Thermodynamic responses to environmental changes, Molecular conformational shifts, Basic chemical equilibrium adjustments | Response kinetics, equilibrium measurements |
+| 6-10 Points | Basic Autonomy | Simple learning mechanisms, Limited behavioral flexibility, Short-term memory integration | Learning curves, flexibility measures |
+| 11-15 Points | Developing Autonomy | Multiple learning modalities, Moderate behavioral innovation, Social learning capacity | Innovation tasks, social learning paradigms |
+| 16-20 Points | Advanced Autonomy | Complex learning strategies, High behavioral flexibility, Cultural transmission | Strategy assessment, cultural learning measures |
+| 21-25 Points | Sophisticated Autonomy | Meta-learning abilities, Intentional self-modification, Cumulative cultural evolution | Transfer learning, self-directed change measures |
 
 #### 4. Matter/Energy Organization (MEO) - 0-25 Points
 
-**0-5 Points: Metabolic Organization**
-- Basic biochemical processes
-- Cellular maintenance
-- Minimal environmental impact
-- *Assessment: Metabolic efficiency, resource utilization*
-
-**6-10 Points: Local Organization**
-- Simple tool use
-- Basic construction behaviors
-- Limited resource manipulation
-- *Assessment: Tool use tasks, construction complexity*
-
-**11-15 Points: Extended Organization**
-- Complex tool creation
-- Environmental modification
-- Moderate resource leverage
-- *Assessment: Innovation measures, environmental impact*
-
-**16-20 Points: Technological Organization**
-- Advanced tool systems
-- Significant environmental control
-- Energy amplification technologies
-- *Assessment: Technology complexity, environmental influence*
-
-**21-25 Points: Planetary Organization**
-- Global technological systems
-- Planetary-scale influence
-- Space-based capabilities
-- *Assessment: Global impact measures, technological reach*
+| Score Range | Level | Characteristics | Assessment Methods |
+|-------------|-------|-----------------|-------------------|
+| 0-5 Points | Metabolic Organization | Basic biochemical processes, Cellular maintenance, Minimal environmental impact | Metabolic efficiency, resource utilization |
+| 6-10 Points | Local Organization | Simple tool use, Basic construction behaviors, Limited resource manipulation | Tool use tasks, construction complexity |
+| 11-15 Points | Extended Organization | Complex tool creation, Environmental modification, Moderate resource leverage | Innovation measures, environmental impact |
+| 16-20 Points | Technological Organization | Advanced tool systems, Significant environmental control, Energy amplification technologies | Technology complexity, environmental influence |
+| 21-25 Points | Planetary Organization | Global technological systems, Planetary-scale influence, Space-based capabilities | Global impact measures, technological reach |
 
 #### 5. Higher-Order System Interaction (HOS) - 0-25 Points
 
-**0-5 Points: Non-Symbolic**
-- No symbolic system interaction
-- Simple signaling only
-- Minimal information structure
-- *Assessment: Signal complexity, information content*
-
-**6-10 Points: Proto-Symbolic**
-- Basic signaling systems
-- Simple information transfer
-- Limited symbolic capacity
-- *Assessment: Communication complexity, symbol use*
-
-**11-15 Points: Developing Symbolic**
-- Simple symbolic systems
-- Basic cultural participation
-- Limited abstract constructs
-- *Assessment: Symbol manipulation, cultural learning*
-
-**16-20 Points: Advanced Symbolic**
-- Complex symbolic systems
-- Rich cultural interaction
-- Abstract concept creation
-- *Assessment: Language competence, cultural innovation*
-
-**21-25 Points: Meta-Symbolic**
-- Recursive symbolic systems
-- Higher-order abstraction
-- Complex cultural creation
-- *Assessment: Theoretical reasoning, cultural complexity*
+| Score Range | Level | Characteristics | Assessment Methods |
+|-------------|-------|-----------------|-------------------|
+| 0-5 Points | Non-Symbolic | No symbolic system interaction, Simple signaling only, Minimal information structure | Signal complexity, information content |
+| 6-10 Points | Proto-Symbolic | Basic signaling systems, Simple information transfer, Limited symbolic capacity | Communication complexity, symbol use |
+| 11-15 Points | Developing Symbolic | Simple symbolic systems, Basic cultural participation, Limited abstract constructs | Symbol manipulation, cultural learning |
+| 16-20 Points | Advanced Symbolic | Complex symbolic systems, Rich cultural interaction, Abstract concept creation | Language competence, cultural innovation |
+| 21-25 Points | Meta-Symbolic | Recursive symbolic systems, Higher-order abstraction, Complex cultural creation | Theoretical reasoning, cultural complexity |
 
 ### Information System Organizational Agency Assessment
 
