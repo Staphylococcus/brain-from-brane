@@ -7,6 +7,8 @@ The observed **competitive nature** of various systems (e.g., biological organis
 
 This competition is driven primarily by [**resource scarcity**](../glossary.md#resource-scarcity). For biological life, this includes material resources and energy. For information systems, key resources include **limited cognitive processing capacity in hosts**, the material substrates for their instantiation and transmission (e.g., brains, texts, digital networks, energy for computation), and more abstract factors contributing to their "memetic fitness" or "influence potential" in a crowded informational environment.
 
+The "striving" of these patterns for persistence is not a teleological imposition but an outcome of the fundamental processes outlined in the [pathway of emergence (Section 1a)](../01-pattern-realism/1a-pathway-emergence.md), including thermodynamic driving towards dissipative adaptation, the self-reinforcing nature of autocatalytic networks, and the boundary-maintaining imperatives of autopoietic organization. These mechanisms provide a physical and organizational basis for the [Outward Stabilization Propensity](../glossary.md#outward-stabilization-propensity) of patterns.
+
 Thus, competition does not necessarily contradict fundamental oneness but is a characteristic of how distinct patterns interact and strive for persistence at emergent levels under conditions of limitation.
 
 ---
