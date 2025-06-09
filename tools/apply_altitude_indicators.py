@@ -112,7 +112,8 @@ def find_all_markdown_files(docs_abs_dir):
 def main():
     """Main function to apply altitude indicators to all relevant markdown files."""
     # Get project paths (same pattern as generate_nav.py)
-    project_root = os.path.dirname(os.path.abspath(__file__))
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
     docs_abs_dir = os.path.join(project_root, DOCS_DIR_NAME)
     
     print(f"Project root: {project_root}")

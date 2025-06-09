@@ -309,8 +309,9 @@ def generate_and_apply_footers(ordered_docs, readme_abs_path, glossary_abs_path)
 
 # --- Execution ---
 if __name__ == "__main__":
-    # Assuming the script is in the project root directory
-    PROJECT_ROOT_ABS = os.path.dirname(os.path.abspath(__file__))
+    # Assuming the script is in a 'tools' subdirectory of the project root
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT_ABS = os.path.dirname(script_dir)
     DOCS_ABS_DIR = os.path.join(PROJECT_ROOT_ABS, DOCS_DIR_NAME)
     
     README_ABS_PATH = os.path.join(PROJECT_ROOT_ABS, "README.md")
