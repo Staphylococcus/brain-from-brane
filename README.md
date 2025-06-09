@@ -167,7 +167,6 @@ If you use this ontology framework in your research, please cite it as:
 
 ```
 Zayarskiy, V. (2025). Brain from Brane: An Ontology of Information and Fluid Reality. 
-DOI: 10.5281/zenodo.XXXXXXX
 ```
 
 For BibTeX:
@@ -176,7 +175,6 @@ For BibTeX:
   title={Brain from Brane: An Ontology of Information and Fluid Reality},
   author={Zayarskiy, Vas},
   year={2025},
-  doi={10.5281/zenodo.XXXXXXX},
   url={https://github.com/Staphylococcus/brain-from-brane}
 }
 ```
