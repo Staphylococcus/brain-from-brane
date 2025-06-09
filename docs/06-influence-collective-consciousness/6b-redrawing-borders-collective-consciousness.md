@@ -11,4 +11,4 @@ The global flow of information, characteristic of the Information Age, can lead 
 *   Evolving challenges to notions of national sovereignty related to information control, data privacy, and cyber warfare.
 
 ---
-[<< Previous: ⚙️ 6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md) | [Up: 🔍 6. The Information Age and Shifting Borders: Mechanisms of Influence](6-influence-collective-consciousness.md) | [Next: ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders >>](6c-fluid-dynamics-metaphor.md)
+[<< Previous: ⚙️ 6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md) | [Up: 🔍 6. Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders >>](6c-fluid-dynamics-metaphor.md)
