@@ -3,6 +3,43 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+## Table of Contents
+
+- [Concise Characterization](#concise-characterization)
+- [Identifying Characteristics](#identifying-characteristics)
+  - [Core Assessment Dimensions](#core-assessment-dimensions)
+  - [Measurement Architecture](#measurement-architecture)
+- [Developmental Framework](#developmental-framework)
+  - [Multi-Dimensional Assessment Matrix](#multi-dimensional-assessment-matrix)
+  - [Developmental Trajectories](#developmental-trajectories)
+- [Functional Spectrum](#functional-spectrum)
+  - [Dimension-Specific Assessment Protocols](#dimension-specific-assessment-protocols)
+    - [1. Semantic Processing Depth (SPD) - 0-25 Points](#1-semantic-processing-depth-spd---0-25-points)
+    - [2. Inside-Out Lens Sophistication (IOL) - 0-25 Points](#2-inside-out-lens-sophistication-iol---0-25-points)
+    - [3. Autonomy & Adaptability (AAD) - 0-25 Points](#3-autonomy--adaptability-aad---0-25-points)
+    - [4. Matter/Energy Organization (MEO) - 0-25 Points](#4-matterenergy-organization-meo---0-25-points)
+    - [5. Higher-Order System Interaction (HOS) - 0-25 Points](#5-higher-order-system-interaction-hos---0-25-points)
+  - [Information System Organizational Agency Assessment](#information-system-organizational-agency-assessment)
+    - [Information System Agency Indicators](#information-system-agency-indicators)
+    - [Information System Categories](#information-system-categories)
+    - [Engine Threshold Assessment](#engine-threshold-assessment)
+  - [Bio-Informational Complex Assessment](#bio-informational-complex-assessment)
+    - [BIC-Specific Scoring Considerations](#bic-specific-scoring-considerations)
+    - [BIC Developmental Phase Assessment](#bic-developmental-phase-assessment)
+- [Illustrative Instances](#illustrative-instances)
+  - [Comparative Agent Profile](#comparative-agent-profile)
+  - [Profile Analysis Notes](#profile-analysis-notes)
+  - [Specialized Development Patterns](#specialized-development-patterns)
+- [The Agency Continuum](#the-agency-continuum)
+  - [Fundamental Organizing Principle](#fundamental-organizing-principle)
+- [Theoretical Implications](#theoretical-implications)
+  - [Core Hypotheses](#core-hypotheses)
+  - [Empirical Predictions](#empirical-predictions)
+- [Research Applications](#research-applications)
+- [Assessment Implementation](#assessment-implementation)
+
+---
+
 ## Concise Characterization
 
 The Agent Complexity Assessment Protocol (ACAP) operationalizes the five theoretical complexity criteria identified in the Brain from Brane ontology framework into a systematic, multi-dimensional measurement instrument that embraces **gradient agency ontology** while maintaining strict adherence to the developmental pathways described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md). ACAP recognizes that any system exhibiting non-entropic organization of matter/energy/information possesses measurable **organizational agency**, but distinguishes this from **semantic agency** which requires the specific developmental sequence of thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing. The protocol serves as a comprehensive mapping instrument for agency across all systems while clearly delineating the emergence of semantic agency through the established pathway emergence framework.
