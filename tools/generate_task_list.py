@@ -109,7 +109,7 @@ def generate_task_list(project_root_abs, docs_dir_name, output_file_name):
 
             write_task_tree(f, docs_task_tree)
 
-        print(f"✔ Task list successfully generated at: {output_abs_path}")
+        print(f"Task list successfully generated at: {output_abs_path}")
 
     except Exception as e:
         print(f"Error writing to output file {output_abs_path}: {e}")
