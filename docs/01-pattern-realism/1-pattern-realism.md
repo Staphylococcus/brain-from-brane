@@ -17,7 +17,7 @@ The universe, in its entirety, is an indivisible **higher-dimensional continuum*
 Throughout this document we will examine that fabric through two mutually-entailing descriptive lenses, a concept central to [Pattern Realism](../glossary.md#pattern-realism):
 
 - the **matter/energy lens**, which tracks conserved quantities, forces, and dynamical evolution; and
-- the **information lens**, which tracks the distinguishability of states, pattern-structure, and the flow of “difference that makes a difference.”
+- the **information lens**, which tracks the distinguishability of states, pattern-structure, and the flow of "difference that makes a difference."
 
 ```mermaid
 graph TD
@@ -29,7 +29,7 @@ graph TD
   end
 ```
 
-**Practical Example:** Imagine a photon’s worldsheet—the same two-dimensional sweep can be read under the matter/energy lens to track its momentum and energy, or under the information lens to follow patterns like polarization states that carry semantic significance for an observer.
+**Practical Example:** Imagine a photon's worldsheet—the same two-dimensional sweep can be read under the matter/energy lens to track its momentum and energy, or under the information lens to follow patterns like polarization states that carry semantic significance for an observer.
 
 Nothing ontological separates these views; they are bookkeeping schemes applied to the same underlying pattern. When the prose privileges informational vocabulary, it should be read as a perspectival choice, not as a claim that "information floats free of matter."
 
