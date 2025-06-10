@@ -133,12 +133,11 @@ def main():
     
     for filepath, filename in markdown_files:
         print(f"\nProcessing: {filename}")
-        
-        # Determine altitude based on filename
+          # Determine altitude based on filename
         altitude_info = determine_altitude_from_filename(filename)
         
         if not altitude_info:
-            print(f"  ⏭️  Skipping - doesn't match expected naming pattern")
+            print(f"  [SKIP] Skipping - doesn't match expected naming pattern")
             skipped_count += 1
             continue
         
@@ -149,10 +148,10 @@ def main():
         
         if success:
             altitude_level = altitude_text.split(' ')[0]  # Extract "Medium" or "Low"
-            print(f"  ✅ Updated with {altitude_level} altitude indicator")
+            print(f"  [OK] Updated with {altitude_level} altitude indicator")
             updated_count += 1
         else:
-            print(f"  ⏭️  Skipped - {message}")
+            print(f"  [SKIP] Skipped - {message}")
             skipped_count += 1
     
     print(f"\n" + "="*50)

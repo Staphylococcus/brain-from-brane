@@ -43,6 +43,8 @@ if __name__ == "__main__":
     scripts_to_run = [
         "generate_task_list.py",
         "generate_nav.py",
+        "check_broken_links.py",
+        "apply_altitude_indicators.py"
     ]
 
     for script in scripts_to_run:

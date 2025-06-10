@@ -1,3 +1,9 @@
+<!-- 
+
+- Link the bridge between 'patterns' as potential cues to 'true agency'
+
+-->
+
 # ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence
 *Low Altitude Analysis*
 
