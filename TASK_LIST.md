@@ -21,8 +21,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - > Still need to find proper articulation for the grounding of proposed mechanics. Major revision required.
 
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
-        - > - Too much reification;
-          > - Need to flesh out passive influence and self-stabilization
+        - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition
 
     - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
