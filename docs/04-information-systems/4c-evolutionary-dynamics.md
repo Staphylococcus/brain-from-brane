@@ -1,6 +1,14 @@
 # ⚙️ 4.c. Evolutionary Dynamics of Information Systems
 *Low Altitude Analysis*
 
+<!--
+
+- address the telos/intentionality of some information system design
+- are the biological analogies pushed too far?
+- potential oversimplification over various information system types
+
+-->
+
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Information systems undergo continuous evolutionary processes that shape their structure, content, and propagation characteristics over time. Understanding these dynamics is crucial for predicting how information systems adapt to changing environments and compete for cognitive resources.

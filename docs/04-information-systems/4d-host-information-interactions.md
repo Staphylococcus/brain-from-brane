@@ -3,6 +3,13 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!-- 
+
+- Clarify organizational/semantic agency of information systems
+- Too bullet-pointy
+
+-->
+
 *How do information systems interact with and influence their biological hosts? This section examines the mechanisms through which information systems gain access to host resources, establish persistence, and shape host behavior, laying the groundwork for understanding deeper forms of coupling explored in later sections.*
 
 ## **4.d.1. Modes of Host-Information System Interaction**
