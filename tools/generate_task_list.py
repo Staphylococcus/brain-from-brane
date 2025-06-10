@@ -41,8 +41,9 @@ def write_task_tree(file_handle, tree_level, indent_level=0):
     """
     indent = "    " * indent_level  # 4-space indentation
 
-    # Sort keys to ensure directories are processed before files for a structured output.
-    sorted_keys = sorted(tree_level.keys(), key=lambda k: "tasks" in tree_level[k])
+    # Sort keys to ensure directories are processed before files for a structured output,
+    # and then alphabetically within those groups.
+    sorted_keys = sorted(tree_level.keys(), key=lambda k: ("tasks" in tree_level[k], k))
 
     for key in sorted_keys:
         item = tree_level[key]
@@ -122,4 +123,4 @@ if __name__ == "__main__":
     
     print(f"Project root identified as: {PROJECT_ROOT_ABS}")
     
-    generate_task_list(PROJECT_ROOT_ABS, DOCS_DIR_NAME, OUTPUT_FILE_NAME) 
+    generate_task_list(PROJECT_ROOT_ABS, DOCS_DIR_NAME, OUTPUT_FILE_NAME)
