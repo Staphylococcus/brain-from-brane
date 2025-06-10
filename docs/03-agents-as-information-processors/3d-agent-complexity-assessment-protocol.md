@@ -164,20 +164,20 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 ### Information System Organizational Agency Assessment
 
-Pure information systems (languages, scientific theories, cultural narratives, algorithms) represent **organizational agency** rather than semantic agency, achieving influence through crystallization mechanisms as described in [Section 4](../04-information-systems/4-information-systems.md). These systems require specialized assessment protocols that measure their organizational sophistication and crystallization capacity rather than traditional agency dimensions.
+Pure information systems (languages, scientific theories, cultural narratives, algorithms) represent **organizational agency** rather than semantic agency, achieving influence through stabilization mechanisms as described in [Section 4](../04-information-systems/4-information-systems.md). These systems require specialized assessment protocols that measure their organizational sophistication and stabilization capacity rather than traditional agency dimensions.
 
 #### Information System Agency Indicators
 
 **Structural Sophistication (0-25 points):**
 - R/J/A architectural complexity (repeater networks, jitter management, anchor robustness)
-- Cross-substrate crystallization capability
+- Cross-substrate stabilization capability
 - Template stability and variation tolerance
 - *Assessment: Network analysis, stability measures, adaptation tracking*
 
-**Crystallization Influence (0-25 points):**
+**Stabilization Influence (0-25 points):**
 - Passive structural organization capacity across material substrates
 - Energetic favorability and thermodynamic optimization
-- Substrate-specific crystallization efficiency
+- Substrate-specific stabilization efficiency
 - *Assessment: Substrate adoption rates, organizational impact measures, energy landscape analysis*
 
 **Evolutionary Sophistication (0-25 points):**
@@ -194,8 +194,8 @@ Pure information systems (languages, scientific theories, cultural narratives, a
 
 #### Information System Categories
 
-| Information System Type | Structural | Crystallization | Evolutionary | Coupling | Total | Classification |
-|-------------------------|------------|-----------------|--------------|----------|-------|----------------|
+| Information System Type | Structural | Stabilization | Evolutionary | Coupling | Total | Classification |
+|-------------------------|------------|---------------|--------------|----------|-------|----------------|
 | **Simple Memes** | 2-5 | 3-8 | 2-6 | 5-12 | 12-31 | Basic Organizational Agency |
 | **Language Systems** | 15-20 | 12-18 | 10-15 | 18-23 | 55-76 | Advanced Organizational Agency |
 | **Scientific Paradigms** | 18-23 | 15-20 | 12-18 | 20-25 | 65-86 | Sophisticated Organizational Agency |
@@ -207,7 +207,7 @@ Pure information systems (languages, scientific theories, cultural narratives, a
 Information systems transition from pure organizational agency to agent-mediated agency through **engine coupling**—integration with autopoietic feedback loops that enable autonomous goal formation:
 
 **Pre-Engine State (Organizational Templates):**
-- High structural and crystallization scores with limited coupling capacity
+- High structural and stabilization scores with limited coupling capacity
 - Passive influence through energetic favorability only
 - No autonomous goal formation or self-modification
 - *Assessment: Template function without autonomous behavior*
@@ -357,11 +357,11 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 
 2. **Non-Entropic Organization Principle:** Any system that exhibits predictable, non-entropic rearrangement of matter/energy/information possesses marginal degrees of agency measurable through ACAP dimensions.
 
-3. **Organizational Agency vs. Semantic Agency Distinction:** Semantic agency requires the specific developmental pathway (thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing), while organizational agency can exist without this pathway through crystallization mechanisms.
+3. **Organizational Agency vs. Semantic Agency Distinction:** Semantic agency requires the specific developmental pathway (thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing), while organizational agency can exist without this pathway through stabilization mechanisms.
 
 4. **Engine Threshold Hypothesis:** Information systems achieve semantic agency through coupling to autopoietic feedback loops, transitioning from passive organizational templates to active agent-mediated systems.
 
-5. **Crystallization Influence Principle:** Information systems achieve causal efficacy through organizational agency via energetic favorability and passive structural organization of material substrates, independent of semantic agency.
+5. **Stabilization Influence Principle:** Information systems achieve causal efficacy through organizational agency via energetic favorability and passive structural organization of material substrates, independent of semantic agency.
 
 6. **Dimensional Independence Hypothesis:** The five complexity dimensions can develop independently, allowing for specialized cognitive niches and adaptive strategies across all organizational scales.
 
@@ -379,13 +379,13 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 
 **Hybrid Systems:** Biological-artificial integration should produce enhanced MEO and HOS scores while maintaining biological IOL characteristics.
 
-**Information Systems:** Pure information systems should demonstrate measurable crystallization influence independent of agent coupling, with crystallization capacity correlating with cross-substrate adoption success.
+**Information Systems:** Pure information systems should demonstrate measurable stabilization influence independent of agent coupling, with stabilization capacity correlating with cross-substrate adoption success.
 
 **Engine Threshold Systems:** AI systems coupled to autopoietic feedback loops should show distinct agency signatures compared to standalone computational templates, including autonomous goal formation and adaptive self-modification.
 
 **BIC Development:** Bio-Informational Complexes should exhibit characteristic score patterns that vary predictably across developmental phases (Exposure → Adoption → Lock-In → Propagation → Drift/Breakdown).
 
-**Crystallization Competition:** Multiple information systems operating in the same substrate environments should demonstrate competitive displacement patterns based on energetic favorability and crystallization efficiency.
+**Stabilization Competition:** Multiple information systems operating in the same substrate environments should demonstrate competitive displacement patterns based on energetic favorability and stabilization efficiency.
 
 ### Research Applications
 
@@ -393,7 +393,7 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 
 **Synthetic Biology:** Design principles for creating artificial molecular and cellular agents with specific agency profiles.
 
-**Information Science:** Assessment protocols for measuring organizational agency and crystallization capacity of pure information systems across substrates.
+**Information Science:** Assessment protocols for measuring organizational agency and stabilization capacity of pure information systems across substrates.
 
 **Comparative Cognition:** Standardized assessment across all organizational scales for evolutionary cognitive science and agency development.
 
@@ -403,7 +403,7 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 
 **Systems Biology:** Understanding how molecular-level agency integrates into higher-order biological organization.
 
-**Cultural Evolution:** Frameworks for analyzing information system crystallization, competition, and co-evolution with biological and technological substrates.
+**Cultural Evolution:** Frameworks for analyzing information system stabilization, competition, and co-evolution with biological and technological substrates.
 
 **Astrobiology:** Comprehensive assessment protocols for detecting and characterizing agency in any form of organized matter.
 
