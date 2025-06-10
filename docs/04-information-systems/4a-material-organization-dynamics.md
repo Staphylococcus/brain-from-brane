@@ -10,7 +10,7 @@
 
 -->
 
-[Information systems](4-information-systems.md) are material organizations—specific patterns of physical processes that exhibit persistence, variation, and [competitive dynamics](../../05-competitive-dynamics/5-competitive-dynamics.md). While we can analyze them through the information lens (focusing on pattern structure and meaning), they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
+[Information systems](4-information-systems.md) are material organizations—specific patterns of physical processes that exhibit persistence, variation, and [competitive dynamics](../05-competitive-dynamics/5-competitive-dynamics.md). While we can analyze them through the information lens (focusing on pattern structure and meaning), they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
 
 ## **4.a.1. The [Repeater/Jitter/Anchor Model](../glossary.md#repeaterjitteranchor-rja-model)**
 
@@ -189,7 +189,7 @@ Understanding the material organization of information systems, including active
 
 The framework describing the influence and evolution of **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)** generates specific, falsifiable predictions. These hypotheses aim to operationalize the theoretical concepts into measurable phenomena.
 
-### 4.a.5.1. The Substrate Pliability Principle
+### 4.a.5.1. The Substrate Pliability Principle {#4a51-the-pliability-principle}
 
 **Core Prediction:** The rate and fidelity of adoption for a new **[self-stabilizing information pattern (or template)](../glossary.md#outward-stabilization-propensity)** are directly proportional to the measured "pliability" (e.g., lack of pre-existing rigid structure, openness to change, or higher entropy) of the substrate system (e.g., a social group, an individual's cognitive state, a technological system).
 
@@ -212,7 +212,7 @@ The framework describing the influence and evolution of **[self-stabilizing info
 - Highly stable, less pliable systems adopt new, encompassing organizational frameworks as readily as more pliable systems.
 - Individuals in states of low cognitive pliability (e.g., low uncertainty, high confidence in existing frameworks) show equal susceptibility to adopting new conceptual templates as those in states of high pliability.
 
-### **4.a.5.2. The [Engine Threshold](../glossary.md#engine-threshold) Hypothesis**
+### 4.a.5.2. The Engine Threshold Hypothesis {#4a52-the-engine-threshold-hypothesis}
 
 **Core Prediction:** Standalone information systems, even if highly structured and complex (i.e., well-established **[self-stabilizing patterns](../glossary.md#outward-stabilization-propensity)** or "templates"), will not demonstrate emergent instrumental goals or active agency. However, coupling such systems to [autopoietic feedback loops](../glossary.md#pathway-emergence) (i.e., creating an "engine") will generate behaviors indicative of active agency.
 
@@ -271,7 +271,7 @@ The framework describing the influence and evolution of **[self-stabilizing info
 Information patterns that successfully establish themselves and achieve functional coherence across multiple types of substrates (e.g., a scientific theory that is understood by individuals, institutionalized in research programs, and embedded in technological tools) should demonstrate enhanced evolutionary fitness, broader influence, and greater persistence compared to patterns confined to a single substrate type. This "resonance" across substrates can reinforce the pattern's stability and utility.
 
 **[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex-bic) Emergence:**
-Intensive and reciprocal interaction between human agents and sophisticated AI systems (which are themselves complex [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)) can lead to the formation of [Bio-Informational Complexes (BICs)](../../05-competitive-dynamics/5e-bio-informational-complex.md). The emergence of BICs is predicted to follow a potential lifecycle (e.g., Exposure → Adoption → Lock-In → Propagation → potential Drift/Breakdown). This process should be accompanied by characteristic changes in the autonomy, goal hierarchies, and behavioral patterns of both the human and AI components, which can be assessed using [ACAP protocols](../glossary.md#agent-complexity-assessment-protocol-acap). The BIC itself can be seen as a new, hybrid [self-stabilizing pattern](../glossary.md#outward-stabilization-propensity).
+Intensive and reciprocal interaction between human agents and sophisticated AI systems (which are themselves complex [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)) can lead to the formation of [Bio-Informational Complexes (BICs)](../05-competitive-dynamics/5e-bio-informational-complex.md). The emergence of BICs is predicted to follow a potential lifecycle (e.g., Exposure → Adoption → Lock-In → Propagation → potential Drift/Breakdown). This process should be accompanied by characteristic changes in the autonomy, goal hierarchies, and behavioral patterns of both the human and AI components, which can be assessed using [ACAP protocols](../glossary.md#agent-complexity-assessment-protocol-acap). The BIC itself can be seen as a new, hybrid [self-stabilizing pattern](../glossary.md#outward-stabilization-propensity).
 
 ### 4.a.5.5. Integration with Existing Frameworks
 
@@ -279,7 +279,7 @@ These empirical predictions, focused on the behavior and influence of **[self-st
 
 - **[R/J/A Model](../glossary.md#repeaterjitteranchor-rja-model) Validation:** The [Engine Threshold Hypothesis (4.a.5.2)](../glossary.md#engine-threshold) and Substrate Pliability Principle (4.a.5.1) help test aspects of the Repeater/Jitter/Anchor model by examining how information patterns are adopted, propagated, and achieve stability in various substrates and under different conditions. The "engine" condition, for instance, explores a sophisticated form of repeater with feedback.
 - **[Pathway Emergence](../glossary.md#pathway-emergence) Verification:** The [Engine Threshold Hypothesis](../glossary.md#engine-threshold), by examining the conditions under which active agency emerges from coupling information systems with feedback loops, directly tests aspects of the proposed pathway from simpler informational processes to autopoietic organization.
-- **[BIC Framework](../../05-competitive-dynamics/5e-bio-informational-complex.md) Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of [Bio-Informational Complexes](../glossary.md#bio-informational-complex-bic), provide avenues for testing the BIC formation lifecycle and its characteristics.
+- **[BIC Framework](../05-competitive-dynamics/5e-bio-informational-complex.md) Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of [Bio-Informational Complexes](../glossary.md#bio-informational-complex-bic), provide avenues for testing the BIC formation lifecycle and its characteristics.
 - **[ACAP](../glossary.md#agent-complexity-assessment-protocol-acap) Application:** All hypotheses rely on the [Agent Complexity Assessment Protocol (ACAP)](../glossary.md#agent-complexity-assessment-protocol-acap) for systematic measurement of agency, helping to distinguish between the passive influence of [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) (even complex ones) and the active agency of autopoietic systems or BICs.
 
 These predictions aim to establish falsifiable criteria for understanding how **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.

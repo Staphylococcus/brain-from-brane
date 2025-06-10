@@ -274,7 +274,7 @@ BICs should be assessed relative to their developmental phase, as defined in Sec
 
 ## Illustrative Instances
 
-### Comparative Agent Profiles
+### Comparative Agent Profile {#comparative-agent-profile}
 
 | Agent Type | SPD | IOL | AAD | MEO | HOS | Total | Key Characteristics |
 |------------|-----|-----|-----|-----|-----|-------|-------------------|

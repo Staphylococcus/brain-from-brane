@@ -42,10 +42,10 @@ The project uses `generate_nav.py` to automatically create navigation footers. A
 Place altitude context in document headers (above automated footers):
 
 ```markdown
-⬆️ **Context**: [Higher Level Concept](../parent-document.md)
+⬆️ **Context**: [Higher Level Concept](../parent-document.md) <!-- Example link -->
 ⬇️ **Explore Deeper**: 
-- [Specific Mechanism](sub-section-a.md)
-- [Detailed Application](sub-section-b.md)
+- [Specific Mechanism](sub-section-a.md) <!-- Example link -->
+- [Detailed Application](sub-section-b.md) <!-- Example link -->
 ```
 
 ### Altitude-Enhanced Automated Navigation
@@ -53,7 +53,7 @@ The navigation script could be enhanced to include altitude awareness in footers
 
 ```markdown
 ---
-🔭 [<< Previous: Higher Level Overview](prev-doc.md) | [Home: README.md](../../README.md) | [Next: Related Concept >>](next-doc.md)
+🔭 [<< Previous: Higher Level Overview](prev-doc.md) | [Home: README.md](../../README.md) | [Next: Related Concept >>](next-doc.md) <!-- Example navigation -->
 ```
 
 ## Section Indicators Within Documents
