@@ -3,6 +3,12 @@
 
 📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
+<!-- 
+
+Still need to find proper articulation for the grounding of proposed mechanics. Major revision required.
+
+-->
+
 Higher-order [information](../glossary.md#information) constructs—such as ideas, [cultural narratives](../glossary.md#cultural-narratives), languages, scientific theories, and [algorithms](../glossary.md#algorithms)—represent sophisticated organizational patterns that achieve causal influence through both active evolutionary dynamics and passive structural organization. These systems exhibit remarkable properties: they propagate across substrates, evolve through variation and selection, compete for resources, and exert profound influence on the thoughts, actions, and social structures of their hosts. While information systems themselves represent **organizational agency** rather than semantic agency (following the gradient agency ontology of [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)), they achieve causal efficacy through crystallization mechanisms and coupling with genuine [agents](../glossary.md#agent).
 
 From the **pattern realism** perspective established in [Section 1](../01-pattern-realism/1-pattern-realism.md), these information systems are not abstract entities floating free of matter, but rather complex organizational patterns within the same [worldsheet](../glossary.md#worldsheet) fabric that constitutes physical reality. They represent high-level emergent structures in the information hierarchy—rising from [fundamental information](../glossary.md#fundamental-information) (vibrational modes of strings) through [organizational information](../glossary.md#organizational-information) (configurations of matter/energy) to [semantic information](../glossary.md#semantic-information) (meaning-making patterns interpreted by agents).
