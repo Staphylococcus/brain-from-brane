@@ -5,6 +5,7 @@
 
 <!--
 
+- break up this file into several smaller ones
 - What are coherence and resonance?
 - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
 - Link stability more broadly to e.g. 5e

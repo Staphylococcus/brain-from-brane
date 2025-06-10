@@ -22,7 +22,8 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
           > - Substrate pliability needs more definition
 
     - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
-        - > - What are coherence and resonance?
+        - > - break up this file into several smaller ones
+          > - What are coherence and resonance?
           > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
           > - Link stability more broadly to e.g. 5e
           > - Too many bullet point lists
