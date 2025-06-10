@@ -21,17 +21,20 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
           > - Risk of anthropomorphism/reification
 
 - **04-information-systems/**
+    - **4b-emergent-stability-longevity/**
+        - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)
+            - > - Link stability more broadly to e.g. 5e
+
+        - [`4b1-mechanisms-emergent-stability.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md)
+            - > - What are coherence and resonance?
+              > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
+
+        - [`4b3-stability-patterns-across-types.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b3-stability-patterns-across-types.md)
+            - > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
+
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition
-
-    - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
-        - > - break up this file into several smaller ones
-          > - What are coherence and resonance?
-          > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
-          > - Link stability more broadly to e.g. 5e
-          > - Too many bullet point lists
-          > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design

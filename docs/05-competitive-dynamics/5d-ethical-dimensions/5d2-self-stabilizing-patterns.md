@@ -11,7 +11,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-Ethical systems represent the most robust examples of [self-stabilizing informational patterns](../../04-information-systems/4b-emergent-stability-longevity.md) found in the information ecosystem. Their exceptional stability properties distinguish them fundamentally from other information systems and help explain their extraordinary persistence across millennia, their resistance to disconfirmation, and their capacity to survive the complete transformation of their original contexts.
+Ethical systems represent the most robust examples of [self-stabilizing informational patterns](../../04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md) found in the information ecosystem. Their exceptional stability properties distinguish them fundamentally from other information systems and help explain their extraordinary persistence across millennia, their resistance to disconfirmation, and their capacity to survive the complete transformation of their original contexts.
 
 ## **5.d.2.1. The Exceptional Nature of Ethical Stability**
 

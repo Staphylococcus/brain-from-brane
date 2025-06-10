@@ -65,7 +65,7 @@ The concept of a high-fidelity **Repeater** is deeply indebted to the foundation
 
 **Physical Anchors:**
 - **Written texts and documents** that preserve specific formulations and serve as reference points
-- **[Architectural and artistic embodiments](4b-emergent-stability-longevity.md#4b35-architectural-and-monumental-systems)** that make information systems tangible and enduring
+- **[Architectural and artistic embodiments](4b-emergent-stability-longevity/4b3-stability-patterns-across-types.md#4b35-architectural-and-monumental-systems)** that make information systems tangible and enduring
 - **Technological implementations** (code, databases, digital archives) that maintain precise specifications
 - **Ritual and ceremonial practices** that physically enact and preserve information patterns
 
@@ -285,4 +285,4 @@ These empirical predictions, focused on the behavior and influence of **[self-st
 These predictions aim to establish falsifiable criteria for understanding how **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.
 
 ---
-[<< Previous: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: ⚙️ 4.b. Emergent Stability and Longevity >>](4b-emergent-stability-longevity.md)
+[<< Previous: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: ⚙️ 4.b. Emergent Stability and Longevity >>](4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)
