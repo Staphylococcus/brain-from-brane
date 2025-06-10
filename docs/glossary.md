@@ -146,7 +146,7 @@ The capacity for goal-directed behavior based on meaning interpretation and envi
 ## **W**
 
 ### Worldsheet
-**The fundamental substrate of reality conceived as a single structured process where matter/energy and information represent complementary descriptions of the same underlying patterns.** The worldsheet provides the space within which **information-driven organization** occurs, enabling information systems to achieve material influence through **structural constraint propagation** and **organizational template establishment**.
+A two-dimensional surface swept out by a one-dimensional string as it travels through spacetime. The collective tapestry of all worldsheets constitutes the fundamental fabric of reality, a structured process where matter/energy and information are complementary descriptions of the same underlying patterns.
 
 The worldsheet framework justifies treating information stabilization as a literal organizational process rather than a metaphorical description, providing the ontological foundation for **measurable structural properties** of information systems.
 
