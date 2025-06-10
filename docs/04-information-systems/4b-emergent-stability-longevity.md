@@ -5,10 +5,10 @@
 
 <!--
 
-- Define value and utility
 - What are coherence and resonance?
 - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
 - Link stability more broadly to e.g. 5e
+- Too many bullet point lists
 - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
 
 -->
@@ -16,6 +16,13 @@
 The persistence of information systems is not a static property but an emergent characteristic arising from dynamic processes. Unlike physical objects that maintain their form through molecular bonds, information systems achieve stability through active maintenance, continuous replication, and adaptive responses to environmental challenges.
 
 ## **4.b.1. Mechanisms of Emergent Stability**
+
+Information systems achieve and maintain stability not as a static state, but through dynamic, ongoing processes. Central to this is the concept of **value** and **utility** they provide to their hosts.
+
+*   **Value:** In the context of an information system (IS), **value** refers to the overall perceived or actualized benefit that the IS provides to its host (typically an [agent](../glossary.md#agent) or a collective of agents). This benefit is assessed through the host's "inside-out lens" ([Section 3a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) and can encompass a wide range of contributions, such as enhancing the host's understanding, facilitating goal achievement, improving persistence, increasing coherence, or fulfilling social or psychological needs. Value is often multifaceted and can be subjective.
+*   **Utility:** **Utility** is a more specific dimension of value, representing the practical effectiveness and efficiency with which an IS enables a host to perform a particular task, solve a specific problem, or achieve a defined objective. It measures the functional "usefulness" of the IS in a given context. An IS with high utility directly contributes to the host's operational capabilities.
+
+These factors are critical in driving the feedback loops that reinforce an IS's presence and influence.
 
 ### **4.b.1.1. Self-Reinforcing Feedback Loops**
 

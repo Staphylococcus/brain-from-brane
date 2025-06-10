@@ -17,18 +17,15 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
           > - Risk of anthropomorphism/reification
 
 - **04-information-systems/**
-    - [`4-information-systems.md`](docs/04-information-systems/4-information-systems.md)
-        - > Still need to find proper articulation for the grounding of proposed mechanics. Major revision required.
-
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition
 
     - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
-        - > - Define value and utility
-          > - What are coherence and resonance?
+        - > - What are coherence and resonance?
           > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
           > - Link stability more broadly to e.g. 5e
+          > - Too many bullet point lists
           > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
