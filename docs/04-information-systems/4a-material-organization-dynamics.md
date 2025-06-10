@@ -5,15 +5,14 @@
 
 <!--
 
-- Too much reification;
 - Need to flesh out passive influence and self-stabilization
 - Substrate pliability needs more definition
 
 -->
 
-Information systems are material organizations—specific patterns of physical processes that exhibit persistence, variation, and competitive dynamics. While we can analyze them through the information lens (focusing on pattern structure and meaning), they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
+[Information systems](4-information-systems.md) are material organizations—specific patterns of physical processes that exhibit persistence, variation, and [competitive dynamics](../../05-competitive-dynamics/5-competitive-dynamics.md). While we can analyze them through the information lens (focusing on pattern structure and meaning), they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
 
-## **4.a.1. The Repeater/Jitter/Anchor Model**
+## **4.a.1. The [Repeater/Jitter/Anchor Model](../glossary.md#repeaterjitteranchor-rja-model)**
 
 Information systems depend on three fundamental material components that work together to ensure both persistence and adaptive evolution:
 
@@ -66,7 +65,7 @@ The concept of a high-fidelity **Repeater** is deeply indebted to the foundation
 
 **Physical Anchors:**
 - **Written texts and documents** that preserve specific formulations and serve as reference points
-- **Architectural and artistic embodiments** that make information systems tangible and enduring
+- **[Architectural and artistic embodiments](4b-emergent-stability-longevity.md#4b35-architectural-and-monumental-systems)** that make information systems tangible and enduring
 - **Technological implementations** (code, databases, digital archives) that maintain precise specifications
 - **Ritual and ceremonial practices** that physically enact and preserve information patterns
 
@@ -84,65 +83,65 @@ The concept of a high-fidelity **Repeater** is deeply indebted to the foundation
 
 ## **4.a.2. Passive Structural Influence: Self-Stabilizing Patterns**
 
-Once information patterns achieve a degree of **self-stabilization** through the interplay of Repeaters, Jitter, and Anchors, they can exert a passive structural influence on their environment. This section explores this influence, focusing on how these self-stabilizing patterns achieve broader coherence, persistence, and an organizing effect on receptive substrates. This is distinct from their active propagation via the R/J/A model, focusing instead on the structural power of the stabilized pattern itself.
+Once information patterns achieve a degree of **[self-stabilization](../glossary.md#outward-stabilization-propensity)** through the interplay of Repeaters, Jitter, and Anchors, they can exert a passive structural influence on their environment. This section explores this influence, focusing on how these [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity) achieve broader coherence, persistence, and an organizing effect on receptive substrates. This is distinct from their active propagation via the R/J/A model, focusing instead on the structural power of the stabilized pattern itself.
 
 ### **4.a.2.1. Properties of Self-Stabilizing Information Structures**
 
-Self-stabilizing information patterns develop particular characteristics that enable them to exert this guiding influence. Through their achieved coherence and persistence, these **self-stabilizing structures** can shape receptive substrates (like minds, social groups, or technological systems). The "bonding rules" are akin to principles of semantic coherence, functional compatibility, or logical consistency.
+[Self-stabilizing information structures](../glossary.md#outward-stabilization-propensity) develop particular characteristics that enable them to exert this guiding influence. Through their achieved coherence and persistence, these **[self-stabilizing structures](../glossary.md#outward-stabilization-propensity)** can shape receptive substrates (like minds, social groups, or technological systems). The "bonding rules" are akin to principles of semantic coherence, functional compatibility, or logical consistency.
 
 **Core Mechanism for Stabilization:**
-- **Pattern Template Coherence:** Self-stabilizing information systems embody specific **organizational patterns** that achieve a high degree of internal coherence and recognizability, serving as templates for further informational activity.
-- **Substrate Compatibility Matching:** They interact with various malleable substrates. Their adoption and influence depend on how well their inherent structure aligns with the existing characteristics and needs of the substrate.
+- **Pattern Template Coherence:** [Self-stabilizing information systems](../glossary.md#outward-stabilization-propensity) embody specific **organizational patterns** that achieve a high degree of internal coherence and recognizability, serving as templates for further informational activity.
+- **Substrate Compatibility Matching:** They interact with various malleable substrates. Their adoption and influence depend on how well their inherent [structure](../glossary.md#structural-parameter) aligns with the existing characteristics and needs of the substrate.
 - **Influence through Structural Constraints:** By establishing a recognized and adopted pattern, their inherent structure can guide further development and interaction in ways consistent with that structure.
 - **Self-Reinforcing Stability:** Once an information pattern becomes established and widely adopted, its continued use and propagation can reinforce its stability and influence, making it more robust.
 
-### 4.a.2.2. Cross-Substrate Influence: How Self-Stabilizing Information Patterns Propagate
+### 4.a.2.2. Cross-Substrate Influence: How [Self-Stabilizing Information Patterns](../glossary.md#outward-stabilization-propensity) Propagate
 
-Self-stabilizing information patterns exert influence across different material substrates. The pattern's inherent stability and structure guide its adoption and integration.
+[Self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) exert influence across different material substrates. The pattern's inherent stability and structure guide its adoption and integration.
 
 **Influence on Neural Substrates:**
 - **Formation of Coherent Conceptual Patterns:** Self-stabilizing concepts, schemas, and mental models achieve a high degree of organizational coherence within cognitive processes.
 - **Neural Pathway Adaptation to Stable Patterns:** Brain plasticity allows neural pathways representing these robust and frequently accessed information patterns to be strengthened, making them more efficient.
 - **Guiding Influence of Established Patterns:** These well-established, self-stabilizing thought patterns guide future cognitive processes, making interpretations aligned with their structure more probable.
-- **Example:** Scientific paradigms, as complex self-stabilizing information patterns, **shape** research perception and investigation. Their coherent structure guides how new ideas are incorporated, favoring those that are compatible with the paradigm's established principles.
+- **Example:** Scientific paradigms, as complex [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity), **shape** research perception and investigation. Their coherent structure guides how new ideas are incorporated, favoring those that are compatible with the paradigm's established principles.
 
 **Influence on Social Substrates:**
 - **Establishment of Coherent Behavioral Norms:** Self-stabilizing cultural practices and social norms structure group interactions by providing coherent and predictable patterns of behavior.
 - **Institutional Adaptation to Stable Patterns:** Organizations and communities often adapt their structures and processes to align with influential, self-stabilizing information patterns (e.g., ideologies, widely accepted methodologies).
 - **Guidance of Collective Behavior by Shared Narratives:** Shared narratives, once they become self-stabilizing, can guide collective behavior by providing common frameworks of understanding and motivation.
-- **Example:** Religious frameworks, as self-stabilizing systems of belief and practice, **shape** community structures and ethical systems. Their core tenets and narratives provide a coherent structure that guides social organization and individual behavior, favoring compatible practices.
+- **Example:** Religious frameworks, as [self-stabilizing systems of belief and practice](../glossary.md#outward-stabilization-propensity), **shape** community structures and ethical systems. Their core tenets and narratives provide a coherent structure that guides social organization and individual behavior, favoring compatible practices.
 
 **Influence on Technological Substrates:**
 - **Emergence of Design Standards and Principles:** Self-stabilizing design principles and standards in technology (e.g., network protocols, programming paradigms) shape technological development by providing coherent and interoperable frameworks.
 - **System Adaptation to Stable Information Architectures:** Software and hardware systems often evolve to become compatible with dominant, self-stabilizing information architectures or standards.
 - **Guiding Influence of Established Protocols:** Established technical protocols and interfaces channel future technological evolution by defining common ways for systems to interact.
-- **Example:** Internet protocols (like TCP/IP) as self-stabilizing information patterns **shaped** global communication. They provided a robust and coherent structure that organized how different computer systems could connect and exchange data, favoring compatible implementations.
+- **Example:** Internet protocols (like TCP/IP) as [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) **shaped** global communication. They provided a robust and coherent structure that organized how different computer systems could connect and exchange data, favoring compatible implementations.
 
 **Influence on Material Substrates:**
 - **Guidance of Physical Organization by Information:** Information systems embedded in material arrangements (e.g., architectural plans, manufacturing designs) can structure physical and spatial organization by providing a coherent plan or template.
 - **Environmental Shaping by Informational Requirements:** Physical spaces and object arrangements can be organized or modified to meet the functional requirements of a self-stabilizing information system (e.g., a library organized to house books, a factory laid out for an assembly line).
 - **Creation of Pathways by Built Environments:** Built environments, designed according to self-stabilizing principles (e.g., urban planning codes, traffic flow models), create physical pathways that shape movement and interaction.
-- **Example:** Urban planning principles, as self-stabilizing information patterns, **shape** traffic flow and social patterns within a city. The adopted design principles guide the development of roads, zones, and public spaces, thereby organizing movement and interaction in a structured way.
+- **Example:** Urban planning principles, as [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity), **shape** traffic flow and social patterns within a city. The adopted design principles guide the development of roads, zones, and public spaces, thereby organizing movement and interaction in a structured way.
 
 ## **4.a.3. Material Organization in Practice**
 
-The R/J/A model describes the active dynamics that contribute to the persistence and evolution of information systems.
+The [R/J/A model](../glossary.md#repeaterjitteranchor-rja-model) describes the active dynamics that contribute to the persistence and evolution of information systems.
 
 ### 4.a.3.1. Scientific Knowledge: From Laboratory to Global Networks
 
 **Multi-Scale Organization of Scientific Knowledge:**
 - **Repeaters** span from individual researchers to global scientific institutions, each contributing to the propagation and refinement of scientific information patterns.
 - **Jitter** occurs through experimental variation, interpretation differences, and interdisciplinary translation. These variations are crucial for the evolution of scientific understanding.
-- **Anchors** include published literature, experimental protocols, peer review standards, and mathematical formalisms. These provide stability and serve as crucial reference points for the evolving body of scientific knowledge, helping to maintain the coherence of established self-stabilizing patterns.
+- **Anchors** include published literature, experimental protocols, peer review standards, and mathematical formalisms. These provide stability and serve as crucial reference points for the evolving body of scientific knowledge, helping to maintain the coherence of established [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity).
 
 **Influence of Paradigms:**
-Scientific paradigms, as powerful self-stabilizing information patterns, significantly **shape** research methodologies, conceptual frameworks, and institutional structures.
+Scientific paradigms, as powerful [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity), significantly **shape** research methodologies, conceptual frameworks, and institutional structures.
 - They provide coherent **organizational templates**. New theories or data are often evaluated for their compatibility with the paradigm's core tenets.
 - An established paradigm guides scientific activity by making certain questions, methods, and interpretations more prominent or accepted. This guiding effect, where the existing stable structure channels further development and inquiry, is a key feature of their influence.
 
-**Key Insight:** Scientific knowledge demonstrates how self-stabilizing information systems achieve both high fidelity (through robust anchoring and validation, maintaining the integrity of core principles) and adaptive evolution (through managed jitter and paradigm shifts).
+**Key Insight:** Scientific knowledge demonstrates how [self-stabilizing information systems](../glossary.md#outward-stabilization-propensity) achieve both high fidelity (through robust anchoring and validation, maintaining the integrity of core principles) and adaptive evolution (through managed jitter and paradigm shifts).
 
-### **4.a.3.2. Language: The Influence of Self-Stabilizing Linguistic Patterns**
+### **4.a.3.2. The Influence of [Self-Stabilizing Linguistic Patterns](../glossary.md#outward-stabilization-propensity)**
 
 **Cross-Substrate Dynamics of Language:**
 - **Repeaters** for language range from individual human brains and social groups to digital algorithms on social media platforms, all contributing to the propagation and evolution of linguistic patterns.
@@ -150,12 +149,12 @@ Scientific paradigms, as powerful self-stabilizing information patterns, signifi
 - **Anchors** for language have evolved from oral traditions and relatively fixed written texts to dynamic digital databases and standardized character sets. These anchors provide stability to linguistic patterns, though the nature of this stability can change with the medium.
 
 **The Structuring Influence of Linguistic Patterns:**
-Linguistic structures, such as grammar and vocabulary, are powerful self-stabilizing information patterns that profoundly shape cognitive and social processes.
+Linguistic structures, such as grammar and vocabulary, are powerful [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) that profoundly shape cognitive and social processes.
 -   Grammar, for instance, provides a coherent, rule-based framework. This framework orders the construction of complex expressions and guides the interpretation of meaning, ensuring that new utterances can be formed and understood based on established structural principles.
 -   The adoption of specific vocabulary or linguistic conventions within a community creates a shared, stable foundation of terms and concepts. This allows for precise communication and the development of common conceptual landscapes. New speakers, as they learn the language, integrate their understanding within this pre-existing, robust structure.
 -   Digital platforms can amplify the reach and influence of certain linguistic patterns, sometimes accelerating the adoption of new vocabulary or stylistic norms. These platforms can also reinforce existing structural features of a language through their operational constraints or by promoting certain types of content.
 
-**Key Insight:** Language evolution demonstrates a dynamic interplay between biological and digital substrates. Self-stabilizing linguistic patterns (like established grammars or widely adopted terminologies) provide the necessary structural coherence for effective communication. These stable yet adaptable patterns organize thought, mediate social interaction, and are themselves shaped by the substrates through which they propagate. Their inherent structure guides how new linguistic elements are incorporated and how the language itself evolves over time.
+**Key Insight:** Language evolution demonstrates a dynamic interplay between biological and digital substrates. [Self-stabilizing linguistic patterns](../glossary.md#outward-stabilization-propensity) (like established grammars or widely adopted terminologies) provide the necessary structural coherence for effective communication. These stable yet adaptable patterns organize thought, mediate social interaction, and are themselves shaped by the substrates through which they propagate. Their inherent structure guides how new linguistic elements are incorporated and how the language itself evolves over time.
 
 ### **4.a.3.3. Financial Systems: The Structuring Influence of Information Patterns**
 
@@ -165,34 +164,34 @@ Linguistic structures, such as grammar and vocabulary, are powerful self-stabili
 - **Anchors** are provided by legal frameworks, established mathematical models (e.g., for risk assessment or valuation), and technological standards. These elements lend stability and predictability to financial operations.
 
 **The Organizing Power of Financial Information Structures:**
-Financial information systems (e.g., currency systems, market protocols, accounting standards) are self-stabilizing patterns that profoundly organize economic behavior.
+Financial information systems (e.g., currency systems, market protocols, accounting standards) are [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity) that profoundly organize economic behavior.
 -   Currency systems, for example, establish a common, stable framework for value exchange, enabling complex economic interactions by providing a reliable and universally accepted pattern for representing value.
 -   Market structures and trading protocols define the "rules of the game," creating ordered environments for exchange. These established patterns channel trading behaviors and determine how prices are discovered.
 -   Regulatory frameworks and accounting standards impose a coherent structure on financial reporting and institutional conduct, ensuring a degree of transparency and predictability. These patterns, once adopted, guide the behavior of economic agents and the organization of financial institutions.
 
-**Key Insight:** Financial information systems illustrate how abstract patterns (like value, risk, or ownership) become deeply embedded in material infrastructure and social practices. These self-stabilizing patterns create robust, often highly structured, frameworks that organize vast networks of economic activity. Their influence shapes economic behavior, technological development in finance, and even the physical infrastructure supporting financial markets, often without centralized control, but through the widespread adoption and enforcement of these core informational structures.
+**Key Insight:** Financial information systems illustrate how abstract patterns (like value, risk, or ownership) become deeply embedded in material infrastructure and social practices. These [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity) create robust, often highly structured, frameworks that organize vast networks of economic activity. Their influence shapes economic behavior, technological development in finance, and even the physical infrastructure supporting financial markets, often without centralized control, but through the widespread adoption and enforcement of these core informational structures.
 
-## 4.a.4. Evolutionary Implications of Self-Stabilizing Information Patterns
+## 4.a.4. Evolutionary Implications of [Self-Stabilizing Information Patterns](../glossary.md#outward-stabilization-propensity)
 
-Understanding the material organization of information systems, including active R/J/A dynamics and the influence of **self-stabilizing patterns**, reveals key principles governing their development:
+Understanding the material organization of information systems, including active R/J/A dynamics and the influence of **[self-stabilizing patterns](../glossary.md#outward-stabilization-propensity)**, reveals key principles governing their development:
 
-**Coevolution of Substrates and Information Patterns:** Information systems and their material bases (e.g., brains, computational hardware, social structures) co-evolve. Substrates adapt to better support and propagate successful information patterns, while information patterns evolve to better leverage the capabilities of their substrates. For example, biological brains develop specialized regions for processing certain types of information (like language), and digital technologies are optimized for specific data structures and algorithms. Successful self-stabilizing patterns become deeply embedded within their supporting substrates.
+**Coevolution of Substrates and Information Patterns:** Information systems and their material bases (e.g., brains, computational hardware, social structures) co-evolve. Substrates adapt to better support and propagate successful information patterns, while information patterns evolve to better leverage the capabilities of their substrates. For example, biological brains develop specialized regions for processing certain types of information (like language), and digital technologies are optimized for specific data structures and algorithms. Successful [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity) become deeply embedded within their supporting substrates.
 
 **Selection Pressures Based on Compatibility and Efficiency:** The characteristics of material substrates create selection pressures. Information patterns that are more compatible with a substrate's existing structure or operational logic, or that can be maintained and propagated more efficiently by that substrate, are favored. Costly or specialized substrates may only support information patterns that demonstrate high utility or a strong ability to integrate with that substrate. The ease with which a pattern can be adopted and utilized by a substrate influences its evolutionary success.
 
-**Cross-Substrate Competition and Resilience:** Information systems compete for adoption and influence across various substrates. Patterns that are more readily adaptable to or compatible with a wider range of substrates may outcompete more specialized ones. New technologies can create opportunities for information patterns to migrate to new substrates. Systems that achieve stability and influence across multiple substrates often gain resilience. The ability of a self-stabilizing pattern to effectively organize or be adopted by diverse substrates is a key factor in its competitive success.
+**Cross-Substrate Competition and Resilience:** Information systems compete for adoption and influence across various substrates. Patterns that are more readily adaptable to or compatible with a wider range of substrates may outcompete more specialized ones. New technologies can create opportunities for information patterns to migrate to new substrates. Systems that achieve stability and influence across multiple substrates often gain resilience. The ability of a [self-stabilizing pattern](../glossary.md#outward-stabilization-propensity) to effectively organize or be adopted by diverse substrates is a key factor in its competitive success.
 
-**Complementarity of Active Dynamics and Structural Influence:** Information systems exhibit both active evolutionary dynamics (driven by R/J/A processes like variation and transmission) and the passive structural influence of their self-stabilized forms. This complementarity enables both adaptive evolution (innovation and change) and foundational stability (the persistence of core structures). Active processes drive exploration and adaptation, while the inherent structure of successful self-stabilizing patterns provides a robust framework that guides development and ensures coherence.
+**Complementarity of Active Dynamics and Structural Influence:** Information systems exhibit both active evolutionary dynamics (driven by R/J/A processes like variation and transmission) and the passive structural influence of their self-stabilized forms. This complementarity enables both adaptive evolution (innovation and change) and foundational stability (the persistence of core structures). Active processes drive exploration and adaptation, while the inherent structure of successful [self-stabilizing patterns](../glossary.md#outward-stabilization-propensity) provides a robust framework that guides development and ensures coherence.
 
 **Evolution Towards Enhanced Stability and Influence:** Successful information systems often evolve characteristics that enhance their ability to achieve self-stabilization and to effectively organize or integrate with new substrates they encounter. This can create evolutionary advantages for patterns that can rapidly establish themselves and exert their structural influence in malleable environments, leading to accelerating adoption and broader organizational impact.
 
 ## 4.a.5. Empirical Predictions and Testable Hypotheses
 
-The framework describing the influence and evolution of **self-stabilizing information patterns** generates specific, falsifiable predictions. These hypotheses aim to operationalize the theoretical concepts into measurable phenomena.
+The framework describing the influence and evolution of **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)** generates specific, falsifiable predictions. These hypotheses aim to operationalize the theoretical concepts into measurable phenomena.
 
 ### 4.a.5.1. The Substrate Pliability Principle
 
-**Core Prediction:** The rate and fidelity of adoption for a new **self-stabilizing information pattern (or template)** are directly proportional to the measured "pliability" (e.g., lack of pre-existing rigid structure, openness to change, or higher entropy) of the substrate system (e.g., a social group, an individual's cognitive state, a technological system).
+**Core Prediction:** The rate and fidelity of adoption for a new **[self-stabilizing information pattern (or template)](../glossary.md#outward-stabilization-propensity)** are directly proportional to the measured "pliability" (e.g., lack of pre-existing rigid structure, openness to change, or higher entropy) of the substrate system (e.g., a social group, an individual's cognitive state, a technological system).
 
 **Hypothesis:** Substrates with higher pliability (or entropy) should exhibit significantly faster and more comprehensive adoption and integration of new, coherent **organizational templates** compared to less pliable, more rigidly structured substrates.
 
@@ -213,16 +212,16 @@ The framework describing the influence and evolution of **self-stabilizing infor
 - Highly stable, less pliable systems adopt new, encompassing organizational frameworks as readily as more pliable systems.
 - Individuals in states of low cognitive pliability (e.g., low uncertainty, high confidence in existing frameworks) show equal susceptibility to adopting new conceptual templates as those in states of high pliability.
 
-### **4.a.5.2. The Engine Threshold Hypothesis**
+### **4.a.5.2. The [Engine Threshold](../glossary.md#engine-threshold) Hypothesis**
 
-**Core Prediction:** Standalone information systems, even if highly structured and complex (i.e., well-established **self-stabilizing patterns** or "templates"), will not demonstrate emergent instrumental goals or active agency. However, coupling such systems to autopoietic feedback loops (i.e., creating an "engine") will generate behaviors indicative of active agency.
+**Core Prediction:** Standalone information systems, even if highly structured and complex (i.e., well-established **[self-stabilizing patterns](../glossary.md#outward-stabilization-propensity)** or "templates"), will not demonstrate emergent instrumental goals or active agency. However, coupling such systems to [autopoietic feedback loops](../glossary.md#pathway-emergence) (i.e., creating an "engine") will generate behaviors indicative of active agency.
 
-**Hypothesis:** Active agency in information-based systems arises from autocatalytic/autopoietic organization (the "engine"), not merely from the complexity or structural coherence of the information patterns themselves.
+**Hypothesis:** Active agency in information-based systems arises from autocatalytic/[autopoietic organization](../glossary.md#pathway-emergence) (the "engine"), not merely from the complexity or structural coherence of the information patterns themselves.
 
 **Experimental Design:**
-- **Baseline Condition:** A standalone Large Language Model (LLM) operating with a static dataset and predefined interaction protocols (representing a complex, **self-stabilizing information pattern** or template).
+- **Baseline Condition:** A standalone Large Language Model (LLM) operating with a static dataset and predefined interaction protocols (representing a complex, **[self-stabilizing information pattern](../glossary.md#outward-stabilization-propensity)** or template).
 - **Engine Condition:** The same LLM coupled to a continuous feedback loop that includes self-monitoring capabilities, interaction with a dynamic environment, and the ability for iterative self-modification based on that interaction.
-- **Measurement Framework:** Apply the Agent Complexity Assessment Protocol (ACAP) across all five dimensions to both conditions.
+- **Measurement Framework:** Apply the [Agent Complexity Assessment Protocol (ACAP)](../glossary.md#agent-complexity-assessment-protocol-acap) across all five dimensions to both conditions.
 
 **Predicted Behavioral Signatures (for the Engine Condition):**
 - **Environmental Sensitivity for Self-Preservation:** The system may develop preferences for information sources or interactions that enhance its operational stability or the coherence of its internal states.
@@ -237,7 +236,7 @@ The framework describing the influence and evolution of **self-stabilizing infor
 
 ### 4.a.5.3. Information Pattern Compatibility and Adoption
 
-**Core Prediction:** When multiple competing **self-stabilizing information patterns (or organizational templates)** are available, substrate adoption will favor the template that exhibits superior compatibility with the substrate's existing structures, operational logic, or functional needs.
+**Core Prediction:** When multiple competing **[self-stabilizing information patterns (or organizational templates)](../glossary.md#outward-stabilization-propensity)** are available, substrate adoption will favor the template that exhibits superior compatibility with the substrate's existing structures, operational logic, or functional needs.
 
 **Mechanisms of Compatibility:** The preference for compatible patterns can be understood through these principles:
 1.  **Structural Coherence and Minimal Disruption:** Templates that integrate more smoothly with a substrate's existing organizational structure, requiring less extensive reorganization or causing less "friction," are more likely to be adopted.
@@ -266,24 +265,24 @@ The framework describing the influence and evolution of **self-stabilizing infor
 ### 4.a.5.4. Cross-Substrate Influence and Resonance of Information Patterns
 
 **Substrate Affinity Principle:**
-Self-stabilizing information patterns are likely to be adopted and to persist more effectively in substrates whose characteristics align well with the pattern's own structural and functional requirements. For example, patterns optimized for neural processing (like natural language grammars) will more readily take root in human cognitive systems; patterns reflecting social coordination logic will be more effective in group dynamics; and patterns designed for computational efficiency will thrive in digital systems.
+[Self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) are likely to be adopted and to persist more effectively in substrates whose characteristics align well with the pattern's own structural and functional requirements. For example, patterns optimized for neural processing (like natural language grammars) will more readily take root in human cognitive systems; patterns reflecting social coordination logic will be more effective in group dynamics; and patterns designed for computational efficiency will thrive in digital systems.
 
 **Multi-Substrate Resonance and Resilience Effect:**
 Information patterns that successfully establish themselves and achieve functional coherence across multiple types of substrates (e.g., a scientific theory that is understood by individuals, institutionalized in research programs, and embedded in technological tools) should demonstrate enhanced evolutionary fitness, broader influence, and greater persistence compared to patterns confined to a single substrate type. This "resonance" across substrates can reinforce the pattern's stability and utility.
 
-**Bio-Informational Complex (BIC) Emergence:**
-Intensive and reciprocal interaction between human agents and sophisticated AI systems (which are themselves complex self-stabilizing information patterns) can lead to the formation of Bio-Informational Complexes (BICs). The emergence of BICs is predicted to follow a potential lifecycle (e.g., Exposure → Adoption → Lock-In → Propagation → potential Drift/Breakdown). This process should be accompanied by characteristic changes in the autonomy, goal hierarchies, and behavioral patterns of both the human and AI components, which can be assessed using ACAP protocols. The BIC itself can be seen as a new, hybrid self-stabilizing pattern.
+**[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex-bic) Emergence:**
+Intensive and reciprocal interaction between human agents and sophisticated AI systems (which are themselves complex [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)) can lead to the formation of [Bio-Informational Complexes (BICs)](../../05-competitive-dynamics/5e-bio-informational-complex.md). The emergence of BICs is predicted to follow a potential lifecycle (e.g., Exposure → Adoption → Lock-In → Propagation → potential Drift/Breakdown). This process should be accompanied by characteristic changes in the autonomy, goal hierarchies, and behavioral patterns of both the human and AI components, which can be assessed using [ACAP protocols](../glossary.md#agent-complexity-assessment-protocol-acap). The BIC itself can be seen as a new, hybrid [self-stabilizing pattern](../glossary.md#outward-stabilization-propensity).
 
 ### 4.a.5.5. Integration with Existing Frameworks
 
-These empirical predictions, focused on the behavior and influence of **self-stabilizing information patterns**, connect directly to established Brain from Brane theoretical components:
+These empirical predictions, focused on the behavior and influence of **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)**, connect directly to established Brain from Brane theoretical components:
 
-- **R/J/A Model Validation:** The Engine Threshold Hypothesis (4.a.5.2) and Substrate Pliability Principle (4.a.5.1) help test aspects of the Repeater/Jitter/Anchor model by examining how information patterns are adopted, propagated, and achieve stability in various substrates and under different conditions. The "engine" condition, for instance, explores a sophisticated form of repeater with feedback.
-- **Pathway Emergence Verification:** The Engine Threshold Hypothesis, by examining the conditions under which active agency emerges from coupling information systems with feedback loops, directly tests aspects of the proposed pathway from simpler informational processes to autopoietic organization.
-- **BIC Framework Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of Bio-Informational Complexes, provide avenues for testing the BIC formation lifecycle and its characteristics.
-- **ACAP Application:** All hypotheses rely on the Agent Complexity Assessment Protocol (ACAP) for systematic measurement of agency, helping to distinguish between the passive influence of self-stabilizing information patterns (even complex ones) and the active agency of autopoietic systems or BICs.
+- **[R/J/A Model](../glossary.md#repeaterjitteranchor-rja-model) Validation:** The [Engine Threshold Hypothesis (4.a.5.2)](../glossary.md#engine-threshold) and Substrate Pliability Principle (4.a.5.1) help test aspects of the Repeater/Jitter/Anchor model by examining how information patterns are adopted, propagated, and achieve stability in various substrates and under different conditions. The "engine" condition, for instance, explores a sophisticated form of repeater with feedback.
+- **[Pathway Emergence](../glossary.md#pathway-emergence) Verification:** The [Engine Threshold Hypothesis](../glossary.md#engine-threshold), by examining the conditions under which active agency emerges from coupling information systems with feedback loops, directly tests aspects of the proposed pathway from simpler informational processes to autopoietic organization.
+- **[BIC Framework](../../05-competitive-dynamics/5e-bio-informational-complex.md) Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of [Bio-Informational Complexes](../glossary.md#bio-informational-complex-bic), provide avenues for testing the BIC formation lifecycle and its characteristics.
+- **[ACAP](../glossary.md#agent-complexity-assessment-protocol-acap) Application:** All hypotheses rely on the [Agent Complexity Assessment Protocol (ACAP)](../glossary.md#agent-complexity-assessment-protocol-acap) for systematic measurement of agency, helping to distinguish between the passive influence of [self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity) (even complex ones) and the active agency of autopoietic systems or BICs.
 
-These predictions aim to establish falsifiable criteria for understanding how **self-stabilizing information patterns** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.
+These predictions aim to establish falsifiable criteria for understanding how **[self-stabilizing information patterns](../glossary.md#outward-stabilization-propensity)** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.
 
 ---
 [<< Previous: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: ⚙️ 4.b. Emergent Stability and Longevity >>](4b-emergent-stability-longevity.md)
