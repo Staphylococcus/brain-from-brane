@@ -1,3 +1,11 @@
+<!--
+
+- empirical basis for treating ethical frameworks as exceptional
+- revisit sharpness of distinctions
+- unpack moral necessity
+
+-->
+
 # ⚙️ 5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns
 *Low Altitude Analysis*
 

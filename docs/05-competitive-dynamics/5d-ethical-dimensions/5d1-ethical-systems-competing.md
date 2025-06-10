@@ -3,6 +3,14 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Address normative dimension of ethics
+- Think about dimensionality: e.g. interplay between environmental ethics and economic ethics. Does moral pluralism sufficiently address this?
+- Elaborate on the nature of resources
+
+-->
+
 [Ethical frameworks](../../glossary.md#ethical-frameworks) exhibit all the characteristic dynamics of information systems competing for limited cognitive resources and behavioral expression. Like other information patterns, they:
 
 | Characteristic | Ethical System Manifestation | Examples |

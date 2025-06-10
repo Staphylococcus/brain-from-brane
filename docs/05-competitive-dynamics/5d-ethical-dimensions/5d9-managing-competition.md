@@ -1,3 +1,10 @@
+<!--
+
+- this is a meta-ethical rabbit hole
+- explore emergence as a mechanism for proactive meta-ethical ecosystem management
+
+-->
+
 # ⚙️ 5.d.9. Managing Ethical Competition: Intervention Strategies
 *Low Altitude Analysis*
 

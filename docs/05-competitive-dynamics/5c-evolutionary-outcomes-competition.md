@@ -3,6 +3,15 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- What does dominance really mean? What does extinction mean? Global vs local.
+- Operationalize "fitness"
+- Illustrate co-evolution
+- How about predictions?
+
+-->
+
 The ongoing competition among information systems is not merely a static struggle but a dynamic process that drives their evolution and shapes the overall informational landscape:
 
 -   **Trajectories: Dominance, Coexistence, Extinction:** The outcome of competition for a given information system can vary. It may achieve widespread "dominance", effectively marginalizing or eradicating rivals in a particular domain. Alternatively, it may lead to the extinction of less "fit" systems that fail to secure resources or host adherence. However, competition can also result in complex ecosystems of coexisting information systems, particularly if they successfully differentiate into distinct niches or if no single system achieves universal superiority across all relevant criteria.

@@ -3,6 +3,16 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Massive operationalization gap
+- Placeholder terms like viscosity need to be fleshed out
+- Flesh out higher order information systems / BICs agency
+- Elaborate on antagonism vs synergistic evolution
+- Overall flesh out the "how" to the "what" and "where"
+
+-->
+
 The competitive dynamics of information systems unfold across various arenas and levels of organization:
 
 -   **Intra-Agent Competition:** The cognitive landscape of an individual agent serves as a primary arena. Conflicting beliefs, values, desires, and learned behavioral scripts (all forms of information systems) compete for influence over the agent's "[inside-out lens](../glossary.md#inside-out-lens)", decision-making, and actions. The experience of [cognitive dissonance](../glossary.md#cognitive-dissonance) and subsequent rationalization or belief adjustment is a direct manifestation of this internal competition and the efforts of the bio-informational complex to maintain coherence.

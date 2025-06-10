@@ -3,6 +3,13 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- might be too much reification leading to a cynical impression
+- potential opportunity to explore interlinking with the neighboring BIC section
+
+-->
+
 Ethical systems employ sophisticated strategies in their competition for moral dominance, often mirroring the general competitive mechanisms identified in [Section 5.a](../5a-mechanisms-competition.md):
 
 | Mechanism | Ethical System Application | Contemporary Examples |

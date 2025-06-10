@@ -3,6 +3,14 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- How does explanatory power and logical consistency of a given framework impact its "market share"?
+- Clearly articulate agency types and sources
+- Take it easy with the bullet points, refactor as tables
+
+-->
+
 A crucial dimension of ethical competition involves meta-ethical frameworks—information systems that compete to define what counts as valid moral reasoning itself:
 
 | Meta-Ethical Framework | Core Claims | Competitive Strategy |

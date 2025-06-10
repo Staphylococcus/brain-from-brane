@@ -3,6 +3,14 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- What is the interplay between the strategies? Are there overlaps?
+- clarify zero-sum and positive-sum dynamics within this scope
+- Comparative analyses?
+
+-->
+
 The "vying for dominance" among information systems employs a range of strategies, extending beyond simple presence to more active and subtle interactions:
 
 -   **Direct Confrontation and Suppression:** This involves overt attempts to eradicate, discredit, or suppress competing narratives or systems. Examples include ideological purges, censorship, public debunking campaigns, or even the violent destruction of cultural artifacts representing rival systems. The perceived emergent "intentionality" of the bio-informational complex is often at play here.

@@ -1,3 +1,11 @@
+<!--
+
+- Be deliberate about breadth/depth tradeoff
+- Needs better linking with the neighbors
+
+-->
+
+
 # ⚙️ 5.d.8. Practical Applications and Case Studies
 *Low Altitude Analysis*
 
