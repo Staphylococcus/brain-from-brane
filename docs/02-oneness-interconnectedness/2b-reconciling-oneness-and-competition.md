@@ -9,7 +9,7 @@ This competition is driven primarily by [**resource scarcity**](../glossary.md#r
 
 The "striving" of these patterns for persistence is not a teleological imposition but an outcome of the fundamental processes outlined in the [pathway of emergence (Section 1a)](../01-pattern-realism/1a-pathway-emergence.md), including thermodynamic driving towards dissipative adaptation, the self-reinforcing nature of autocatalytic networks, and the boundary-maintaining imperatives of autopoietic organization. These mechanisms provide a physical and organizational basis for the [Outward Stabilization Propensity](../glossary.md#outward-stabilization-propensity) of patterns.
 
-Thus, competition does not necessarily contradict fundamental oneness but is a characteristic of how distinct patterns interact and strive for persistence at emergent levels under conditions of limitation.
+Thus, competition does not necessarily contradict fundamental oneness but is a characteristic of how distinct patterns interact and strive for persistence at emergent levels under conditions of limitation. The patterns that outcompete other patterns are the ones that end up persisting.
 
 ---
 [<< Previous: ⚙️ 2. a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md) | [Up: 🔍 2. Oneness, Interconnectedness, and the Nature of Distinctions](2-oneness-interconnectedness.md) | [Next: 🔍 Agents as Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)
