@@ -3,6 +3,15 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Define value and utility
+- What are coherence and resonance?
+- cognitive entrenchment vs maladaptive rigidity. What's the interplay?
+- Link stability more broadly to e.g. 5e
+
+-->
+
 The persistence of information systems is not a static property but an emergent characteristic arising from dynamic processes. Unlike physical objects that maintain their form through molecular bonds, information systems achieve stability through active maintenance, continuous replication, and adaptive responses to environmental challenges.
 
 ## **4.b.1. Mechanisms of Emergent Stability**
