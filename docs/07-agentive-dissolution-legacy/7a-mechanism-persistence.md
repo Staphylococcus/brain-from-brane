@@ -1,3 +1,12 @@
+<!--
+
+- Needs expansion and elaboration.
+- Examples of substrates and persistence
+- Agent-driven curation and transformation of informational legacies
+- Informational legacy propagation modifiers
+
+-->
+
 # ⚙️ 7.a. Mechanism of Persistence
 *Low Altitude Analysis*
 

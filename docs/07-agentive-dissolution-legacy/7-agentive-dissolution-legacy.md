@@ -1,3 +1,10 @@
+<!--
+
+- Needs better links with the broader framework.
+
+-->
+
+
 # 🔍 7. Agentive Dissolution and the Enduring Flow of Informational Legacies
 *Medium Altitude Exploration*
 
