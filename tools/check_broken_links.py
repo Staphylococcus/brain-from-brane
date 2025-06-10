@@ -177,6 +177,10 @@ def check_anchor_exists(filepath, anchor):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
         
+        # Check for explicit anchor tags in headers: {#anchor-name}
+        if re.search(rf'{{#{re.escape(anchor)}\}}', content):
+            return True
+        
         # Convert anchor to expected header format
         # GitHub/most markdown processors convert headers to lowercase, replace spaces with dashes
         expected_anchor = anchor.lower().replace(' ', '-')
