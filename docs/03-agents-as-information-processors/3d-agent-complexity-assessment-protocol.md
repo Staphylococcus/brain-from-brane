@@ -3,6 +3,14 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!-- 
+
+- How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities? 
+- Scores on the 0-25 scales are subjective
+- Risk of anthropomorphism/reification
+
+-->
+
 ## Table of Contents
 
 - [Concise Characterization](#concise-characterization)
