@@ -272,8 +272,4 @@ Measurable signatures of computational amplification and integration:
 - **The Long-Term Stability of Integrated Networks:** Are integrated bio-informational networks inherently stable, or are they prone to new forms of systemic risk and collapse?
 
 ---
-*Next: [6b. Redrawing the Borders of Collective Consciousness →](6b-redrawing-borders-collective-consciousness.md)*
-*Previous: [6. Influence and Collective Consciousness ←](../6-influence-collective-consciousness.md)*
-*Parent: [Section 6 Overview ←](../6-influence-collective-consciousness.md)*
-
-*[🔝 Return to Top](#-6a-mechanisms-of-influence-on-reality) | [📚 Glossary](../glossary.md) | [🛠️ Contributing](../../CONTRIBUTING.md)*
+[<< Previous: 🔍 6. Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Up: 🔍 6. Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: ⚙️ 6.b. Redrawing Borders in Collective Consciousness >>](6b-redrawing-borders-collective-consciousness.md)

@@ -30,6 +30,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
           > - What are coherence and resonance?
           > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
           > - Link stability more broadly to e.g. 5e
+          > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design
