@@ -21,6 +21,8 @@ Information systems depend on three fundamental material components that work to
 
 **Repeaters** are material systems capable of receiving, processing, and retransmitting information patterns. They serve as the active propagation mechanism for information systems:
 
+The concept of a high-fidelity **Repeater** is deeply indebted to the foundational work of Claude Shannon. His mathematical theory of communication established that it is possible to transmit information with arbitrary accuracy, even across a noisy channel, through proper encoding and error correction. Shannon's framework provides the theoretical grounding for *how* a Repeater can function reliably. The R/J/A model builds upon this by taking the possibility of high-fidelity repetition as a given, and then examines how this capability interacts with **Jitter** (variation) and **Anchors** (stability) to drive the long-term evolution and persistence of the entire information system.
+
 **Biological Repeaters:**
 - **Human brains** with their neural networks specialized for pattern recognition, memory formation, and communication
 - **Social groups** that collectively maintain and transmit cultural practices, stories, and knowledge
