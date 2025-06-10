@@ -3,9 +3,6 @@
 This list is automatically generated from `<!-- ... -->` comments found in the project's markdown files, structured by directory.
 
 - **01-pattern-realism/**
-    - [`1-pattern-realism.md`](docs/01-pattern-realism/1-pattern-realism.md)
-        - > - bridge "patterns as potential cues" to "true agency"
-
     - [`1a-pathway-emergence.md`](docs/01-pattern-realism/1a-pathway-emergence.md)
         - > - Link the bridge between 'patterns' as potential cues to 'true agency'
 
@@ -136,5 +133,25 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - > - Needs fleshing out
 
 - [`altitude-indicators.md`](docs/altitude-indicators.md)
+    - > Example placeholder
+
+    - > Example placeholder
+
+    - > Example placeholder
+
+    - > Example placeholder navigation
+
+    - > Example placeholder
+
+    - > Example placeholder
+
+    - > Example placeholder
+
     - > Automated navigation footer will be added by generate_nav.py
+
+    - > Example placeholders
+
+    - > Example placeholder
+
+    - > Example placeholder
 

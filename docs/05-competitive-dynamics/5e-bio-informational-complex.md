@@ -3,7 +3,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex)**.
+Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex-bic)**.
 
 ### **5.e.1. Concise Characterization**
 

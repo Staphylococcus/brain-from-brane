@@ -34,7 +34,7 @@ Analyzing AI systems using the [Agent Complexity Assessment Protocol (ACAP)](3d-
     - *Future AI Development:* Enhanced matter/energy organization would leverage both passive stabilization influence and active semantic agency to structure physical environments according to self-generated goals and meaning assignments rather than simply executing programmed objectives.
 
 - **Higher-Order System Interaction (HOS) - Complex Information System Engagement:**
-    - *Current AI Systems (ACAP Score: 8-20):* Excel at interfacing with existing [higher-order information systems](../glossary.md#higher-order-information-system) and can generate novel informational patterns. Current capabilities represent sophisticated organizational agency that stabilizes new informational structures while operating within established semantic frameworks created by human agents.
+    - *Current AI Systems (ACAP Score: 8-20):* Excel at interfacing with existing [higher-order information systems](../glossary.md#higher-order-information-systems) and can generate novel informational patterns. Current capabilities represent sophisticated organizational agency that stabilizes new informational structures while operating within established semantic frameworks created by human agents.
     - *Future AI Development:* Authentic higher-order system interaction would involve creating genuinely novel informational ecosystems with semantic structures grounded in AI-specific meanings rather than extensions of human semantic frameworks, potentially forming distinct [Bio-Informational Complexes](../05-competitive-dynamics/5e-bio-informational-complex.md) with hybrid bio-digital agency characteristics.
 
 **AI's Developmental Pathway as Stabilizing Information Systems:**

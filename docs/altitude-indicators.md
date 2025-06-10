@@ -42,10 +42,10 @@ The project uses `generate_nav.py` to automatically create navigation footers. A
 Place altitude context in document headers (above automated footers):
 
 ```markdown
-⬆️ **Context**: [Higher Level Concept](../parent-document.md) <!-- Example link -->
+⬆️ **Context**: Higher Level Concept (../parent-document.md) <!-- Example placeholder -->
 ⬇️ **Explore Deeper**: 
-- [Specific Mechanism](sub-section-a.md) <!-- Example link -->
-- [Detailed Application](sub-section-b.md) <!-- Example link -->
+- Specific Mechanism (sub-section-a.md) <!-- Example placeholder -->
+- Detailed Application (sub-section-b.md) <!-- Example placeholder -->
 ```
 
 ### Altitude-Enhanced Automated Navigation
@@ -53,7 +53,7 @@ The navigation script could be enhanced to include altitude awareness in footers
 
 ```markdown
 ---
-🔭 [<< Previous: Higher Level Overview](prev-doc.md) | [Home: README.md](../../README.md) | [Next: Related Concept >>](next-doc.md) <!-- Example navigation -->
+🔭 Previous: Higher Level Overview (prev-doc.md) | Home: README.md (../../README.md) | Next: Related Concept (next-doc.md) <!-- Example placeholder navigation -->
 ```
 
 ## Section Indicators Within Documents
@@ -81,11 +81,11 @@ Since automated navigation handles footers, focus altitude indicators in headers
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis  
 👥 **Primary Audience**: Researchers, practitioners, specialists  
-⬆️ **Context**: This analysis is part of [Parent Concept](../parent-doc.md)
+⬆️ **Context**: This analysis is part of Parent Concept (../parent-doc.md) <!-- Example placeholder -->
 
 ⬇️ **Explore Deeper**: 
-- [Statistical Validation](validation.md)
-- [Implementation Guide](implementation.md)
+- Statistical Validation (validation.md) <!-- Example placeholder -->
+- Implementation Guide (implementation.md) <!-- Example placeholder -->
 
 ---
 
@@ -118,14 +118,14 @@ Your content begins here...
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis  
 👥 **Primary Audience**: Researchers, practitioners, assessment specialists  
-⬆️ **Context**: [Competitive Dynamics](../5-competitive-dynamics.md) > [BIC Overview](5e-bio-informational-complex.md)
+⬆️ **Context**: Competitive Dynamics (../5-competitive-dynamics.md) > BIC Overview (5e-bio-informational-complex.md) <!-- Example placeholders -->
 
 ## Overview
 This document provides detailed assessment protocols for identifying and analyzing Bio-Informational Complexes...
 
 ⬇️ **Explore Deeper**: 
-- [Statistical Validation](assessment-validation.md)
-- [Cross-Cultural Applications](cross-cultural-bic.md)
+- Statistical Validation (assessment-validation.md) <!-- Example placeholder -->
+- Cross-Cultural Applications (cross-cultural-bic.md) <!-- Example placeholder -->
 ```
 
 This system provides clear visual cues while maintaining document readability and professional appearance.

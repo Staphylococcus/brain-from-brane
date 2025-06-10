@@ -103,4 +103,4 @@ This provides the foundation for Section 1.c's philosophical analysis with concr
 [^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)  
 
 ---
-[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.c. Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)
+[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence {#1a1-the-emergence-of-semantic-information}](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.c. Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)

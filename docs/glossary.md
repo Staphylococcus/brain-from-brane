@@ -37,9 +37,6 @@ Self-producing and self-maintaining organizational systems that actively maintai
 ### Bio-Informational Complex (BIC)
 A stable relationship between biological agents and structurally-stabilized information systems characterized by mutual benefit, identity integration, and co-evolutionary development. BICs develop through a five-phase sequence: Exposure → Adoption → Lock-In → Propagation → Drift/Breakdown, representing a new category of agency emerging from human-information system coupling.
 
-### Bio-Informational Complex
-See [Bio-Informational Complex (BIC)](#bio-informational-complex-bic).
-
 ---
 
 ## **C**
@@ -138,9 +135,6 @@ This theory provides quantitative tools for analyzing information pattern behavi
 ### Higher-Order Information Systems
 Complex organizational patterns that operate across multiple substrates and scales, demonstrating sophisticated structural coordination and meaning-making capabilities beyond simple reactive systems.
 
-### Higher-Order Information System
-See [Higher-Order Information Systems](#higher-order-information-systems).
-
 ---
 
 ## **I**
@@ -159,9 +153,6 @@ Information encompasses both traditional semantic content and **organizational t
 
 ### Information System
 Complex organizational patterns that achieve causal influence through structural organization and evolutionary dynamics, operating across biological, social, and technological substrates.
-
-### Information Systems
-See [Information System](#information-system).
 
 ### Information Warfare
 Competitive dynamics between information systems involving attempts to disrupt, manipulate, or control the transmission and processing of information within target systems or environments.
@@ -330,4 +321,4 @@ The worldsheet framework justifies treating information stabilization as a liter
 
 ---
 
-*For additional conceptual clarifications, see the [Introduction](01-pattern-realism/1-pattern-realism.md) and [Framework Overview](README.md).*
+*For additional conceptual clarifications, see the [Introduction](01-pattern-realism/1-pattern-realism.md) and [Framework Overview](../README.md).*

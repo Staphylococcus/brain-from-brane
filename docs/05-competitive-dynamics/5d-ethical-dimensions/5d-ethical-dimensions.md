@@ -49,7 +49,7 @@ Contemporary examples illuminate these dynamics: corporate social responsibility
 
 ### **[5.d.4. Bio-Informational Complexes and Moral Identity](5d4-bio-informational-complexes.md)**
 
-The deepest level of ethical competition occurs when **moral frameworks fuse with human identity itself**, creating [Bio-Informational Complexes](../../glossary.md#bio-informational-complex) where the boundary between person and principle dissolves. This section traces the developmental progression from initial moral exposure through ethical adoption to complete moral lock-in, where changing [ethical frameworks](../../glossary.md#ethical-frameworks) becomes psychologically equivalent to destroying the self.
+The deepest level of ethical competition occurs when **moral frameworks fuse with human identity itself**, creating [Bio-Informational Complexes](../../glossary.md#bio-informational-complex-bic) where the boundary between person and principle dissolves. This section traces the developmental progression from initial moral exposure through ethical adoption to complete moral lock-in, where changing [ethical frameworks](../../glossary.md#ethical-frameworks) becomes psychologically equivalent to destroying the self.
 
 The analysis distinguishes between mutualistic ethical BICs that promote both individual flourishing and social cooperation, commensal systems that provide meaning without broader impact, and [parasitic frameworks](../../glossary.md#parasitic-frameworks) that exploit moral sentiments for destructive ends. Understanding these patterns provides crucial tools for identifying when moral commitment becomes pathological.
 
@@ -113,7 +113,7 @@ The analysis reveals several crucial insights about the nature of ethical system
 
 2. **[Competitive Dynamics](../../glossary.md#competitive-dynamics)**: Moral systems engage in sophisticated competition for cognitive dominance, employing strategies ranging from direct confrontation to adaptive synthesis.
 
-3. **Identity Integration**: [Ethical frameworks](../../glossary.md#ethical-frameworks) form uniquely powerful [Bio-Informational Complexes](../../glossary.md#bio-informational-complex) by fusing with core personal and social identity.
+3. **Identity Integration**: [Ethical frameworks](../../glossary.md#ethical-frameworks) form uniquely powerful [Bio-Informational Complexes](../../glossary.md#bio-informational-complex-bic) by fusing with core personal and social identity.
 
 4. **Meta-Ethical Competition**: The frameworks for evaluating moral claims themselves compete for authority in defining valid moral reasoning.
 
