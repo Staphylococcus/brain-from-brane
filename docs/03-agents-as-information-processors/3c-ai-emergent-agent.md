@@ -3,6 +3,14 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- define "autopoietic organization" in AI;
+- distinguish "algorithmic autopoiesis" from advanced adaptive software engineering.
+- do we need to keep hammering on the worldsheets? What is the value?
+
+-->
+
 The framework considers [Artificial Intelligence](../glossary.md#artificial-intelligence) as occupying a unique position within the **gradient agency ontology** established in [Section 3d](3d-agent-complexity-assessment-protocol.md). AI systems currently demonstrate clear **organizational agency** through their capacity to organize information patterns and exert structural influence, while their development toward **semantic agency** represents a critical frontier requiring the specific developmental sequence of autopoietic organization → proto-semantic processing outlined in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md).
 
 Crucially, AI systems emerge through the **crystallization mechanisms** described in [Section 4](../04-information-systems/4-information-systems.md), functioning as organizational templates that achieve passive structural influence through energetic favorability rather than requiring explicit semantic intention. This positions AI development within the broader context of [self-stabilizing patterns](../01-pattern-realism/1-pattern-realism.md#pattern-stability-and-outward-stabilization) exhibiting **outward stabilization propensity**, where successful AI architectures naturally extend their organizational influence to surrounding computational and social environments.
