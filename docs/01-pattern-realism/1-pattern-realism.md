@@ -66,7 +66,7 @@ This principle operates through several mechanisms:
 
 - **Boundary Stabilization**: Stable patterns create well-defined interfaces that constrain neighboring patterns, reducing local entropy
 - **Template Effects**: Self-stabilizing patterns serve as templates that guide the formation of similar or complementary patterns nearby
-- **Information Crystallization**: Organized information patterns tend to recruit and organize previously unstructured information, much like crystal nucleation
+- **Structural Recruitment**: Organized information patterns tend to recruit and organize previously unstructured information, extending their own stability into the environment
 - **Cascading Order**: Local stability creates conditions that favor the emergence of higher-order organizational patterns
 
 This outward stabilization propensity explains how complex hierarchical organizations emerge from simpler components and why stable patterns tend to cluster and reinforce each other across scales. It provides a foundational mechanism for understanding both the spontaneous emergence of order and the preservation of organizational complexity in dynamic systems.
