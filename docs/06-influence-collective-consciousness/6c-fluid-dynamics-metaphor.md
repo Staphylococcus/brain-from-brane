@@ -1,3 +1,10 @@
+<!--
+
+- Potentially stretching the fluid dynamics metaphor too thin
+
+-->
+
+
 # ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders
 *Low Altitude Analysis*
 

@@ -1,3 +1,11 @@
+<!--
+
+- Needs good old fleshing out. Not low enough altitude
+- Elaborate on causal mechanics
+
+-->
+
+
 # ⚙️ 6.b. Redrawing Borders in Collective Consciousness
 *Low Altitude Analysis*
 

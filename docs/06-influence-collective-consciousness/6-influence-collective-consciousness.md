@@ -1,3 +1,9 @@
+<!--
+
+- Rebase in self-reinforcing patterns
+
+-->
+
 # 🔍 6. Mechanisms of Influence and Collective Consciousness
 *Medium Altitude Exploration*
 
