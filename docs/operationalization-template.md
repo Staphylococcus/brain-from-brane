@@ -26,7 +26,7 @@
 |-----------|---------|--------|-------------------|
 | **[ACAP](03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)** | Measure agent complexity across 5 dimensions | 0-125 point complexity score + dimensional profile | Any system exhibiting non-entropic organization |
 | **[BIC Assessment](05-competitive-dynamics/5e-bio-informational-complex.md)** | Identify and analyze bio-informational complexes | BIC classification + development phase + function type | Human-information system couplings |
-| **Information System Crystallization** | Assess organizational agency of pure information systems | 0-100 crystallization influence score | Languages, ideologies, algorithms, cultural narratives |
+| **Information System Stabilization** | Assess organizational agency of pure information systems | 0-100 stabilization influence score | Languages, ideologies, algorithms, cultural narratives |
 | **Worldsheet Emergence Indicators** | Detect pattern emergence and informational layers | Emergent complexity classification | Any system showing layered information organization |
 
 ### 🚀 Implementation Pathway
@@ -169,12 +169,12 @@ Negative Indicators:
 
 ### 3.1 Standalone Information System Assessment
 
-**Crystallization Capacity Measurement**
+**Stabilization Capacity Measurement**
 
 | Dimension | Assessment Method | Scoring Criteria (0-25) |
 |-----------|------------------|-------------------------|
 | **Structural Sophistication** | Network analysis of information architecture | Complexity of R/J/A networks, cross-substrate stability |
-| **Crystallization Influence** | Adoption rate analysis across substrates | Speed and fidelity of substrate organization |
+| **Stabilization Influence** | Adoption rate analysis across substrates | Speed and fidelity of substrate organization |
 | **Evolutionary Dynamics** | Mutation/selection tracking over time | Adaptation capacity and competitive fitness |
 | **Host Coupling Potential** | BIC formation rate and stability | Capacity to form stable bio-informational complexes |
 
@@ -187,7 +187,7 @@ Emergence Phase:
 
 Growth Phase:
 □ Rapid substrate adoption
-□ Crystallization mechanism optimization
+□ Stabilization mechanism optimization
 □ Competitive displacement of alternatives
 
 Maturity Phase:
@@ -472,7 +472,7 @@ Analysis: Developmental trajectories, enhancement factors
 ```
 Scope: Define information environment boundaries
 Sampling: Representative system coverage
-Measures: Crystallization capacity, competitive relationships
+Measures: Stabilization capacity, competitive relationships
 Analysis: Network structure, competitive dynamics
 ```
 
@@ -584,3 +584,4 @@ When using these operationalization frameworks, please cite the Brain from Brane
 ---
 
 *For questions, clarifications, or implementation support, please refer to the [Contributing Guidelines](../CONTRIBUTING.md) or consult the detailed framework sections.*
+
