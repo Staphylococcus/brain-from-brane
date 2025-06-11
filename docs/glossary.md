@@ -9,6 +9,9 @@ This glossary provides precise definitions of technical terms used throughout th
 ### Adaptation
 The process by which agents or information systems modify their structure or behavior in response to environmental changes, enabling improved survival, persistence, or propagation within their operational context.
 
+### Agency
+The capacity for systems to exhibit goal-directed behavior, environmental responsiveness, and autonomous organization of matter/energy/information patterns. Agency exists on a continuous spectrum from simple molecular selectivity to sophisticated self-reflective behavior, encompassing both [organizational agency](#organizational-agency) (structural influence through energetic favorability and pattern stabilization) and [semantic agency](#semantic-agency) (meaning-making through autopoietic self-organization). The Brain from Brane framework recognizes agency as a fundamental property of organized systems, measurable through [ACAP](#agent-complexity-assessment-protocol-acap) protocols across all scales of reality.
+
 ### Agent
 A system capable of recursive process optimization, goal pursuit, and environmental responsiveness as measured through [ACAP](#agent-complexity-assessment-protocol-acap) dimensional analysis. Agents exist on a complexity spectrum from simple reactive systems to sophisticated [Bio-Informational Complexes](#bio-informational-complex-bic) with full semantic agency capabilities.
 
@@ -17,6 +20,9 @@ A five-dimensional measurement framework for systematically assessing agent capa
 
 ### Agent-Relative
 Information or meaning that exists only in relation to a specific agent's perspective, capabilities, and organizational needs, rather than having objective existence independent of interpreting agents.
+
+### Algorithmic Organizational Templates
+Computational information systems that function as [organizational information](#organizational-information) patterns to structure digital information environments and mediate interactions between information systems and hosts. These templates, exemplified by social media algorithms and search engines, achieve influence through automated [compatibility matching](#compatibility-matching) and preference optimization rather than semantic meaning-making. They represent a novel form of [organizational agency](#organizational-agency) operating through technological infrastructure to create personalized information landscapes that shape host behavior and attention patterns.
 
 ### Algorithms
 Computational procedures or rule-based systems that process information through systematic operations, representing organizational templates that guide mechanical execution with precise repetition and controlled variation.
@@ -34,6 +40,9 @@ Self-producing and self-maintaining organizational systems that actively maintai
 
 ## **B**
 
+### Behavioral Feedback Loops
+Dynamic interaction patterns where host actions provide data that enables information systems to modify their structural compatibility and optimize their influence. Behavioral feedback loops exemplify how [algorithmic organizational templates](#algorithmic-organizational-templates) create personalized environments by using host behavior to refine content delivery, interface design, and interaction patterns. These loops operate primarily through [organizational agency](#organizational-agency) rather than semantic processing, creating emergent information landscapes that influence collective behavior patterns.
+
 ### Bio-Informational Complex (BIC)
 A stable relationship between biological agents and structurally-stabilized information systems characterized by mutual benefit, identity integration, and co-evolutionary development. BICs develop through a five-phase sequence: Exposure → Adoption → Lock-In → Propagation → Drift/Breakdown, representing a new category of agency emerging from human-information system coupling.
 
@@ -43,6 +52,9 @@ A stable relationship between biological agents and structurally-stabilized info
 
 ### Collective Consciousness
 The shared information processing and meaning-making capabilities that emerge when multiple agents coordinate their cognitive activities through cultural transmission and social interaction mechanisms.
+
+### Compatibility Matching
+The process by which information systems achieve adoption and persistence through structural alignment with host capabilities, cognitive architecture, social context, and resource constraints. Compatibility matching represents a key mechanism of [organizational agency](#organizational-agency), where systems succeed not through persuasion but by providing more efficient pathways for accomplishing tasks or meeting needs. Educational curricula that match students' developmental capacities and software interfaces that align with user expectations exemplify compatibility matching dynamics.
 
 ### Competitive Dynamics
 The processes by which different information systems, agents, or organizational patterns compete for resources, substrates, and influence within shared environments, driving evolutionary development and structural optimization.
@@ -87,6 +99,9 @@ The arising of novel properties, behaviors, or organizational patterns from the 
 
 ### Emergent Property
 A characteristic or behavior that arises from complex systems but is not present in their individual components, representing new organizational capabilities that emerge from structural interactions.
+
+### Energetic Optimization
+The principle by which organizational patterns maintain persistence through creating conditions where continued use or adoption requires less energy than switching to alternatives. Energetic optimization operates through network effects, skill development, infrastructure investment, and other mechanisms that make existing patterns more efficient than competitors. This principle explains how information systems achieve stability not through conscious loyalty but through structural efficiency that makes alternatives costly to pursue.
 
 ### Engine Threshold
 The critical transition point where information systems achieve autonomous operation through autocatalytic feedback loops that enable self-maintenance, environmental manipulation, and goal-directed behavior measurable through ACAP protocols.
@@ -204,11 +219,14 @@ The process by which organisms with favorable traits for their environment have 
 
 ## **O**
 
+### Organizational Agency
+The capacity for systems to guide behavior and organize material substrates through structural influence, efficiency advantages, and energetic favorability rather than through meaning-making or intentional persuasion. Any system exhibiting non-entropic organization of matter/energy/information possesses measurable organizational agency, which operates through stabilization mechanisms and template effects. Organizational agency is distinguished from [semantic agency](#semantic-agency), which requires the specific developmental sequence of thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing.
+
 ### Organizational Information
 Intermediate-level information patterns that structure the arrangement and interaction of material components, representing crystallized organizational templates that coordinate complex system behavior.
 
 ### Outward Stabilization Propensity
-**A fundamental principle where self-stabilizing patterns extend their organizational influence to their surrounding environment.** This process operates through **structural constraint propagation**, where a pattern imposes its inherent structure onto a receptive substrate. It is not merely passive resistance but an active extension of order that functions through mechanisms like boundary stabilization, template effects, and structural recruitment. This propensity drives both information system expansion and agent-environment coupling.
+**A fundamental principle where self-stabilizing patterns extend their organizational influence to their surrounding environment.** This process operates through **structural constraint propagation**, where a pattern imposes its inherent structure onto a receptive substrate. It is not merely passive resistance but an active extension of order that functions through mechanisms like boundary stabilization, [template effects](#template-effects), and structural recruitment. This propensity drives both information system expansion and agent-environment coupling.
 
 ---
 
@@ -225,6 +243,12 @@ The process through which new organizational patterns develop from thermodynamic
 
 ### Proto-Semantics
 Early-stage meaning-making capabilities characterized by functional significance assignment and basic environmental interpretation, representing the developmental stage between simple detection and full semantic processing.
+
+### Structural Resonance
+The alignment and compatibility between an information system's organizational patterns and existing environmental structures, cultural frameworks, or host capabilities. Structural resonance determines whether information systems can gain widespread adoption within specific contexts. Scientific methodologies achieved structural resonance in Western cultural contexts through compatibility with existing emphases on systematic observation and logical reasoning, while facing adoption barriers in contexts with incompatible epistemological frameworks.
+
+### Template Effects
+The mechanism by which self-stabilizing patterns serve as organizational templates that guide the formation of similar or complementary patterns in their surrounding environment. Template effects represent one of the primary ways that stable information patterns extend their influence through the [outward stabilization propensity](#outward-stabilization-propensity). Examples include language grammars structuring communication patterns, software interfaces guiding user behavior, and cultural practices shaping social organization. Template effects operate through **structural influence** rather than semantic persuasion, making them a key component of [organizational agency](#organizational-agency).
 
 ---
 
