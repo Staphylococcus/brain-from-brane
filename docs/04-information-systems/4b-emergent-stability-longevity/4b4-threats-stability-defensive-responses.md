@@ -4,6 +4,12 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Flesh out the bullet points
+
+-->
+
 ## **4.b.4.1. Internal Degradation Threats**
 
 **Transmission Errors:**

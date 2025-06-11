@@ -7,6 +7,7 @@
 <!--
 
 - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
+- Flesh out the bullet points
 
 -->
 

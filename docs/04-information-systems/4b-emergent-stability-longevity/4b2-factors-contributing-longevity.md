@@ -4,6 +4,12 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Flesh out the bullet points
+
+-->
+
 ## **4.b.2.1. Intrinsic Characteristics**
 
 **Foundational Coherence:**

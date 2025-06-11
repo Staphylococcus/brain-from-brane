@@ -4,6 +4,12 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Flesh out the bullet points
+
+-->
+
 Understanding stability mechanisms provides insights for intentionally designing robust information systems:
 
 ## **4.b.5.1. Design Principles for Stability**

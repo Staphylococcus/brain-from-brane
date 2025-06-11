@@ -8,6 +8,7 @@
 
 - What are coherence and resonance?
 - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
+- flesh out the bullet points
 
 -->
 
