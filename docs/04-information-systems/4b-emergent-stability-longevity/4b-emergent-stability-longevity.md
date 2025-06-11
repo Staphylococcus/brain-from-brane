@@ -1,17 +1,10 @@
-
 # ⚙️ 4.b. Emergent Stability and Longevity
 
 *Low Altitude Analysis*
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-<!--
-
-- Link stability more broadly to e.g. 5e
-
--->
-
-The persistence of information systems is not a static property but an emergent characteristic arising from dynamic processes. Unlike physical objects that maintain their form through molecular bonds, information systems achieve stability through active maintenance, continuous replication, and adaptive responses to environmental challenges.
+The persistence of information systems is not a static property but an emergent characteristic arising from dynamic processes. Unlike physical objects that maintain their form through molecular bonds, information systems achieve stability through active maintenance, continuous replication, adaptive responses to environmental challenges, and often a deep integration with their biological hosts (a dynamic explored further in the concept of [Bio-Informational Complexes (BICs)](../../../05-competitive-dynamics/5e-bio-informational-complex.md)).
 
 This comprehensive analysis examines how information systems develop and maintain their persistence across time, the factors that contribute to their longevity, and the patterns that emerge across different types of informational structures. Understanding these dynamics is crucial for predicting which systems will survive, designing more robust beneficial systems, and developing strategies for managing harmful but stable information systems.
 

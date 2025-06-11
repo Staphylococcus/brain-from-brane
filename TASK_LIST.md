@@ -13,9 +13,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 
 - **04-information-systems/**
     - **4b-emergent-stability-longevity/**
-        - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)
-            - > - Link stability more broadly to e.g. 5e
-
         - [`4b1-mechanisms-emergent-stability.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md)
             - > - What are coherence and resonance?
               > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
@@ -39,7 +36,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
           > - Substrate pliability needs more definition
 
     - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
-        - > - Link stability more broadly to e.g. 5e
+        - > Removed to-do: Link stability more broadly to e.g. 5e
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design
