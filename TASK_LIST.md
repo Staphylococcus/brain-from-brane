@@ -23,9 +23,20 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - [`4b1-mechanisms-emergent-stability.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md)
             - > - What are coherence and resonance?
               > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
+              > - flesh out the bullet points
+
+        - [`4b2-factors-contributing-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md)
+            - > - Flesh out the bullet points
 
         - [`4b3-stability-patterns-across-types.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b3-stability-patterns-across-types.md)
             - > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
+              > - Flesh out the bullet points
+
+        - [`4b4-threats-stability-defensive-responses.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b4-threats-stability-defensive-responses.md)
+            - > - Flesh out the bullet points
+
+        - [`4b5-implications-system-design.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b5-implications-system-design.md)
+            - > - Flesh out the bullet points
 
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
@@ -38,10 +49,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - > - address the telos/intentionality of some information system design
           > - are the biological analogies pushed too far?
           > - potential oversimplification over various information system types
-
-    - [`4d-host-information-interactions.md`](docs/04-information-systems/4d-host-information-interactions.md)
-        - > - Clarify organizational/semantic agency of information systems
-          > - Too bullet-pointy
 
 - **05-competitive-dynamics/**
     - **5d-ethical-dimensions/**
