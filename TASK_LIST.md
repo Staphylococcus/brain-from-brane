@@ -10,11 +10,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
     - [`3b-broader-agency-reciprocal-dynamics.md`](docs/03-agents-as-information-processors/3b-broader-agency-reciprocal-dynamics.md)
         - > Address possible over-extension of proto-semantics when applied to amoeba
 
-    - [`3c-ai-emergent-agent.md`](docs/03-agents-as-information-processors/3c-ai-emergent-agent.md)
-        - > - define "autopoietic organization" in AI;
-          > - distinguish "algorithmic autopoiesis" from advanced adaptive software engineering.
-          > - do we need to keep hammering on the worldsheets? What is the value?
-
     - [`3d-agent-complexity-assessment-protocol.md`](docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)
         - > - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities?
           > - Scores on the 0-25 scales are subjective
@@ -35,6 +30,9 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition
+
+    - [`4b-emergent-stability-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity.md)
+        - > - Link stability more broadly to e.g. 5e
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design
