@@ -2,10 +2,6 @@
 
 This list is automatically generated from `<!-- ... -->` comments found in the project's markdown files, structured by directory.
 
-- **01-pattern-realism/**
-    - [`1a-pathway-emergence.md`](docs/01-pattern-realism/1a-pathway-emergence.md)
-        - > - Link the bridge between 'patterns' as potential cues to 'true agency'
-
 - **03-agents-as-information-processors/**
     - [`3b-broader-agency-reciprocal-dynamics.md`](docs/03-agents-as-information-processors/3b-broader-agency-reciprocal-dynamics.md)
         - > Address possible over-extension of proto-semantics when applied to amoeba
