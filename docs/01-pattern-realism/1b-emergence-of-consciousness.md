@@ -12,12 +12,16 @@
 -->
 
 ```mermaid
-stateDiagram-v2
-  [*] --> Inside_Out_Lens: Self-Referential Processing
-  Inside_Out_Lens --> Recursive_Threshold: Critical Complexity
-  Recursive_Threshold --> Consciousness: Recursive Self-Application
-  Consciousness --> Subjective_Experience: Qualitative Signature
-  Subjective_Experience --> [*]
+flowchart TD
+  Stim[Environmental Stimuli] --> |Sensed| IOL[Inside-Out Lens]
+  subgraph "Agent Boundary"
+      IOL --> RP
+      subgraph "Consciousness"
+        RP(Recursive Self-Application)
+        RP --> SE(Subjective Experience)
+        SE --> RP
+      end
+  end
 ```
 
 ---
@@ -33,11 +37,13 @@ This transition exemplifies Pattern Realism's [**outward stabilization propensit
 ### From External to Internal Self-Reference
 
 Building on [Section 1.a's](1a-pathway-emergence.md) semantic emergence, the inside-out lens initially processes:
+
 - Environmental information relative to agent goals
 - Threats and opportunities from an agent-centered perspective  
 - Behavioral strategies for self-preservation
 
 **The recursive threshold** occurs when this same architecture turns inward:
+
 - **Processing states** become objects of semantic analysis
 - **Internal dynamics** are interpreted through the same frameworks used for environmental navigation
 - **The processor** becomes both subject and object within its own informational framework
@@ -46,7 +52,7 @@ Building on [Section 1.a's](1a-pathway-emergence.md) semantic emergence, the ins
 
 Consciousness requires specific organizational thresholds where **autopoietic organization** supports recursive processing:
 
-**Organizational Closure**: Pattern Realism's coordinated mechanisms (**boundary stabilization**, **template effects**, **information crystallization**, **cascading order**) create **production closure**—organizational patterns stable enough to model their own maintenance.
+**Organizational Closure**: Pattern Realism's coordinated mechanisms (**boundary stabilization**, **template effects**, **structural recruitment**, **cascading order**) create **production closure**—organizational patterns stable enough to model their own maintenance.
 
 **Thermodynamic Viability**: Recursive processing is metabolically expensive. Neural systems must achieve energy efficiency that makes self-examination sustainable alongside environmental navigation.
 
