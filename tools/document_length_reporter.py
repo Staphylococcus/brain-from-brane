@@ -10,7 +10,7 @@ import glob # For find_markdown_files, similar to check_broken_links.py
 # --- Configuration ---
 DOCS_DIR_NAME = "docs"  # Name of the docs directory relative to project root
 OUTPUT_FILE_NAME = "DOCUMENT_LENGTH_REPORT.md"  # Name of the output file
-CHARACTER_LENGTH_WARNING_THRESHOLD = 10000  # Warn if a document exceeds this many characters
+CHARACTER_LENGTH_WARNING_THRESHOLD = 15000  # Warn if a document exceeds this many characters
 
 def find_markdown_files(docs_abs_path):
     """Finds all markdown files recursively in the given directory."""
