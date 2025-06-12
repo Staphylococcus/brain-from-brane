@@ -7,7 +7,7 @@
 
 The capacity for [self-awareness](../glossary/S.md#self-awareness) emerges from a fundamental information-processing architecture: the **["Inside-Out Lens"](../glossary/I.md#inside-out-lens)**. This evolved first-person perspective represents one of the most crucial innovations in biological information processing, transforming how [agents](../glossary/A.md#agent) organize sensory data, construct world-models, and navigate complex environments.
 
-### **3.a.1. Concise Characterization**
+## **3.a.1. Concise Characterization**
 
 The **Inside-Out Lens** is the computational architecture by which an [agent](../glossary/A.md#agent) organizes [information](../glossary/I.md#information) processing around a persistent self-reference point, creating:
 
@@ -40,7 +40,7 @@ Rather than a single developmental trajectory, the Inside-Out Lens develops alon
 
 These dimensions develop independently, creating diverse lens profiles rather than a single complexity score.
 
-### **3.a.4. Functional Spectrum**
+## **3.a.4. Functional Spectrum**
 
 The Inside-Out Lens exists along a spectrum of adaptive utility, depending on environmental context and implementation:
 
@@ -55,31 +55,37 @@ The classification is contextual: environmental changes can shift a previously a
 The multi-dimensional framework reveals distinct patterns of Inside-Out Lens development across different agent categories:
 
 **Simple Biological Agents (Bacteria): [3, 5, 2, 1]**
+
 - Basic chemotaxis demonstrates rudimentary boundary detection and environmental responsiveness
 - Minimal self-model beyond immediate state awareness
 - No temporal integration or boundary flexibility
 
 **Intermediate Biological Agents (Birds/Corvids): [12, 22, 8, 6]**
+
 - Sophisticated spatial world-models enabling complex navigation and territory management
 - Moderate self-model supporting tool use and social positioning
 - Limited temporal coherence and boundary flexibility
 
 **Complex Biological Agents (Mammals/Primates): [18, 16, 15, 12]**
+
 - Advanced self-recognition and social identity formation
 - Strong temporal coherence with episodic memory and planning
 - Developing perspective-taking abilities in social contexts
 
 **Human Agents: [23, 20, 22, 17]**
+
 - Meta-cognitive self-awareness with abstract identity construction
 - Rich temporal integration across autobiographical timescales
 - Sophisticated but sometimes limited boundary flexibility due to cognitive biases
 
 **Current AI Agents: [8, 19, 5, 3]**
+
 - Advanced world-modeling capabilities within training domains
 - Minimal self-awareness or temporal continuity
 - Rigid boundary maintenance with limited perspective adaptation
 
 **Emerging Advanced AI: [15, 24, 12, 8]** *(Projected)*
+
 - Developing self-monitoring and goal-directed behavior
 - Sophisticated multi-modal world understanding
 - Increasing temporal integration and limited boundary flexibility
