@@ -12,6 +12,7 @@
 -->
 
 ## Contents
+
 - [I. Foundation: Stable Structures and Inherent Patterns](#i-foundation-stable-structures-and-inherent-patterns)
 - [II. Environmental Information: Patterns as Potential Cues](#ii-environmental-information-patterns-as-potential-cues)
   - [Divergent Interpretations: Color Patch on Leaf](#divergent-interpretations-color-patch-on-leaf)
@@ -24,7 +25,6 @@
 - [Falsification Criteria for Pathway Emergence](#falsification-criteria-for-pathway-emergence)
 - [Comparative Framework Analysis](#comparative-framework-analysis)
   - [Unique Contributions of the Framework](#unique-contributions-of-the-framework)
-
 
 The transition from the fundamental, [organizational information](../glossary/O.md#organizational-information) embodied in **patterns of [worldsheets](../glossary/W.md#worldsheet)** to [semantic information](../glossary/S.md#semantic-information)—information that holds meaning and reference for an [agent](../glossary/A.md#agent)—is a complex multi-stage process of [emergence](../glossary/E.md#emergence). This section outlines a plausible pathway for this development, consistent with the principles of this ontology. It emphasizes that meaning is not an intrinsic property of [fundamental information](../glossary/F.md#fundamental-information) (i.e., the [worldsheets](../glossary/W.md#worldsheet) themselves) but arises from the functional role and interpretation of **patterns within these [worldsheets](../glossary/W.md#worldsheet)** by increasingly complex systems, particularly through the [agent\'s](../glossary/A.md#agent) "inside-out lens".
 
@@ -77,8 +77,7 @@ This set of stable particle types can be understood as the **fundamental alphabe
 
 This level of information is what we define as **[Fundamental Information](../glossary/F.md#fundamental-information)**, and thanks to its discrete, character-like nature, we can quantify its complexity.
 
-
-#### Quantifying Foundational Complexity: A Shannon Entropy Approach
+### Quantifying Foundational Complexity: A Shannon Entropy Approach
 
 We can apply Claude Shannon's information theory to measure the richness and structure of this fundamental alphabet. The Shannon entropy ($H$) of a system measures its average information content, accounting for the likelihood of each possible state. The full formula is:
 
@@ -88,10 +87,10 @@ Here, the probabilities $p(x_i)$ are not uniform. They are determined by the fun
 
 Let's perform a more realistic thought experiment. Consider a toy universe with just four particle types in its alphabet, with the following physically-motivated, non-uniform probabilities:
 
-* $p(\text{electron}) = 0.6$ (common, stable)
-* $p(\text{photon}) = 0.3$ (common, massless)
-* $p(\text{neutrino}) = 0.09$ (less common)
-* $p(\text{Higgs boson}) = 0.01$ (rare, high-energy)
+- $p(\text{electron}) = 0.6$ (common, stable)
+- $p(\text{photon}) = 0.3$ (common, massless)
+- $p(\text{neutrino}) = 0.09$ (less common)
+- $p(\text{Higgs boson}) = 0.01$ (rare, high-energy)
 
 Plugging these values into the Shannon formula would yield a specific entropy value. We don't need to do the exact math here; the crucial insight lies in comparing it to the maximum possible entropy. The maximum entropy for a 4-character alphabet would occur if all were equally likely ($p=0.25$), giving $H_{max} = \log_2(4) = 2$ bits.
 
@@ -99,9 +98,9 @@ Because our realistic probabilities are highly skewed, the calculated entropy wo
 
 This lower entropy value is not just a mathematical curiosity. It would represent a new fundamental constant of nature with a much deeper meaning:
 
-* It quantifies the **predictive structure** of our universe's laws. A low entropy value signifies a universe with strong biases, where some outcomes are heavily favored, making it more structured and less random.
-* It measures the **informational efficiency** of reality. The physical laws don't "waste" information on a flat distribution of possibilities; they are optimized to produce a specific, constrained set of outcomes.
-* The final value of $H$ becomes a measure not just of the *size* of the particle alphabet, but of the **inherent structural bias** of the physical laws that generate it.
+- It quantifies the **predictive structure** of our universe's laws. A low entropy value signifies a universe with strong biases, where some outcomes are heavily favored, making it more structured and less random.
+- It measures the **informational efficiency** of reality. The physical laws don't "waste" information on a flat distribution of possibilities; they are optimized to produce a specific, constrained set of outcomes.
+- The final value of $H$ becomes a measure not just of the *size* of the particle alphabet, but of the **inherent structural bias** of the physical laws that generate it.
 
 These particles, defined by the stable, informationally structured patterns of **[Fundamental Information](../glossary/F.md#fundamental-information)**, then combine to form stable atoms, molecules, and larger physical structures. This layered [emergence](../glossary/E.md#emergence) provides the necessary, reliable physical substrate upon which more complex **[Organizational Information](../glossary/O.md#organizational-information)** can be built.
 
@@ -142,18 +141,21 @@ The transition from passive environmental patterns to active [agents](../glossar
 This progression combines England's principle of [dissipative adaptation](../glossary/D.md#dissipative-adaptation), Kauffman's [autocatalytic](../glossary/A.md#autocatalytic) sets, and Maturana and Varela's [autopoietic](../glossary/A.md#autopoietic) theory to explain how pattern-reactive matter evolves into meaning-making agents. The following diagram illustrates this progression as a series of overlapping functional layers operating across multiple timescales. Each layer builds upon the previous while providing feedback that reshapes earlier processes. The thermodynamic layer creates the energetic foundation, the [autocatalytic](../glossary/A.md#autocatalytic) layer enables self-reproduction, the [autopoietic](../glossary/A.md#autopoietic) layer establishes autonomous boundaries, and the [proto-semantic](../glossary/P.md#proto-semantics) layer introduces functional meaning evaluation. Understanding these layers and their interactions reveals how [worldsheet](../glossary/W.md#worldsheet) patterns undergo a fundamental transformation from passive environmental structures to active agents capable of assigning functional significance to their surroundings.
 
 **Legend:**
+
 - 🌊 **Thermodynamic Layer**: Driven by energy gradients and dissipative efficiency
 - ⚛️ **[Autocatalytic](../glossary/A.md#autocatalytic) Layer**: Self-sustaining chemical reaction networks  
 - 🔄 **[Autopoietic](../glossary/A.md#autopoietic) Layer**: Self-producing organizational systems
 - 🎯 **[Proto-Semantic](../glossary/P.md#proto-semantics) Layer**: Functional meaning assignment
 
 **Process Timescales:**
+
 - 🔴 **Fast (microseconds-milliseconds)**: Molecular fluctuations, selection pressure
 - 🟡 **Medium (seconds-minutes)**: Structure formation, network connectivity  
 - 🟢 **Slow (minutes-hours)**: Production closure, boundary formation
 - 🔵 **Semantic (variable)**: Meaning evaluation and assignment
 
 **Arrow Types:**
+
 - **Solid arrows (→)**: Direct causal influence
 - **Dotted arrows (-.->)**: Feedback/modulation effects
 - **Subgraph boundaries**: Overlapping functional layers, not rigid separations
@@ -290,11 +292,11 @@ The transition from proto-semantics to more developed semantic capabilities occu
 - **[Emergence](../glossary/E.md#emergence) of Nervous Systems:** Nervous systems constitute a specialized architecture for rapid and complex information transmission and processing. Individual neurons and their connections (synapses) act as dynamic units whose states (e.g., firing rates, synaptic strengths)—all ultimately specific **patterns of [worldsheet](../glossary/W.md#worldsheet) activity**—can be modified by experience. This allows for a far more flexible and high-dimensional processing of information than in simpler organisms.
 - **Internal Representations and Neural Codes:** Within these nervous systems, patterns of neural activity begin to reliably correlate with, and thus internally "represent," aspects of the external world (objects, events, spatial relationships) or the agent\'s own internal states (e.g., hunger, fear). These are not mere detections but are structured internal states—neural codes—that can be activated even in the absence of the immediate stimulus (forming the basis of memory and imagination). The information here, while still physically instantiated as **patterns of worldsheets** (specifically, neural activity patterns), now functions as an internal token or model corresponding to some facet of reality relevant to the agent. The efficiency of these neural codes, the amount of information they convey, and the processes of reducing uncertainty through sensory input and internal modeling can be analyzed using principles from Claude Shannon's information theory, highlighting how nervous systems optimize the encoding and transmission of meaningful data.
 - **Learning, Memory, and Contextualization:** The "inside-out lens" ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) of such an agent becomes significantly more sophisticated. Through mechanisms like synaptic plasticity (changes in the strength of connections between neurons based on activity), agents learn from experience.
-    - **Memory:** Experiences, encoded as modifications to neural structures and activity patterns, allow past information to influence present processing and future behavior. This means the "meaning" of a current stimulus can be profoundly altered by past encounters. For example, a previously neutral pattern might acquire the meaning "danger" after being associated with a negative experience.
-    - **Context-Sensitivity:** The meaning of an informational pattern becomes highly dependent on the broader context, including other co-occurring stimuli, the agent's current internal state, and its memories.
+  - **Memory:** Experiences, encoded as modifications to neural structures and activity patterns, allow past information to influence present processing and future behavior. This means the "meaning" of a current stimulus can be profoundly altered by past encounters. For example, a previously neutral pattern might acquire the meaning "danger" after being associated with a negative experience.
+  - **Context-Sensitivity:** The meaning of an informational pattern becomes highly dependent on the broader context, including other co-occurring stimuli, the agent's current internal state, and its memories.
 - **Prediction, Planning, and Goal-Directed Behavior:** A crucial development is the capacity for these internal representations to be used not just to model the present but to *predict* future states and *plan* actions.
-    - The "inside-out lens" actively constructs and tests hypotheses about the world. An internal representation of a situation can be manipulated offline to simulate potential outcomes of different actions.
-    - Information now acquires meaning based on its utility for successful prediction and the achievement of the agent's goals (which are fundamentally tied to persistence and propagation of its complex form). For instance, observing certain cloud patterns might *mean* "impending rain, seek shelter" not just as a learned association, but as part of a predictive model of weather that informs goal-directed behavior.
+  - The "inside-out lens" actively constructs and tests hypotheses about the world. An internal representation of a situation can be manipulated offline to simulate potential outcomes of different actions.
+  - Information now acquires meaning based on its utility for successful prediction and the achievement of the agent's goals (which are fundamentally tied to persistence and propagation of its complex form). For instance, observing certain cloud patterns might *mean* "impending rain, seek shelter" not just as a learned association, but as part of a predictive model of weather that informs goal-directed behavior.
 - **Richer, More Abstract Meanings:** While still grounded in the agent's struggle for persistence, meanings can become more abstract. An agent might develop internal representations for social relationships, hierarchical structures within a group, or complex causal chains in its environment. The "value" assigned to certain informational patterns becomes more nuanced than simple "approach/avoid".
 
 The development of these semantic capabilities represents a significant increase in an [agent\'s](../glossary/A.md#agent) capacity to navigate its environment effectively, anticipate challenges, and exploit opportunities. The information processed is still ultimately grounded in the fundamental **patterns of [worldsheets](../glossary/W.md#worldsheet)** that constitute reality, but it is now filtered, structured, represented, and imbued with complex, context-dependent, and goal-oriented meaning by the [agent\'s](../glossary/A.md#agent) increasingly sophisticated "inside-out lens". This sets the stage for the even more abstract symbolic representation seen in full-blown language.
@@ -317,23 +319,23 @@ sequenceDiagram
   A-->>B: transmit "The tree fell"
   B-->>B: parse & decode to concept
   B-->>Env: act on "tree fell"
-``` 
+```
 
 The [emergence](../glossary/E.md#emergence) of full-blown semantic capabilities, most notably exemplified by human language and abstract thought, represents a pinnacle in the development of information processing by [agents](../glossary/A.md#agent). This stage is characterized by the use of symbolic systems, where arbitrary tokens (sounds, gestures, written marks) become systematically associated with concepts, objects, actions, and even other symbols. This allows for a combinatorial explosion of meaning, enabling communication, complex reasoning, and the construction of shared conceptual worlds.
 
 - **Emergence of Arbitrary Symbols and Syntax:**
-    - **Symbolization:** Building upon the internal representations developed in Stage IV, agents (primarily humans) develop the capacity to associate these internal concepts with external, often arbitrary, symbols. A specific sound ("tree") or a written mark becomes a conventional token for the concept of a tree. This detachment of the symbol from any necessary physical resemblance to its referent allows for immense flexibility.
-    - **Syntax/Grammar:** Crucially, agents develop rule-based systems (syntax or grammar) for combining these symbols. These rules govern how symbols can be ordered and modified to create novel, complex propositions and meanings from a finite set of symbols. This combinatorial power allows for the expression of an almost infinite range of thoughts and ideas, far exceeding what is possible with simple associative representations. The physical basis for these symbolic operations still lies in neural activity (complex **patterns of worldsheets** in brains), but these patterns now implement highly abstract rule systems.
+  - **Symbolization:** Building upon the internal representations developed in Stage IV, agents (primarily humans) develop the capacity to associate these internal concepts with external, often arbitrary, symbols. A specific sound ("tree") or a written mark becomes a conventional token for the concept of a tree. This detachment of the symbol from any necessary physical resemblance to its referent allows for immense flexibility.
+  - **Syntax/Grammar:** Crucially, agents develop rule-based systems (syntax or grammar) for combining these symbols. These rules govern how symbols can be ordered and modified to create novel, complex propositions and meanings from a finite set of symbols. This combinatorial power allows for the expression of an almost infinite range of thoughts and ideas, far exceeding what is possible with simple associative representations. The physical basis for these symbolic operations still lies in neural activity (complex **patterns of worldsheets** in brains), but these patterns now implement highly abstract rule systems.
 - **The Symbol Grounding Problem:** A key challenge is understanding how these arbitrary symbols connect to their referents and acquire meaning for the agent and the community—the "symbol grounding problem". Within this framework:
-    - **Grounding in Embodied Experience and Representation:** Symbols are ultimately grounded, albeit often through many layers of abstraction, in the agent's embodied interactions with the world and the internal representations (Stage IV) derived from these interactions. The symbol "tree" is grounded through sensory experiences of trees, actions related to trees, and the internal conceptual model of what a tree is.
-    - **Social Interaction and Ostension:** The meaning of symbols is often learned and reinforced through social interaction, ostensive definition (pointing and naming), and shared activities. The "inside-out lens" of one agent aligns with another's through these communicative acts.
+  - **Grounding in Embodied Experience and Representation:** Symbols are ultimately grounded, albeit often through many layers of abstraction, in the agent's embodied interactions with the world and the internal representations (Stage IV) derived from these interactions. The symbol "tree" is grounded through sensory experiences of trees, actions related to trees, and the internal conceptual model of what a tree is.
+  - **Social Interaction and Ostension:** The meaning of symbols is often learned and reinforced through social interaction, ostensive definition (pointing and naming), and shared activities. The "inside-out lens" of one agent aligns with another's through these communicative acts.
 - **Intersubjectivity and Cultural Transmission – The Rise of Shared Worlds:**
-    - **Shared Meanings:** Through sustained communicative interaction within a community, symbols and their associated meanings become conventionalized and shared. This intersubjective agreement on meaning is essential for effective communication and cooperation. The "meaning" of a symbol is no longer solely agent-relative but becomes co-constructed and maintained by a community of "inside-out lenses".
-    - **Language as a Higher-Order [Information System](../glossary/I.md#information-system):** Language itself [emerges](../glossary/E.md#emergence) as a powerful "[information system](../glossary/I.md#information-system)" (as described in [Section 4](../04-information-systems/4-information-systems.md)). It has its own structure, evolves over time, and is transmitted culturally across generations. It becomes a primary medium through which individuals inherit and contribute to a collective body of [semantic information](../glossary/S.md#semantic-information).
-    - **Construction of Abstract Conceptual Worlds:** [Full-blown semantics](../glossary/F.md#full-blown-semantics) enables the creation of highly abstract concepts (e.g., justice, freedom, mathematical entities, scientific theories, fictional narratives). These concepts may not have direct physical referents but are defined by their relationships to other symbols within a complex semantic web, all ultimately instantiated in neural and externalized informational patterns ([worldsheets](../glossary/W.md#worldsheet)).
+  - **Shared Meanings:** Through sustained communicative interaction within a community, symbols and their associated meanings become conventionalized and shared. This intersubjective agreement on meaning is essential for effective communication and cooperation. The "meaning" of a symbol is no longer solely agent-relative but becomes co-constructed and maintained by a community of "inside-out lenses".
+  - **Language as a Higher-Order [Information System](../glossary/I.md#information-system):** Language itself [emerges](../glossary/E.md#emergence) as a powerful "[information system](../glossary/I.md#information-system)" (as described in [Section 4](../04-information-systems/4-information-systems.md)). It has its own structure, evolves over time, and is transmitted culturally across generations. It becomes a primary medium through which individuals inherit and contribute to a collective body of [semantic information](../glossary/S.md#semantic-information).
+  - **Construction of Abstract Conceptual Worlds:** [Full-blown semantics](../glossary/F.md#full-blown-semantics) enables the creation of highly abstract concepts (e.g., justice, freedom, mathematical entities, scientific theories, fictional narratives). These concepts may not have direct physical referents but are defined by their relationships to other symbols within a complex semantic web, all ultimately instantiated in neural and externalized informational patterns ([worldsheets](../glossary/W.md#worldsheet)).
 - **Link to [Information Systems](../glossary/I.md#information-system) ([Section 4](../04-information-systems/4-information-systems.md) & [5](../05-competitive-dynamics/5-competitive-dynamics.md)):**
-    - The development of language and other symbolic systems is a prerequisite for the [emergence](../glossary/E.md#emergence) of the complex "meta-narratives," ideologies, and scientific theories discussed in [Section 4](../04-information-systems/4-information-systems.md). These are vast, interconnected structures of [semantic information](../glossary/S.md#semantic-information).
-    - The "competitive dynamics" ([Section 5](../05-competitive-dynamics/5-competitive-dynamics.md)) of these [information systems](../glossary/I.md#information-system) are largely played out in the semantic realm, as different conceptual frameworks and narratives vie for acceptance and influence within the cognitive landscapes of host [agents](../glossary/A.md#agent).
+  - The development of language and other symbolic systems is a prerequisite for the [emergence](../glossary/E.md#emergence) of the complex "meta-narratives," ideologies, and scientific theories discussed in [Section 4](../04-information-systems/4-information-systems.md). These are vast, interconnected structures of [semantic information](../glossary/S.md#semantic-information).
+  - The "competitive dynamics" ([Section 5](../05-competitive-dynamics/5-competitive-dynamics.md)) of these [information systems](../glossary/I.md#information-system) are largely played out in the semantic realm, as different conceptual frameworks and narratives vie for acceptance and influence within the cognitive landscapes of host [agents](../glossary/A.md#agent).
 
 [Full-blown semantics](../glossary/F.md#full-blown-semantics), therefore, represents a level where the "inside-out lens" not only models the immediate environment for persistence but actively constructs, shares, and navigates complex, abstract, and culturally transmitted worlds of meaning. This capacity is deeply intertwined with the evolution of human sociality and cognition, and its material basis remains the intricate patterns of neural activity ([worldsheets](../glossary/W.md#worldsheet)) shaped by both biological evolution and cultural learning.
 
@@ -365,6 +367,7 @@ graph LR
 
 To ensure scientific rigor, the framework's model of semantic information emergence must include testable predictions that could potentially refute or require substantial revision of the theoretical claims:
 
+<!-- markdownlint-disable MD033 -->
 | Criterion | Framework Prediction | Falsification Conditions |
 |-----------|---------------------|--------------------------|
 | **Stage Progression Predictions** | The emergence of semantic information follows a specific developmental sequence: organizational patterns → environmental cues → thermodynamic coupling → proto-semantics → neural representation → symbolic systems, with each stage building necessarily on the previous ones | • Discovery of biological systems that develop symbolic communication without prior neural representation capabilities<br>• Identification of agents with sophisticated proto-semantic abilities that lack any thermodynamic coupling with their environment<br>• Evidence of semantic information emerging directly from organizational patterns without intermediate developmental stages |
@@ -372,6 +375,7 @@ To ensure scientific rigor, the framework's model of semantic information emerge
 | **Autocatalytic Semantic Development** | Once proto-semantics emerges, the development toward full semantic information exhibits autocatalytic properties, where semantic capabilities accelerate their own enhancement through positive feedback loops | • Biological systems that develop proto-semantic abilities but show no evidence of accelerated semantic development over evolutionary timescales<br>• Semantic capabilities that consistently inhibit rather than enhance further semantic development<br>• Linear rather than exponential progression in semantic complexity despite adequate environmental complexity and selection pressures |
 | **Autopoietic Integration Requirements** | Advanced semantic information requires autopoietic organization where agents maintain their semantic coherence through active boundary maintenance and self-referential processes | • Discovery of agents with sophisticated semantic abilities that show no autopoietic organization or boundary maintenance<br>• Semantic systems that function effectively while being completely passive with respect to their own organization<br>• Evidence that semantic coherence can be maintained without any self-referential processes |
 | **Symbolic Threshold Predictions** | The transition to symbolic systems represents a qualitative threshold where combinatorial semantic possibilities expand exponentially, enabling cultural transmission and abstract concept formation | • Gradual, linear progression from neural representation to symbolic systems without any identifiable threshold effects<br>• Symbolic systems that show no combinatorial expansion of semantic possibilities compared to pre-symbolic representations<br>• Evidence of cultural transmission and abstract concepts in agents lacking symbolic systems |
+<!-- markdownlint-enable MD033 -->
 
 ## Comparative Framework Analysis
 

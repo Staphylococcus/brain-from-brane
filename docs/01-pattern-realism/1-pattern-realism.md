@@ -14,7 +14,7 @@
 
 Information and matter represent complementary aspects of physical processes, as demonstrated in quantum mechanics where the same phenomenon can be described in terms of both energy/momentum and information content. The worldsheet metaphor provides an intuitive visualization of this duality: imagine fundamental processes as dynamic patterns that can be 'read' through either lens.
 
-The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary/W.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality. 
+The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary/W.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality.
 
 Throughout this document we will examine that fabric through two mutually-entailing descriptive lenses, a concept central to [Pattern Realism](../glossary/P.md#pattern-realism):
 
@@ -75,10 +75,10 @@ This principle operates through several mechanisms:
 
 This principle of outward stabilization is not merely an abstract concept but finds echoes and concrete manifestations across numerous domains:
 
-*   In **biology and ecology**, phenomena like *niche construction* (e.g., beavers building dams that stabilize water levels and create new wetland ecosystems) or *ecosystem engineering* (e.g., corals building reefs that form stable habitats) exemplify how organisms actively project stability onto their environments.
-*   In **physics and chemistry**, the process of *crystal growth*, where a stable seed crystal templates the organization of surrounding disordered molecules into a stable lattice, is a clear physical analogue.
-*   **Systems theory** describes *attractors* in dynamical systems, where a system tends to evolve towards stable states or patterns, effectively organizing its own behavior and that of coupled systems.
-*   In the **social sciences**, the development of *standards, institutions, and laws* imposes order and predictability on social interactions, while *cultural transmission* sees coherent belief systems or practices (memes) spread and stabilize social structures.
+- In **biology and ecology**, phenomena like *niche construction* (e.g., beavers building dams that stabilize water levels and create new wetland ecosystems) or *ecosystem engineering* (e.g., corals building reefs that form stable habitats) exemplify how organisms actively project stability onto their environments.
+- In **physics and chemistry**, the process of *crystal growth*, where a stable seed crystal templates the organization of surrounding disordered molecules into a stable lattice, is a clear physical analogue.
+- **Systems theory** describes *attractors* in dynamical systems, where a system tends to evolve towards stable states or patterns, effectively organizing its own behavior and that of coupled systems.
+- In the **social sciences**, the development of *standards, institutions, and laws* imposes order and predictability on social interactions, while *cultural transmission* sees coherent belief systems or practices (memes) spread and stabilize social structures.
 
 These diverse examples, from the molecular to the societal, underscore the scale-invariant nature of outward stabilization propensity.
 
@@ -87,6 +87,7 @@ This outward stabilization propensity explains how complex hierarchical organiza
 ---
 
 **Dive deeper:**
+
 - [1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md)
 - [1.b. Emergence of Consciousness](1b-emergence-of-consciousness.md)
 - [1.c. Addressing the "Hard Problem" of Consciousness](1c-hard-problem-of-consciousness.md)
