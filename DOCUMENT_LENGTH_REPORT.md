@@ -6,8 +6,8 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 79
-- **Total characters in all documents**: 655970
-- **Files exceeding warning threshold (15000 chars)**: 19
+- **Total characters in all documents**: 660247
+- **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
 
@@ -17,7 +17,7 @@ Character length warning threshold: `15000` characters.
 | `docs\04-information-systems\4a-material-organization-dynamics.md` | 37857 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 32973 | ⚠️ YES |
 | `docs\04-information-systems\4-information-systems.md` | 32608 | ⚠️ YES |
-| `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24307 | ⚠️ YES |
+| `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24116 | ⚠️ YES |
 | `docs\04-information-systems\4d-host-information-interactions.md` | 21974 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21180 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d8-practical-applications.md` | 21081 | ⚠️ YES |
@@ -28,6 +28,7 @@ Character length warning threshold: `15000` characters.
 | `docs\operationalization-template.md` | 17933 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17769 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17413 | ⚠️ YES |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 16578 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16334 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15613 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15295 | ⚠️ YES |
@@ -36,7 +37,6 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12746 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12657 | ✅ No |
 | `docs\01-pattern-realism\1-pattern-realism.md` | 12220 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 12174 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11242 | ✅ No |
 | `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8688 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8391 | ✅ No |
@@ -46,8 +46,8 @@ Character length warning threshold: `15000` characters.
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 6945 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 6929 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6760 | ✅ No |
-| `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 6277 | ✅ No |
-| `docs\glossary.md` | 6228 | ✅ No |
+| `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 6347 | ✅ No |
+| `docs\glossary.md` | 6222 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6059 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
 | `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3761 | ✅ No |
@@ -95,4 +95,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-12 12:31:14*
+*Report generated on: 2025-06-12 13:11:22*
