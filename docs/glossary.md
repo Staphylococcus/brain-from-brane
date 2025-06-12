@@ -71,6 +71,9 @@ The psychological discomfort experienced when holding contradictory beliefs, val
 ### Cognitive Dominance
 The capacity for information systems to establish preferential access to agent cognitive resources, attention, and decision-making processes through various competitive mechanisms.
 
+### Cognitive Entrenchment
+The process by which repeated use of an information system leads to its deep integration into a host's cognitive processes. This occurs as neural pathways adapt, making system operations feel intuitive and effortless, fostering cognitive habits and specialized pattern recognition. While promoting stability, it can lead to resistance to alternative systems. (See also: [Maladaptive Rigidity](#maladaptive-rigidity))
+
 ### Cultural Evolution
 The development and transmission of information systems, behavioral patterns, and organizational templates through social learning mechanisms rather than genetic inheritance.
 
@@ -79,6 +82,9 @@ Organized systems of shared meanings, values, and practices that structure socia
 
 ### Cultural Narratives
 Shared stories, explanations, and meaning-making frameworks that organize collective understanding and guide social behavior within specific cultural contexts.
+
+### Coherence (of an Information System)
+The internal consistency, logical integrity, and harmonious integration of an information system's components, rules, and content. High coherence contributes to an IS's perceived [Value](#value-of-an-information-system) and stability.
 
 ---
 
@@ -208,12 +214,18 @@ The philosophical position that moral facts exist independently of what anyone b
 ### Moral Relativism
 The position that moral judgments are relative to specific cultural, historical, or individual contexts rather than being universally valid.
 
+### Maladaptive Rigidity
+A consequence of deep [Cognitive Entrenchment](#cognitive-entrenchment) where an information system's ingrained nature becomes a barrier to adopting necessary changes or new, more effective systems, especially when the environment changes significantly. This transforms resilience into a resistance to beneficial evolution.
+
 ---
 
 ## **N**
 
 ### Natural Selection
 The process by which organisms with favorable traits for their environment have greater reproductive success, leading to the gradual evolution of populations through differential survival and reproduction.
+
+### Network Effects
+A phenomenon where an information system's value or [Utility](#utility-of-an-information-system) to an individual user increases as more users adopt and utilize the system. This creates a positive feedback loop, encouraging further adoption and reinforcing the system's stability and market position.
 
 ---
 
@@ -243,9 +255,6 @@ The process through which new organizational patterns develop from thermodynamic
 
 ### Proto-Semantics
 Early-stage meaning-making capabilities characterized by functional significance assignment and basic environmental interpretation, representing the developmental stage between simple detection and full semantic processing.
-
-### Structural Resonance
-The alignment and compatibility between an information system's organizational patterns and existing environmental structures, cultural frameworks, or host capabilities. Structural resonance determines whether information systems can gain widespread adoption within specific contexts. Scientific methodologies achieved structural resonance in Western cultural contexts through compatibility with existing emphases on systematic observation and logical reasoning, while facing adoption barriers in contexts with incompatible epistemological frameworks.
 
 ### Template Effects
 The mechanism by which self-stabilizing patterns serve as organizational templates that guide the formation of similar or complementary patterns in their surrounding environment. Template effects represent one of the primary ways that stable information patterns extend their influence through the [outward stabilization propensity](#outward-stabilization-propensity). Examples include language grammars structuring communication patterns, software interfaces guiding user behavior, and cultural practices shaping social organization. Template effects operate through **structural influence** rather than semantic persuasion, making them a key component of [organizational agency](#organizational-agency).
@@ -277,8 +286,11 @@ Conditions where essential resources (energy, materials, information, or substra
 ### Self-Awareness
 The capacity for agents to maintain and utilize models of themselves as bounded entities with properties, capabilities, and limitations, enabling sophisticated self-referential processing and behavior guidance.
 
+### Self-Reinforcing Feedback Loops (in Information Systems)
+Dynamic processes where the outcomes or effects of an information system's operation feed back to strengthen the system's own propagation, entrenchment, and stability within a host population. These are crucial mechanisms for [Emergent Stability](#emergent-stability) in information systems. Examples include utility reinforcement, identity integration, and [Cognitive Entrenchment](#cognitive-entrenchment). (See also: [Behavioral Feedback Loops](#behavioral-feedback-loops))
+
 ### Self-Stabilizing Patterns
-Information patterns that actively maintain their organizational integrity through environmental interaction, demonstrating robustness against perturbation and capability for structural preservation across time and substrate transitions.
+Information patterns that actively maintain their organizational integrity through environmental interaction, demonstrating robustness against perturbation and capability for structural preservation across time and substrate transitions. [Self-Reinforcing Feedback Loops](#self-reinforcing-feedback-loops-in-information-systems) are a key mechanism through which these patterns achieve stability.
 
 ### Semantic Agency
 The capacity for goal-directed behavior based on meaning interpretation and environmental modeling, distinguished from simple reactive responses through **ACAP assessment protocols**. Semantic agency emerges when information systems cross the [Engine Threshold](#engine-threshold) and achieve autonomous operation through **structural template optimization** and environmental manipulation capabilities.
@@ -301,6 +313,9 @@ Shared behavioral expectations and regulatory patterns that coordinate group beh
 ### Social Structures
 Organized patterns of relationships, roles, and institutions that coordinate collective behavior and information processing within social systems.
 
+### Structural Resonance
+The alignment and compatibility between an information system's organizational patterns and existing environmental structures, cultural frameworks, or host capabilities. Structural resonance determines whether information systems can gain widespread adoption within specific contexts. Scientific methodologies achieved structural resonance in Western cultural contexts through compatibility with existing emphases on systematic observation and logical reasoning, while facing adoption barriers in contexts with incompatible epistemological frameworks.
+
 ---
 
 ## **T**
@@ -318,9 +333,15 @@ The creation and implementation of new technological capabilities that enhance i
 
 ## **U**
 
+### Utility (of an Information System)
+A specific dimension of [Value](#value-of-an-information-system), representing the practical effectiveness and efficiency with which an Information System (IS) enables a host to perform a particular task, solve a specific problem, or achieve a defined objective. It measures the functional "usefulness" of the IS in a given context. An IS with high utility directly contributes to the host's operational capabilities.
+
 ---
 
 ## **V**
+
+### Value (of an Information System)
+The overall perceived or actualized benefit that an Information System (IS) provides to its host (typically an [Agent](#agent) or a collective of agents). This benefit is assessed through the host's "[Inside-Out Lens](#inside-out-lens)" and can encompass a wide range of contributions, such as enhancing the host's understanding, facilitating goal achievement, improving persistence, increasing its perceived [Coherence](#coherence-of-an-information-system) (internal consistency and logical integrity of the IS itself), or fulfilling social or psychological needs. Value is often multifaceted and can be subjective. (See also: [Utility](#utility-of-an-information-system))
 
 ---
 
