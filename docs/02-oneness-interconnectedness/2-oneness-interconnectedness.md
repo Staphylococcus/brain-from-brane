@@ -102,8 +102,8 @@ While the universe maintains fundamental oneness through its worldsheet substrat
 ### The Inside-Out Perspective
 Agents develop internal models of reality that prioritize information relevant to their persistence and flourishing. This "inside-out" orientation means that:
 
-- **Boundaries appear stable** where underlying worldsheet patterns exhibit organizational coherence
-- **Categories crystallize** around recurring pattern configurations that matter for agent decision-making  
+- **Boundaries appear stable** where underlying worldsheet patterns manifest as self-stabilizing structures with organizational coherence
+- **Categories form and solidify** around recurring, self-stabilizing pattern configurations that matter for agent decision-making  
 - **Hierarchies emerge** based on informational relevance rather than arbitrary classification schemes
 - **Meanings develop** through the agent's interaction history with specific pattern types
 
@@ -118,7 +118,7 @@ The process of forming distinctions represents a **dialogue** between the agent'
 This creates a **co-evolutionary dynamic** where agent distinctions track real structural features of reality while being shaped by agent-specific needs and capabilities.
 
 ### Reconciling Competition with Oneness
-Even apparent **competitive dynamics** emerge within this interconnected framework. Competition occurs not between isolated entities but between different crystallized patterns competing for limited resources within the same unified substrate. This includes:
+Even apparent **competitive dynamics** emerge within this interconnected framework. Competition occurs not between isolated entities but between different self-stabilizing patterns competing for limited resources within the same unified substrate. This includes:
 
 - **Material resources**: Energy and matter needed for pattern maintenance
 - **Informational resources**: Attention, processing capacity, and transmission channels in host systems
@@ -129,37 +129,37 @@ Competition thus represents a characteristic of how distinct patterns interact u
 
 ## 2.5 Practical Implications for Understanding Reality
 
-When we apply Pattern Realism and the geometric crystallization framework to contemporary systems, several critical insights emerge:
+When we apply Pattern Realism and the concept of self-stabilizing patterns to contemporary systems, several critical insights emerge:
 
-### Technological Information Crystallization
+### Technological Information Patterns and Their Structures
 
-Contemporary **AI systems can be analyzed as complex, highly structured information patterns**, operating across multiple substrate types simultaneously. Large language models, for instance, function as **organizational templates** whose internal structures and operational principles (e.g., relationships in embedding spaces, symmetries in processing, characteristic failure modes, or stable configurations achieved through training) can be productively analogized to crystallographic properties. This allows for a novel way to understand their compatibility with human cognitive architectures, institutional frameworks, and technological infrastructures.
+Contemporary **AI systems can be analyzed as complex, highly structured information patterns**, operating across multiple substrate types simultaneously. Large language models, for instance, function as **organizational templates** whose internal structures and operational principles (e.g., relationships in embedding spaces, symmetries in processing, characteristic failure modes, or stable configurations achieved through training) can be productively analyzed for their structural properties. This allows for a novel way to understand their compatibility with human cognitive architectures, institutional frameworks, and technological infrastructures.
 
-**Analyzing Structural Properties (by analogy to crystallography):**
+**Analyzing Structural Properties (by analogy to established pattern analysis):**
 - **Semantic structural parameters**: Analyzing dimensional relationships in embedding spaces can reveal conceptual compatibility rules.
 - **Symmetry-like operations**: Identifying operations that preserve meaning relationships across different contexts.
 - **Systematic inconsistencies**: Pinpointing patterns that create characteristic failure modes.
 - **Stabilization dynamics**: Understanding training dynamics that establish stable operational configurations.
 
-### Cross-Substrate Crystallization Effects
+### Cross-Substrate Effects of Stable Information Patterns
 
 **Institutional Template Formation**: Modern information systems create **organizational templates** that simultaneously structure human cognition, social institutions, and technological development. The influence of these templates can be understood as a powerful organizing force, operating through deep systemic connectivity and shared principles, akin to how structural constraints propagate in interconnected systems.
 
-**Economic Crystallization**: Market structures and financial systems exhibit **highly organized properties**, and their dynamics (like symmetries in behavior, systemic vulnerabilities, and compatibility with existing institutions) can be analyzed using concepts analogous to crystallographic organization.
+**Economic Patterning**: Market structures and financial systems exhibit **highly organized properties**, and their dynamics (like symmetries in behavior, systemic vulnerabilities, and compatibility with existing institutions) can be analyzed using concepts of organizational structure and stability.
 
-**Cultural Pattern Formation**: Social movements and belief systems often propagate effectively when they achieve **compatibility** with the existing structures and values of a receptive substrate (e.g., a culture or community), a process that shares similarities with how compatible patterns integrate in physical systems.
+**Cultural Pattern Formation**: Social movements and belief systems often propagate effectively when they achieve **compatibility** with the existing structures and values of a receptive substrate (e.g., a culture or community), a process that shares similarities with how compatible patterns integrate in complex systems.
 
 ### Framework Application
 
-This crystallization analogy provides a framework for **structured analysis** of information system behavior:
+This approach to analyzing stable information patterns provides a framework for **structured analysis** of information system behavior:
 
-1. **Structural Characterization**: Information systems can be characterized by their organizational parameters, symmetries, and points of inconsistency, drawing inspiration from crystallographic analysis techniques.
+1. **Structural Characterization**: Information systems can be characterized by their organizational parameters, symmetries, and points of inconsistency, drawing inspiration from established methods of pattern analysis.
 
-2. **Compatibility Assessment**: Principles analogous to epitaxial matching can help assess which information systems are likely to successfully interface with specific substrates based on structural compatibility.
+2. **Compatibility Assessment**: Principles of structural matching can help assess which information systems are likely to successfully interface with specific substrates based on organizational compatibility.
 
 3. **Stability Assessment**: Analyzing structural "defects" or inconsistencies can provide tools for understanding system vulnerabilities and predicting potential failure modes.
 
-The practical power of this approach lies in its potential for **enhanced modeling and understanding**—aiming to move beyond vague notions of "influence" or "adoption" towards more precise models of information system dynamics, even if full quantitative prediction akin to physical crystallography remains an aspirational goal.
+The practical power of this approach lies in its potential for **enhanced modeling and understanding**—aiming to move beyond vague notions of "influence" or "adoption" towards more precise models of information system dynamics, even if full quantitative prediction remains an aspirational goal.
 
 ## Exploration Pathways
 
