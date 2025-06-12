@@ -11,21 +11,6 @@
 
 -->
 
-```mermaid
-flowchart TD
-  Stim[Environmental Stimuli] --> |Sensed| IOL[Inside-Out Lens]
-  subgraph "Agent Boundary"
-      IOL --> RP
-      subgraph "Consciousness"
-        RP(Recursive Self-Application)
-        RP --> SE(Subjective Experience)
-        SE --> RP
-      end
-  end
-```
-
----
-
 ## The Recursive Threshold
 
 [**Consciousness**](../glossary/C.md#consciousness) emerges when the [**inside-out lens**](../glossary/I.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.
@@ -47,6 +32,73 @@ Building on [Section 1.a's](1a-pathway-emergence.md) semantic emergence, the ins
 - **Processing states** become objects of semantic analysis
 - **Internal dynamics** are interpreted through the same frameworks used for environmental navigation
 - **The processor** becomes both subject and object within its own informational framework
+
+#### Stage 0: Reactive Agent (No Self-Model)
+
+```mermaid
+flowchart LR
+  Env((Environment))
+  Env --perceive--> IOL[Inside-Out Lens]
+  IOL --act--> Env
+
+  subgraph AGENT[Agent Boundary]
+    Energy[Metabolic Energy]
+    Energy --fuels--> IOL
+  end
+
+  %% environment replenishes the metabolic store across the boundary
+  Env -. supplies .-> Energy
+```
+
+#### Stage 1: Self-Modeling Agent (Pre-Recursive)
+
+```mermaid
+flowchart LR
+  Env((Environment))
+  Env --perceive--> IOL[Inside-Out Lens]
+  IOL --act--> Env
+
+  subgraph AGENT[Agent Boundary]
+    Energy[Metabolic Energy]
+    Energy --fuels--> IOL
+
+    IOL --> AT[Attention & Working Memory]
+    AT --> RP[Self-Modeling]
+    AT -. selects .-> IOL
+  end
+
+  %% environment replenishes the metabolic store across the boundary
+  Env -. supplies .-> Energy
+```
+
+#### Stage 2: Recursive Consciousness (Full)
+
+```mermaid
+flowchart LR
+  %% consolidated environment node
+  Env((Environment))
+  Env --|perceive|--> IOL[Inside-Out Lens]
+  IOL --|act|--> Env
+
+  subgraph AGENT[Agent Boundary]
+    %% metabolic store residing within the agent, replenished by environment
+    Energy[Metabolic Energy]
+    Energy --fuels--> IOL
+
+    IOL --> AT[Attention & Working Memory]
+    AT --> RP[Self-Modeling]
+    %% consciousness-guided action selection
+    AT -. selects .-> IOL
+
+    subgraph CONSC[Consciousness]
+      RP -->|generate| SE[Subjective Experience]
+      SE -.->|update| RP
+      SE -. modulates .-> AT
+    end
+  end
+  %% environment replenishes the metabolic store across the boundary
+  Env -. supplies .-> Energy
+```
 
 ### Neural Substrate Requirements
 
