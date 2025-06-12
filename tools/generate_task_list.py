@@ -27,7 +27,10 @@ def extract_tasks_from_file(filepath):
             for match in matches:
                 # .strip() removes leading/trailing whitespace, including newlines
                 task_content = match.strip()
-                if task_content:  # Only add if the comment is not empty
+                # Skip markdownlint directives
+                if task_content.startswith("markdownlint-"):
+                    continue
+                if task_content:  # Only add if the comment is not empty and not a markdownlint directive
                     tasks.append(task_content)
     except FileNotFoundError:
         print(f"Warning: File not found during task extraction: {filepath}")
