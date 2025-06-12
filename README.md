@@ -1,6 +1,7 @@
 # Brain from Brane: An Ontology of Information and Fluid Reality
+<!-- markdownlint-disable MD036 -->
 *High Altitude Overview - Complete Framework Navigation*
-
+<!-- markdownlint-enable MD036 -->
 **Altitude**: High (10,000+ feet) - Panoramic Overview
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -34,7 +35,6 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 - [License and Citation](#license-and-citation)
 - [Contributing](#contributing)
 
-
 ## Project Structure
 
 The "Brain from Brane" ontology unfolds progressively, starting with core definitions and building towards a comprehensive model of information, reality, and consciousness. This structured overview allows you to grasp the main arguments at a high level, with direct links to explore each concept in depth.
@@ -64,8 +64,10 @@ Our exploration begins with a fundamental reimagining: the universe as a dynamic
 ---
 
 ### [1 Pattern Realism](docs/01-pattern-realism/1-pattern-realism.md)
-*Reality as Co-Fundamental Information and Matter Patterns*
 
+<!-- markdownlint-disable MD036 -->
+*Reality as Co-Fundamental Information and Matter Patterns*
+<!-- markdownlint-enable MD036 -->
 **Pattern Realism** establishes our foundational perspective: reality consists of dynamic patterns best understood through two co-fundamental lenses—matter/energy and information. Information unfolds in layers from **Fundamental Information** (basic properties of foundational entities like **Worldsheets**) through **Organizational Information** (structural complexities) to **Semantic Information** (meaningful content interpreted by agents through their "inside-out lens"). This layered emergence enables consciousness to arise when the inside-out lens becomes **recursive**—examining itself through autopoietic self-reference, creating the sophisticated informational property where agents develop self-awareness through their unique lens-mediated environmental interactions.
 
 **Explore Deeper**: [Pathway Emergence (1a)](docs/01-pattern-realism/1a-pathway-emergence.md) • [Consciousness Emergence (1b)](docs/01-pattern-realism/1b-emergence-of-consciousness.md) • [Hard Problem Solutions (1c)](docs/01-pattern-realism/1c-hard-problem-of-consciousness.md)
@@ -73,7 +75,10 @@ Our exploration begins with a fundamental reimagining: the universe as a dynamic
 ---
 
 ### [2 Oneness and Interconnectedness](docs/02-oneness-interconnectedness/2-oneness-interconnectedness.md)
+
+<!-- markdownlint-disable MD036 -->
 *Unity and Distinction in an Interconnected Reality*
+<!-- markdownlint-enable MD036 -->
 
 The **Worldsheet** tapestry weaves a universe that is simultaneously one interconnected whole and inherently structured reality. This apparent paradox resolves through understanding how individual perspectives emerge as agent-relative interpretations of pre-existing universal structure, while competitive dynamics arise naturally within the interconnected system due to resource scarcity and evolutionary pressures.
 
@@ -82,7 +87,10 @@ The **Worldsheet** tapestry weaves a universe that is simultaneously one interco
 ---
 
 ### [3 Agents as Information Processors](docs/03-agents-as-information-processors/3-agents-as-information-processors.md)
+
+<!-- markdownlint-disable MD036 -->
 *Self-Aware Pockets of the Universe*
+<!-- markdownlint-enable MD036 -->
 
 **Agents** emerge as self-organizing entities—from simple biological forms to complex conscious beings and evolving AI—that sense, process, and are constituted by information. Each develops a unique "inside-out lens" shaped by evolutionary history and informational needs, enabling meaning generation and action guidance. Agents exist on a complexity spectrum measured through semantic processing depth, self-awareness sophistication, autonomy, and environmental organization capacity.
 
@@ -91,7 +99,10 @@ The **Worldsheet** tapestry weaves a universe that is simultaneously one interco
 ---
 
 ### [4 Information Systems](docs/04-information-systems/4-information-systems.md)
+
+<!-- markdownlint-disable MD036 -->
 *Dynamic Frameworks with Agent-Like Properties*
+<!-- markdownlint-enable MD036 -->
 
 Beyond individual processing, agents collectively create and are shaped by **Information Systems**—dynamic, evolving frameworks including languages, ideologies, cultural narratives, and technologies that exhibit agent-like properties of propagation, evolution, and competition. These systems engage in profound co-evolutionary relationships with biological agents, functioning like "mitochondria" that provide organizational energy while agents provide cognitive substrate. This symbiotic evolution traces from embodied knowledge through linguistic revolution to autonomous AI emergence.
 
@@ -100,7 +111,10 @@ Beyond individual processing, agents collectively create and are shaped by **Inf
 ---
 
 ### [5 Competitive Dynamics](docs/05-competitive-dynamics/5-competitive-dynamics.md)
+
+<!-- markdownlint-disable MD036 -->
 *Multi-Level Competition Across Information Landscapes*
+<!-- markdownlint-enable MD036 -->
 
 **Competitive Dynamics** operate not only between agents but within and among information systems across multiple levels—from individual cognition to collective consciousness. Systems compete for attention, adoption, influence, and physical substrates through mechanisms including confrontation, co-option, niche differentiation, and adaptive resilience. A key development is **Bio-Informational Complexes (BIC)**—integrated units where biological hosts and information systems function as quasi-organismic wholes, driving innovation while perpetually molding the dance between agents, information, and society.
 
@@ -109,7 +123,10 @@ Beyond individual processing, agents collectively create and are shaped by **Inf
 ---
 
 ### [6 Mechanisms of Influence and Collective Consciousness](docs/06-influence-collective-consciousness/6-influence-collective-consciousness.md)
+
+<!-- markdownlint-disable MD036 -->
 *Reshaping Reality Through Information Flow*
+<!-- markdownlint-enable MD036 -->
 
 Information systems actively reshape both physical reality and collective human experience through two pathways: traditional influence via human agents whose altered cognitive states drive material changes, and emerging AI-mediated direct actions on the physical world. The unprecedented global information flow dynamically redraws conceptual, cultural, and identity boundaries, creating new hybrid informational spaces that fundamentally reshape individual and collective awareness.
 
@@ -118,7 +135,10 @@ Information systems actively reshape both physical reality and collective human 
 ---
 
 ### [7 Agentive Dissolution and Informational Legacy](docs/07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)
+
+<!-- markdownlint-disable MD036 -->
 *Persistence Beyond Individual Agents*
+<!-- markdownlint-enable MD036 -->
 
 As temporary self-organizing patterns, agents dissolve, but their **informational legacies**—ideas, creations, action patterns—persist through continued instantiation, replication, and reinterpretation by other agents and information systems. This persistence represents not spiritual afterlife but dynamic conditional processes shaped by legacy richness, transformative power, and fidelity of replication, correlated with the originating agent's complexity, novelty, and influence.
 
@@ -127,7 +147,10 @@ As temporary self-organizing patterns, agents dissolve, but their **informationa
 ---
 
 ### [8 Fluid Reality](docs/08-fluid-reality/8-fluid-reality.md)
+
+<!-- markdownlint-disable MD036 -->
 *The Universe as Dynamic Flow and Emergent Stability*
+<!-- markdownlint-enable MD036 -->
 
 **Fluid Reality** presents our culminating vision: reality as inherently dynamic flow rather than static entities—a continuous "Panta Rhei" process of becoming and transformation. All observable structures, from fundamental particles to consciousness itself, emerge as exceptionally stable, self-reinforcing patterns that form consistent backgrounds against which more transient phenomena unfold, emphasizing the universe's continuous creative evolution while maintaining apparent solidity.
 
@@ -148,11 +171,13 @@ As temporary self-organizing patterns, agents dissolve, but their **informationa
 ## Framework Applications & Tools
 
 ### Operationalized Measurement Frameworks
+
 - **[ACAP (Agent Complexity Assessment Protocol)](docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)**: Systematic framework for measuring agent capabilities across five dimensions
 - **[BIC Assessment Tools](docs/05-competitive-dynamics/5e-bio-informational-complex.md)**: Protocols for identifying and analyzing Bio-Informational Complexes
 - **[Information System Dynamics](docs/04-information-systems/4e-empirical-predictions-falsification.md)**: Empirical prediction frameworks for studying information system evolution
 
 ### For Researchers & Practitioners
+
 These frameworks are freely available for academic research, commercial applications, educational use, and software integration. Attribution to the source framework is required.
 
 *[Complete Operationalization Guide →](docs/operationalization-template.md)*
@@ -165,11 +190,12 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 If you use this ontology framework in your research, please cite it as:
 
-```
+```plaintext
 Zayarskiy, V. (2025). Brain from Brane: An Ontology of Information and Fluid Reality. 
 ```
 
 For BibTeX:
+
 ```bibtex
 @misc{brainfrombrane2025,
   title={Brain from Brane: An Ontology of Information and Fluid Reality},
@@ -185,4 +211,4 @@ We welcome contributions to expand and refine this ontology framework. Please se
 
 ---
 
-*[🔝 Return to Top](#-brain-from-brane-an-ontology-of-information-and-fluid-reality) | [📚 Glossary](docs/glossary.md) | [🛠️ Contributing](CONTRIBUTING.md) | [📖 Abstraction Altitudes](docs/abstraction-altitudes.md)*
+*[🔝 Return to Top](#brain-from-brane-an-ontology-of-information-and-fluid-reality) | [📚 Glossary](docs/glossary.md) | [🛠️ Contributing](CONTRIBUTING.md) | [📖 Abstraction Altitudes](docs/abstraction-altitudes.md)*
