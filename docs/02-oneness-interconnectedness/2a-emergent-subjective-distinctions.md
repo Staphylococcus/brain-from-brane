@@ -1,5 +1,7 @@
 # ⚙️ 2. a. Emergent and Subjective Distinctions within a Structured Whole
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

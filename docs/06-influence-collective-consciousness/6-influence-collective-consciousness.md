@@ -1,13 +1,15 @@
+# 🔍 6. Mechanisms of Influence and Collective Consciousness
+<!-- markdownlint-disable MD036 -->
+*Medium Altitude Exploration*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
+
 <!--
 
 - Rebase in self-reinforcing patterns
 
 -->
-
-# 🔍 6. Mechanisms of Influence and Collective Consciousness
-*Medium Altitude Exploration*
-
-📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
 The Information Age represents more than accelerated communication—it marks a fundamental transformation in how informational patterns achieve causal efficacy in reshaping both physical reality and collective human experience. Building upon the [Information Systems framework](../04-information-systems/4-information-systems.md), [Bio-Informational Complex (BIC) analysis](../05-competitive-dynamics/5e-bio-informational-complex.md), and [Pattern Realism's outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity), this section examines the revolutionary mechanisms through which information systems now influence reality directly and reshape the fluid boundaries of collective consciousness within the [worldsheet](../glossary/W.md#worldsheet) substrate.
 

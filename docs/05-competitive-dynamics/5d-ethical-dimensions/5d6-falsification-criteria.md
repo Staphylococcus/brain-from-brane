@@ -1,5 +1,7 @@
 # ⚙️ 5.d.6. Falsification Criteria for Ethical Competition Theory
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

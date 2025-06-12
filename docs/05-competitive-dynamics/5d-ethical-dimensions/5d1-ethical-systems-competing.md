@@ -1,5 +1,7 @@
 # ⚙️ 5.d.1. Ethical Systems as Competing Information Systems
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

@@ -1,5 +1,7 @@
 # ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence {#1a1-the-emergence-of-semantic-information}
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

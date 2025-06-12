@@ -1,15 +1,16 @@
+# ⚙️ 6.b. Redrawing Borders in Collective Consciousness
+<!-- markdownlint-disable MD036 -->
+*Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+
 <!--
 
 - Needs good old fleshing out. Not low enough altitude
 - Elaborate on causal mechanics
 
 -->
-
-
-# ⚙️ 6.b. Redrawing Borders in Collective Consciousness
-*Low Altitude Analysis*
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 The global flow of information, characteristic of the Information Age, can lead to a **"redrawing" of boundaries not only at the traditional national, cultural, or ideological levels but also at more subjective and conceptual levels, including the perceived demarcations of individual identity, the distinctions between conceptual categories, and the contours of social affiliations within the collective consciousness.** Observable indicators and consequences of this might include:
 

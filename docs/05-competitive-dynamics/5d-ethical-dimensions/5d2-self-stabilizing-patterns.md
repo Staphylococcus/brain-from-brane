@@ -1,3 +1,10 @@
+# ⚙️ 5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns
+<!-- markdownlint-disable MD036 -->
+*Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+
 <!--
 
 - empirical basis for treating ethical frameworks as exceptional
@@ -5,11 +12,6 @@
 - unpack moral necessity
 
 -->
-
-# ⚙️ 5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns
-*Low Altitude Analysis*
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Ethical systems represent the most robust examples of [self-stabilizing informational patterns](../../04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md) found in the information ecosystem. Their exceptional stability properties distinguish them fundamentally from other information systems and help explain their extraordinary persistence across millennia, their resistance to disconfirmation, and their capacity to survive the complete transformation of their original contexts.
 

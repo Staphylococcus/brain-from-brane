@@ -1,5 +1,7 @@
 # ⚙️ 5.d.7. Comparative Analysis: Ethics vs. Established Moral Philosophy
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

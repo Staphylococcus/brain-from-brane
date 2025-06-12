@@ -1,6 +1,7 @@
 # ⚙️ 4.b.4. Threats to Stability and Defensive Responses
-
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

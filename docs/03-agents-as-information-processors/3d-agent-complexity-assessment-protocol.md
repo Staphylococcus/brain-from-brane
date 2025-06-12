@@ -1,5 +1,7 @@
 # ⚙️ 3.d. Agent Complexity Assessment Protocol
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

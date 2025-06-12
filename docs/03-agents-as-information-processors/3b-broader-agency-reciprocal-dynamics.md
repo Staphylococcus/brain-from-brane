@@ -1,5 +1,7 @@
 # ⚙️ 3.b. Broader Agency and Reciprocal Dynamics
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

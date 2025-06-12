@@ -1,5 +1,7 @@
 # ⚙️ 5.d.3. Mechanisms of Ethical Competition
+<!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 

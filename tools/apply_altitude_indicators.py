@@ -59,9 +59,86 @@ def determine_altitude_from_filename(filename):
     
     return None
 
-def has_altitude_indicator(content):
-    """Check if content already has an altitude indicator."""
-    return "📍 **Altitude**:" in content
+def extract_leading_comments(content):
+    """Extract HTML comments that appear before the first H1 heading."""
+    lines = content.split('\n')
+    comments = []
+    
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith('<!--') and not stripped.endswith('-->'):
+            # Multi-line comment start
+            comments.append(line)
+            continue
+        elif stripped.startswith('<!--') and stripped.endswith('-->'):
+            # Single-line comment
+            comments.append(line)
+            continue
+        elif stripped.endswith('-->'):
+            # Multi-line comment end
+            comments.append(line)
+            continue
+        elif comments and not stripped.startswith('#'):
+            # Inside a multi-line comment or empty line between comments and header
+            comments.append(line)
+            continue
+        elif stripped.startswith('#'):
+            # Found the H1 header, stop collecting comments
+            break
+        elif not stripped:
+            # Empty line, might be between comments and header
+            comments.append(line)
+            continue
+        else:
+            # Non-comment content before header, stop collecting
+            break
+    
+    return comments
+
+def get_expected_header_block(emoji, clean_title, description, altitude_text):
+    """Generate the expected header block format."""
+    return f"""# {emoji} {clean_title}
+<!-- markdownlint-disable MD036 -->
+{description}
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: {altitude_text}"""
+
+def has_correct_header_block(content, emoji, clean_title, description, altitude_text):
+    """Check if content has the correct header block format."""
+    expected = get_expected_header_block(emoji, clean_title, description, altitude_text)
+    
+    # Extract the header section from content (skip leading comments)
+    lines = content.split('\n')
+    header_start = -1
+    
+    for i, line in enumerate(lines):
+        if line.strip().startswith('# '):
+            header_start = i
+            break
+    
+    if header_start == -1:
+        return False
+    
+    # Find the end of the header block (next section or empty line after altitude)
+    header_end = header_start
+    altitude_found = False
+    
+    for i in range(header_start, len(lines)):
+        if altitude_found and (lines[i].strip() == '' or lines[i].strip().startswith('#')):
+            header_end = i
+            break
+        elif '📍 **Altitude**:' in lines[i]:
+            altitude_found = True
+            header_end = i + 1
+    
+    if not altitude_found:
+        return False
+    
+    # Extract actual header block
+    actual_header = '\n'.join(lines[header_start:header_end])
+    
+    return actual_header.strip() == expected.strip()
 
 def apply_altitude_indicator(filepath, altitude_text, emoji, description):
     """Apply altitude indicator to a markdown file."""
@@ -70,11 +147,7 @@ def apply_altitude_indicator(filepath, altitude_text, emoji, description):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Skip if already has indicator
-        if has_altitude_indicator(content):
-            return False, "already has altitude indicator"
-        
-        # Find and replace the first H1 heading
+        # Find and extract the H1 heading
         h1_match = re.search(r'^# (.+)$', content, re.MULTILINE)
         if not h1_match:
             return False, "no H1 heading found"
@@ -84,16 +157,74 @@ def apply_altitude_indicator(filepath, altitude_text, emoji, description):
         clean_title = re.sub(r'[🔭🔍⚙️]\s*', '', original_title)
         clean_title = re.sub(r'\*\*', '', clean_title)
         
-        # Create new header with altitude indicator
-        new_header = f"""# {emoji} {clean_title}
-{description}
-
-📍 **Altitude**: {altitude_text}"""
+        # Check if header block is already correct
+        if has_correct_header_block(content, emoji, clean_title, description, altitude_text):
+            return False, "header block already correct"
         
-        # Replace the original header
-        new_content = re.sub(r'^# .+$', new_header, content, count=1, flags=re.MULTILINE)
+        # Extract leading comments
+        leading_comments = extract_leading_comments(content)
+        
+        # Create new header block with markdownlint directives
+        new_header_block = get_expected_header_block(emoji, clean_title, description, altitude_text)
+        
+        # Find the position where header block ends
+        lines = content.split('\n')
+        header_start = -1
+        header_end = -1
+        
+        # Find start of header (first H1)
+        for i, line in enumerate(lines):
+            if line.strip().startswith('# '):
+                header_start = i
+                break
+        
+        if header_start == -1:
+            return False, "no H1 heading found"
+        
+        # Find end of header block (after altitude line or at next section)
+        altitude_found = False
+        for i in range(header_start, len(lines)):
+            if '📍 **Altitude**:' in lines[i]:
+                altitude_found = True
+                header_end = i + 1
+                break
+            elif i > header_start and lines[i].strip().startswith('#'):
+                # Found next section without altitude
+                header_end = i
+                break
+            elif i > header_start and lines[i].strip() != '' and not lines[i].strip().startswith('*') and not lines[i].strip().startswith('📍') and not lines[i].strip().startswith('<!--') and not lines[i].strip().endswith('-->'):
+                # Found content that's not part of header block
+                header_end = i
+                break
+        
+        if header_end == -1:
+            header_end = len(lines)
+        
+        # Rebuild content
+        new_lines = []
+        
+        # Add leading comments if any
+        if leading_comments:
+            # Only add comments that appear before the header
+            comment_end = 0
+            for i, line in enumerate(lines):
+                if line.strip().startswith('# '):
+                    comment_end = i
+                    break
+            new_lines.extend(lines[:comment_end])
+        
+        # Add new header block
+        new_lines.extend(new_header_block.split('\n'))
+        
+        # Add remaining content (skip the old header block)
+        if header_end < len(lines):
+            # Add empty line separator if next content isn't empty
+            if lines[header_end].strip() != '':
+                new_lines.append('')
+            new_lines.extend(lines[header_end:])
         
         # Write back to file
+        new_content = '\n'.join(new_lines)
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(new_content)
         
