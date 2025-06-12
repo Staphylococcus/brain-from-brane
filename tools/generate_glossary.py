@@ -39,12 +39,21 @@ This glossary provides precise definitions of technical terms used throughout th
 
 ---
 
-"""
-    # Footer
+"""    # Footer
     footer_file = glossary_dir / "_footer.md"
     if footer_file.exists():
         with open(footer_file, 'r', encoding='utf-8') as f:
-            footer = f"\n{f.read().strip()}\n"
+            footer_content = f.read().strip()
+        # Fix relative paths for the main glossary file (one level up from glossary/)
+        footer_content = footer_content.replace(
+            "../01-pattern-realism/1-pattern-realism.md",
+            "01-pattern-realism/1-pattern-realism.md"
+        )
+        footer_content = footer_content.replace(
+            "../../README.md",
+            "../README.md"
+        )
+        footer = f"\n{footer_content}\n"
     else:
         footer = "\n*For additional conceptual clarifications, see the [Introduction](01-pattern-realism/1-pattern-realism.md) and [Framework Overview](../README.md).*\n"
 

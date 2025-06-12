@@ -19,6 +19,11 @@ SKIP_FILES = {
     "operationalization-template.md"
 }
 
+# Directories to skip (generated content that shouldn't have altitude indicators)
+SKIP_DIRS = {
+    "glossary"  # Skip the glossary subdirectory with individual letter files
+}
+
 # --- Utility Functions (adapted from generate_nav.py) ---
 def get_h1_title(filepath):
     """Extracts the H1 title (e.g., # Title) from a Markdown file."""
@@ -102,6 +107,9 @@ def find_all_markdown_files(docs_abs_dir):
     markdown_files = []
     
     for root, dirs, files in os.walk(docs_abs_dir):
+        # Skip directories that should be excluded
+        dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+        
         for file in files:
             if file.endswith('.md') and file not in SKIP_FILES:
                 full_path = os.path.join(root, file)
