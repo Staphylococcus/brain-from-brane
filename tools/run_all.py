@@ -37,10 +37,9 @@ if __name__ == "__main__":
     PROJECT_ROOT_ABS = os.path.dirname(script_dir)
     
     print(f"Project root identified as: {PROJECT_ROOT_ABS}")
-    print("Starting master script to update all documentation assets...\n")
-
-    # List of scripts to run in order
+    print("Starting master script to update all documentation assets...\n")    # List of scripts to run in order
     scripts_to_run = [
+        "generate_glossary.py",
         "generate_task_list.py",
         "generate_nav.py",
         "check_broken_links.py",

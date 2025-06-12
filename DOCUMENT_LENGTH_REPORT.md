@@ -5,9 +5,9 @@ Character length warning threshold: `15000` characters.
 
 ## Summary
 
-- **Total files scanned**: 52
-- **Total characters in all documents**: 644818
-- **Files exceeding warning threshold (15000 chars)**: 20
+- **Total files scanned**: 79
+- **Total characters in all documents**: 654907
+- **Files exceeding warning threshold (15000 chars)**: 19
 
 ## Document Details
 
@@ -18,7 +18,6 @@ Character length warning threshold: `15000` characters.
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 32973 | ⚠️ YES |
 | `docs\04-information-systems\4-information-systems.md` | 32516 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24287 | ⚠️ YES |
-| `docs\glossary.md` | 23651 | ⚠️ YES |
 | `docs\04-information-systems\4d-host-information-interactions.md` | 21916 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21174 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d8-practical-applications.md` | 21081 | ⚠️ YES |
@@ -37,8 +36,8 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12746 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12657 | ✅ No |
 | `docs\01-pattern-realism\1-pattern-realism.md` | 12186 | ✅ No |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 12132 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11242 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 11225 | ✅ No |
 | `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8688 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8389 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8015 | ✅ No |
@@ -48,24 +47,52 @@ Character length warning threshold: `15000` characters.
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 6929 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6760 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 6273 | ✅ No |
+| `docs\glossary.md` | 6222 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6011 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
 | `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3747 | ✅ No |
+| `docs\glossary\A.md` | 3627 | ✅ No |
+| `docs\glossary\S.md` | 3601 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b4-threats-stability-defensive-responses.md` | 3599 | ✅ No |
 | `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3441 | ✅ No |
 | `docs\06-influence-collective-consciousness\6c-fluid-dynamics-metaphor.md` | 3341 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 3291 | ✅ No |
+| `docs\glossary\C.md` | 3251 | ✅ No |
 | `docs\02-oneness-interconnectedness\2a-emergent-subjective-distinctions.md` | 3045 | ✅ No |
 | `docs\05-competitive-dynamics\5-competitive-dynamics.md` | 2972 | ✅ No |
 | `docs\05-competitive-dynamics\5c-evolutionary-outcomes-competition.md` | 2817 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b5-implications-system-design.md` | 2452 | ✅ No |
 | `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 2110 | ✅ No |
 | `docs\02-oneness-interconnectedness\2b-reconciling-oneness-and-competition.md` | 2106 | ✅ No |
+| `docs\glossary\E.md` | 2086 | ✅ No |
+| `docs\glossary\P.md` | 2007 | ✅ No |
+| `docs\glossary\I.md` | 1607 | ✅ No |
 | `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1546 | ✅ No |
+| `docs\glossary\O.md` | 1516 | ✅ No |
 | `docs\08-fluid-reality\8-fluid-reality.md` | 1399 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7a-mechanism-persistence.md` | 1088 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7b-dynamic-conditional-persistence.md` | 1085 | ✅ No |
+| `docs\glossary\M.md` | 1072 | ✅ No |
+| `docs\glossary\B.md` | 1066 | ✅ No |
+| `docs\glossary\F.md` | 929 | ✅ No |
+| `docs\glossary\V.md` | 716 | ✅ No |
+| `docs\glossary\R.md` | 685 | ✅ No |
+| `docs\glossary\T.md` | 588 | ✅ No |
+| `docs\glossary\G.md` | 578 | ✅ No |
+| `docs\glossary\W.md` | 577 | ✅ No |
+| `docs\glossary\N.md` | 555 | ✅ No |
+| `docs\glossary\L.md` | 469 | ✅ No |
+| `docs\glossary\U.md` | 462 | ✅ No |
+| `docs\glossary\D.md` | 412 | ✅ No |
+| `docs\glossary\H.md` | 242 | ✅ No |
+| `docs\glossary\Q.md` | 207 | ✅ No |
+| `docs\glossary\_footer.md` | 148 | ✅ No |
+| `docs\glossary\J.md` | 42 | ✅ No |
+| `docs\glossary\K.md` | 42 | ✅ No |
+| `docs\glossary\X.md` | 42 | ✅ No |
+| `docs\glossary\Y.md` | 42 | ✅ No |
+| `docs\glossary\Z.md` | 42 | ✅ No |
 
 ---
 
-*Report generated on: 2025-06-12 11:23:41*
+*Report generated on: 2025-06-12 12:17:54*
