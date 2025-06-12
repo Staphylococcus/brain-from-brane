@@ -69,15 +69,20 @@ Design for **diverse cognitive needs**:
 
 ## Implementation Patterns
 
+This hierarchical organization can extend to further sub-levels within the 'Low Altitude' category as needed, allowing for progressively detailed explorations of specific topics.
+
 ### **Hierarchical Navigation**
 ```
 Framework Overview (High)
 ├── Core Concept A (Medium)
 │   ├── Mechanism A1 (Low)
+│   │   ├── Detailed Aspect A1.1 (Low)
+│   │   └── Detailed Aspect A1.2 (Low)
 │   ├── Application A2 (Low)
 │   └── Implication A3 (Low)
 ├── Core Concept B (Medium)
-│   ├── Mechanism B1 (Low)
+│   ├── Specific Topic B1 (Low) // e.g., a file like 4b-emergent-stability-longevity.md
+│   │   └── Granular Detail B1.a (Low) // e.g., a file within a sub-directory like /4b/
 │   └── Case Study B2 (Low)
 └── Integration Patterns (Medium)
 ```
