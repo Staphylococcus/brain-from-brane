@@ -2,6 +2,10 @@
 
 This list is automatically generated from `<!-- ... -->` comments found in the project's markdown files, structured by directory.
 
+- **01-pattern-realism/**
+    - [`1a-pathway-emergence.md`](docs/01-pattern-realism/1a-pathway-emergence.md)
+        - > - Need to break this up into one overview and several deep dives
+
 - **03-agents-as-information-processors/**
     - [`3d-agent-complexity-assessment-protocol.md`](docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)
         - > - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities?

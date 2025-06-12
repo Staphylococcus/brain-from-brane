@@ -6,14 +6,14 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 52
-- **Total characters in all documents**: 638017
+- **Total characters in all documents**: 638935
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
 
 | File Path | Character Count | Warning |
 |---|---|---|
-| `docs\01-pattern-realism\1a-pathway-emergence.md` | 48695 | ⚠️ YES |
+| `docs\01-pattern-realism\1a-pathway-emergence.md` | 49206 | ⚠️ YES |
 | `docs\04-information-systems\4a-material-organization-dynamics.md` | 37757 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 32973 | ⚠️ YES |
 | `docs\04-information-systems\4-information-systems.md` | 32516 | ⚠️ YES |
@@ -41,7 +41,7 @@ Character length warning threshold: `15000` characters.
 | `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8688 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8389 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8015 | ✅ No |
-| `docs\abstraction-altitudes.md` | 7450 | ✅ No |
+| `docs\abstraction-altitudes.md` | 7857 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b-emergent-stability-longevity.md` | 7086 | ✅ No |
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 6943 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 6929 | ✅ No |
@@ -68,4 +68,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-12 10:02:34*
+*Report generated on: 2025-06-12 10:25:34*
