@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 79
-- **Total characters in all documents**: 661848
+- **Total characters in all documents**: 670675
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
@@ -17,6 +17,7 @@ Character length warning threshold: `15000` characters.
 | `docs\04-information-systems\4a-material-organization-dynamics.md` | 37857 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 32973 | ⚠️ YES |
 | `docs\04-information-systems\4-information-systems.md` | 32608 | ⚠️ YES |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 25613 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24116 | ⚠️ YES |
 | `docs\04-information-systems\4d-host-information-interactions.md` | 21974 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21180 | ⚠️ YES |
@@ -28,7 +29,6 @@ Character length warning threshold: `15000` characters.
 | `docs\operationalization-template.md` | 17933 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17769 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17413 | ⚠️ YES |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 16786 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16334 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15613 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15295 | ⚠️ YES |
@@ -95,4 +95,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-12 16:49:38*
+*Report generated on: 2025-06-12 17:49:57*
