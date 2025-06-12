@@ -15,9 +15,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 - **04-information-systems/**
     - **4b-emergent-stability-longevity/**
         - [`4b1-mechanisms-emergent-stability.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md)
-            - > - What are coherence and resonance?
-              > - cognitive entrenchment vs maladaptive rigidity. What's the interplay?
-              > - flesh out the bullet points
+            - > - flesh out the bullet points
 
         - [`4b2-factors-contributing-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md)
             - > - Flesh out the bullet points

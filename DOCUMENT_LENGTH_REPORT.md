@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 52
-- **Total characters in all documents**: 638935
+- **Total characters in all documents**: 643692
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
@@ -38,6 +38,7 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12657 | ✅ No |
 | `docs\01-pattern-realism\1-pattern-realism.md` | 12186 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11242 | ✅ No |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 10099 | ✅ No |
 | `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8688 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8389 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8015 | ✅ No |
@@ -48,7 +49,6 @@ Character length warning threshold: `15000` characters.
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6760 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 6273 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6011 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 5342 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
 | `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3747 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b4-threats-stability-defensive-responses.md` | 3599 | ✅ No |
@@ -68,4 +68,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-12 10:25:34*
+*Report generated on: 2025-06-12 11:09:52*
