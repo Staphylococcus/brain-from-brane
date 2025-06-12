@@ -133,26 +133,35 @@ In essence, the persistence of an information system is a dynamic dance between 
 
 Stable information systems develop mechanisms to detect and correct degradation, drawing parallels with concepts of repair and maintenance in **Engineering** and **Information Theory** (e.g., error-correcting codes): These mechanisms fundamentally rely on the interplay of R/J/A components: **Anchors** (e.g., canonical versions, established standards, validation protocols) define 'correctness' and provide reference points; **Repeaters** (e.g., educational systems, automated correction tools, community review processes) propagate corrections or reinforce standards; and dedicated processes manage or filter detrimental **Jitter** (errors, deviations, or inferior variants) while potentially identifying beneficial Jitter for incorporation.
 
+```mermaid
+graph TD
+        direction LR
+        J_All["Jitter (Variations, Errors, Innovations)"]
+
+        J_All --> CMonitor["<strong>Consistency Monitoring</strong><br/>(Identifies clear errors for restoration; passes other Jitter like variations/innovations to Quality Selection)"]
+
+        CMonitor -- "Detected Restorable Errors" --> RProc["<strong>Restoration Processes</strong><br/>(Corrects errors using Anchors, propagated by Repeaters)"]
+        CMonitor -- "Jitter for Quality Assessment (Variations/Innovations)" --> QSelect["<strong>Quality Selection</strong><br/>(Evaluates non-error Jitter like variations/innovations, sorting them as beneficial or detrimental)"]
+
+        QSelect -- "Detrimental Variation/Innovation" --> FilteredDJ["Detrimental Variation/Innovation (Filtered/Rejected)"]
+        QSelect -- "Beneficial Variation/Innovation" --> IncorporateBJ["Beneficial Variation/Innovation (Accepted/Incorporated)"]
+
+        RProc --> IS_Stable["Maintained/Improved Information System Stability"]
+        IncorporateBJ -- "Incorporated as Innovation" --> IS_Stable
+        FilteredDJ -. "Rejection Contributes to Stability" .-> IS_Stable
+```
+
 **Consistency Monitoring:**
 
-* Internal logic checking identifies contradictions and inconsistencies, ensuring the system's [**coherence**](../../glossary/C.md#coherence-of-an-information-system) (i.e., its internal consistency and logical integrity).
-* Cross-referencing against authoritative sources detects drift from core principles
-* Community oversight catches errors and maintains standards
-* Automated verification systems flag potential problems
+Consistency monitoring within an information system involves several key activities to detect and flag detrimental **Jitter**. Internal logic checking mechanisms scrutinize the system for contradictions and inconsistencies, thereby ensuring its [**coherence**](../../glossary/C.md#coherence-of-an-information-system) (i.e., its internal consistency and logical integrity) by relying on logical **Anchors** embedded within its structure. Furthermore, the system\\'s integrity is maintained by cross-referencing its content and outputs against authoritative sources, such as canonical texts or established datasets, which act as crucial **Anchors** to detect any drift from core principles. Community oversight also plays a vital role; acting as a distributed network of **Repeaters** and monitors, the community actively catches errors and upholds standards, identifying problematic **Jitter**. Finally, automated verification systems, which can be viewed as specialized **Repeaters** or **Anchors** equipped with checking logic, systematically flag potential problems or deviations from established norms.
 
 **Restoration Processes:**
 
-* Reference materials enable correction of degraded versions
-* Expert communities maintain authoritative interpretations
-* Educational systems retrain participants in proper understanding and practice
-* Version control systems enable rollback to verified states
+Once inconsistencies or degradations are identified, restoration processes are engaged to correct them. Reference materials, serving as stable **Anchors**—such as style guides, original manuscripts, or master copies—provide the basis for correcting degraded versions of the information, guiding **Repeaters** in the task of restoring fidelity. Expert communities, comprising groups of specialized **Repeaters**, contribute by maintaining authoritative interpretations; they function as living **Anchors**, actively correcting misinterpretations that arise as problematic **Jitter**. Educational systems, as key **Repeaters**, play a crucial role by retraining participants in the proper understanding and practice of the information system, thereby counteracting the propagation of errors and reinforcing **Anchored** knowledge. Additionally, technological **Anchors** like version control systems offer robust mechanisms to neutralize detrimental **Jitter** by enabling a rollback to previously verified and stable states, which **Repeaters** can then reliably use and propagate.
 
 **Quality Selection:**
 
-* Peer review and evaluation processes filter out inferior variants
-* Competition between versions selects for higher quality implementations
-* User feedback guides improvement and refinement efforts
-* Performance metrics identify areas needing enhancement
+Quality selection mechanisms ensure that the information system evolves by filtering out detrimental elements and incorporating beneficial ones. Peer review and evaluation processes, facilitated by social **Repeaters** who apply **Anchored** criteria, serve to filter out inferior variants (detrimental **Jitter**) while identifying and promoting high-quality contributions (beneficial **Jitter**). A degree of competition between different versions or manifestations of the system, each potentially incorporating various forms of **Jitter**, allows for the testing and selection of higher quality implementations, which are subsequently more widely propagated by **Repeaters**. User feedback, which can be considered a form of environmental **Jitter**, provides valuable input for improvement and refinement efforts; it signals to **Repeaters** and system maintainers areas where existing **Anchors** might require adjustment or where new, beneficial variations should be adopted. Finally, performance metrics, acting as quantitative **Anchors**, help identify areas within the system that need enhancement, often highlighting where current **Repeaters** may be underperforming or where the system is particularly vulnerable to the negative impacts of detrimental **Jitter**.
 
 ---
 [<< Previous: ⚙️ 4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.b.2. Factors Contributing to Longevity >>](4b2-factors-contributing-longevity.md)
