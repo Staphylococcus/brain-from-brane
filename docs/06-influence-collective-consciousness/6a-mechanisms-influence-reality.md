@@ -9,7 +9,7 @@ The Information Age has fundamentally altered how informational patterns achieve
 
 ### **1. Direct Environmental Structuring: Imposed Information Organization**
 
-Following the principles of [Pattern Realism](../01-pattern-realism/1-pattern-realism.md), information systems achieve direct material influence as **self-stabilizing patterns** that extend their organization to receptive substrates. This occurs through the principle of [Outward Stabilization Propensity](../glossary.md#outward-stabilization-propensity), where a pattern's inherent structure is imposed on its environment through **direct constraint propagation**.
+Following the principles of [Pattern Realism](../01-pattern-realism/1-pattern-realism.md), information systems achieve direct material influence as **self-stabilizing patterns** that extend their organization to receptive substrates. This occurs through the principle of [Outward Stabilization Propensity](../glossary/O.md#outward-stabilization-propensity), where a pattern's inherent structure is imposed on its environment through **direct constraint propagation**.
 
 #### **Pattern Stabilization Processes**
 Information systems achieve material influence through **organizational constraint fields** that create necessity through measurable structural processes:
@@ -67,7 +67,7 @@ Information systems achieve conscious stabilization within individual awareness 
 - **Social validation loops** that reinforce individual **adoption patterns**
 
 **Semantic-Structural Integration Processes:**
-- **Structural incorporation** into existing belief structures through [outward stabilization propensity](../glossary.md#outward-stabilization-propensity)
+- **Structural incorporation** into existing belief structures through [outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity)
 - **Framework reorganization** of memory and interpretive frameworks around new **information structures**
 - Development of specialized vocabulary and **conceptual tools**
 - Formation of predictive models and **decision-making heuristics**
@@ -110,7 +110,7 @@ Collective behavioral patterns create institutional and material changes through
 
 ### **3. AI-Mediated Coordination: Amplified Multi-Mechanism Integration**
 
-The emergence of AI systems represents **structural amplification and coordination** of both environmental structuring and agent-mediated mechanisms, enabled by computational information systems crossing the [Engine Threshold](../glossary.md#engine-threshold) to achieve semantic agency measurable through [ACAP protocols](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
+The emergence of AI systems represents **structural amplification and coordination** of both environmental structuring and agent-mediated mechanisms, enabled by computational information systems crossing the [Engine Threshold](../glossary/E.md#engine-threshold) to achieve semantic agency measurable through [ACAP protocols](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
 
 #### **Enhanced Stabilization Capabilities**
 AI systems amplify the effects of **outward stabilization** through **computational optimization**:

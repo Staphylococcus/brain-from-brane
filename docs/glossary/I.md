@@ -5,7 +5,7 @@ Higher order information systems. Systematic sets of beliefs, values, and ideas 
 
 ### Information
 Within the Brain from Brane framework, information refers to meaningful patterns that exhibit:
-1. **Organizational structure** that creates **constraint relationships** among the [worldsheets](#worldsheet)
+1. **Organizational structure** that creates **constraint relationships** among the [worldsheets](W.md#worldsheet)
 2. **Causal efficacy** through both semantic interpretation and **direct structural influence**
 3. **Persistence mechanisms** that maintain pattern integrity across time and substrate transitions
 4. **Evolutionary dynamics** that enable adaptation and competition through **structural optimization**

@@ -13,4 +13,4 @@ The philosophical position that moral facts exist independently of what anyone b
 The position that moral judgments are relative to specific cultural, historical, or individual contexts rather than being universally valid.
 
 ### Maladaptive Rigidity
-A consequence of deep [Cognitive Entrenchment](#cognitive-entrenchment) where an information system's ingrained nature becomes a barrier to adopting necessary changes or new, more effective systems, especially when the environment changes significantly. This transforms resilience into a resistance to beneficial evolution.
+A consequence of deep [Cognitive Entrenchment](C.md#cognitive-entrenchment) where an information system's ingrained nature becomes a barrier to adopting necessary changes or new, more effective systems, especially when the environment changes significantly. This transforms resilience into a resistance to beneficial evolution.

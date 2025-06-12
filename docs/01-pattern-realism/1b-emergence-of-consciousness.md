@@ -16,7 +16,7 @@ stateDiagram-v2
 
 ## The Recursive Threshold
 
-[**Consciousness**](../glossary.md#consciousness) emerges when the [**inside-out lens**](../glossary.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.
+[**Consciousness**](../glossary/C.md#consciousness) emerges when the [**inside-out lens**](../glossary/I.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.
 
 This transition exemplifies Pattern Realism's [**outward stabilization propensity**](1-pattern-realism.md#pattern-stability-and-outward-stabilization): when **self-stabilizing patterns** achieve sufficient organizational coherence, they naturally extend their stability outward by incorporating themselves as objects of their own processing.
 

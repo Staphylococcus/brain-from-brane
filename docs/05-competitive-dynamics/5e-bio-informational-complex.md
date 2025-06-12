@@ -3,7 +3,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary.md#bio-informational-complex-bic)**.
+Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary/B.md#bio-informational-complex-bic)**.
 
 ### **5.e.1. Concise Characterization**
 
@@ -18,9 +18,9 @@ In short, the host *embodies* the information, while the information *shapes* th
 
 The presence of a BIC can be inferred from several key indicators reflecting the depth of integration between host and information system:
 
-1.  **[Cognitive Dominance](../glossary.md#cognitive-dominance):** The information system occupies a significant portion of the host's cognitive activity and attention.
+1.  **[Cognitive Dominance](../glossary/C.md#cognitive-dominance):** The information system occupies a significant portion of the host's cognitive activity and attention.
 2.  **Resource Allocation:** The host dedicates substantial resources (time, energy, material assets) to the information system.
-3.  **Protective Reactions:** The host exhibits strong defensive responses when the information system is challenged, indicative of its perceived centrality to the host's identity or worldview (e.g., [cognitive dissonance](../glossary.md#cognitive-dissonance), pronounced emotional reactions, or social exclusion of dissenters).
+3.  **Protective Reactions:** The host exhibits strong defensive responses when the information system is challenged, indicative of its perceived centrality to the host's identity or worldview (e.g., [cognitive dissonance](../glossary/C.md#cognitive-dissonance), pronounced emotional reactions, or social exclusion of dissenters).
 
 The consistent manifestation of these characteristics suggests a deep fusion of host and information system into a functional BIC.
 
@@ -46,7 +46,7 @@ BICs are not intrinsically beneficial or harmful; their net effect on host vital
 -   **Commensal BIC** – Information thrives with negligible cost or benefit to the host (e.g., benign hobby fandoms).
 -   **Parasitic BIC** – Information prospers at the host’s expense (e.g., self-harm cults, predatory conspiracy networks).
 
-The classification is fluid: contextual shifts ([resource scarcity](../glossary.md#resource-scarcity), [technological change](../glossary.md#technological-change), new competing patterns) can push a single BIC along this continuum.
+The classification is fluid: contextual shifts ([resource scarcity](../glossary/R.md#resource-scarcity), [technological change](../glossary/T.md#technological-change), new competing patterns) can push a single BIC along this continuum.
 
 ### **5.e.5. Illustrative Instances**
 

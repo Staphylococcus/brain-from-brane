@@ -11,7 +11,7 @@
 
 -->
 
-[Ethical frameworks](../../glossary.md#ethical-frameworks) exhibit all the characteristic dynamics of information systems competing for limited cognitive resources and behavioral expression. Like other information patterns, they:
+[Ethical frameworks](../../glossary/E.md#ethical-frameworks) exhibit all the characteristic dynamics of information systems competing for limited cognitive resources and behavioral expression. Like other information patterns, they:
 
 | Characteristic | Ethical System Manifestation | Examples |
 |----------------|------------------------------|----------|

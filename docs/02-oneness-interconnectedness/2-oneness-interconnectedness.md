@@ -73,7 +73,7 @@ This representation shows the complete cycle of relationships within Pattern Rea
 
 ## 2.3 Crystallization and Outward Stabilization
 
-The patterns that emerge within the worldsheet continuum achieve stability not through isolated self-containment, but through [**outward stabilization propensity**](../glossary.md#outward-stabilization-propensity)—their tendency to create **organizational templates** that guide the structural configuration of receptive substrates within their dimensional connectivity, establishing geometric constraint fields that channel compatible worldsheet pattern formation.
+The patterns that emerge within the worldsheet continuum achieve stability not through isolated self-containment, but through [**outward stabilization propensity**](../glossary/O.md#outward-stabilization-propensity)—their tendency to create **organizational templates** that guide the structural configuration of receptive substrates within their dimensional connectivity, establishing geometric constraint fields that channel compatible worldsheet pattern formation.
 
 ### Crystallization as an Organizational Process
 Information patterns **crystallize** when they develop **organized, self-reinforcing patterns**—stable configurations that achieve persistence by incorporating compatible pattern elements, guided by principles analogous to crystallographic rules. Much like physical crystal lattices organize matter, information systems can be understood as organizing meaning and behavior through **semantic bonding principles** that can be modeled as operating with geometric-like constraints. While the analogy to physical crystals is strong, the emphasis here is on the functional and structural similarities in organization and stabilization, rather than asserting identical physical mechanisms.
@@ -97,7 +97,7 @@ The stabilization and propagation of these crystallized information patterns can
 
 ## 2.4 Agent-Relative Distinctions and the Inside-Out Lens
 
-While the universe maintains fundamental oneness through its worldsheet substrate, the **distinctions, borders, and categories** we observe emerge through agent-relative processes. These are not arbitrary impositions but arise from the evolved [**"inside-out lens"**](../glossary.md#inside-out-lens) of information-processing agents—their functional frameworks for interpreting and navigating reality.
+While the universe maintains fundamental oneness through its worldsheet substrate, the **distinctions, borders, and categories** we observe emerge through agent-relative processes. These are not arbitrary impositions but arise from the evolved [**"inside-out lens"**](../glossary/I.md#inside-out-lens) of information-processing agents—their functional frameworks for interpreting and navigating reality.
 
 ### The Inside-Out Perspective
 Agents develop internal models of reality that prioritize information relevant to their persistence and flourishing. This "inside-out" orientation means that:

@@ -3,22 +3,22 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-The capacity for [self-awareness](../glossary.md#self-awareness) emerges from a fundamental information-processing architecture: the **["Inside-Out Lens"](../glossary.md#inside-out-lens)**. This evolved first-person perspective represents one of the most crucial innovations in biological information processing, transforming how [agents](../glossary.md#agent) organize sensory data, construct world-models, and navigate complex environments.
+The capacity for [self-awareness](../glossary/S.md#self-awareness) emerges from a fundamental information-processing architecture: the **["Inside-Out Lens"](../glossary/I.md#inside-out-lens)**. This evolved first-person perspective represents one of the most crucial innovations in biological information processing, transforming how [agents](../glossary/A.md#agent) organize sensory data, construct world-models, and navigate complex environments.
 
 ### **3.a.1. Concise Characterization**
 
-The **Inside-Out Lens** is the computational architecture by which an [agent](../glossary.md#agent) organizes [information](../glossary.md#information) processing around a persistent self-reference point, creating:
+The **Inside-Out Lens** is the computational architecture by which an [agent](../glossary/A.md#agent) organizes [information](../glossary/I.md#information) processing around a persistent self-reference point, creating:
 
 1. A coherent boundary between "self" and "non-self" that serves as the organizing principle for all incoming data; and
 2. A predictive model of the world structured from the agent's unique spatial, temporal, and experiential position.
 
-In essence, the lens creates a *subjective coordinate system* through which all [information](../glossary.md#information) is filtered, interpreted, and acted upon—enabling sophisticated goal-directed behavior while maintaining the agent's integrity as a distinct entity.
+In essence, the lens creates a *subjective coordinate system* through which all [information](../glossary/I.md#information) is filtered, interpreted, and acted upon—enabling sophisticated goal-directed behavior while maintaining the agent's integrity as a distinct entity.
 
 ### **3.a.2. Identifying Characteristics**
 
 The presence and sophistication of an Inside-Out Lens can be assessed through several key indicators:
 
-1. **[Self-Model Integration](../glossary.md#self-awareness):** The agent maintains a persistent representation of itself as a bounded entity with properties, capabilities, and limitations.
+1. **[Self-Model Integration](../glossary/S.md#self-awareness):** The agent maintains a persistent representation of itself as a bounded entity with properties, capabilities, and limitations.
 2. **Perspective-Centered Processing:** All sensory input and memory retrieval is organized relative to the agent's current state and position.
 3. **Predictive Modeling:** The agent constructs forward-looking models of how its actions will affect both itself and its environment.
 4. **Boundary Maintenance:** The agent exhibits behaviors that preserve its physical and informational integrity against environmental pressures.
@@ -86,7 +86,7 @@ These profiles illustrate how different evolutionary pressures and developmental
 
 ### **3.a.6. Theoretical Implications and Hypotheses**
 
-The multi-dimensional Inside-Out Lens framework generates several testable hypotheses about [agent](../glossary.md#agent) behavior and information processing:
+The multi-dimensional Inside-Out Lens framework generates several testable hypotheses about [agent](../glossary/A.md#agent) behavior and information processing:
 
 1. **Dimensional Independence Hypothesis:** The four lens dimensions should develop and function independently, allowing agents to excel in some areas while remaining limited in others based on evolutionary or developmental pressures.
 

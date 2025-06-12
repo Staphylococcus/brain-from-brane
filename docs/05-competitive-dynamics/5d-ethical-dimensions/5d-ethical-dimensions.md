@@ -11,11 +11,11 @@
 
 -->
 
-The often-fierce competition between [information systems](../../glossary.md#information-system), and the potential for them to exert profound influence over host [agents](../../glossary.md#agent) and societies, highlights their potent and sometimes destructive power. Within this framework, [ethical systems](../../glossary.md#ethical-system) themselves are understood as emergent information systems that compete for cognitive dominance and behavioral influence just like any other informational pattern. This recognition leads to profound implications for how we understand moral progress, ethical discourse, and the management of competing values in complex societies.
+The often-fierce competition between [information systems](../../glossary/I.md#information-system), and the potential for them to exert profound influence over host [agents](../../glossary/A.md#agent) and societies, highlights their potent and sometimes destructive power. Within this framework, [ethical systems](../../glossary/E.md#ethical-system) themselves are understood as emergent information systems that compete for cognitive dominance and behavioral influence just like any other informational pattern. This recognition leads to profound implications for how we understand moral progress, ethical discourse, and the management of competing values in complex societies.
 
 ## **The Moral Battlefield: Ethics as Information War**
 
-When we observe the intensity of moral disagreements—from abortion debates to climate change responses, from AI governance to social justice movements—we witness something far more profound than mere differences of opinion. We are observing **[information warfare](../../glossary.md#information-warfare)** at its most sophisticated level, where competing [ethical frameworks](../../glossary.md#ethical-frameworks) battle for the ultimate prize: control over human [consciousness](../../glossary.md#consciousness), behavior, and the very definition of what it means to live a good life.
+When we observe the intensity of moral disagreements—from abortion debates to climate change responses, from AI governance to social justice movements—we witness something far more profound than mere differences of opinion. We are observing **[information warfare](../../glossary/I.md#information-warfare)** at its most sophisticated level, where competing [ethical frameworks](../../glossary/E.md#ethical-frameworks) battle for the ultimate prize: control over human [consciousness](../../glossary/C.md#consciousness), behavior, and the very definition of what it means to live a good life.
 
 This section reveals ethical systems as the most powerful and self-preserving information systems in existence—more persistent than scientific theories, more influential than political ideologies, and more resistant to change than religious doctrines. Understanding this competitive dynamic transforms how we approach moral progress, ethical education, and the design of institutions capable of managing value pluralism in complex societies.
 
@@ -23,7 +23,7 @@ This section reveals ethical systems as the most powerful and self-preserving in
 
 ### **[5.d.1. Ethical Systems as Competing Information Systems](5d1-ethical-systems-competing.md)**
 
-The battle begins with recognition: **moral frameworks are not neutral tools for reasoning but active competitors** for the most valuable real estate in human cognition—our sense of identity and purpose. Like viruses competing for host cells, [ethical systems](../../glossary.md#ethical-system) employ sophisticated strategies to capture attention, embed themselves in memory, and influence behavior.
+The battle begins with recognition: **moral frameworks are not neutral tools for reasoning but active competitors** for the most valuable real estate in human cognition—our sense of identity and purpose. Like viruses competing for host cells, [ethical systems](../../glossary/E.md#ethical-system) employ sophisticated strategies to capture attention, embed themselves in memory, and influence behavior.
 
 This section reveals how environmental ethics competes with economic growth frameworks for policy dominance, how individual rights clash with collective welfare in institutional design, and how religious moral codes propagate through different mechanisms than secular humanist principles. The competitive dynamics are real, measurable, and predictive.
 
@@ -31,13 +31,13 @@ This section reveals how environmental ethics competes with economic growth fram
 
 ### **[5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns](5d2-self-stabilizing-patterns.md)**
 
-Here lies the secret of ethics' extraordinary power: **moral frameworks have evolved the most sophisticated [self-defense mechanisms](../../glossary.md#self-stabilizing-patterns) known to information science**. While scientific theories can be overturned by evidence and political ideologies can be defeated at polls, [ethical systems](../../glossary.md#ethical-system) possess recursive self-protection that makes them nearly invulnerable to external challenge.
+Here lies the secret of ethics' extraordinary power: **moral frameworks have evolved the most sophisticated [self-defense mechanisms](../../glossary/S.md#self-stabilizing-patterns) known to information science**. While scientific theories can be overturned by evidence and political ideologies can be defeated at polls, [ethical systems](../../glossary/E.md#ethical-system) possess recursive self-protection that makes them nearly invulnerable to external challenge.
 
 This comprehensive analysis exposes the multi-layered defense systems that keep moral frameworks intact across millennia. From psychological mechanisms that rationalize moral failures to social dynamics that exile moral deviants, from cultural rituals that emotionally renew commitment to institutional structures that outlast individual belief—ethical systems deploy every possible strategy to ensure their survival.
 
-The analysis includes quantitative comparisons showing that [ethical frameworks](../../glossary.md#ethical-frameworks) persist 5-10 times longer than other [information systems](../../glossary.md#information-system), resist disconfirmation at levels approaching mathematical certainty, and integrate with personal identity so thoroughly that challenging them triggers fight-or-flight responses.
+The analysis includes quantitative comparisons showing that [ethical frameworks](../../glossary/E.md#ethical-frameworks) persist 5-10 times longer than other [information systems](../../glossary/I.md#information-system), resist disconfirmation at levels approaching mathematical certainty, and integrate with personal identity so thoroughly that challenging them triggers fight-or-flight responses.
 
-**Critical Insight:** The very mechanisms that make [ethical systems](../../glossary.md#ethical-system) valuable for providing meaning and stability also make them dangerous when they become [parasitic](../../glossary.md#parasitic-frameworks) or outdated.
+**Critical Insight:** The very mechanisms that make [ethical systems](../../glossary/E.md#ethical-system) valuable for providing meaning and stability also make them dangerous when they become [parasitic](../../glossary/P.md#parasitic-frameworks) or outdated.
 
 ### **[5.d.3. Mechanisms of Ethical Competition](5d3-mechanisms-competition.md)**
 
@@ -49,17 +49,17 @@ Contemporary examples illuminate these dynamics: corporate social responsibility
 
 ### **[5.d.4. Bio-Informational Complexes and Moral Identity](5d4-bio-informational-complexes.md)**
 
-The deepest level of ethical competition occurs when **moral frameworks fuse with human identity itself**, creating [Bio-Informational Complexes](../../glossary.md#bio-informational-complex-bic) where the boundary between person and principle dissolves. This section traces the developmental progression from initial moral exposure through ethical adoption to complete moral lock-in, where changing [ethical frameworks](../../glossary.md#ethical-frameworks) becomes psychologically equivalent to destroying the self.
+The deepest level of ethical competition occurs when **moral frameworks fuse with human identity itself**, creating [Bio-Informational Complexes](../../glossary/B.md#bio-informational-complex-bic) where the boundary between person and principle dissolves. This section traces the developmental progression from initial moral exposure through ethical adoption to complete moral lock-in, where changing [ethical frameworks](../../glossary/E.md#ethical-frameworks) becomes psychologically equivalent to destroying the self.
 
-The analysis distinguishes between mutualistic ethical BICs that promote both individual flourishing and social cooperation, commensal systems that provide meaning without broader impact, and [parasitic frameworks](../../glossary.md#parasitic-frameworks) that exploit moral sentiments for destructive ends. Understanding these patterns provides crucial tools for identifying when moral commitment becomes pathological.
+The analysis distinguishes between mutualistic ethical BICs that promote both individual flourishing and social cooperation, commensal systems that provide meaning without broader impact, and [parasitic frameworks](../../glossary/P.md#parasitic-frameworks) that exploit moral sentiments for destructive ends. Understanding these patterns provides crucial tools for identifying when moral commitment becomes pathological.
 
 **Psychological Reality:** Neuroscientific research indicates that moral challenges can activate overlapping brain regions involved in threat detection and stress response, particularly in areas like the anterior cingulate cortex and amygdala. This neurological overlap helps explain the intensity of moral conflict and the difficulty of ethical persuasion, as challenges to core moral beliefs may be processed similarly to other forms of psychological threat.
 
 ### **[5.d.5. Meta-Ethical Competition: Frameworks for Evaluation](5d5-meta-ethical-competition.md)**
 
-The ultimate battleground involves **competition over the rules of competition itself**. [Meta-ethical frameworks](../../glossary.md#meta-ethical-frameworks) compete to define what counts as valid moral reasoning, legitimate moral authority, and appropriate moral evidence. The stakes couldn't be higher: whoever controls the meta-ethical framework controls the criteria for evaluating all other [ethical systems](../../glossary.md#ethical-system).
+The ultimate battleground involves **competition over the rules of competition itself**. [Meta-ethical frameworks](../../glossary/M.md#meta-ethical-frameworks) compete to define what counts as valid moral reasoning, legitimate moral authority, and appropriate moral evidence. The stakes couldn't be higher: whoever controls the meta-ethical framework controls the criteria for evaluating all other [ethical systems](../../glossary/E.md#ethical-system).
 
-This section examines how [moral realism](../../glossary.md#moral-realism) competes with [relativism](../../glossary.md#moral-relativism) for epistemic authority, how evolutionary ethics leverages scientific credibility against divine command theory's transcendent appeals, and how procedural ethics attempts to sidestep content disputes by focusing on process. These meta-ethical competitions shape laws, institutions, and social norms with consequences extending far beyond academic philosophy.
+This section examines how [moral realism](../../glossary/M.md#moral-realism) competes with [relativism](../../glossary/M.md#moral-relativism) for epistemic authority, how evolutionary ethics leverages scientific credibility against divine command theory's transcendent appeals, and how procedural ethics attempts to sidestep content disputes by focusing on process. These meta-ethical competitions shape laws, institutions, and social norms with consequences extending far beyond academic philosophy.
 
 **Power Dynamics:** Meta-ethical competition explains why ethical disagreements often seem to involve people "talking past each other"—they're literally operating within incompatible frameworks for determining what counts as valid moral reasoning.
 
@@ -101,7 +101,7 @@ The analysis covers institutional design principles that reward constructive eth
 
 **Every theory about ethics is itself an ethical position.** This final section confronts the meta-ethical questions raised by treating morality as competitive information dynamics: Is this framework competing for dominance? Does competitive analysis undermine moral authority? How do we prevent misuse while promoting beneficial applications?
 
-The analysis acknowledges the framework's own moral commitments—epistemic humility, [moral pluralism](../../glossary.md#moral-pluralism), evidence-based ethics, host welfare priority, and democratic legitimacy—while exploring its potential contributions to moral understanding and its limitations. The framework must apply its own insights to itself, demonstrating transparency about its competitive strategies and remaining open to revision based on empirical evidence.
+The analysis acknowledges the framework's own moral commitments—epistemic humility, [moral pluralism](../../glossary/M.md#moral-pluralism), evidence-based ethics, host welfare priority, and democratic legitimacy—while exploring its potential contributions to moral understanding and its limitations. The framework must apply its own insights to itself, demonstrating transparency about its competitive strategies and remaining open to revision based on empirical evidence.
 
 **Reflexive Responsibility:** A framework claiming to understand ethical competition must submit to the same competitive dynamics it describes, proving its value through practical benefits rather than claiming neutral objectivity.
 
@@ -109,11 +109,11 @@ The analysis acknowledges the framework's own moral commitments—epistemic humi
 
 The analysis reveals several crucial insights about the nature of ethical systems:
 
-1. **Exceptional Stability**: [Ethical frameworks](../../glossary.md#ethical-frameworks) achieve unprecedented levels of [self-stabilization](../../glossary.md#self-stabilizing-patterns) through multiple redundant mechanisms operating across psychological, social, and cultural levels.
+1. **Exceptional Stability**: [Ethical frameworks](../../glossary/E.md#ethical-frameworks) achieve unprecedented levels of [self-stabilization](../../glossary/S.md#self-stabilizing-patterns) through multiple redundant mechanisms operating across psychological, social, and cultural levels.
 
-2. **[Competitive Dynamics](../../glossary.md#competitive-dynamics)**: Moral systems engage in sophisticated competition for cognitive dominance, employing strategies ranging from direct confrontation to adaptive synthesis.
+2. **[Competitive Dynamics](../../glossary/C.md#competitive-dynamics)**: Moral systems engage in sophisticated competition for cognitive dominance, employing strategies ranging from direct confrontation to adaptive synthesis.
 
-3. **Identity Integration**: [Ethical frameworks](../../glossary.md#ethical-frameworks) form uniquely powerful [Bio-Informational Complexes](../../glossary.md#bio-informational-complex-bic) by fusing with core personal and social identity.
+3. **Identity Integration**: [Ethical frameworks](../../glossary/E.md#ethical-frameworks) form uniquely powerful [Bio-Informational Complexes](../../glossary/B.md#bio-informational-complex-bic) by fusing with core personal and social identity.
 
 4. **Meta-Ethical Competition**: The frameworks for evaluating moral claims themselves compete for authority in defining valid moral reasoning.
 
@@ -121,7 +121,7 @@ The analysis reveals several crucial insights about the nature of ethical system
 
 ## **Implications for Moral Progress**
 
-This competitive perspective on ethics suggests that moral progress requires careful balance between stability and [adaptation](../../glossary.md#adaptation). While [ethical frameworks](../../glossary.md#ethical-frameworks) need sufficient stability to provide identity and meaning, excessive [self-stabilization](../../glossary.md#self-stabilizing-patterns) can prevent necessary moral [evolution](../../glossary.md#evolution). The key is designing [ethical systems](../../glossary.md#ethical-system) with appropriate flexibility mechanisms while maintaining their essential stability properties.
+This competitive perspective on ethics suggests that moral progress requires careful balance between stability and [adaptation](../../glossary/A.md#adaptation). While [ethical frameworks](../../glossary/E.md#ethical-frameworks) need sufficient stability to provide identity and meaning, excessive [self-stabilization](../../glossary/S.md#self-stabilizing-patterns) can prevent necessary moral [evolution](../../glossary/E.md#evolution). The key is designing [ethical systems](../../glossary/E.md#ethical-system) with appropriate flexibility mechanisms while maintaining their essential stability properties.
 
 ---
 [<< Previous: ⚙️ 5.c. Evolutionary Outcomes of Competition](../5c-evolutionary-outcomes-competition.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.1. Ethical Systems as Competing Information Systems >>](5d1-ethical-systems-competing.md)

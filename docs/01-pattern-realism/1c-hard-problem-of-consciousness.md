@@ -12,7 +12,7 @@ Building on [Section 1.b's](1b-emergence-of-consciousness.md) establishment of c
 
 ## 1. The Traditional Problem Formulation
 
-The "hard problem" of consciousness presupposes that physical processes generate subjective qualitative experiences ([qualia](../glossary.md#qualia)) that constitute a distinct explanatory target beyond functional information processing.
+The "hard problem" of consciousness presupposes that physical processes generate subjective qualitative experiences ([qualia](../glossary/Q.md#qualia)) that constitute a distinct explanatory target beyond functional information processing.
 
 The conventional approach assumes consciousness involves **two distinct phenomena**:
 1. Information processing (measurable, functional) 
