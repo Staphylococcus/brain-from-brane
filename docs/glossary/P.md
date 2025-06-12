@@ -9,6 +9,9 @@ The ontological framework establishing that reality consists of a single structu
 ### Pathway Emergence
 The process through which new organizational patterns develop from thermodynamic coupling through autopoietic organization to semantic agency. Pathway emergence explains how information systems achieve increasing sophistication and autonomy through coupling dynamics and **structural template optimization**.
 
+### Positive Feedback
+Mechanisms where the output of a process stimulates or amplifies the process itself, leading to exponential growth or reinforcement of a particular state or behavior. In the context of information systems, these are often referred to as [Self-Reinforcing Feedback Loops](S.md#self-reinforcing-feedback-loops-in-information-systems).
+
 ### Proto-Semantics
 Early-stage meaning-making capabilities characterized by functional significance assignment and basic environmental interpretation, representing the developmental stage between simple detection and full semantic processing.
 

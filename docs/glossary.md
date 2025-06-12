@@ -7,7 +7,7 @@ This glossary provides precise definitions of technical terms used throughout th
 ---
 
 ## [A](glossary/A.md)
-[Adaptation](glossary/A.md#adaptation) | [Agency](glossary/A.md#agency) | [Agent](glossary/A.md#agent) | [Agent Complexity Assessment Protocol (ACAP)](glossary/A.md#agent-complexity-assessment-protocol-acap) | [Agent-Relative](glossary/A.md#agent-relative) | [Algorithmic Organizational Templates](glossary/A.md#algorithmic-organizational-templates) | [Algorithms](glossary/A.md#algorithms) | [Artificial Intelligence](glossary/A.md#artificial-intelligence) | [Autocatalytic](glossary/A.md#autocatalytic) | [Autopoietic](glossary/A.md#autopoietic)
+[Adaptation](glossary/A.md#adaptation) | [Adaptive Stabilization](glossary/A.md#adaptive-stabilization) | [Agency](glossary/A.md#agency) | [Agent](glossary/A.md#agent) | [Agent Complexity Assessment Protocol (ACAP)](glossary/A.md#agent-complexity-assessment-protocol-acap) | [Agent-Relative](glossary/A.md#agent-relative) | [Algorithmic Organizational Templates](glossary/A.md#algorithmic-organizational-templates) | [Algorithms](glossary/A.md#algorithms) | [Artificial Intelligence](glossary/A.md#artificial-intelligence) | [Autocatalytic](glossary/A.md#autocatalytic) | [Autopoietic](glossary/A.md#autopoietic)
 
 ---
 
@@ -17,7 +17,7 @@ This glossary provides precise definitions of technical terms used throughout th
 ---
 
 ## [C](glossary/C.md)
-[Collective Consciousness](glossary/C.md#collective-consciousness) | [Compatibility Matching](glossary/C.md#compatibility-matching) | [Competitive Dynamics](glossary/C.md#competitive-dynamics) | [Consciousness](glossary/C.md#consciousness) | [Cognitive Biases](glossary/C.md#cognitive-biases) | [Cognitive Dissonance](glossary/C.md#cognitive-dissonance) | [Cognitive Dominance](glossary/C.md#cognitive-dominance) | [Cognitive Entrenchment](glossary/C.md#cognitive-entrenchment) | [Cultural Evolution](glossary/C.md#cultural-evolution) | [Cultural Frameworks](glossary/C.md#cultural-frameworks) | [Cultural Narratives](glossary/C.md#cultural-narratives) | [Coherence (of an Information System)](glossary/C.md#coherence-of-an-information-system)
+[Collective Consciousness](glossary/C.md#collective-consciousness) | [Compatibility Matching](glossary/C.md#compatibility-matching) | [Competitive Dynamics](glossary/C.md#competitive-dynamics) | [Complex Adaptive Systems (CAS) Theory](glossary/C.md#complex-adaptive-systems-cas-theory) | [Consciousness](glossary/C.md#consciousness) | [Cognitive Biases](glossary/C.md#cognitive-biases) | [Cognitive Dissonance](glossary/C.md#cognitive-dissonance) | [Cognitive Dominance](glossary/C.md#cognitive-dominance) | [Cognitive Entrenchment](glossary/C.md#cognitive-entrenchment) | [Cultural Evolution](glossary/C.md#cultural-evolution) | [Cultural Frameworks](glossary/C.md#cultural-frameworks) | [Cultural Narratives](glossary/C.md#cultural-narratives) | [Coherence (of an Information System)](glossary/C.md#coherence-of-an-information-system)
 
 ---
 
@@ -82,7 +82,7 @@ This glossary provides precise definitions of technical terms used throughout th
 ---
 
 ## [P](glossary/P.md)
-[Parasitic Frameworks](glossary/P.md#parasitic-frameworks) | [Pattern Realism](glossary/P.md#pattern-realism) | [Pathway Emergence](glossary/P.md#pathway-emergence) | [Proto-Semantics](glossary/P.md#proto-semantics) | [Template Effects](glossary/P.md#template-effects)
+[Parasitic Frameworks](glossary/P.md#parasitic-frameworks) | [Pattern Realism](glossary/P.md#pattern-realism) | [Pathway Emergence](glossary/P.md#pathway-emergence) | [Positive Feedback](glossary/P.md#positive-feedback) | [Proto-Semantics](glossary/P.md#proto-semantics) | [Template Effects](glossary/P.md#template-effects)
 
 ---
 

@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 79
-- **Total characters in all documents**: 660247
+- **Total characters in all documents**: 661848
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
@@ -28,7 +28,7 @@ Character length warning threshold: `15000` characters.
 | `docs\operationalization-template.md` | 17933 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17769 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17413 | ⚠️ YES |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 16578 | ⚠️ YES |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 16786 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16334 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15613 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15295 | ⚠️ YES |
@@ -46,26 +46,26 @@ Character length warning threshold: `15000` characters.
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 6945 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 6929 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6760 | ✅ No |
+| `docs\glossary.md` | 6435 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 6347 | ✅ No |
-| `docs\glossary.md` | 6222 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6059 | ✅ No |
+| `docs\glossary\A.md` | 4111 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
 | `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3761 | ✅ No |
 | `docs\glossary\S.md` | 3738 | ✅ No |
-| `docs\glossary\A.md` | 3651 | ✅ No |
+| `docs\glossary\C.md` | 3627 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b4-threats-stability-defensive-responses.md` | 3599 | ✅ No |
 | `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3445 | ✅ No |
 | `docs\06-influence-collective-consciousness\6c-fluid-dynamics-metaphor.md` | 3341 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 3291 | ✅ No |
-| `docs\glossary\C.md` | 3263 | ✅ No |
 | `docs\02-oneness-interconnectedness\2a-emergent-subjective-distinctions.md` | 3055 | ✅ No |
 | `docs\05-competitive-dynamics\5-competitive-dynamics.md` | 2986 | ✅ No |
 | `docs\05-competitive-dynamics\5c-evolutionary-outcomes-competition.md` | 2823 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b5-implications-system-design.md` | 2452 | ✅ No |
+| `docs\glossary\P.md` | 2371 | ✅ No |
 | `docs\02-oneness-interconnectedness\2b-reconciling-oneness-and-competition.md` | 2112 | ✅ No |
 | `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 2110 | ✅ No |
 | `docs\glossary\E.md` | 2086 | ✅ No |
-| `docs\glossary\P.md` | 2015 | ✅ No |
 | `docs\glossary\I.md` | 1611 | ✅ No |
 | `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1546 | ✅ No |
 | `docs\glossary\O.md` | 1524 | ✅ No |
@@ -95,4 +95,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-12 13:11:22*
+*Report generated on: 2025-06-12 16:49:38*

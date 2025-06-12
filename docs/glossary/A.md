@@ -3,6 +3,9 @@
 ### Adaptation
 The process by which agents or information systems modify their structure or behavior in response to environmental changes, enabling improved survival, persistence, or propagation within their operational context.
 
+### Adaptive Stabilization
+The capacity of an information system to maintain stability and persistence not by rigidly resisting change, but by dynamically evolving its content, transmission methods, and institutional support structures in response to environmental pressures and opportunities. This allows the system to retain its core identity while ensuring ongoing relevance and effectiveness. (See also: [Maladaptive Rigidity](M.md#maladaptive-rigidity))
+
 ### Agency
 The capacity for systems to exhibit goal-directed behavior, environmental responsiveness, and autonomous organization of matter/energy/information patterns. Agency exists on a continuous spectrum from simple molecular selectivity to sophisticated self-reflective behavior, encompassing both [organizational agency](O.md#organizational-agency) (structural influence through energetic favorability and pattern stabilization) and [semantic agency](S.md#semantic-agency) (meaning-making through autopoietic self-organization). The Brain from Brane framework recognizes agency as a fundamental property of organized systems, measurable through [ACAP](#agent-complexity-assessment-protocol-acap) protocols across all scales of reality.
 

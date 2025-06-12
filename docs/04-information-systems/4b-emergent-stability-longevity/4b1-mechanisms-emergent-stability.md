@@ -13,17 +13,20 @@ These factors are critical in driving the feedback loops that reinforce an IS's 
 
 ## **4.b.1.1. [Self-Reinforcing Feedback Loops](../../glossary/S.md#self-reinforcing-feedback-loops-in-information-systems)**
 
-[Information systems](../../glossary/I.md#information-system) develop stability through [positive feedback mechanisms](../../glossary/S.md#self-reinforcing-feedback-loops-in-information-systems) that strengthen their own propagation. These loops operate across several dimensions, mutually reinforcing the system's presence and influence within a host population.
+[Information systems](../../glossary/I.md#information-system) develop stability through [positive feedback mechanisms](../../glossary/P.md#positive-feedback) that strengthen their own propagation. These loops operate across several dimensions, mutually reinforcing the system's presence and influence within a host population.
 
 ```mermaid
 graph TD
+    MR_from_CE["Maladaptive Rigidity"]
     IS_Stability["Information System Stability"]
     IS_Stability -.-> U1["Provides Value/Utility"]
     IS_Stability -.-> I1["Integrated with Host Identity"]
     IS_Stability -.-> C1["Repeated System Use"]
+    IS_Stability -.->|contributes to| MR_from_CE
     U4 -.-> IS_Stability
     I4 -.-> IS_Stability
     C4 -.-> IS_Stability
+
 
     subgraph Utility_Reinforcement ["Utility Reinforcement Loop"]
         direction LR
@@ -64,30 +67,63 @@ The repeated use of an information system can lead to its [cognitive entrenchmen
 
 However, this very [entrenchment](../../glossary/C.md#cognitive-entrenchment), while fostering stability, can also lead to [**maladaptive rigidity**](../../glossary/M.md#maladaptive-rigidity)—a concept that also echoes Kuhn's work on how paradigms can hinder the acceptance of new scientific truths. When the environment changes significantly, or when fundamentally superior information systems emerge, the deep-seated cognitive habits and specialized pattern recognition that once reinforced the system can become significant barriers to adopting necessary changes or new, more effective systems. In such cases, the 'resilience to displacement' transforms into a resistance to beneficial evolution, potentially threatening the long-term viability of the host or the system itself if it cannot adapt.
 
-## **4.b.1.2. Adaptive Stabilization**
+## **4.b.1.2. [Adaptive Stabilization](../../glossary/A.md#adaptive-stabilization)**
 
-Information systems maintain stability by adapting to environmental changes rather than resisting them, a core principle in **Evolutionary Biology** and **Complex Adaptive Systems theory**:
+Information systems maintain stability not by rigidly resisting external pressures, but by dynamically adapting to environmental changes. This principle of adaptive resilience is a cornerstone of **Evolutionary Biology**, which studies how life forms evolve to survive in changing ecosystems, and [**Complex Adaptive Systems (CAS) theory**](../../glossary/C.md#complex-adaptive-systems-cas-theory), which explores how systems composed of many interacting components (like economies, ecosystems, or social groups) self-organize and adapt. Rather than becoming brittle, these information systems exhibit flexibility, allowing them to persist and even thrive amidst new challenges and opportunities. This adaptive capacity manifests in several key areas:
+
+```mermaid
+graph TD
+    AS["Adaptive Stabilization"]
+    MR["Maladaptive Rigidity"]
+
+    AS -.->|counteracts| MR
+
+    AS -.-> CE1
+    AS -.-> TMI1
+    AS -.-> ISE1
+    CE_Outcome -.-> AS
+    TMI_Outcome -.-> AS
+    ISE_Outcome -.-> AS
+
+    subgraph Content_Evolution_Loop ["Content Evolution"]
+        direction LR
+        CE1["Core Principles Stable"] --> CE2["Surface Features Adapt (Context, Audience)"]
+        CE2 --> CE3["Language & Examples Evolve"]
+        CE3 --> CE4["Relevance Maintained"]
+        CE_Outcome["Ongoing Validity"]
+        CE4 --> CE_Outcome
+    end
+
+    subgraph Transmission_Method_Innovation_Loop ["Transmission Method Innovation"]
+        direction LR
+        TMI1["New Technologies Emerge"] --> TMI2["Distribution & Maintenance Improve"]
+        TMI2 --> TMI3["Educational & Social Practices Adapt"]
+        TMI3 --> TMI4["Enhanced Accessibility & Preservation"]
+        TMI_Outcome["Effective Propagation"]
+        TMI4 --> TMI_Outcome
+    end
+
+    subgraph Institutional_Support_Evolution_Loop ["Institutional Support Evolution"]
+        direction LR
+        ISE1["Organizations Adapt Structures"] --> ISE2["Prof. Communities Develop Specializations"]
+        ISE2 --> ISE3["Funding & Regulatory Frameworks Evolve"]
+        ISE3 --> ISE4["Sustained Resources & Protection"]
+        ISE_Outcome["System Viability Ensured"]
+        ISE4 --> ISE_Outcome
+    end
+```
 
 **Content Evolution:**
 
-* Core principles remain stable while surface features adapt to new contexts
-* Examples and applications update to maintain relevance for contemporary audiences
-* Language and terminology evolve to match current usage patterns
-* Case studies and success stories refresh to demonstrate ongoing validity
+Information systems demonstrate [adaptive stabilization](../../glossary/A.md#adaptive-stabilization) by evolving their content while preserving their core essence. This involves maintaining the stability of fundamental principles and tenets, which provide continuity and identity, while allowing surface features—such as examples, applications, language, and terminology—to adapt to new socio-cultural contexts and contemporary audiences. As highlighted in **Communication Theory** and **Semiotics**, the meaning and relevance of information are context-dependent. Therefore, by updating case studies, refreshing success stories, and modifying language to match current usage patterns, the system ensures its ongoing validity and resonance. For instance, a scientific theory's core postulates might remain unchanged for decades, but the textbooks explaining it will evolve with new discoveries, pedagogical approaches, and illustrative examples relevant to current students. This dynamic balance between core stability and peripheral flexibility allows the information system to remain both recognizable and currently applicable.
 
 **Transmission Method Innovation:**
 
-* New technologies enable more effective distribution and maintenance
-* Educational approaches adapt to changing learning preferences and capabilities
-* Social practices evolve to leverage available communication channels
-* Storage and preservation methods improve with technological advancement
+The longevity of an information system is also significantly enhanced by its capacity to innovate its methods of transmission and maintenance. This involves embracing new technologies that enable more effective, widespread, and resilient distribution. Concepts from **Media Ecology** and **Information Science** emphasize how the medium shapes the message and its reach. For example, the shift from oral traditions to written texts, then to printing presses, and now to digital networks, has profoundly altered how information systems are stored, accessed, and propagated. Beyond technology, educational approaches must adapt to changing learning preferences, cognitive styles, and available tools to ensure effective inculcation in new generations of hosts. Social practices surrounding the information system also evolve, leveraging available communication channels—from community gatherings to online forums—to foster engagement and collective understanding. Concurrently, storage and preservation methods improve with technological advancements, safeguarding the system's integrity against degradation over time.
 
 **Institutional Support Evolution:**
 
-* Organizations dedicated to system maintenance adapt their structures and methods
-* Professional communities develop new specializations and training programs
-* Funding mechanisms evolve to ensure continued resource availability
-* Regulatory frameworks adapt to protect and promote beneficial systems
+Finally, [adaptive stabilization](../../glossary/A.md#adaptive-stabilization) relies on the co-evolution of institutional structures that support the information system. As explored in **Sociology of Organizations** and **Institutional Economics**, formal and informal institutions provide the framework for an information system's persistence and governance. Organizations dedicated to the system's maintenance, such as academic departments, religious bodies, or professional associations, must adapt their own structures, strategies, and methods in response to changing environments. Professional communities may develop new specializations, accreditations, and training programs to cultivate expertise and ensure quality control. Funding mechanisms, whether from public grants, private endowments, or community contributions, must evolve to ensure continued resource availability for the system's operations and development. Furthermore, legal and regulatory frameworks may adapt to protect beneficial information systems (e.g., intellectual property laws for creative works, or standards for scientific data) or to guide their ethical application, thus promoting their stability and societal integration.
 
 ## **4.b.1.3. Error Correction and Quality Control**
 

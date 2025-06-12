@@ -9,6 +9,9 @@ The process by which information systems achieve adoption and persistence throug
 ### Competitive Dynamics
 The processes by which different information systems, agents, or organizational patterns compete for resources, substrates, and influence within shared environments, driving evolutionary development and structural optimization.
 
+### Complex Adaptive Systems (CAS) Theory
+A theoretical framework for understanding systems composed of many interacting components whose collective behavior is emergent and adaptive. CAS theory explores how such systems (e.g., economies, ecosystems, social groups) self-organize, learn, and evolve in response to changing conditions without centralized control.
+
 ### Consciousness
 The recursive application of the inside-out lens architecture to its own operations, creating self-referential processing capabilities that enable subjective experience and meta-cognitive awareness.
 
