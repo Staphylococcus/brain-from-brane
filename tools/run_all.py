@@ -44,10 +44,11 @@ if __name__ == "__main__":
         "generate_task_list.py",
         "generate_nav.py",
         "check_broken_links.py",
+        "document_length_reporter.py", # Added this line
         "apply_altitude_indicators.py"
     ]
 
     for script in scripts_to_run:
         run_script(script, PROJECT_ROOT_ABS)
 
-    print("All scripts executed.") 
+    print("All scripts executed.")
