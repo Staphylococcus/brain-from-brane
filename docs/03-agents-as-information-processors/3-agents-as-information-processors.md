@@ -19,7 +19,7 @@ Agents arrive at their respective levels of complexity via distinct evolutionary
 
 The following subsections will explore specific categories of agents—humans, other biological entities, and AI—considering their unique characteristics and placement within this broader perspective of scaled complexity. A comparative overview is presented in the table below, followed by more detailed discussions.
 
-**Comparative Agent Complexity Overview**
+## Comparative Agent Complexity Overview
 
 | Agent Type | Depth, Nature, & Efficiency of Semantic Processing | Sophistication of "Inside-Out Lens," Self-Awareness, & Goal Complexity | Autonomy, Adaptability, & Mode of Evolution/Learning | Capacity to Organize Matter, Energy, & Extent of Influence | Capacity for Novelty, Creativity, & Interaction with Higher-Order Info Systems |
 | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,7 @@ Applying the refined complexity criteria outlined in the introduction to this Se
 In summary, the confluence of these advanced characteristics places humans at a high-echelon on the agent complexity scale. This position is defined by deep semantic processing, a reflective ["inside-out lens,"](../glossary/I.md#inside-out-lens) multifaceted adaptability, extensive environmental influence, and a unique co-[evolution](../glossary/E.md#evolution) with complex [information systems](../glossary/I.md#information-system). This intricate complexity, while a source of our species' capabilities, also presents unique challenges and responsibilities.
 
 See also:
+
 - [3.a. The "Inside-Out Lens" and Self-Preservation](3a-inside-out-lens-self-preservation.md)
 - [3.b. Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md)
 - [3.c. AI as an Emergent Agent](3c-ai-emergent-agent.md)

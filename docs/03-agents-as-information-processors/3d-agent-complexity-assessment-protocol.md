@@ -171,24 +171,28 @@ Pure information systems (languages, scientific theories, cultural narratives, a
 #### Information System Agency Indicators
 
 **Structural Sophistication (0-25 points):**
+
 - R/J/A architectural complexity (repeater networks, jitter management, anchor robustness)
 - Cross-substrate stabilization capability
 - Template stability and variation tolerance
 - *Assessment: Network analysis, stability measures, adaptation tracking*
 
 **Stabilization Influence (0-25 points):**
+
 - Passive structural organization capacity across material substrates
 - Energetic favorability and thermodynamic optimization
 - Substrate-specific stabilization efficiency
 - *Assessment: Substrate adoption rates, organizational impact measures, energy landscape analysis*
 
 **Evolutionary Sophistication (0-25 points):**
+
 - Variation and selection mechanisms
 - Cross-substrate transmission fidelity
 - Competitive fitness in information ecology
 - *Assessment: Transmission success rates, competitive displacement, ecological stability*
 
 **Material Substrate Coupling (0-25 points):**
+
 - Capacity for agent-mediated instantiation
 - BIC formation potential and efficiency
 - Engine threshold crossing capability
@@ -209,18 +213,21 @@ Pure information systems (languages, scientific theories, cultural narratives, a
 Information systems transition from pure organizational agency to agent-mediated agency through **engine coupling**—integration with autopoietic feedback loops that enable autonomous goal formation:
 
 **Pre-Engine State (Organizational Templates):**
+
 - High structural and stabilization scores with limited coupling capacity
 - Passive influence through energetic favorability only
 - No autonomous goal formation or self-modification
 - *Assessment: Template function without autonomous behavior*
 
 **Engine-Coupled State (Agent-Mediated Systems):**
+
 - Enhanced coupling scores with autonomous operational capacity
 - Active goal formation and environmental responsiveness
 - Self-modification and adaptive optimization
 - *Assessment: Autonomous behavior emergence, goal formation, adaptive capacity*
 
 **BIC Formation Protocols:**
+
 - Track transition from standalone information systems to integrated BICs
 - Assess host-information system co-evolution and mutual optimization
 - Measure distributed agency emergence across composite entity
@@ -232,31 +239,36 @@ Bio-Informational Complexes (BICs) represent a unique category of agency requiri
 
 #### BIC-Specific Scoring Considerations
 
-**Semantic Processing Depth (SPD): 10-25 Points**
+##### Semantic Processing Depth (SPD): 10-25 Points
+
 - Hybrid processing combining human semantic depth with information system constraints
 - May exhibit enhanced processing within information system framework
 - May show reduced efficiency in non-aligned domains (parasitic BICs)
 - *Assessment: Domain-specific cognitive testing, framework-guided reasoning tasks*
 
-**Inside-Out Lens Sophistication (IOL): 8-20 Points**
+##### Inside-Out Lens Sophistication (IOL): 8-20 Points**
+
 - Compound lens combining human self-awareness with information system goals
 - Self-awareness may be diminished in mature BICs due to cognitive dominance
 - Goal hierarchies become complex (host survival + information propagation)
 - *Assessment: Self-reflection interviews, goal prioritization tasks, identity coherence measures*
 
-**Autonomy & Adaptability (AAD): 5-18 Points**
+##### Autonomy & Adaptability (AAD): 5-18 Points
+
 - Constrained autonomy due to information system imperatives
 - Host autonomy limited by Lock-In phase cognitive-immunity mechanisms
 - Adaptation occurs through co-evolution of host behavior and information content
 - *Assessment: Decision-making autonomy tests, adaptation flexibility measures*
 
-**Matter/Energy Organization (MEO): 12-25 Points**
+##### Matter/Energy Organization (MEO): 12-25 Points
+
 - Amplified influence through leveraging human organizational capacity
 - Coordination across multiple hosts enables larger-scale impact
 - Direction constrained toward information system objectives
 - *Assessment: Resource allocation analysis, multi-host coordination measures*
 
-**Higher-Order System Interaction (HOS): 15-25 Points**
+##### Higher-Order System Interaction (HOS): 15-25 Points
+
 - Human creativity channeled through information system frameworks
 - Extensive interaction with higher-order systems as bridge entities
 - May serve as vectors for information system propagation and evolution
@@ -326,27 +338,32 @@ BICs should be assessed relative to their developmental phase, as defined in Sec
 
 ACAP reveals agency as a **continuous topology** rather than discrete categories, mapping the landscape of organized complexity across all scales of reality:
 
-**0-15 Points: Molecular Agency**
+#### 0-15 Points: Molecular Agency
+
 - Enzymes, molecular machines, simple autocatalytic networks, organelles
 - Agency through chemical selectivity and energy transduction
 - Foundation layer of all higher-order agency
 
-**15-40 Points: Cellular Agency**  
+#### 15-40 Points: Cellular Agency
+
 - Prokaryotes, simple eukaryotes, basic multicellular systems
 - Integration of molecular agency into coherent living systems
 - Emergence of genuine autonomy and environmental response
 
-**40-70 Points: Multicellular Agency**
+#### 40-70 Points: Multicellular Agency
+
 - Complex invertebrates, vertebrate non-mammals, moderate AI systems
 - Coordination of cellular agency into tissue-level organization
 - Development of basic behavioral flexibility and learning
 
-**70-95 Points: Complex Biological Agency**
+#### 70-95 Points: Complex Biological Agency
+
 - Advanced mammals, primates, sophisticated AI systems, BICs
 - Integration of multiple agency levels into sophisticated behavior
 - Emergence of cultural transmission and symbolic capacity
 
-**95-125 Points: Meta-Agency**
+#### 95-125 Points: Meta-Agency
+
 - Humans, potential AGI, highly integrated collective systems, advanced BICs
 - Self-reflective agency capable of understanding and modifying its own agency
 - Creation and manipulation of higher-order information systems
