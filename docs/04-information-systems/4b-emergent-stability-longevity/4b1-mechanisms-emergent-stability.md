@@ -6,15 +6,13 @@
 
 <!--
 
-- What are coherence and resonance?
-- cognitive entrenchment vs maladaptive rigidity. What's the interplay?
 - flesh out the bullet points
 
 -->
 
 Information systems achieve and maintain stability not as a static state, but through dynamic, ongoing processes. This is a specific manifestation of a broader principle observed across various scales, where [self-stabilizing patterns (a concept from Pattern Realism)](../../01-pattern-realism/1-pattern-realism.md#pattern-stability-and-outward-stabilization) tend to preserve and propagate themselves. Central to this in the context of information systems is the concept of **value** and **utility** they provide to their hosts.
 
-* **Value:** In the context of an information system (IS), **value** refers to the overall perceived or actualized benefit that the IS provides to its host (typically an [agent](../../glossary.md#agent) or a collective of agents). This benefit is assessed through the host's "inside-out lens" ([Section 3a](../../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) and can encompass a wide range of contributions, such as enhancing the host's understanding, facilitating goal achievement, improving persistence, increasing coherence, or fulfilling social or psychological needs. Value is often multifaceted and can be subjective.
+* **Value:** In the context of an information system (IS), **value** refers to the overall perceived or actualized benefit that the IS provides to its host (typically an [agent](../../glossary.md#agent) or a collective of agents). This benefit is assessed through the host's "inside-out lens" ([Section 3a](../../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) and can encompass a wide range of contributions, such as enhancing the host's understanding, facilitating goal achievement, improving persistence, increasing its perceived **coherence** (internal consistency and logical integrity of the IS itself), or fulfilling social or psychological needs. Value is often multifaceted and can be subjective.
 * **Utility:** **Utility** is a more specific dimension of value, representing the practical effectiveness and efficiency with which an IS enables a host to perform a particular task, solve a specific problem, or achieve a defined objective. It measures the functional "usefulness" of the IS in a given context. An IS with high utility directly contributes to the host's operational capabilities.
 
 These factors are critical in driving the feedback loops that reinforce an IS's presence and influence.
@@ -60,11 +58,11 @@ graph TD
 
 **Utility Reinforcement:**
 
-The perceived or actualized utility of an information system is a primary driver of its stability. When systems provide tangible value to their hosts—such as solving problems, achieving goals, or enhancing understanding—they create powerful incentives for their continued preservation and transmission. These practical benefits often translate into host loyalty and a willingness to invest resources in the system's maintenance and propagation. Furthermore, the sharing of success stories and testimonials can act as a potent force, attracting new adopters and strengthening the conviction of existing participants. This process is often amplified by network effects: as more individuals or agents join and utilize the system, its overall value can increase, creating a virtuous cycle of growth and reinforcement. For example, a widely adopted communication protocol becomes more valuable to each user as the number of other users increases, making it more likely to be maintained and taught to newcomers.
+The perceived or actualized utility of an information system is a primary driver of its stability. When systems provide tangible value to their hosts—such as solving problems, achieving goals, or enhancing understanding—they create powerful incentives for their continued preservation and transmission. These practical benefits often translate into host loyalty and a willingness to invest resources in the system's maintenance and propagation. Furthermore, the sharing of success stories and testimonials can act as a potent force, attracting new adopters and strengthening the conviction of existing participants. This process is often amplified by network effects: as more individuals or agents join and utilize the system, its overall value can increase, creating a virtuous cycle of growth and reinforcement. This utility is often amplified when the information system **resonates** with the host's pre-existing cognitive frameworks, values, or needs, making its adoption and integration feel more natural and compelling. For example, a widely adopted communication protocol becomes more valuable to each user as the number of other users increases, making it more likely to be maintained and taught to newcomers.
 
 **Identity Integration:**
 
-Information systems can become deeply interwoven with the personal or group identity of their hosts, creating a strong resistance to change. When an IS is internalized as a core component of self-concept or collective identity, any challenge to the system can be perceived as a threat to the identity itself. This motivates hosts to actively defend the system and preserve its integrity. Social identity functions further solidify this bond, as shared adherence to an IS can foster a sense of belonging, status, and community, creating strong emotional investments in its perpetuation. For instance, adherence to a particular scientific paradigm or a cultural tradition can become central to a group's identity, leading members to actively uphold its tenets and transmit them to future generations, even in the face of competing ideas. The status and sense of belonging derived from participation encourage continued engagement and advocacy for the system.
+Information systems can become deeply interwoven with the personal or group identity of their hosts, creating a strong resistance to change. When an IS is internalized as a core component of self-concept or collective identity, any challenge to the system can be perceived as a threat to the identity itself. This motivates hosts to actively defend the system and preserve its integrity. Social identity functions further solidify this bond, as shared adherence to an IS can foster a sense of belonging, status, and community, creating strong emotional investments in its perpetuation. This integration is particularly strong when the information system **resonates** deeply with the core values and beliefs that constitute the host's identity. For instance, adherence to a particular scientific paradigm or a cultural tradition can become central to a group's identity, leading members to actively uphold its tenets and transmit them to future generations, even in the face of competing ideas. The status and sense of belonging derived from participation encourage continued engagement and advocacy for the system.
 
 **Cognitive Entrenchment:**
 
@@ -103,7 +101,7 @@ Stable information systems develop mechanisms to detect and correct degradation:
 
 **Consistency Monitoring:**
 
-* Internal logic checking identifies contradictions and inconsistencies
+* Internal logic checking identifies contradictions and inconsistencies, ensuring the system's **coherence** (i.e., its internal consistency and logical integrity).
 * Cross-referencing against authoritative sources detects drift from core principles
 * Community oversight catches errors and maintains standards
 * Automated verification systems flag potential problems
