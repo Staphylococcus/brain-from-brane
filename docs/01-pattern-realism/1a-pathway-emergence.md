@@ -3,14 +3,25 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+<!--
+
+- Need to break this up into one overview and several deep dives
+
+-->
+
 ## Contents
 - [I. Foundation: Stable Structures and Inherent Patterns](#i-foundation-stable-structures-and-inherent-patterns)
 - [II. Environmental Information: Patterns as Potential Cues](#ii-environmental-information-patterns-as-potential-cues)
+  - [Divergent Interpretations: Color Patch on Leaf](#divergent-interpretations-color-patch-on-leaf)
+  - [Divergent Interpretations: Scent Plume](#divergent-interpretations-scent-plume)
 - [II.5. The Bridge: From Environmental Patterns to True Agency](#ii5-the-bridge-from-environmental-patterns-to-true-agency)
 - [III. Proto-Semantics: Simple Agents, Detection, and Functional Significance](#iii-proto-semantics-simple-agents-detection-and-functional-significance)
 - [IV. Developing Semantics: Complex Agents, Internal Representation, and Prediction](#iv-developing-semantics-complex-agents-internal-representation-and-prediction)
 - [V. Full-Blown Semantics: Symbolic Systems, Language, and Shared Meaning](#v-full-blown-semantics-symbolic-systems-language-and-shared-meaning)
 - [VI. Core Principles in the Emergence of Semantic Information](#vi-core-principles-in-the-emergence-of-semantic-information)
+- [Falsification Criteria for Pathway Emergence](#falsification-criteria-for-pathway-emergence)
+- [Comparative Framework Analysis](#comparative-framework-analysis)
+  - [Unique Contributions of the Framework](#unique-contributions-of-the-framework)
 
 
 The transition from the fundamental, [organizational information](../glossary.md#organizational-information) embodied in **patterns of [worldsheets](../glossary.md#worldsheet)** to [semantic information](../glossary.md#semantic-information)—information that holds meaning and reference for an [agent](../glossary.md#agent)—is a complex multi-stage process of [emergence](../glossary.md#emergence). This section outlines a plausible pathway for this development, consistent with the principles of this ontology. It emphasizes that meaning is not an intrinsic property of [fundamental information](../glossary.md#fundamental-information) (i.e., the [worldsheets](../glossary.md#worldsheet) themselves) but arises from the functional role and interpretation of **patterns within these [worldsheets](../glossary.md#worldsheet)** by increasingly complex systems, particularly through the [agent\'s](../glossary.md#agent) "inside-out lens".
