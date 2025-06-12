@@ -14,9 +14,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 
 - **04-information-systems/**
     - **4b-emergent-stability-longevity/**
-        - [`4b1-mechanisms-emergent-stability.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md)
-            - > - flesh out the bullet points
-
         - [`4b2-factors-contributing-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md)
             - > - Flesh out the bullet points
 
