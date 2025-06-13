@@ -6,72 +6,72 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 79
-- **Total characters in all documents**: 672657
+- **Total characters in all documents**: 675829
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
 
 | File Path | Character Count | Warning |
 |---|---|---|
-| `docs\01-pattern-realism\1a-pathway-emergence.md` | 49480 | ⚠️ YES |
-| `docs\04-information-systems\4a-material-organization-dynamics.md` | 37928 | ⚠️ YES |
+| `docs\01-pattern-realism\1a-pathway-emergence.md` | 49479 | ⚠️ YES |
+| `docs\04-information-systems\4a-material-organization-dynamics.md` | 37934 | ⚠️ YES |
+| `docs\04-information-systems\4-information-systems.md` | 35152 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 33076 | ⚠️ YES |
-| `docs\04-information-systems\4-information-systems.md` | 32679 | ⚠️ YES |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 25681 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24162 | ⚠️ YES |
 | `docs\04-information-systems\4d-host-information-interactions.md` | 22045 | ⚠️ YES |
-| `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21251 | ⚠️ YES |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d8-practical-applications.md` | 21152 | ⚠️ YES |
-| `docs\04-information-systems\4c-evolutionary-dynamics.md` | 21122 | ⚠️ YES |
+| `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21297 | ⚠️ YES |
+| `docs\04-information-systems\4c-evolutionary-dynamics.md` | 21168 | ⚠️ YES |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d8-practical-applications.md` | 21157 | ⚠️ YES |
 | `docs\02-oneness-interconnectedness\2-oneness-interconnectedness.md` | 19130 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d2-self-stabilizing-patterns.md` | 18212 | ⚠️ YES |
-| `docs\05-competitive-dynamics\5e-bio-informational-complex.md` | 18151 | ⚠️ YES |
+| `docs\05-competitive-dynamics\5e-bio-informational-complex.md` | 18203 | ⚠️ YES |
 | `docs\operationalization-template.md` | 17933 | ⚠️ YES |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17840 | ⚠️ YES |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17858 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17484 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16405 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15684 | ⚠️ YES |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d5-meta-ethical-competition.md` | 15394 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15366 | ⚠️ YES |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d5-meta-ethical-competition.md` | 15358 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3-agents-as-information-processors.md` | 13552 | ✅ No |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12817 | ✅ No |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12728 | ✅ No |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12819 | ✅ No |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12753 | ✅ No |
 | `docs\01-pattern-realism\1-pattern-realism.md` | 12238 | ✅ No |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11313 | ✅ No |
-| `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8759 | ✅ No |
-| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8462 | ✅ No |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11337 | ✅ No |
+| `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 8777 | ✅ No |
+| `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8477 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8106 | ✅ No |
+| `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 8080 | ✅ No |
 | `docs\abstraction-altitudes.md` | 7857 | ✅ No |
-| `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 7614 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b-emergent-stability-longevity.md` | 7156 | ✅ No |
-| `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 7016 | ✅ No |
-| `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6831 | ✅ No |
+| `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 7017 | ✅ No |
+| `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6807 | ✅ No |
 | `docs\glossary.md` | 6435 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6129 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 4270 | ✅ No |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 4271 | ✅ No |
 | `docs\glossary\A.md` | 4111 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
-| `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3832 | ✅ No |
+| `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3824 | ✅ No |
 | `docs\glossary\S.md` | 3738 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b4-threats-stability-defensive-responses.md` | 3669 | ✅ No |
 | `docs\glossary\C.md` | 3627 | ✅ No |
-| `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3516 | ✅ No |
-| `docs\06-influence-collective-consciousness\6c-fluid-dynamics-metaphor.md` | 3411 | ✅ No |
+| `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3506 | ✅ No |
+| `docs\06-influence-collective-consciousness\6c-fluid-dynamics-metaphor.md` | 3414 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 3361 | ✅ No |
 | `docs\02-oneness-interconnectedness\2a-emergent-subjective-distinctions.md` | 3126 | ✅ No |
 | `docs\05-competitive-dynamics\5-competitive-dynamics.md` | 3057 | ✅ No |
-| `docs\05-competitive-dynamics\5c-evolutionary-outcomes-competition.md` | 2894 | ✅ No |
+| `docs\05-competitive-dynamics\5c-evolutionary-outcomes-competition.md` | 2888 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b5-implications-system-design.md` | 2522 | ✅ No |
 | `docs\glossary\P.md` | 2371 | ✅ No |
 | `docs\02-oneness-interconnectedness\2b-reconciling-oneness-and-competition.md` | 2183 | ✅ No |
-| `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 2180 | ✅ No |
+| `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 2174 | ✅ No |
 | `docs\glossary\E.md` | 2086 | ✅ No |
-| `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1616 | ✅ No |
 | `docs\glossary\I.md` | 1611 | ✅ No |
+| `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1608 | ✅ No |
 | `docs\glossary\O.md` | 1524 | ✅ No |
-| `docs\08-fluid-reality\8-fluid-reality.md` | 1470 | ✅ No |
+| `docs\08-fluid-reality\8-fluid-reality.md` | 1469 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7a-mechanism-persistence.md` | 1159 | ✅ No |
-| `docs\07-agentive-dissolution-legacy\7b-dynamic-conditional-persistence.md` | 1156 | ✅ No |
+| `docs\07-agentive-dissolution-legacy\7b-dynamic-conditional-persistence.md` | 1155 | ✅ No |
 | `docs\glossary\M.md` | 1076 | ✅ No |
 | `docs\glossary\B.md` | 1074 | ✅ No |
 | `docs\glossary\F.md` | 929 | ✅ No |
@@ -95,4 +95,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-13 09:51:11*
+*Report generated on: 2025-06-13 11:30:58*
