@@ -11,3 +11,7 @@ A framework for analyzing information system material organization through three
 ## Resource Scarcity
 
 Conditions where essential resources (energy, materials, information, or substrate access) are limited relative to competitive demand, driving competitive dynamics and selective pressures.
+
+## Resonance Index (RI)
+
+An aggregate metric quantifying the degree to which a self-stabilizing information pattern is coherently instantiated across multiple distinct substrate classes (e.g., neural, social, technological). Higher RI values signal greater resilience and evolutionary fitness via cross-substrate reinforcement.

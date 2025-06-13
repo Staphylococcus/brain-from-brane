@@ -6,8 +6,8 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 92
-- **Total characters in all documents**: 676065
-- **Files exceeding warning threshold (15000 chars)**: 17
+- **Total characters in all documents**: 684689
+- **Files exceeding warning threshold (15000 chars)**: 19
 
 ## Document Details
 
@@ -28,10 +28,11 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17484 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16405 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15824 | ⚠️ YES |
+| `docs\04-information-systems\4a-material-organization-dynamics\4a5-empirical-predictions.md` | 15557 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d5-meta-ethical-competition.md` | 15394 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15366 | ⚠️ YES |
-| `docs\04-information-systems\4-information-systems.md` | 14594 | ✅ No |
-| `docs\04-information-systems\4a-material-organization-dynamics\4a5-empirical-predictions.md` | 14447 | ✅ No |
+| `docs\04-information-systems\4-information-systems.md` | 15328 | ⚠️ YES |
+| `docs\04-information-systems\4a-material-organization-dynamics\4a2-passive-structural-influence.md` | 13906 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a25-thermodynamic-bridge.md` | 13616 | ✅ No |
 | `docs\03-agents-as-information-processors\3-agents-as-information-processors.md` | 13588 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12819 | ✅ No |
@@ -41,7 +42,6 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11337 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8477 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8106 | ✅ No |
-| `docs\04-information-systems\4a-material-organization-dynamics\4a2-passive-structural-influence.md` | 7927 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 7912 | ✅ No |
 | `docs\abstraction-altitudes.md` | 7899 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a3-material-organization-in-practice.md` | 7614 | ✅ No |
@@ -49,7 +49,7 @@ Character length warning threshold: `15000` characters.
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 7015 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a5-full-semantics.md` | 6937 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6807 | ✅ No |
-| `docs\glossary.md` | 6588 | ✅ No |
+| `docs\glossary.md` | 6738 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a4-developing-semantics.md` | 6409 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6129 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a1-foundation.md` | 5865 | ✅ No |
@@ -57,13 +57,13 @@ Character length warning threshold: `15000` characters.
 | `docs\01-pattern-realism\1a-pathway-emergence\1a-pathway-emergence.md` | 4441 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b3-stability-patterns-across-types.md` | 4271 | ✅ No |
 | `docs\glossary\A.md` | 4111 | ✅ No |
+| `docs\glossary\S.md` | 4060 | ✅ No |
 | `docs\altitude-indicators.md` | 4057 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a3-proto-semantics.md` | 4035 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a-material-organization-dynamics.md` | 3955 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a4-evolutionary-implications.md` | 3846 | ✅ No |
 | `docs\05-competitive-dynamics\5b-arenas-levels-competition.md` | 3824 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a7-tests-comparisons.md` | 3775 | ✅ No |
-| `docs\glossary\S.md` | 3738 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b4-threats-stability-defensive-responses.md` | 3669 | ✅ No |
 | `docs\glossary\C.md` | 3627 | ✅ No |
 | `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3506 | ✅ No |
@@ -87,9 +87,9 @@ Character length warning threshold: `15000` characters.
 | `docs\07-agentive-dissolution-legacy\7b-dynamic-conditional-persistence.md` | 1155 | ✅ No |
 | `docs\glossary\M.md` | 1076 | ✅ No |
 | `docs\glossary\B.md` | 1074 | ✅ No |
+| `docs\glossary\R.md` | 1015 | ✅ No |
 | `docs\glossary\F.md` | 929 | ✅ No |
 | `docs\glossary\V.md` | 732 | ✅ No |
-| `docs\glossary\R.md` | 686 | ✅ No |
 | `docs\glossary\T.md` | 588 | ✅ No |
 | `docs\glossary\G.md` | 578 | ✅ No |
 | `docs\glossary\W.md` | 577 | ✅ No |
@@ -108,4 +108,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-13 19:15:26*
+*Report generated on: 2025-06-13 21:07:11*

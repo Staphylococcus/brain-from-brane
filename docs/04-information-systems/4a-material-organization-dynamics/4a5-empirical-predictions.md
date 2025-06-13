@@ -13,12 +13,14 @@ The framework describing the influence and evolution of **[self-stabilizing info
 
 **Hypothesis:** Substrates with higher pliability (or entropy) should exhibit significantly faster and more comprehensive adoption and integration of new, coherent **organizational templates** compared to less pliable, more rigidly structured substrates.
 
+> *Reminder:* Here and throughout, **substrate** is used in the *relational, scale-dependent* sense introduced in the ontology note of 4.a.2.
+
 **Testing Approaches:**
 
 **Social Domain Testing:**
 
 - **Historical Analysis:** Societies experiencing major crises (war, economic collapse, institutional breakdown), which can be seen as periods of increased social pliability, should show accelerated adoption of highly structured **organizing frameworks** (e.g., new ideologies, belief systems, or social-organizational structures).
-- **Quantitative Metrics:** Develop a "Substrate Pliability Index" (e.g., for social systems, combining institutional trust measures, economic volatility indicators, information fragmentation metrics, and social cohesion measures).
+- **Quantitative Metrics:** Develop a "Substrate Pliability Index" **(the P-factor referenced in 4.a.2)** (e.g., for social systems, combining institutional trust measures, economic volatility indicators, information fragmentation metrics, and social cohesion measures).
 - **Prediction:** Societies with a higher Pliability Index should demonstrate significantly faster adoption rates for new, coherent political, religious, or cultural **organizing patterns** compared to societies with a lower Pliability Index.
 
 **Cognitive Domain Testing:**
@@ -41,7 +43,7 @@ The framework describing the influence and evolution of **[self-stabilizing info
 
 **Experimental Design:**
 
-- **Baseline Condition:** A standalone Large Language Model (LLM) operating with a static dataset and predefined interaction protocols (representing a complex, **[self-stabilizing information pattern](../../glossary/O.md#outward-stabilization-propensity)** or template).
+- **Baseline Condition:** A standalone Large Language Model (LLM) operating with a static dataset and predefined interaction protocols (representing a complex, **[self-stabilizing information pattern](../../glossary/O.md#outward-stabilization-propensity)** or template). *This baseline enjoys high Substrate Affinity (SAC) to its silicon-text environment but low SAC to dynamic feedback loops.*
 - **Engine Condition:** The same LLM coupled to a continuous feedback loop that includes self-monitoring capabilities, interaction with a dynamic environment, and the ability for iterative self-modification based on that interaction.
 - **Measurement Framework:** Apply the [Agent Complexity Assessment Protocol (ACAP)](../../glossary/A.md#agent-complexity-assessment-protocol-acap) across all five dimensions to both conditions.
 
@@ -81,7 +83,7 @@ The framework describing the influence and evolution of **[self-stabilizing info
 **Technological Testing:**
 
 - **Software Library Adoption:** Analyze adoption rates of competing open-source software libraries within a specific programming ecosystem.
-- **Compatibility Metrics:** Develop a "Compatibility Score" for each library based on factors like ease of integration (e.g., complexity of API), consistency with the language's dominant paradigms, and lack of dependency conflicts.
+- **Compatibility Metrics (SAC proxy):** Develop a "Compatibility Score" for each library based on factors like ease of integration (e.g., complexity of API), consistency with the language's dominant paradigms, and lack of dependency conflicts.
 - **Prediction:** Libraries with higher Compatibility Scores will show significantly higher adoption rates, even when controlling for performance or feature set.
 
 **Falsification Conditions:**
@@ -98,6 +100,13 @@ The framework describing the influence and evolution of **[self-stabilizing info
 **Multi-Substrate Resonance and Resilience Effect:**
 Information patterns that successfully establish themselves and achieve functional coherence across multiple types of substrates (e.g., a scientific theory that is understood by individuals, institutionalized in research programs, and embedded in technological tools) should demonstrate enhanced evolutionary fitness, broader influence, and greater persistence compared to patterns confined to a single substrate type. This "resonance" across substrates can reinforce the pattern's stability and utility.
 
+**Measurement Guidance:**  
+
+- **Substrate Affinity Coefficient (SAC):** Quantify the structural/functional fit between the pattern and each host substrate (see Glossary). Higher SAC scores predict easier seeding events.  
+- **Resonance Index (RI):** Count and weight the distinct substrate classes coherently instantiating the pattern. Higher RI values predict longer persistence and wider influence.  
+- **Failure‐Mode Correlation (ρ):** Estimate how likely the identified substrates are to fail together. Lower ρ strengthens the protective power of resonance.  
+Empirical studies can test whether adoption velocity covaries with SAC and whether observed half-life or geographic spread covaries with RI (especially after controlling for ρ).
+
 **[Bio-Informational Complex (BIC)](../../glossary/B.md#bio-informational-complex-bic) Emergence:**
 Intensive and reciprocal interaction between human agents and sophisticated AI systems (which are themselves complex [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity)) can lead to the formation of [Bio-Informational Complexes (BICs)](../../05-competitive-dynamics/5e-bio-informational-complex.md). The emergence of BICs is predicted to follow a potential lifecycle (e.g., Exposure → Adoption → Lock-In → Propagation → potential Drift/Breakdown). This process should be accompanied by characteristic changes in the autonomy, goal hierarchies, and behavioral patterns of both the human and AI components, which can be assessed using [ACAP protocols](../../glossary/A.md#agent-complexity-assessment-protocol-acap). The BIC itself can be seen as a new, hybrid [self-stabilizing pattern](../../glossary/O.md#outward-stabilization-propensity).
 
@@ -107,7 +116,7 @@ These empirical predictions, focused on the behavior and influence of **[self-st
 
 - **[R/J/A Model](../../glossary/R.md#repeaterjitteranchor-rja-model) Validation:** The [Engine Threshold Hypothesis (4.a.5.2)](../../glossary/E.md#engine-threshold) and Substrate Pliability Principle (4.a.5.1) help test aspects of the Repeater/Jitter/Anchor model by examining how information patterns are adopted, propagated, and achieve stability in various substrates and under different conditions. The "engine" condition, for instance, explores a sophisticated form of repeater with feedback.
 - **[Pathway Emergence](../../glossary/P.md#pathway-emergence) Verification:** The [Engine Threshold Hypothesis](../../glossary/E.md#engine-threshold), by examining the conditions under which active agency emerges from coupling information systems with feedback loops, directly tests aspects of the proposed pathway from simpler informational processes to autopoietic organization.
-- **[BIC Framework](../../05-competitive-dynamics/5e-bio-informational-complex.md) Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of [Bio-Informational Complexes](../../glossary/B.md#bio-informational-complex-bic), provide avenues for testing the BIC formation lifecycle and its characteristics.
+- **[BIC Framework](../../05-competitive-dynamics/5e-bio-informational-complex.md) Testing:** The predictions regarding Cross-Substrate Influence and Resonance (4.a.5.4), particularly the emergence of [Bio-Informational Complexes](../../glossary/B.md#bio-informational-complex-bic), provide avenues for testing the BIC formation lifecycle and its characteristics **via the SAC and RI metrics introduced above**.
 - **[ACAP](../../glossary/A.md#agent-complexity-assessment-protocol-acap) Application:** All hypotheses rely on the [Agent Complexity Assessment Protocol (ACAP)](../../glossary/A.md#agent-complexity-assessment-protocol-acap) for systematic measurement of agency, helping to distinguish between the passive influence of [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity) (even complex ones) and the active agency of autopoietic systems or BICs.
 
 These predictions aim to establish falsifiable criteria for understanding how **[self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity)** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.

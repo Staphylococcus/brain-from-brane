@@ -41,3 +41,7 @@ Organized patterns of relationships, roles, and institutions that coordinate col
 ## Structural Resonance
 
 The alignment and compatibility between an information system's organizational patterns and existing environmental structures, cultural frameworks, or host capabilities. Structural resonance determines whether information systems can gain widespread adoption within specific contexts. Scientific methodologies achieved structural resonance in Western cultural contexts through compatibility with existing emphases on systematic observation and logical reasoning, while facing adoption barriers in contexts with incompatible epistemological frameworks.
+
+## Substrate Affinity Coefficient (SAC)
+
+A heuristic scalar (0–1) estimating how closely an informational template's internal structure and operational logic fit a particular substrate's constraints. High SAC values predict faster adoption rates and higher-fidelity integration for self-stabilizing information patterns.
