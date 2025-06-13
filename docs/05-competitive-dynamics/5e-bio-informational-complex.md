@@ -38,7 +38,7 @@ The typical life-cycle unfolds in five recognizable phases:
 | **(IV) Propagation**| Host actively recruits or transmits the pattern to new hosts / substrates. | Evangelism, replication, scaling.                         |
 | **(V) Drift or Breakdown** | Pattern mutates, fragments, or loses support.                         | Reform, schism, extinction.                               |
 
-The “repeater / jitter / anchor” forces introduced earlier ([Section 4.a](../04-information-systems/4a-material-organization-dynamics.md)) operate throughout this cycle, modulating fidelity and variation.
+The "repeater / jitter / anchor" forces introduced earlier ([Section 4.a](../04-information-systems/4a-material-organization-dynamics/4a-material-organization-dynamics.md)) operate throughout this cycle, modulating fidelity and variation.
 
 ## **5.e.4. Functional Spectrum**
 

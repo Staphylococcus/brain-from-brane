@@ -23,3 +23,14 @@ Early-stage meaning-making capabilities characterized by functional significance
 ## Template Effects
 
 The mechanism by which self-stabilizing patterns serve as organizational templates that guide the formation of similar or complementary patterns in their surrounding environment. Template effects represent one of the primary ways that stable information patterns extend their influence through the [outward stabilization propensity](O.md#outward-stabilization-propensity). Examples include language grammars structuring communication patterns, software interfaces guiding user behavior, and cultural practices shaping social organization. Template effects operate through **structural influence** rather than semantic persuasion, making them a key component of [organizational agency](O.md#organizational-agency).
+
+## Pliability Principle *(Substrate Pliability Principle)*
+
+A framework-level hypothesis stating that the **rate and fidelity** with which a new **self-stabilizing information pattern (organizational template)** is adopted depends on the *pliability* of the host substrate.  
+
+• **Pliability = structural looseness / high informational entropy / openness to re-organization.**  
+• **Prediction:** More pliable substrates—whether individual cognitive states, social environments, or technological stacks—will integrate coherent templates **faster and more completely** than rigid, highly structured substrates.
+
+The principle generates measurable indicators such as a *Substrate Pliability Index* (social trust volatility, resource slack, cognitive uncertainty, etc.) and is operationalized in empirical work via [§4.a.5.1](../04-information-systems/4a-material-organization-dynamics/4a5-empirical-predictions.md#4a51-the-pliability-principle).
+
+*See also:* [Engine Threshold Hypothesis](E.md#engine-threshold), [Self-Stabilizing Patterns](S.md#self-stabilizing-patterns), [Template Effects](#template-effects).

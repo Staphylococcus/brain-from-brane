@@ -98,7 +98,7 @@ This glossary provides precise definitions of technical terms used throughout th
 
 ## [P](glossary/P.md)
 
-[Parasitic Frameworks](glossary/P.md#parasitic-frameworks) | [Pattern Realism](glossary/P.md#pattern-realism) | [Pathway Emergence](glossary/P.md#pathway-emergence) | [Positive Feedback](glossary/P.md#positive-feedback) | [Proto-Semantics](glossary/P.md#proto-semantics) | [Template Effects](glossary/P.md#template-effects)
+[Parasitic Frameworks](glossary/P.md#parasitic-frameworks) | [Pattern Realism](glossary/P.md#pattern-realism) | [Pathway Emergence](glossary/P.md#pathway-emergence) | [Positive Feedback](glossary/P.md#positive-feedback) | [Proto-Semantics](glossary/P.md#proto-semantics) | [Template Effects](glossary/P.md#template-effects) | [Pliability Principle *(Substrate Pliability Principle)*](glossary/P.md#pliability-principle-substrate-pliability-principle)
 
 ---
 

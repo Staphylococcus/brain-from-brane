@@ -34,7 +34,7 @@ The R/J/A model captures three complementary material roles that make any inform
 
 ### **Information Stabilization: Achieving Self-Stabilizing Integrity and Influence**
 
-Once R/J/A dynamics reach a tipping point, a nascent pattern undergoes **stabilization**: it locks into a coherent attractor that maintains identity even as its physical constituents swap out. The stabilized template then propagates outward, biasing receptive substrates toward compatible configurations. Hallmark traits—emergent order, informational density, propagative growth, structural influence—are catalogued in detail at [4.a.2](4a-material-organization-dynamics.md#4a2-passive-structural-influence-self-stabilizing-patterns).
+Once R/J/A dynamics reach a tipping point, a nascent pattern undergoes **stabilization**: it locks into a coherent attractor that maintains identity even as its physical constituents swap out. The stabilized template then propagates outward, biasing receptive substrates toward compatible configurations. Hallmark traits—emergent order, informational density, propagative growth, structural influence—are catalogued in detail at [4.a.2](4a-material-organization-dynamics/4a2-passive-structural-influence.md).
 
 ## **II. Evolutionary Development: From Environmental Patterns to Semantic Complexity**
 
@@ -75,7 +75,7 @@ For detailed exploration of the material mechanisms, template formation dynamics
 
 See also:
 
-- [4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md) - *Detailed analysis of R/J/A Model, stabilization mechanisms, and empirical predictions*
+- [4.a. Material Organization and Dynamics](4a-material-organization-dynamics/4a-material-organization-dynamics.md) - *Detailed analysis of R/J/A Model, stabilization mechanisms, and empirical predictions*
 - [4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)
 - [4.c. Evolutionary Dynamics](4c-evolutionary-dynamics.md)
 - [4.d. Host-Information System Interactions](4d-host-information-interactions.md)
