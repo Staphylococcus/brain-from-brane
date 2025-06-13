@@ -24,11 +24,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - [`4b5-implications-system-design.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b5-implications-system-design.md)
             - > - Flesh out the bullet points
 
-    - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
-        - > - Need to flesh out passive influence and self-stabilization
-          > - Substrate pliability needs more definition
-          > - This file is almost triple the character limit. Needs to be broken down
-
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design
           > - are the biological analogies pushed too far?

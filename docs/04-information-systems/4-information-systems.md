@@ -82,4 +82,4 @@ See also:
 - [4.e. Empirical Predictions and Falsification](4e-empirical-predictions-falsification.md)
 
 ---
-[<< Previous: ⚙️ 3.d. Agent Complexity Assessment Protocol](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 4.a. Material Organization and Dynamics >>](4a-material-organization-dynamics.md)
+[<< Previous: ⚙️ 3.d. Agent Complexity Assessment Protocol](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 4.a. Material Organization and Dynamics >>](4a-material-organization-dynamics/4a-material-organization-dynamics.md)

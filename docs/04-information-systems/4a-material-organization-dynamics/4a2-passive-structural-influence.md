@@ -24,7 +24,7 @@ Once information patterns achieve a degree of **[self-stabilization](../../gloss
 
 In short, stabilized systems prioritise *pattern persistence over material permanence*: the underlying components can swap out while the higher-level order endures.
 
-> **Illustrative Example – Human Body as a "Ship of Theseus"**  
+> **Illustrative Example – Human Body as a "Ship of Theseus"**
 > Over the course of seven to ten years virtually every cell in a human body turns over; proteins, ions, and even most neurons are continually replaced on much shorter timescales. Yet the organism-level pattern—coordinated physiology, behavior, and personal identity—persists. Homeostatic feedback loops and metabolic cycles act as **repeaters**, genomic and epigenomic information provide **anchors**, and stochastic molecular events supply **jitter**. As long as these R/J/A roles keep the system within its attractor basin, the living pattern remains recognizable despite complete material renewal. Death can therefore be modeled as the point at which stabilization feedback can no longer counter entropy, and the higher-level template dissipates.
 
 ## 4.a.2.2 Cross-Substrate Influence: How Self-Stabilizing Patterns Propagate
@@ -57,6 +57,7 @@ In short, stabilized systems prioritise *pattern persistence over material perma
 - **Guidance of Physical Organisation by Information:** Information systems embedded in material arrangements (e.g., architectural plans, manufacturing designs) can structure physical and spatial organisation by providing a coherent template.
 - **Environmental Shaping by Informational Requirements:** Physical spaces and object arrangements can be organised or modified to meet the functional needs of self-stabilizing information systems (e.g., a library organised for books, a factory arranged for an assembly line).
 - **Creation of Pathways by Built Environments:** Built environments, designed according to self-stabilizing principles (e.g., urban planning codes, traffic flow models), create physical pathways that shape movement and interaction.
-- **Example:** Urban planning principles, as [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity), **shape** traffic flow and social patterns within a city. 
+- **Example:** Urban planning principles, as [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity), **shape** traffic flow and social patterns within a city.
+
 ---
 [<< Previous: ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.3. Material Organization in Practice >>](4a3-material-organization-in-practice.md)
