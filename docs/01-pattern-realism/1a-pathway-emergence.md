@@ -1,4 +1,4 @@
-# ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence {#1a1-the-emergence-of-semantic-information}
+# ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence 
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
 <!-- markdownlint-enable MD036 -->

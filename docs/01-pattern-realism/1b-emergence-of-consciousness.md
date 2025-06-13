@@ -152,13 +152,10 @@ This recursive framework generates testable predictions:
 
 This recursive foundation addresses the [**"Hard Problem" of Consciousness**](1c-hard-problem-of-consciousness.md) by:
 
-**Grounding consciousness** in measurable **recursive operations** rather than mysterious emergence
-
-**Explaining subjective experience** as the qualitative signature of recursive inside-out lens operations
-
-**Connecting mechanism to function**: Recursive self-examination serves adaptive purposes while generating the first-person perspective
-
-**Providing falsifiable predictions** about consciousness emergence and disruption
+- **Grounding consciousness** in measurable **recursive operations** rather than mysterious emergence
+- **Explaining subjective experience** as the qualitative signature of recursive inside-out lens operations
+- **Connecting mechanism to function**: Recursive self-examination serves adaptive purposes while generating the first-person perspective
+- **Providing falsifiable predictions** about consciousness emergence and disruption
 
 The recursive insight bridges scientific mechanism with philosophical phenomenology—consciousness emerges naturally from Pattern Realism's **outward stabilization propensity** when self-referential architectures achieve sufficient organizational coherence to examine themselves.
 
@@ -169,4 +166,4 @@ This provides the foundation for Section 1.c's philosophical analysis with concr
 [^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)  
 
 ---
-[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence {#1a1-the-emergence-of-semantic-information}](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.c. Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)
+[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: ⚙️ 1.c. Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)
