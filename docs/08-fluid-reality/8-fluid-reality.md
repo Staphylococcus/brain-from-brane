@@ -4,7 +4,6 @@
 
 -->
 
-
 # 🔍 8. Fluid Reality
 <!-- markdownlint-disable MD036 -->
 *Medium Altitude Exploration*

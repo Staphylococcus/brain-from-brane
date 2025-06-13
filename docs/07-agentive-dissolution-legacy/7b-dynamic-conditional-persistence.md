@@ -4,7 +4,6 @@
 
 -->
 
-
 # ⚙️ 7.b. Dynamic and Conditional Persistence
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

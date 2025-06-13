@@ -84,7 +84,8 @@ The framework's claims about ethical system competition generate specific, testa
 
 **Framework Prediction**: Competitive dynamics between ethical systems should exhibit similar patterns across diverse cultural contexts.
 
-**Test Conditions**: 
+**Test Conditions**:
+
 - Competitive patterns should emerge in isolated cultural development
 - Similar meta-ethical competition should occur across unrelated societies  
 - Ethical BIC formation should follow comparable developmental patterns globally
@@ -96,6 +97,7 @@ The framework's claims about ethical system competition generate specific, testa
 **Framework Prediction**: Ethical frameworks with superior competitive characteristics should demonstrate greater historical persistence and broader geographic spread.
 
 **Test Conditions**:
+
 - More self-stabilized ethical systems should survive longer
 - Systems with better propagation mechanisms should achieve wider distribution
 - Competitive advantages should predict historical success
@@ -107,6 +109,7 @@ The framework's claims about ethical system competition generate specific, testa
 **Framework Prediction**: Ethical BIC formation should produce observable changes in neural structure and function related to identity, decision-making, and social cognition.
 
 **Test Conditions**:
+
 - Stronger ethical commitments should correlate with greater neural integration
 - Moral framework challenges should activate characteristic neural defensive patterns
 - Ethical decision-making should show framework-specific neural signatures

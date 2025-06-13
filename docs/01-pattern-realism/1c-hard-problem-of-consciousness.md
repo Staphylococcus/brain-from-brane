@@ -6,6 +6,7 @@
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 ## Contents
+
 - [1. The Traditional Problem Formulation](#1-the-traditional-problem-formulation)
 - [2. Eliminating the Explanatory Gap](#2-eliminating-the-explanatory-gap)
 - [3. Methodological Implications](#3-methodological-implications)
@@ -17,7 +18,8 @@ Building on [Section 1.b's](1b-emergence-of-consciousness.md) establishment of c
 The "hard problem" of consciousness presupposes that physical processes generate subjective qualitative experiences ([qualia](../glossary/Q.md#qualia)) that constitute a distinct explanatory target beyond functional information processing.
 
 The conventional approach assumes consciousness involves **two distinct phenomena**:
-1. Information processing (measurable, functional) 
+
+1. Information processing (measurable, functional)
 2. Subjective experience (unmeasurable, qualitative)
 
 **This framework proposes a more parsimonious alternative.** Following principles of scientific methodology, if subjective experience produces no detectable effects beyond those explained by recursive information processing, and generates no additional predictive power, then the most economical explanation is that consciousness consists entirely of the recursive processing established in [Section 1.b](1b-emergence-of-consciousness.md).
