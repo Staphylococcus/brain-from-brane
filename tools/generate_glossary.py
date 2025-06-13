@@ -66,16 +66,18 @@ This glossary provides precise definitions of technical terms used throughout th
             continue
         with open(letter_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
-        # Find all term headings (### ...)
+        # Find all term headings (## ... or deeper)
+        # Accept any markdown heading level of 2 or greater (##, ###, ####, ...)
         terms = []
+        heading_pattern = re.compile(r'^#{2,}\s+(.+)')
         for line in lines:
-            m = re.match(r'^###\s+(.+)', line)
+            m = heading_pattern.match(line)
             if m:
                 term = m.group(1).strip()
                 anchor = slugify(term)
                 terms.append((term, anchor))
         # Output section
-        content_parts.append(f"## [{letter}](glossary/{letter}.md)\n")
+        content_parts.append(f"## [{letter}](glossary/{letter}.md)\n\n")
         if terms:
             links = [f"[{term}](glossary/{letter}.md#{anchor})" for term, anchor in terms]
             content_parts.append(' | '.join(links) + "\n")
