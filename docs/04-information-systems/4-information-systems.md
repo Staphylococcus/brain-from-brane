@@ -16,7 +16,7 @@
     - [Rich Semantic & Early Formal Systems](#rich-semantic--early-formal-systems)
     - [Advanced Abstract Frameworks](#advanced-abstract-frameworks)
   - [C. Post-Language Era: Complex Abstract Systems and Multi-Substrate Organization](#c-post-language-era-complex-abstract-systems-and-multi-substrate-organization)
-    - [Rich Semantic & Early Formal Systems](#rich-semantic--early-formal-systems)
+    - [Rich Semantic & Early Formal Systems (Post-Language Era)](#rich-semantic--early-formal-systems-post-language-era)
     - [Advanced Abstract Frameworks & Pre-Computational Formalisms](#advanced-abstract-frameworks--pre-computational-formalisms)
     - [The Computational Threshold: Algorithmic Templates and AI Genesis](#the-computational-threshold-algorithmic-templates-and-ai-genesis)
 - [III. Contemporary Dynamics: Computational Substrates and Bio-Informational Emergence](#iii-contemporary-dynamics-computational-substrates-and-bio-informational-emergence)
@@ -128,7 +128,7 @@ Each evolutionary stage demonstrates enhanced capacity for pattern organization 
 
 ### **C. Post-Language Era: Complex Abstract Systems and Multi-Substrate Organization**
 
-#### **Rich Semantic & Early Formal Systems**
+#### **Rich Semantic & Early Formal Systems (Post-Language Era)**
 
 - **Enhanced Template Formation**: Complex narratives, mythologies, and ethical frameworks demonstrate sophisticated organizational template capabilities
 - **Institutional Anchoring**: Codified laws, mathematical systems, and formal knowledge structures create robust stability mechanisms
