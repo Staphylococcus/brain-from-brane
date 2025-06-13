@@ -9,7 +9,7 @@
 
 - [2.1 Worldsheet Ontology and Fundamental Oneness](#21-worldsheet-ontology-and-fundamental-oneness)
 - [2.2 The Three-Layer Information Hierarchy](#22-the-three-layer-information-hierarchy)
-- [2.3 Crystallization and Outward Stabilization](#23-crystallization-and-outward-stabilization)
+- [2.3 Stabilization Dynamics and Template Formation](#23-stabilization-dynamics-and-template-formation)
 - [2.4 Agent-Relative Distinctions and the Inside-Out Lens](#24-agent-relative-distinctions-and-the-inside-out-lens)
 - [2.5 Practical Implications for Understanding Reality](#25-practical-implications-for-understanding-reality)
 - [Exploration Pathways](#exploration-pathways)
@@ -18,7 +18,7 @@
 
 The universe emerges from a single, indivisible foundational continuum. This continuum is populated by a vast multitude of individual **worldsheets**—two-dimensional surfaces effectively swept out by one-dimensional strings through spacetime. The dynamic field of **interactions among these countless worldsheets** gives rise to the complex **patterns** that constitute all reality. Unlike traditional substance dualism that posits separate mental and physical realms, or materialist reductionism that privileges matter over information, [**Pattern Realism**](../01-pattern-realism/1-pattern-realism.md) reveals this oneness—the foundational continuum and the interacting patterns within it—as the concrete ontological substrate from which all phenomena emerge and organize.
 
-These emergent **worldsheet patterns**, formed from the interactions within the higher-dimensional continuum, are what we perceive and interact with. Every apparent entity—from quarks to galaxies, from thoughts to civilizations—represents a stabilized **pattern** (or 'crystallized pattern' when viewed through the lens of the organizational analogy discussed later) within this unified fabric. The seeming diversity of reality emerges not from multiple separate substances, but from the rich variety of organizational templates that can stabilize from these worldsheet interactions within the single, continuous medium.
+These emergent **worldsheet patterns**, formed from the interactions within the higher-dimensional continuum, are what we perceive and interact with. Every apparent entity—from quarks to galaxies, from thoughts to civilizations—represents a stabilized **pattern** within this unified fabric. The seeming diversity of reality emerges not from multiple separate substances, but from the rich variety of organizational templates that can stabilize from these worldsheet interactions within the single, continuous medium.
 
 We can envision the more complex patterns—information systems, cultural frameworks, technological structures—as intricate **textures** woven from these interacting worldsheets. Just as textile patterns arise from the underlying weave while remaining fundamentally part of the same fabric, these sophisticated organizational patterns emerge from the same underlying interactive worldsheet processes that constitute atoms, molecules, and organisms, manifesting as dynamic textures that flow across, connect, and organize material nodes through passive structural organization.
 
@@ -41,7 +41,7 @@ The worldsheet substrate itself—pure relational dynamics embodied in the **int
 
 ### Organizational Information  
 
-**Crystallized patterns** that exhibit stability and boundary-maintenance capabilities, embodied in the specific configurations and histories of string worldsheets through spacetime. This includes their dynamic forms, interactions (joining and splitting), and relational configurations, as well as broader emergent patterns arising from the collective tapestry of interwoven worldsheets observed at different scales.
+**Stabilized patterns** that exhibit stability and boundary-maintenance capabilities, embodied in the specific configurations and histories of string worldsheets through spacetime. This includes their dynamic forms, interactions (joining and splitting), and relational configurations, as well as broader emergent patterns arising from the collective tapestry of interwoven worldsheets observed at different scales.
 
 ### Semantic Information
 
@@ -56,7 +56,7 @@ graph TD
     
     B -->|"Physical Manifestation"| D["Elementary Particles<br/>Forces & Dynamics"]
     C -->|"Pattern Structure"| E["Fundamental Information<br/>Pattern Structure"]
-      E -->|"Crystallization"| F["Organizational Information<br/>Crystallized Patterns"]
+      E -->|"Stabilization"| F["Organizational Information<br/>Stabilized Patterns"]
     F -->|"Material Basis"| G["Semantic Information<br/>Agent Meanings"]
     
     H["Information-Processing Agents"] -->|"Meaning Creation"| G
@@ -71,38 +71,31 @@ This representation shows the complete cycle of relationships within Pattern Rea
 
 **Foundational Emergence**: Both lenses emerge from the unified substrate through dual perspective, with elementary particles arising through physical manifestation while pattern structure develops through the information lens.
 
-**Information Hierarchy**: Fundamental patterns undergo crystallization into organizational structures, which enable interpretation by sufficiently complex agents, creating semantic meanings.
+**Information Hierarchy**: Fundamental patterns undergo stabilization into organizational structures, which enable interpretation by sufficiently complex agents, creating semantic meanings.
 
 **Agent Bootstrap**: Organizational complexity reaches a threshold that enables information-processing agents, who then engage in meaning creation while being modified by their own semantic interpretations.
 
 **Feedback Dynamics**: Agents exert causal influence on organizational patterns, while semantic meanings propagate through cultural transmission, creating a co-evolutionary cycle where meaning becomes materially efficacious within the unified substrate.
 
-## 2.3 Crystallization and Outward Stabilization
+## 2.3 Stabilization Dynamics and Template Formation
 
-The patterns that emerge within the worldsheet continuum achieve stability not through isolated self-containment, but through [**outward stabilization propensity**](../glossary/O.md#outward-stabilization-propensity)—their tendency to create **organizational templates** that guide the structural configuration of receptive substrates within their dimensional connectivity, establishing geometric constraint fields that channel compatible worldsheet pattern formation.
+Outward **stabilization propensity**—first introduced in Section 1—captures how certain informational arrangements become *templates* that guide compatible pattern formation around them. When local interactions among worldsheets fall into mutually reinforcing feedback, they create meso-scale structures that resist perturbation and, in turn, bias their environment toward states that reproduce the same structure.  This is the core mechanic by which diversity of form emerges from a single worldsheet continuum: stable templates propagate, recruit, or align neighboring patterns, weaving larger coherent fabrics of organization.
 
-### Crystallization as an Organizational Process
+### Stabilization as an Organizational Process
 
-Information patterns **crystallize** when they develop **organized, self-reinforcing patterns**—stable configurations that achieve persistence by incorporating compatible pattern elements, guided by principles analogous to crystallographic rules. Much like physical crystal lattices organize matter, information systems can be understood as organizing meaning and behavior through **semantic bonding principles** that can be modeled as operating with geometric-like constraints. While the analogy to physical crystals is strong, the emphasis here is on the functional and structural similarities in organization and stabilization, rather than asserting identical physical mechanisms.
+Information patterns **stabilize** when local feedback loops produce **self-reinforcing organization**.  Practical information-theoretic analogues include redundancy in error-correcting codes (extra bits actively correct deviations), attractor states in dynamical systems or neural networks, and compression dictionaries that persist because high-frequency tokens continually reinforce their own reuse.  The claim is *functional*: stabilized patterns exhibit robustness and template-like influence irrespective of the physical medium that instantiates them, neatly fitting the Fundamental → Organizational → Semantic information stack.
 
-**Geometric Examples:**
+**Information-Theoretic Examples:**
 
 - **Scientific paradigms**: Stable conceptual lattices with characteristic symmetries that determine which theories can be incorporated through epitaxial matching rules
 - **Cultural frameworks**: Organizational geometries with specific lattice parameters that constrain compatible value systems and social practices  
 - **Technological standards**: Geometric templates with defined interface symmetries that enable or prevent integration with other technical systems
 - **Institutional structures**: Crystalline organizational patterns with measurable defect densities and annealing characteristics
-
-### Principles of Information Organization
-
-The stabilization and propagation of these crystallized information patterns can be understood through principles that are analogous to physical processes, suggesting deep structural commonalities:
-
-**Organizing Fields**: Stable information patterns can be seen as creating **conceptual or influential fields** that channel the formation of compatible organizational structures, following discernible compatibility rules.
-
-**Networked Connectivity**: Pattern organization often occurs through **deep interconnectedness** rather than simple spatial proximity. Apparent "non-local" coordination might reflect underlying network effects or shared foundational principles within the information landscape.
-
-**Compatibility Matching**: The spread or adoption of information systems often appears to follow principles similar to **compatibility matching**, where systems propagate more effectively to substrates (e.g., minds, cultures, technologies) with resonant or compatible existing structures.
-
-**Systemic Interdependence**: Changes in one part of a complex information system can create **systemic pressures or affordances** in connected regions, manifesting as coordinated shifts that might appear as "influence" from a more limited perspective.
+- **DNA proofreading & repair**: Redundant base-pairing plus dedicated repair enzymes correct most replication errors, preserving a high-fidelity genetic message across billions of copies.
+- **Cell-fate attractors**: Gene-regulatory networks settle into stable expression patterns (e.g., liver vs. neuron) that act as attractor basins in a high-dimensional information landscape (Waddington).  Nearby perturbations relax back to the same pattern.
+- **Ferromagnetic domains**: Below the Curie temperature, local spin interactions align, creating mesoscopic regions of uniform orientation—a physical example of bits "locking in" through mutual reinforcement.
+- **Natural-language redundancy (Zipf's law)**: Highly frequent words form a stable compression dictionary that shapes how sentences are encoded, transmitted, and remembered across time and media.
+- **Cultural rituals & rhythms**: Repetition and synchronization (chants, drum patterns) create high mutual information among participants, stabilizing collective memory and reinforcing social bonds.
 
 ## 2.4 Agent-Relative Distinctions and the Inside-Out Lens
 
@@ -189,7 +182,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 
 - [1. Pattern Realism](../01-pattern-realism/1-pattern-realism.md) - The foundational dual-lens framework
 - [3. Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md) - How oneness manifests through agent perspectives  
-- [4. Information Systems](../04-information-systems/4-information-systems.md) - Crystallization and propagation of patterns
+- [4. Information Systems](../04-information-systems/4-information-systems.md) - Stabilization and propagation of patterns
 - [5. Competitive Dynamics](../05-competitive-dynamics/5-competitive-dynamics.md) - Competition within interconnected substrates
 
 ---

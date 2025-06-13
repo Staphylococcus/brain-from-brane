@@ -76,7 +76,7 @@ This principle operates through several mechanisms:
 This principle of outward stabilization is not merely an abstract concept but finds echoes and concrete manifestations across numerous domains:
 
 - In **biology and ecology**, phenomena like *niche construction* (e.g., beavers building dams that stabilize water levels and create new wetland ecosystems) or *ecosystem engineering* (e.g., corals building reefs that form stable habitats) exemplify how organisms actively project stability onto their environments.
-- In **physics and chemistry**, the process of *crystal growth*, where a stable seed crystal templates the organization of surrounding disordered molecules into a stable lattice, is a clear physical analogue.
+- In **physics and chemistry**, phase-ordering processes such as solidification (e.g., ice nucleating in supercooled water) show how a tiny region of local order can template organization in surrounding matter.
 - **Systems theory** describes *attractors* in dynamical systems, where a system tends to evolve towards stable states or patterns, effectively organizing its own behavior and that of coupled systems.
 - In the **social sciences**, the development of *standards, institutions, and laws* imposes order and predictability on social interactions, while *cultural transmission* sees coherent belief systems or practices (memes) spread and stabilize social structures.
 
