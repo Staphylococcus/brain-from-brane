@@ -113,8 +113,8 @@ Once information patterns achieve a degree of **[self-stabilization](../glossary
 
 In short, stabilized systems prioritise *pattern persistence over material permanence*: the underlying components can swap out while the higher-level order endures.
 
-> **Illustrative Example – Human Body as a "Ship of Theseus"**  
-> Over the course of seven to ten years virtually every cell in a human body turns over; proteins, ions, and even most neurons are continually replaced on much shorter timescales.  Yet the organism-level pattern—coordinated physiology, behavior, and personal identity—persists.  Homeostatic feedback loops and metabolic cycles act as **repeaters**, genomic and epigenomic information provide **anchors**, and stochastic molecular events supply **jitter**.  As long as these R/J/A roles keep the system within its attractor basin, the living pattern remains recognizable despite complete material renewal.  Death can therefore be modeled as the point at which stabilization feedback can no longer counter entropy, and the higher-level template dissipates.
+> **Illustrative Example – Human Body as a "Ship of Theseus"**
+> Over the course of seven to ten years virtually every cell in a human body turns over; proteins, ions, and even most neurons are continually replaced on much shorter timescales. Yet the organism-level pattern—coordinated physiology, behavior, and personal identity—persists. Homeostatic feedback loops and metabolic cycles act as **repeaters**, genomic and epigenomic information provide **anchors**, and stochastic molecular events supply **jitter**. As long as these R/J/A roles keep the system within its attractor basin, the living pattern remains recognizable despite complete material renewal. Death can therefore be modeled as the point at which stabilization feedback can no longer counter entropy, and the higher-level template dissipates.
 
 ### 4.a.2.2. Cross-Substrate Influence: How [Self-Stabilizing Information Patterns](../glossary/O.md#outward-stabilization-propensity) Propagate
 

@@ -16,7 +16,7 @@ Information systems undergo continuous evolutionary processes that shape their s
 
 ## **4.c.0. Macroevolutionary Stages of Information Systems**
 
-The timeline below condenses how information systems have progressed from raw environmental regularities to multi-substrate abstract frameworks.  These stage descriptions were formerly located in the medium-altitude overview (4-information-systems.md) and are reproduced here verbatim for low-altitude analysis and future expansion.
+The timeline below condenses how information systems have progressed from raw environmental regularities to multi-substrate abstract frameworks. These stage descriptions were formerly located in the medium-altitude overview (4-information-systems.md) and are reproduced here verbatim for low-altitude analysis and future expansion.
 
 ### **4.c.0.1. Pre-Semantic Era: Environmental Cues and Proto-Organizational Patterns**
 
@@ -36,7 +36,7 @@ The timeline below condenses how information systems have progressed from raw en
 
 ### **4.c.0.2. The Linguistic Revolution: Full-Blown Semantics and Cross-Substrate Stabilization**
 
-**Transformational Impact:** Language represents a critical phase transition that enables "Full-Blown Semantics"—the emergence of symbolic systems capable of meaning-making across multiple organizational levels.  This development dramatically amplifies both organizational and path-dependent propagation capabilities by creating organizational templates that can operate across different substrates while following specific transmission pathways.
+**Transformational Impact:** Language represents a critical phase transition that enables "Full-Blown Semantics"—the emergence of symbolic systems capable of meaning-making across multiple organizational levels. This development dramatically amplifies both organizational and path-dependent propagation capabilities by creating organizational templates that can operate across different substrates while following specific transmission pathways.
 
 **Enhanced Material Organization within Worldsheet Fabric:**
 
@@ -87,7 +87,7 @@ Information systems generate evolutionary variation through three primary proces
 **Key Example - Scientific Knowledge Evolution:**
 
 - **Memory and interpretation effects** create gradual drift as researchers recall, explain, and apply concepts
-- **Cross-cultural and interdisciplinary translation** adapts scientific concepts to new contexts and vocabularies  
+- **Cross-cultural and interdisciplinary translation** adapts scientific concepts to new contexts and vocabularies
 - **Technological mediation** through different instruments, software, and presentation formats shapes how knowledge is understood and communicated
 - **Generational transitions** where new cohorts of scientists bring different backgrounds, priorities, and methodological preferences
 

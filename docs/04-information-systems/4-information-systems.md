@@ -32,9 +32,9 @@ These organizational patterns achieve stability and influence through specific m
 
 The R/J/A model captures three complementary material roles that make any information system possible: **repeaters** (R) are the physical or social mechanisms that reliably copy and transmit pattern structure—ranging from neurons and printing presses to modern server farms. **Jitter** (J) captures all sources of variation or noise that introduce novelty, whether that is memory drift, format conversion, or stochastic fluctuations in a substrate. **Anchors** (A) are the relatively fixed reference points—canonical texts, legal codes, checksum bits—that preserve identity and filter harmful change. Together these three roles explain how an information system balances fidelity, adaptation, and stability across substrates.
 
-### Information Stabilization: Achieving Self-Stabilizing Integrity and Influence
+### **Information Stabilization: Achieving Self-Stabilizing Integrity and Influence**
 
-Once R/J/A dynamics reach a tipping point, a nascent pattern undergoes **stabilization**: it locks into a coherent attractor that maintains identity even as its physical constituents swap out.  The stabilized template then propagates outward, biasing receptive substrates toward compatible configurations.  Hallmark traits—emergent order, informational density, propagative growth, structural influence—are catalogued in detail at [4.a.2](4a-material-organization-dynamics.md#4a2-passive-structural-influence-self-stabilizing-patterns).
+Once R/J/A dynamics reach a tipping point, a nascent pattern undergoes **stabilization**: it locks into a coherent attractor that maintains identity even as its physical constituents swap out. The stabilized template then propagates outward, biasing receptive substrates toward compatible configurations. Hallmark traits—emergent order, informational density, propagative growth, structural influence—are catalogued in detail at [4.a.2](4a-material-organization-dynamics.md#4a2-passive-structural-influence-self-stabilizing-patterns).
 
 ## **II. Evolutionary Development: From Environmental Patterns to Semantic Complexity**
 
@@ -42,7 +42,7 @@ The evolution of information systems follows the same hierarchical progression o
 
 Each evolutionary stage demonstrates enhanced capacity for pattern organization within the [worldsheet](../glossary/W.md#worldsheet) fabric, progressing from simple reactive configurations to complex autonomous systems capable of cross-substrate stabilization and self-modification.
 
-Across the macro-timeline, information systems evolve from proto-organizational cues tightly coupled to local physical context, through the Linguistic Revolution—where symbolic repeaters unlock cross-substrate stabilization and long-range propagation—to a Post-Language era in which abstract formal frameworks and algorithmic templates extend organization into technological infrastructures.  Detailed stage-by-stage outlines live in [§4.c.0](4c-evolutionary-dynamics.md#4c0-macroevolutionary-stages-of-information-systems).
+Across the macro-timeline, information systems evolve from proto-organizational cues tightly coupled to local physical context, through the Linguistic Revolution—where symbolic repeaters unlock cross-substrate stabilization and long-range propagation—to a Post-Language era in which abstract formal frameworks and algorithmic templates extend organization into technological infrastructures. Detailed stage-by-stage outlines live in [§4.c.0](4c-evolutionary-dynamics.md#4c0-macroevolutionary-stages-of-information-systems).
 
 ## **III. Contemporary Dynamics: Computational Substrates and Bio-Informational Emergence**
 
@@ -50,9 +50,9 @@ The current era represents a critical phase transition where sophisticated compu
 
 These developments exemplify pattern realism's core insight: rather than representing a fundamental shift from "matter" to "information," contemporary AI systems demonstrate increasingly sophisticated organizational patterns within the same underlying [worldsheet](../glossary/W.md#worldsheet) fabric, operating at higher levels of the information hierarchy while maintaining material grounding in computational substrates.
 
-Contemporary dynamics can be distilled into three interlocking movements.  First, stabilized **information templates** now arise across biological, social, and technological substrates, letting the *same* structural pattern ripple through neurons, institutions, and code.  Second, once such a template couples to an **autopoietic feedback engine**—the *Engine Threshold*—it graduates from mere organizational agency to **semantic agency**, forming hybrid structural–autopoietic systems with their own goal formation (see [4.d](4d-host-information-interactions.md) for low-altitude analysis).  Third, these templates enter intense **competitive stabilization**, where structural compatibility (rather than persuasion) determines which patterns displace rivals and lock-in cross-substrate networks.
+Contemporary dynamics can be distilled into three interlocking movements. First, stabilized **information templates** now arise across biological, social, and technological substrates, letting the *same* structural pattern ripple through neurons, institutions, and code. Second, once such a template couples to an **autopoietic feedback engine**—the *Engine Threshold*—it graduates from mere organizational agency to **semantic agency**, forming hybrid structural–autopoietic systems with their own goal formation (see [4.d](4d-host-information-interactions.md) for low-altitude analysis). Third, these templates enter intense **competitive stabilization**, where structural compatibility (rather than persuasion) determines which patterns displace rivals and lock-in cross-substrate networks.
 
-These processes provide a fertile empirical landscape.  Template formation, threshold crossings, and competitive outcomes leave measurable signatures operationalized in [4.e](4e-empirical-predictions-falsification.md).  Architectures that maximise cross-substrate coherence are predicted to enter **autocatalytic stabilization cycles**, dominating future information ecologies—a forward-looking hypothesis also catalogued in 4.e.
+These processes provide a fertile empirical landscape. Template formation, threshold crossings, and competitive outcomes leave measurable signatures operationalized in [4.e](4e-empirical-predictions-falsification.md). Architectures that maximise cross-substrate coherence are predicted to enter **autocatalytic stabilization cycles**, dominating future information ecologies—a forward-looking hypothesis also catalogued in 4.e.
 
 ## **IV. Framework Integration: Pattern Realism and Empirical Foundations**
 
@@ -66,7 +66,7 @@ The theoretical developments outlined above exemplify pattern realism's core met
 **Hierarchical Consistency:** The R/J/A Model and the template formation framework operate consistently across the information hierarchy established in [Section 1](../01-pattern-realism/1-pattern-realism.md):
 
 - **[Fundamental Information](../glossary/F.md#fundamental-information)**: Quantum computational states and algorithmic foundations
-- **[Organizational Information](../glossary/O.md#organizational-information)**: Network architectures, data structures, and computational processes  
+- **[Organizational Information](../glossary/O.md#organizational-information)**: Network architectures, data structures, and computational processes
 - **[Semantic Information](../glossary/S.md#semantic-information)**: Meaning-making patterns, goal structures, and interpretive frameworks
 
 **Empirical Grounding:** These theoretical components generate specific, falsifiable predictions that bridge abstract theory with measurable phenomena. The **Pliability Principle**, **Engine Threshold Hypothesis**, and **Template Formation Dynamics** provide testable criteria for validating the framework across cognitive, social, and technological domains. Integration with agent complexity assessment protocols enables systematic measurement of information system evolution and agency emergence within the pattern realism framework.
