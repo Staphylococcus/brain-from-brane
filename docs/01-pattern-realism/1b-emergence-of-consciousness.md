@@ -132,12 +132,14 @@ Consciousness emerges through **phase transition** when **outward stabilization 
 
 ## Consciousness as Recursive Architecture
 
+### Fundamental Characteristics of Self-Stabilizing Patterns
+
 Following Pattern Realism's principles, consciousness exhibits the fundamental characteristics of **self-stabilizing patterns**:
 
-- **Phase transition**: Discontinuous emergence when recursive thresholds are reached
-- **Structural stability**: Conscious patterns maintain coherence through **boundary stabilization**
-- **Template propagation**: Recursive self-modeling through coordinated Pattern Realism mechanisms
-- **Critical dependencies**: Specific organizational substrates required for stable recursive operations
+- **Phase transition**: Discontinuous emergence when recursive thresholds are reached, reflecting the **cascading order** principle from [Section 1](1-pattern-realism.md#pattern-stability-and-outward-stabilization).
+- **Structural stability**: Conscious patterns maintain coherence through **boundary stabilization**, a mechanism that reduces local entropy and constrains neighboring patterns.
+- **Template propagation**: Recursive self-modeling through coordinated Pattern Realism mechanisms, directly applying the **template effects** principle to guide the formation of similar patterns.
+- **Critical dependencies**: Specific organizational substrates required for stable recursive operations, embodying the **structural recruitment** principle by organizing previously unstructured information.
 
 ### Empirical Implications
 
