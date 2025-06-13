@@ -100,12 +100,21 @@ Once information patterns achieve a degree of **[self-stabilization](../glossary
 
 [Self-stabilizing information structures](../glossary/O.md#outward-stabilization-propensity) develop particular characteristics that enable them to exert this guiding influence. Through their achieved coherence and persistence, these **[self-stabilizing structures](../glossary/O.md#outward-stabilization-propensity)** can shape receptive substrates (like minds, social groups, or technological systems). The "bonding rules" are akin to principles of semantic coherence, functional compatibility, or logical consistency.
 
-**Core Mechanism for Stabilization:**
+**Core Mechanism for Stabilization:** [Self-stabilizing information systems](../glossary/O.md#outward-stabilization-propensity) embody specific **organizational patterns** that achieve a high degree of internal coherence and recognizability, serving as templates for further informational activity.
 
-- **Pattern Template Coherence:** [Self-stabilizing information systems](../glossary/O.md#outward-stabilization-propensity) embody specific **organizational patterns** that achieve a high degree of internal coherence and recognizability, serving as templates for further informational activity.
-- **Substrate Compatibility Matching:** They interact with various malleable substrates. Their adoption and influence depend on how well their inherent [structure](../glossary/L.md#structural-parameter) aligns with the existing characteristics and needs of the substrate.
-- **Influence through Structural Constraints:** By establishing a recognized and adopted pattern, their inherent structure can guide further development and interaction in ways consistent with that structure.
-- **Self-Reinforcing Stability:** Once an information pattern becomes established and widely adopted, its continued use and propagation can reinforce its stability and influence, making it more robust.
+**Hallmark Properties of Stabilized Information Structures**
+
+- **Emergent Order** – regularities and coherence arise spontaneously from local interactions once the template has nucleated.
+- **Informational Properties** – measurable density, redundancy, and resilience that distinguish the structure from noise.
+- **Growth & Propagation** – the template expands from anchors, recruiting compatible material or cognitive substrates.
+- **Influence through Structure** – neighbouring processes are channeled along the constraints imposed by the stabilized pattern.
+- **Substrate Compatibility** – uptake probability tracks how well the template's intrinsic structure resonates with the physical or social substrate it encounters.
+- **Self-Reinforcing Stability** – each successful adoption or reuse strengthens the template's foothold, raising the energetic barrier for disruptive changes.
+
+In short, stabilized systems prioritise *pattern persistence over material permanence*: the underlying components can swap out while the higher-level order endures.
+
+> **Illustrative Example – Human Body as a "Ship of Theseus"**  
+> Over the course of seven to ten years virtually every cell in a human body turns over; proteins, ions, and even most neurons are continually replaced on much shorter timescales.  Yet the organism-level pattern—coordinated physiology, behavior, and personal identity—persists.  Homeostatic feedback loops and metabolic cycles act as **repeaters**, genomic and epigenomic information provide **anchors**, and stochastic molecular events supply **jitter**.  As long as these R/J/A roles keep the system within its attractor basin, the living pattern remains recognizable despite complete material renewal.  Death can therefore be modeled as the point at which stabilization feedback can no longer counter entropy, and the higher-level template dissipates.
 
 ### 4.a.2.2. Cross-Substrate Influence: How [Self-Stabilizing Information Patterns](../glossary/O.md#outward-stabilization-propensity) Propagate
 
