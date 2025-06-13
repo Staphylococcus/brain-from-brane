@@ -40,6 +40,16 @@ The framework posits three overarching hypotheses that tie together material org
 
 Each hypothesis is unpacked into concrete tests in the sections below and in companion methodological appendices.
 
+### **4.e.1.5. Future Development Predictions**
+
+These predictions extend the framework to anticipate how next-generation information architectures—particularly AI systems—will evolve as they span biological, social, and technological substrates.
+
+- **Multi-Substrate Informational Resonance** – Systems that establish **coherent and influential information patterns across multiple substrate types** (neuronal, institutional, computational) will demonstrate superior evolutionary fitness and persistence relative to single-substrate systems.  Expected empirical signature: higher cross-domain coherence scores and longer mean persistence times.
+- **Autocatalytic Pattern Stabilization** – Once an information pattern exceeds a critical adoption threshold, feedback loops will produce **self-reinforcing cycles** that optimize structural compatibility and entrench the pattern within host substrates.  Expected empirical signature: super-linear growth in adoption curves followed by plateau stabilization.
+- **Predicting Information Pattern Evolution** – The framework forecasts which AI architectures will achieve successful cross-substrate propagation by analyzing their **structural compatibility metrics** with existing biological, social, and technological systems.  Expected empirical signature: architectures with higher compatibility indices will out-compete alternatives across successive adoption cohorts.
+
+These forward-looking predictions can be operationalized via the quantitative structural metrics described in [§4.e.2.5](#4e25-quantitative-structural-metrics) and subjected to the falsification criteria in [§4.e.3](#4e3-falsification-criteria).
+
 ## **4.e.2. Specific Empirical Tests**
 
 ### **4.e.2.1. Neurobiological Markers**

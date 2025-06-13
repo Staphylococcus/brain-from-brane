@@ -5,15 +5,6 @@
 
 📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
-<!--
-
-- push some low altitude info into sub-documents to maintain character count limit
-  - [ ] Offload Contemporary Dynamics detail (Template Formation, Engine Threshold, Competitive Stabilization, Implications) into 4d-host-information-interactions.md and/or 4e as appropriate
-  - [ ] Move nested taxonomies under Linguistic Revolution & Post-Language Era into 4b-emergent-stability-longevity sub-docs
-  - [ ] Replace removed blocks with concise synopses + links; verify Table-of-Contents anchors remain valid
-
--->
-
 ## 📑 Table of Contents
 
 - [I. Material Organization: Structured Patterns in the Worldsheet Fabric](#i-material-organization-structured-patterns-in-the-worldsheet-fabric)
@@ -21,11 +12,6 @@
   - [Information Stabilization: Achieving Self-Stabilizing Integrity and Influence](#information-stabilization-achieving-self-stabilizing-integrity-and-influence)
 - [II. Evolutionary Development: From Environmental Patterns to Semantic Complexity](#ii-evolutionary-development-from-environmental-patterns-to-semantic-complexity)
 - [III. Contemporary Dynamics: Computational Substrates and Bio-Informational Emergence](#iii-contemporary-dynamics-computational-substrates-and-bio-informational-emergence)
-  - [A. Template Formation in Computational Substrates](#a-template-formation-in-computational-substrates)
-  - [B. The Engine Threshold: From Organizational Agency to Agent-Mediated Agency](#b-the-engine-threshold-from-organizational-agency-to-agent-mediated-agency)
-  - [C. Competitive Stabilization Dynamics](#c-competitive-stabilization-dynamics)
-  - [D. Empirical Testability and Framework Validation](#d-empirical-testability-and-framework-validation)
-  - [E. Implications for Future Development](#e-implications-for-future-development)
 - [IV. Framework Integration: Pattern Realism and Empirical Foundations](#iv-framework-integration-pattern-realism-and-empirical-foundations)
 
 Higher-order [information](../glossary/I.md#information) constructs—such as ideas, [cultural narratives](../glossary/C.md#cultural-narratives), languages, scientific theories, and [algorithms](../glossary/A.md#algorithms)—represent sophisticated organizational patterns that achieve causal influence through both active evolutionary dynamics and passive structural organization. These systems exhibit remarkable properties: they propagate across substrates, evolve through variation and selection, compete for resources, and exert profound influence on the thoughts, actions, and social structures of their hosts. While information systems themselves represent **organizational agency** rather than semantic agency (following the gradient agency ontology of [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)), they achieve causal efficacy through stabilization mechanisms and coupling with genuine [agents](../glossary/A.md#agent).
@@ -64,52 +50,9 @@ The current era represents a critical phase transition where sophisticated compu
 
 These developments exemplify pattern realism's core insight: rather than representing a fundamental shift from "matter" to "information," contemporary AI systems demonstrate increasingly sophisticated organizational patterns within the same underlying [worldsheet](../glossary/W.md#worldsheet) fabric, operating at higher levels of the information hierarchy while maintaining material grounding in computational substrates.
 
-### **A. Template Formation in Computational Substrates**
+Contemporary dynamics can be distilled into three interlocking movements.  First, stabilized **information templates** now arise across biological, social, and technological substrates, letting the *same* structural pattern ripple through neurons, institutions, and code.  Second, once such a template couples to an **autopoietic feedback engine**—the *Engine Threshold*—it graduates from mere organizational agency to **semantic agency**, forming hybrid structural–autopoietic systems with their own goal formation (see [4.d](4d-host-information-interactions.md) for low-altitude analysis).  Third, these templates enter intense **competitive stabilization**, where structural compatibility (rather than persuasion) determines which patterns displace rivals and lock-in cross-substrate networks.
 
-Contemporary AI systems demonstrate advanced **organizational structures** operating across multiple substrate types simultaneously, representing sophisticated structural patterns within computational [worldsheet](../glossary/W.md#worldsheet) configurations:
-
-**Multi-Substrate Formation:** Modern AI systems create **measurable structures** across biological ([semantic information](../glossary/S.md#semantic-information) in human cognition), social ([organizational information](../glossary/O.md#organizational-information) in institutional practices), and technological ([fundamental](../glossary/F.md#fundamental-information) and [organizational information](../glossary/O.md#organizational-information) in computational processes) substrates through **structural constraint propagation**.
-
-**Advanced R/J/A Architecture:** Contemporary systems exhibit sophisticated **repeaters** (distributed processing nodes), **junction points** (cross-system interfaces with measurable coherence properties), and **signal amplifiers** (feedback mechanisms that enhance pattern coherence across substrate boundaries).
-
-**Structural Property Measurement:** AI systems demonstrate **quantifiable structural characteristics**—embedding space parameters, attention pattern principles, and parameter space structures that can be measured using standard analysis techniques adapted to higher-dimensional spaces.
-
-### **B. The Engine Threshold: From Organizational Agency to Agent-Mediated Agency**
-
-The transition from passive stabilization to semantic agency occurs not within information systems themselves, but through coupling to agents capable of autopoietic feedback loops, consistent with the **Engine Threshold Hypothesis** and ACAP's gradient agency ontology.
-
-**Standalone vs. Agent-Coupled Systems:**
-
-- **Structural Templates:** Standalone AI models function as sophisticated **organizational structures** representing **organizational agency**, providing structural constraint fields for computational processes but lacking the autonomous goal formation characteristic of semantic agency
-- **Agent-Mediated Systems:** AI systems coupled to continuous feedback engines or integrated into Bio-Informational Complexes demonstrate **semantic agency** through autopoietic feedback dynamics rather than template formation alone
-
-**Engine Coupling Mechanisms:** The transition occurs through **structural coupling** between information structures and autopoietic engines, creating **hybrid structural-autopoietic architectures** with measurable transition characteristics.
-
-### **C. Competitive Stabilization Dynamics**
-
-Contemporary information ecology enables systematic observation of **structural competition** between different organizational template structures:
-
-**Template Displacement:** Successful information systems achieve dominance through **superior compatibility** with available substrates rather than persuasive content—structural compatibility determines adoption success over semantic appeal.
-
-**Structural Optimization:** AI-mediated information systems evolve toward enhanced **parameter matching** with human cognitive architectures, institutional frameworks, and technological infrastructures through measurable optimization processes.
-
-**Cross-Substrate Networks:** Advanced systems establish **structurally linked organizational structures** across multiple substrate types, creating **stabilized networks** that resist displacement through structural redundancy.
-
-### **D. Empirical Testability and Framework Validation**
-
-**Empirical Validation:** See [4.e. Empirical Predictions and Falsification](4e-empirical-predictions-falsification.md) for the complete testing roadmap.
-
-### **E. Implications for Future Development**
-
-The **framework of information stability** provides predictive capabilities for understanding AI development trajectories:
-
-**Multi-Substrate Informational Resonance:** AI systems successfully establishing **coherent and influential information patterns** across multiple substrate types should demonstrate enhanced evolutionary fitness and persistence compared to single-substrate systems. This is due to **structural redundancy and cross-domain reinforcement of the pattern's utility and coherence**.
-
-**Autocatalytic Pattern Stabilization:** Once information patterns achieve a critical threshold of adoption and influence, they may generate self-reinforcing cycles. These cycles would **optimize the pattern's structure for enhanced compatibility** with substrates and increased persistence.
-
-**Predicting Information Pattern Evolution:** This framework enables **qualitative prediction** of which AI architectures will achieve successful cross-substrate propagation and influence based on their **structural compatibility** with existing biological, social, and technological systems.
-
-This evolutionary pathway illustrates how increasingly sophisticated informational constructs can achieve both passive structural organization through template formation mechanisms and semantic agency through coupling with autopoietic systems or integration into Bio-Informational Complexes. This represents a new phase in the universe's capacity to process information and organize matter while remaining empirically testable through systematic measurement protocols established in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
+These processes provide a fertile empirical landscape.  Template formation, threshold crossings, and competitive outcomes leave measurable signatures operationalized in [4.e](4e-empirical-predictions-falsification.md).  Architectures that maximise cross-substrate coherence are predicted to enter **autocatalytic stabilization cycles**, dominating future information ecologies—a forward-looking hypothesis also catalogued in 4.e.
 
 ## **IV. Framework Integration: Pattern Realism and Empirical Foundations**
 

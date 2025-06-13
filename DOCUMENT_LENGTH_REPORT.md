@@ -6,8 +6,8 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 87
-- **Total characters in all documents**: 670213
-- **Files exceeding warning threshold (15000 chars)**: 19
+- **Total characters in all documents**: 670154
+- **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
 
@@ -17,11 +17,10 @@ Character length warning threshold: `15000` characters.
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 33097 | ⚠️ YES |
 | `docs\04-information-systems\4c-evolutionary-dynamics.md` | 27312 | ⚠️ YES |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 25681 | ⚠️ YES |
-| `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24162 | ⚠️ YES |
-| `docs\04-information-systems\4d-host-information-interactions.md` | 22045 | ⚠️ YES |
+| `docs\04-information-systems\4d-host-information-interactions.md` | 25674 | ⚠️ YES |
+| `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24252 | ⚠️ YES |
 | `docs\06-influence-collective-consciousness\6a-mechanisms-influence-reality.md` | 21318 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d8-practical-applications.md` | 21157 | ⚠️ YES |
-| `docs\04-information-systems\4-information-systems.md` | 20000 | ⚠️ YES |
 | `docs\02-oneness-interconnectedness\2-oneness-interconnectedness.md` | 18915 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d2-self-stabilizing-patterns.md` | 18212 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5e-bio-informational-complex.md` | 18203 | ⚠️ YES |
@@ -32,13 +31,14 @@ Character length warning threshold: `15000` characters.
 | `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15709 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d5-meta-ethical-competition.md` | 15394 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15366 | ⚠️ YES |
+| `docs\04-information-systems\4-information-systems.md` | 14558 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a25-thermodynamic-bridge.md` | 13616 | ✅ No |
 | `docs\03-agents-as-information-processors\3-agents-as-information-processors.md` | 13588 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d6-falsification-criteria.md` | 12819 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d4-bio-informational-complexes.md` | 12753 | ✅ No |
+| `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 12734 | ✅ No |
 | `docs\01-pattern-realism\1-pattern-realism.md` | 12279 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d3-mechanisms-competition.md` | 11337 | ✅ No |
-| `docs\04-information-systems\4e-empirical-predictions-falsification.md` | 11070 | ✅ No |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d1-ethical-systems-competing.md` | 8477 | ✅ No |
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8106 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 8022 | ✅ No |
@@ -103,4 +103,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-13 17:01:34*
+*Report generated on: 2025-06-13 17:28:18*
