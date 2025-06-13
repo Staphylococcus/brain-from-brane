@@ -5,7 +5,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-How do mind-independent physical patterns turn into mind-dependent meaning? The journey is **continuous in substrate**—everything is still just vibrating strings and energy flows—and yet **discontinuous in capability**. At six identifiable thresholds new feedback loops appear, locking-in qualitatively different kinds of information. Once crossed, these thresholds are never re-crossed in reverse; snowflakes do not become quarks again, and languages do not forget how to mean.
+How do mind-independent physical patterns turn into mind-dependent meaning? The journey is **continuous in substrate**—a backdrop of reality that changes more slowly than the patterns it carries—and yet **discontinuous in capability**. At six identifiable thresholds new feedback loops appear, locking-in qualitatively different kinds of information. Once crossed, these thresholds are never re-crossed in reverse; snowflakes do not become quarks again, and languages do not forget how to mean.
 
 Below is a bird’s-eye story of those thresholds. If you’d rather dive into equations and diagrams, follow the links; if you just want to “feel” the shape of the ascent, stay on this page.
 
@@ -21,7 +21,7 @@ When stable particles aggregate, they cast shadows, echoes, gradients—**regula
 
 ## Stage II.5 – Thermodynamic Bridge: From Matter to Autopoiesis
 
-Energy gradients do the heavy lifting. Far-from-equilibrium chemistry first spins up dissipative whirlpools, then autocatalytic networks, and finally **autopoietic cells** that redraw the universe into *inside* and *outside*. With that boundary comes the first evaluative stance: patterns are now sorted by “helps me persist / hurts me / irrelevant.”
+Energy gradients do the heavy lifting. Far-from-equilibrium chemistry first spins up dissipative whirlpools, then autocatalytic networks, and finally **autopoietic cells** that redraw the universe into *inside* and *outside*. With that boundary comes the first evaluative stance: patterns are now sorted by "helps me persist / hurts me / irrelevant."
 [Deep dive ›](1a25-thermodynamic-bridge.md)
 
 ## Stage III – Proto-Semantics: Detection, Valence, Action
@@ -31,7 +31,7 @@ Sensors, receptors, ion channels—tiny yes/no widgets—map specific external p
 
 ## Stage IV – Developing Semantics: Internal Models & Prediction
 
-Nervous systems decouple perception from action long enough to **simulate**. Neural codes stand in for distal states; forward models forecast futures; plasticity writes experience back into structure. Meaning stretches across time (“If dark clouds, then rain later”) and becomes context-sensitive (“Clouds mean relief for a drought-stressed plant but danger for a picnic”).
+Nervous systems decouple perception from action long enough to **simulate**. Neural codes stand in for distal states; forward models forecast futures; plasticity writes experience back into structure. Meaning stretches across time ("If dark clouds, then rain later") and becomes context-sensitive ("Clouds mean relief for a drought-stressed plant but danger for a picnic").
 [Deep dive ›](1a4-developing-semantics.md)
 
 ## Stage V – Full-Blown Semantics: Symbolic, Shared Worlds
