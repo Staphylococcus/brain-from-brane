@@ -77,8 +77,8 @@ flowchart LR
 flowchart LR
   %% consolidated environment node
   Env((Environment))
-  Env --|perceive|--> IOL[Inside-Out Lens]
-  IOL --|act|--> Env
+  Env --perceive--> IOL[Inside-Out Lens]
+  IOL --act--> Env
 
   subgraph AGENT[Agent Boundary]
     %% metabolic store residing within the agent, replenished by environment
