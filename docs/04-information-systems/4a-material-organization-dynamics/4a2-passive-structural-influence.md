@@ -1,4 +1,9 @@
 # ⚙️ 4.a.2. Passive Structural Influence: Self-Stabilizing Patterns
+<!-- markdownlint-disable MD036 -->
+*Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Once information patterns achieve a degree of **[self-stabilization](../../glossary/O.md#outward-stabilization-propensity)** through the interplay of Repeaters, Jitter, and Anchors, they can exert a passive structural influence on their environment. This section explores this influence, focusing on how these **[self-stabilizing patterns](../../glossary/O.md#outward-stabilization-propensity)** achieve broader coherence, persistence, and an organizing effect on receptive substrates. This is distinct from their active propagation via the R/J/A model, emphasizing instead the structural power of the stabilized pattern itself.
 
@@ -53,3 +58,5 @@ In short, stabilized systems prioritise *pattern persistence over material perma
 - **Environmental Shaping by Informational Requirements:** Physical spaces and object arrangements can be organised or modified to meet the functional needs of self-stabilizing information systems (e.g., a library organised for books, a factory arranged for an assembly line).
 - **Creation of Pathways by Built Environments:** Built environments, designed according to self-stabilizing principles (e.g., urban planning codes, traffic flow models), create physical pathways that shape movement and interaction.
 - **Example:** Urban planning principles, as [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity), **shape** traffic flow and social patterns within a city. 
+---
+[<< Previous: ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.3. Material Organization in Practice >>](4a3-material-organization-in-practice.md)

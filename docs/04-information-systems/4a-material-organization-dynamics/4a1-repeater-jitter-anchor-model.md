@@ -1,4 +1,9 @@
 # ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model
+<!-- markdownlint-disable MD036 -->
+*Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
 Information systems depend on three fundamental material components that work together to ensure both persistence and adaptive evolution:
 
@@ -75,3 +80,5 @@ The concept of a high-fidelity **Repeater** is deeply indebted to the foundation
 - **Empirical validation mechanisms** that test information systems against reality
 - **Formal verification processes** (peer review, replication, proof checking) that maintain quality
 - **Network effects** where widespread adoption creates pressure for standardization 
+---
+[<< Previous: ⚙️ 4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.2. Passive Structural Influence: Self-Stabilizing Patterns >>](4a2-passive-structural-influence.md)
