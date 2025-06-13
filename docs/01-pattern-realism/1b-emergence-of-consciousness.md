@@ -5,12 +5,6 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-<!--
-
-- Update the characteristics of self-stabilizing patterns
-
--->
-
 ## The Recursive Threshold
 
 [**Consciousness**](../glossary/C.md#consciousness) emerges when the [**inside-out lens**](../glossary/I.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.

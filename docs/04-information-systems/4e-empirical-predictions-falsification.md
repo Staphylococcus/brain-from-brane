@@ -30,6 +30,16 @@
 - **Prediction ED-3**: Successful information systems will exhibit heritability of adaptive traits
 - **Prediction ED-4**: Information system speciation will occur along transmission medium boundaries
 
+### **4.e.1.4. Framework-Level Hypotheses**
+
+The framework posits three overarching hypotheses that tie together material organization (Section 4a), stabilization dynamics (4b), and evolutionary competition (4c).  These principles generate families of experiments rather than single-point predictions and therefore sit above the enumerated tests that follow.
+
+1. **The Pliability Principle** – High-entropy or loosely structured substrates (social, technological, or neural) will adopt well-defined information templates more rapidly than substrates already saturated with strong organizational patterns.  Empirical expectation: measurable acceleration in adoption curves when environmental "informational entropy" is high.
+2. **Informational Compatibility Testing** – When a stabilized information structure couples to an autopoietic agent (crossing the Engine Threshold), we should observe abrupt increases in coherence, propagation efficiency, and adaptive capacity relative to standalone templates.
+3. **Cross-Substrate Pattern Coherence Measurement** – Identical organizing principles (graph connectivity, symmetry constraints, attractor geometry) will appear across biological, social, and technological instantiations of the same information template, yielding statistically significant cross-domain correlations.
+
+Each hypothesis is unpacked into concrete tests in the sections below and in companion methodological appendices.
+
 ## **4.e.2. Specific Empirical Tests**
 
 ### **4.e.2.1. Neurobiological Markers**
@@ -59,6 +69,15 @@
 - **Test L-2**: Host population effects of sustained information system presence
 - **Test L-3**: Environmental pressure responses in information system communities
 - **Test L-4**: Host-information system coupling formation and dissolution patterns under controlled conditions
+
+### **4.e.2.5. Quantitative Structural Metrics**
+
+These metrics operationalize the framework-level hypotheses by providing numeric targets for cross-study comparison:
+
+- **Relational density & connectivity**: Graph-theoretic measures (clustering coefficient, degree distribution) of information-pattern networks correlated with host-cognitive network properties.
+- **Core-motif preservation index**: Edit-distance or information-loss metrics tracking conservation of key sub-patterns across transmission events and substrates.
+- **Instability hot-spot locator**: Automated detection of pattern regions with high mutation frequency or failure rates, used to predict degradation points.
+- **Adoption friction score**: Composite metric combining learning-curve steepness, resource cost, and compatibility mismatches to estimate ease of template integration.
 
 ## **4.e.3. Falsification Criteria**
 

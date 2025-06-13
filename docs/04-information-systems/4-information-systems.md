@@ -191,20 +191,7 @@ Contemporary information ecology enables systematic observation of **structural 
 
 ### **D. Empirical Testability and Framework Validation**
 
-Contemporary developments enable systematic testing of the **framework of information stability** through three core hypotheses. These hypotheses focus on the functional similarities between the behavior of information systems and principles of self-organization:
-
-**The Pliability Principle:** High-entropy social and cognitive environments (i.e., those with less pre-existing informational structure) should demonstrate accelerated adoption of well-defined AI-mediated **information templates**. This provides an avenue to validate the dynamics of **structural compatibility and resonance** between information system patterns and substrate characteristics.
-
-**Informational Compatibility Testing:** Controlled comparison between **stable information structures** (standalone information systems) and **autopoietic agents** (engine-coupled systems or BICs) allows for an assessment of the **Engine Threshold transition**. This involves observing changes in pattern coherence, propagation efficiency, and adaptive capabilities when an information structure becomes coupled with an agent.
-
-**Cross-Substrate Pattern Coherence Measurement:** The formation of coherent information patterns across multiple substrates can be validated by assessing **correlations in structural or functional characteristics** across biological (e.g., neural activation patterns), social (e.g., institutional adoption rates, behavioral regularities), and technological (e.g., computational process flows, data structure similarities) domains. This tests whether similar organizing principles are at play.
-
-**Quantitative Analysis of Information Structures:** The framework can generate **specific predictions about the relational and structural properties of information patterns**:
-
-- **Relational density and connectivity patterns** within AI-generated content and their correlation with human cognitive processing patterns.
-- **Preservation of core informational motifs or functions** as patterns propagate across different substrates.
-- **Identification of points of informational instability or degradation** within a system.
-- **Metrics for assessing the ease of integration or adoption** of an information pattern by a given substrate.
+**Empirical Validation:** See [4.e. Empirical Predictions and Falsification](4e-empirical-predictions-falsification.md) for the complete testing roadmap.
 
 ### **E. Implications for Future Development**
 

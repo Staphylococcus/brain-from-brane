@@ -2,10 +2,6 @@
 
 This list is automatically generated from `<!-- ... -->` comments found in the project's markdown files, structured by directory.
 
-- **01-pattern-realism/**
-    - [`1b-emergence-of-consciousness.md`](docs/01-pattern-realism/1b-emergence-of-consciousness.md)
-        - > - Update the characteristics of self-stabilizing patterns
-
 - **03-agents-as-information-processors/**
     - [`3d-agent-complexity-assessment-protocol.md`](docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)
         - > - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities?
