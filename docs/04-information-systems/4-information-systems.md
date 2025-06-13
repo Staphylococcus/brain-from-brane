@@ -5,6 +5,12 @@
 
 📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
 
+<!--
+
+- push some low altitude info into sub-documents to maintain character count limit
+
+-->
+
 ## 📑 Table of Contents
 
 - [I. Material Organization: Structured Patterns in the Worldsheet Fabric](#i-material-organization-structured-patterns-in-the-worldsheet-fabric)

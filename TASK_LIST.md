@@ -30,6 +30,9 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - [`4b5-implications-system-design.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b5-implications-system-design.md)
             - > - Flesh out the bullet points
 
+    - [`4-information-systems.md`](docs/04-information-systems/4-information-systems.md)
+        - > - push some low altitude info into sub-documents to maintain character count limit
+
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition

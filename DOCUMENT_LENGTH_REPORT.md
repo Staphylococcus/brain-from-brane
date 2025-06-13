@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 79
-- **Total characters in all documents**: 675887
+- **Total characters in all documents**: 675982
 - **Files exceeding warning threshold (15000 chars)**: 20
 
 ## Document Details
@@ -15,7 +15,7 @@ Character length warning threshold: `15000` characters.
 |---|---|---|
 | `docs\01-pattern-realism\1a-pathway-emergence.md` | 49479 | ⚠️ YES |
 | `docs\04-information-systems\4a-material-organization-dynamics.md` | 37934 | ⚠️ YES |
-| `docs\04-information-systems\4-information-systems.md` | 35210 | ⚠️ YES |
+| `docs\04-information-systems\4-information-systems.md` | 35305 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3d-agent-complexity-assessment-protocol.md` | 33076 | ⚠️ YES |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b1-mechanisms-emergent-stability.md` | 25681 | ⚠️ YES |
 | `docs\03-agents-as-information-processors\3c-ai-emergent-agent.md` | 24162 | ⚠️ YES |
@@ -95,4 +95,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-13 11:33:58*
+*Report generated on: 2025-06-13 11:37:22*
