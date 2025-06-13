@@ -25,6 +25,10 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 
     - [`4-information-systems.md`](docs/04-information-systems/4-information-systems.md)
         - > - push some low altitude info into sub-documents to maintain character count limit
+          > - [x] Offload evolutionary-stage bullet blocks (Pre-Semantic, Linguistic Revolution, Post-Language) into 4c-evolutionary-dynamics.md
+          > - [ ] Offload Contemporary Dynamics detail (Template Formation, Engine Threshold, Competitive Stabilization, Implications) into 4d-host-information-interactions.md and/or 4e as appropriate
+          > - [ ] Move nested taxonomies under Linguistic Revolution & Post-Language Era into 4b-emergent-stability-longevity sub-docs
+          > - [ ] Replace removed blocks with concise synopses + links; verify Table-of-Contents anchors remain valid
 
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization

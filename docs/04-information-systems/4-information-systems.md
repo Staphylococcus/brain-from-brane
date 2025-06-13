@@ -8,6 +8,9 @@
 <!--
 
 - push some low altitude info into sub-documents to maintain character count limit
+  - [ ] Offload Contemporary Dynamics detail (Template Formation, Engine Threshold, Competitive Stabilization, Implications) into 4d-host-information-interactions.md and/or 4e as appropriate
+  - [ ] Move nested taxonomies under Linguistic Revolution & Post-Language Era into 4b-emergent-stability-longevity sub-docs
+  - [ ] Replace removed blocks with concise synopses + links; verify Table-of-Contents anchors remain valid
 
 -->
 
@@ -17,14 +20,6 @@
   - [The R/J/A Model: Structural Foundations in Pattern Organization](#the-rja-model-structural-foundations-in-pattern-organization)
   - [Information Stabilization: Achieving Self-Stabilizing Integrity and Influence](#information-stabilization-achieving-self-stabilizing-integrity-and-influence)
 - [II. Evolutionary Development: From Environmental Patterns to Semantic Complexity](#ii-evolutionary-development-from-environmental-patterns-to-semantic-complexity)
-  - [A. Pre-Semantic Era: Environmental Cues and Proto-Organizational Patterns](#a-pre-semantic-era-environmental-cues-and-proto-organizational-patterns)
-  - [B. The Linguistic Revolution: Full-Blown Semantics and Cross-Substrate Stabilization](#b-the-linguistic-revolution-full-blown-semantics-and-cross-substrate-stabilization)
-    - [Rich Semantic & Early Formal Systems](#rich-semantic--early-formal-systems)
-    - [Advanced Abstract Frameworks](#advanced-abstract-frameworks)
-  - [C. Post-Language Era: Complex Abstract Systems and Multi-Substrate Organization](#c-post-language-era-complex-abstract-systems-and-multi-substrate-organization)
-    - [Rich Semantic & Early Formal Systems (Post-Language Era)](#rich-semantic--early-formal-systems-post-language-era)
-    - [Advanced Abstract Frameworks & Pre-Computational Formalisms](#advanced-abstract-frameworks--pre-computational-formalisms)
-    - [The Computational Threshold: Algorithmic Templates and AI Genesis](#the-computational-threshold-algorithmic-templates-and-ai-genesis)
 - [III. Contemporary Dynamics: Computational Substrates and Bio-Informational Emergence](#iii-contemporary-dynamics-computational-substrates-and-bio-informational-emergence)
   - [A. Template Formation in Computational Substrates](#a-template-formation-in-computational-substrates)
   - [B. The Engine Threshold: From Organizational Agency to Agent-Mediated Agency](#b-the-engine-threshold-from-organizational-agency-to-agent-mediated-agency)
@@ -61,63 +56,7 @@ The evolution of information systems follows the same hierarchical progression o
 
 Each evolutionary stage demonstrates enhanced capacity for pattern organization within the [worldsheet](../glossary/W.md#worldsheet) fabric, progressing from simple reactive configurations to complex autonomous systems capable of cross-substrate stabilization and self-modification.
 
-### **A. Pre-Semantic Era: Environmental Cues and Proto-Organizational Patterns**
-
-**Stage Characteristics:**
-
-- **Primitive R/J/A Configuration**: Simple material repeaters (individual neural networks), high thermodynamic jitter (context-dependent environmental variation), weak organizational anchors (immediate environmental consistency)
-- **Limited Stabilization**: Information patterns can only weakly organize immediate behavioral and cognitive processes through direct thermodynamic coupling
-- **Environmental Pattern Dependency**: Information systems remain tightly coupled to immediate physical contexts, representing the transition zone between passive environmental patterns and active organizational templates
-
-**System Types and Pattern Organization:**
-
-- **Environmental Cues as Proto-Information**: Physical regularities (danger signals, resource indicators) that achieve functional significance through [agent](../glossary/A.md#agent) detection and correlation, representing the initial emergence of [semantic information](../glossary/S.md#semantic-information) from [organizational information](../glossary/O.md#organizational-information)
-- **Embodied Procedural Knowledge**: Tool-making techniques and behavioral sequences transmitted through direct demonstration, establishing primitive stabilization within neural substrates
-- **Simple Social Scripts**: Basic interaction patterns (dominance displays, grooming rituals) that begin to stabilize minimal organizational structures within group dynamics
-
-**Evolutionary Significance**: This stage demonstrates the **thermodynamic bridge** from environmental patterns to active information systems, establishing foundational R/J/A patterns while showing primitive stabilization effects that enable more sophisticated organizational capabilities.
-
-### **B. The Linguistic Revolution: Full-Blown Semantics and Cross-Substrate Stabilization**
-
-**Transformational Impact**: Language represents a critical phase transition that enables "[Full-Blown Semantics](../glossary/F.md#full-blown-semantics)" as described in [Section 1a](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md)—the emergence of symbolic systems capable of meaning-making across multiple organizational levels. This development dramatically amplifies both organizational and path-dependent propagation capabilities by creating organizational templates that can operate across different substrates while following specific transmission pathways in worldsheet space.
-
-**Enhanced Material Organization within Worldsheet Fabric:**
-
-- **Advanced R/J/A Configuration**: Sophisticated repeaters (linguistic communities with shared symbolic frameworks), junction points (cultural interfaces enabling cross-linguistic transmission), and amplifiers (institutional mechanisms for signal enhancement and cultural preservation)
-- **Cross-Substrate Stabilization**: Language enables simultaneous **structural template formation** across cognitive (individual meaning-making), social (cultural frameworks), and technological (symbolic representation systems) substrates through compatibility matching
-- **Path-Dependent Network Formation**: Linguistic structures establish **specific propagation pathways** in worldsheet space, creating transmission channels that follow structural connectivity rather than spatial proximity
-
-#### **Rich Semantic & Early Formal Systems**
-
-- **Enhanced Template Formation**: Complex narratives, mythologies, and ethical frameworks demonstrate sophisticated **organizational structures** with measurable parameters and coherence principles
-- **Institutional Anchoring**: Codified laws, mathematical systems, and formal knowledge structures create **structural constraint fields** that channel organizational development
-- **Cross-Generational Templates**: Information systems develop the ability to maintain **stable structures** across extended time periods through both structural persistence and path-dependent transmission networks
-
-#### **Advanced Abstract Frameworks**
-
-- **Multi-Level Stabilization**: Scientific paradigms, philosophical systems, and complex ideologies demonstrate **hierarchical structures** operating simultaneously across multiple organizational levels
-- **Template Competition**: Different structures compete for substrate dominance through **compatibility efficiency** rather than persuasive force
-- **Institutional Evolution**: Templates evolve toward enhanced **structural compatibility** with available substrate configurations
-
-### **C. Post-Language Era: Complex Abstract Systems and Multi-Substrate Organization**
-
-#### **Rich Semantic & Early Formal Systems (Post-Language Era)**
-
-- **Enhanced Template Formation**: Complex narratives, mythologies, and ethical frameworks demonstrate sophisticated organizational template capabilities
-- **Institutional Anchoring**: Codified laws, mathematical systems, and formal knowledge structures create robust stability mechanisms
-- **Cross-Generational Templates**: Information systems develop the ability to maintain organizational patterns across extended time periods through both structural persistence and path-dependent transmission
-
-#### **Advanced Abstract Frameworks & Pre-Computational Formalisms**
-
-- **Scientific Paradigms**: Demonstrate template-guided organizational processes—structuring research methodologies and conceptual frameworks through compatibility rules rather than active control
-- **Philosophical Systems**: Create comprehensive organizational templates that structure intellectual and cultural landscapes
-- **Mathematical Frameworks**: Establish logical organizational patterns that provide foundations for mechanical processing
-
-#### **The Computational Threshold: Algorithmic Templates and AI Genesis**
-
-- **Mechanized R/J/A**: Algorithms represent information systems designed for mechanical execution with precise repetition, controlled variation, and formal anchoring
-- **Template Autonomy**: Programming languages and data structures create organizational templates that can guide computational processes independently of human mediation
-- **Neural Network Architectures**: Connectionist systems demonstrate information patterns designed to guide learning processes through structural self-modification
+Across the macro-timeline, information systems evolve from proto-organizational cues tightly coupled to local physical context, through the Linguistic Revolution—where symbolic repeaters unlock cross-substrate stabilization and long-range propagation—to a Post-Language era in which abstract formal frameworks and algorithmic templates extend organization into technological infrastructures.  Detailed stage-by-stage outlines live in [§4.c.0](4c-evolutionary-dynamics.md#4c0-macroevolutionary-stages-of-information-systems).
 
 ## **III. Contemporary Dynamics: Computational Substrates and Bio-Informational Emergence**
 
