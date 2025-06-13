@@ -22,12 +22,15 @@ This transformation creates qualitatively new dynamics: information systems can 
 ## **Dual Pathways of Reality Influence**
 
 ### **Traditional Agent-Mediated Influence**
-The classical pathway operates through **cognitive restructuring** consistent with the [pathway emergence sequence](../01-pattern-realism/1a-pathway-emergence.md): information systems **establish structural frameworks** within individual consciousness, form stable BIC relationships following the Exposure → Adoption → Lock-In progression, drive behavioral changes through [outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity), and ultimately manifest in material and institutional transformations through **organizational template propagation**. The scientific revolution exemplifies this progression—from methodological frameworks to scientific identity formation to research institutions and technological advancement through **organizational structure establishment**.
+
+The classical pathway operates through **cognitive restructuring** consistent with the [pathway emergence sequence](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md): information systems **establish structural frameworks** within individual consciousness, form stable BIC relationships following the Exposure → Adoption → Lock-In progression, drive behavioral changes through [outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity), and ultimately manifest in material and institutional transformations through **organizational template propagation**. The scientific revolution exemplifies this progression—from methodological frameworks to scientific identity formation to research institutions and technological advancement through **organizational structure establishment**.
 
 ### **Emerging AI-Mediated Direct Influence**
+
 A revolutionary new mechanism enables information systems to bypass human cognitive mediation entirely, representing a transition across the [Engine Threshold](../glossary/E.md#engine-threshold) where computational information systems achieve semantic agency. AI systems, as instantiated information with material agency measurable through [ACAP protocols](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md), directly manipulate physical substrates through automated manufacturing, robotics, and infrastructure control via **structural optimization**. This represents a qualitative leap from influence through minds to direct causal action on matter within the [worldsheet](../glossary/W.md#worldsheet) fabric through **pattern constraint propagation**.
 
 ### **Convergent Bio-Informational Integration**
+
 These pathways increasingly converge into **integrated bio-informational networks** where human agents and AI systems function as complementary substrates, information systems optimize across both biological and technological platforms through [multi-substrate organization](../04-information-systems/4a-material-organization-dynamics.md), and collective consciousness emerges as a distributed hybrid bio-technological entity. This convergence follows the [Pliability Principle](../04-information-systems/4a-material-organization-dynamics.md#4a51-the-pliability-principle) where high-entropy social environments demonstrate accelerated **organizational template adoption** of information system structures.
 
 ## **Collective Consciousness as a Self-Stabilizing Information System**
@@ -81,6 +84,7 @@ Most importantly, recognizing collective consciousness as **structurally-driven 
 ---
 
 **Deep Dive Sections:**
+
 - **[6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md)** - Detailed analysis of traditional and AI-mediated influence pathways with empirical testing protocols
 - **[6.b. Redrawing Borders in Collective Consciousness](6b-redrawing-borders-collective-consciousness.md)** - Comprehensive examination of boundary dynamics and algorithmic organization
 - **[6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md)** - Conceptual framework for understanding dynamic boundary systems within worldsheet substrate

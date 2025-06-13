@@ -38,7 +38,7 @@ Each document or section at any altitude maintains narrative coherence—providi
 - **Purpose**: Granular exploration of specific mechanisms, applications, or implications
 - **Scope**: Focused sub-components and specialized applications
 - **Audience**: Specialists, implementers, researchers conducting detailed analysis
-- **Examples**: [1a-pathway-emergence.md](01-pattern-realism/1a-pathway-emergence.md), [5e-bio-informational-complex.md](05-competitive-dynamics/5e-bio-informational-complex.md)
+- **Examples**: [1a-pathway-emergence/1a-pathway-emergence.md](01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md), [5e-bio-informational-complex.md](05-competitive-dynamics/5e-bio-informational-complex.md)
 - **Characteristics**:
   - Maximum technical precision
   - Detailed examples and case studies

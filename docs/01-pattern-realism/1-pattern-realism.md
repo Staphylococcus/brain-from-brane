@@ -50,7 +50,7 @@ Within this informational lens, information is not a secondary add-on but co-fun
 - **[Fundamental Information](../glossary/F.md#fundamental-information)**: This encompasses the **intrinsic properties** of these **fundamental strings**. Crucially, their specific, **stable, and quantized modes of vibration** determine their apparent characteristics (like mass, charge, and spin). The work of physicists like Sylvester James Gates Jr. on supersymmetric structures, including adinkras and the discovery of error-correcting codes within fundamental equations, points to the deep, information-theoretic nature of these stable vibrational modes. Each such stable vibrational mode manifests as a **distinct type of elementary particle**, forming the first layer of **stable building blocks** from which more complex structures [emerge](../glossary/E.md#emergence). These particle properties, born from specific vibrational patterns, in turn define the nature of the strings' **[worldsheets](../glossary/W.md#worldsheet)** and their subsequent interactions.
 - **[Organizational Information](../glossary/O.md#organizational-information)**: This is embodied in the **specific configurations and histories (the [worldsheets](../glossary/W.md#worldsheet))** of these **strings** through spacetime – their dynamic form, interactions (such as joining and splitting), and relational configurations. From an information-theoretic standpoint, such as that pioneered by Claude Shannon, these configurations can be quantified in terms of their complexity, entropy, and the information content required to specify them. It also manifests as the **broader emergent patterns and structures** that arise from the collective tapestry of these interwoven **[worldsheets](../glossary/W.md#worldsheet)** when observed at different scales.
 
-These foundational and organizational patterns set the stage for the emergence of **[Semantic Information](../glossary/S.md#semantic-information)**—information that carries meaning for an interpreting agent. This crucial transition from raw pattern to interpreted meaning represents a key threshold in the information hierarchy, explored in detail in [1.a. Pathway of Emergence](1a-pathway-emergence.md).
+These foundational and organizational patterns set the stage for the emergence of **[Semantic Information](../glossary/S.md#semantic-information)**—information that carries meaning for an interpreting agent. This crucial transition from raw pattern to interpreted meaning represents a key threshold in the information hierarchy, explored in detail in [1.a. Pathway of Emergence](1a-pathway-emergence/1a-pathway-emergence.md).
 
 ## Ontic Structural Realism
 
@@ -88,7 +88,7 @@ This outward stabilization propensity explains how complex hierarchical organiza
 
 **Dive deeper:**
 
-- [1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence.md)
+- [1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence/1a-pathway-emergence.md)
 - [1.b. Emergence of Consciousness](1b-emergence-of-consciousness.md)
 - [1.c. Addressing the "Hard Problem" of Consciousness](1c-hard-problem-of-consciousness.md)
 
@@ -97,4 +97,4 @@ This outward stabilization propensity explains how complex hierarchical organiza
 [^ Overview](../../README.md)
 
 ---
-[<< Previous: README.md](../../README.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 1.a. From Organizational Information to Semantic Information: A Pathway of Emergence >>](1a-pathway-emergence.md)
+[<< Previous: README.md](../../README.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 1.a. From Organizational Information to Semantic Information >>](1a-pathway-emergence/1a-pathway-emergence.md)

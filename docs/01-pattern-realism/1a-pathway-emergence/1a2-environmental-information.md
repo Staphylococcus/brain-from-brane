@@ -1,0 +1,37 @@
+# ⚙️ 1.a.2. Environmental Information: Patterns as Potential Cues
+<!-- markdownlint-disable MD036 -->
+*Low Altitude Analysis*
+<!-- markdownlint-enable MD036 -->
+
+📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+
+## II. Environmental Information: Patterns as Potential Cues
+
+The environment, composed of stable physical structures and their dynamic interactions (all ultimately arising from the configurations and interactions of **[worldsheets](../../glossary/W.md#worldsheet)**), presents a rich tapestry of physical patterns—light reflecting from surfaces, chemical gradients, pressure waves, etc. These **patterns of [worldsheets](../../glossary/W.md#worldsheet)** are not inherently semantic but constitute *potential information* or environmental cues. They are physical regularities that can be detected and correlated with other events or conditions by an [agent](../../glossary/A.md#agent) capable of doing so. The information content of these environmental patterns, and the capacity of an agent to detect and process them, can be conceptualized through the lens of Claude Shannon's information theory, which provides a mathematical framework for quantifying information and understanding the limits of communication channels.
+
+### Divergent Interpretations: Color Patch on Leaf
+
+```mermaid
+flowchart LR
+  P["Pattern: red patch on leaf"] --> A1["Agent 1: Butterfly"]
+  A1 --> I1["Interprets as 'nectar guide'"]
+  P --> A2["Agent 2: Bat"]
+  A2 --> I2["Does not interpret due to poor vision"]
+  P --> A3["Agent 3: Dog"]
+  A3 --> I3["Does not interpret due to lack of meaning"]
+```
+
+### Divergent Interpretations: Scent Plume
+
+```mermaid
+flowchart LR
+  S["Pattern: floral scent plume"] --> M["Agent 1: Moth"]
+  M --> R1["Interprets as 'flower location'"]
+  S --> F["Agent 2: Frog"]
+  F --> R2["Interprets as 'prey location'"]
+```
+
+*Stage II takeaway: Environmental patterns only become meaningful when detected and correlated by an agent.*
+
+---
+[<< Previous: ⚙️ 1.a.1. Foundation: Stable Structures and Inherent Patterns](1a1-foundation.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: ⚙️ 1.a.2.5. Thermodynamic & Autopoietic Bridge >>](1a25-thermodynamic-bridge.md)

@@ -3,9 +3,6 @@
 This list is automatically generated from `<!-- ... -->` comments found in the project's markdown files, structured by directory.
 
 - **01-pattern-realism/**
-    - [`1a-pathway-emergence.md`](docs/01-pattern-realism/1a-pathway-emergence.md)
-        - > - Need to break this up into one overview and several deep dives
-
     - [`1b-emergence-of-consciousness.md`](docs/01-pattern-realism/1b-emergence-of-consciousness.md)
         - > - Update the characteristics of self-stabilizing patterns
 

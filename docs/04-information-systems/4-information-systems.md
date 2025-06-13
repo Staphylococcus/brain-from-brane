@@ -78,7 +78,7 @@ The R/J/A model provides the elements for this process:
 
 This perspective suggests that ISs develop significant, persistent informational structures that are, in effect, higher-order [self-stabilizing patterns](../glossary/S.md#self-stabilizing-patterns). The concept of "Information Stabilization" describes their formation and the subsequent emergence of their capacity to influence.
 
-This stabilization process operates through the fundamental principle of [outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity), whereby self-stabilizing patterns naturally extend their organizational influence to surrounding environments. Following the **thermodynamic bridge** described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md), this represents the natural progression from passive environmental patterns to active organizational templates:
+This stabilization process operates through the fundamental principle of [outward stabilization propensity](../glossary/O.md#outward-stabilization-propensity), whereby self-stabilizing patterns naturally extend their organizational influence to surrounding environments. Following the **thermodynamic bridge** described in [Section 1a](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md), this represents the natural progression from passive environmental patterns to active organizational templates:
 
 - **Template-Guided Organization**: Information systems provide organizational frameworks that structure how new elements get incorporated. This highlights selective incorporation rules but does not fully capture active interpretation and choice by agents interacting with the information.
 - **Substrate Responsiveness**: Different substrates (neural networks, social groups, technological systems, physical environments) respond to informational templates according to their own organizational characteristics and compatibility constraints. This captures heterogeneous responses but may not fully account for strategic manipulation or resistance by agents.
@@ -90,7 +90,7 @@ This stabilization mechanism operates across substrates through the same princip
 
 ## **II. Evolutionary Development: From Environmental Patterns to Semantic Complexity**
 
-The evolution of information systems follows the same hierarchical progression outlined in pattern realism—from [fundamental information](../glossary/F.md#fundamental-information) through [organizational information](../glossary/O.md#organizational-information) to [semantic information](../glossary/S.md#semantic-information). This development represents increasing sophistication in both structural organization and stabilization capability, mirroring the thermodynamic processes that enable the emergence of agency from environmental patterns as described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md).
+The evolution of information systems follows the same hierarchical progression outlined in pattern realism—from [fundamental information](../glossary/F.md#fundamental-information) through [organizational information](../glossary/O.md#organizational-information) to [semantic information](../glossary/S.md#semantic-information). This development represents increasing sophistication in both structural organization and stabilization capability, mirroring the thermodynamic processes that enable the emergence of agency from environmental patterns as described in [Section 1a](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md).
 
 Each evolutionary stage demonstrates enhanced capacity for pattern organization within the [worldsheet](../glossary/W.md#worldsheet) fabric, progressing from simple reactive configurations to complex autonomous systems capable of cross-substrate stabilization and self-modification.
 
@@ -112,7 +112,7 @@ Each evolutionary stage demonstrates enhanced capacity for pattern organization 
 
 ### **B. The Linguistic Revolution: Full-Blown Semantics and Cross-Substrate Stabilization**
 
-**Transformational Impact**: Language represents a critical phase transition that enables "[Full-Blown Semantics](../glossary/F.md#full-blown-semantics)" as described in [Section 1a](../01-pattern-realism/1a-pathway-emergence.md)—the emergence of symbolic systems capable of meaning-making across multiple organizational levels. This development dramatically amplifies both organizational and path-dependent propagation capabilities by creating organizational templates that can operate across different substrates while following specific transmission pathways in worldsheet space.
+**Transformational Impact**: Language represents a critical phase transition that enables "[Full-Blown Semantics](../glossary/F.md#full-blown-semantics)" as described in [Section 1a](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md)—the emergence of symbolic systems capable of meaning-making across multiple organizational levels. This development dramatically amplifies both organizational and path-dependent propagation capabilities by creating organizational templates that can operate across different substrates while following specific transmission pathways in worldsheet space.
 
 **Enhanced Material Organization within Worldsheet Fabric:**
 

@@ -65,7 +65,7 @@ Information systems achieve material influence through **organizational constrai
 
 ### **2. Agent-Mediated Pathway: Structural Template Adoption and Behavioral Translation**
 
-The agent-mediated conscious adoption mechanism operates through the **structural template adoption sequence** consistent with [pathway emergence dynamics](../01-pattern-realism/1a-pathway-emergence.md) and [BIC formation patterns](../05-competitive-dynamics/5e-bio-informational-complex.md):
+The agent-mediated conscious adoption mechanism operates through the **structural template adoption sequence** consistent with [pathway emergence dynamics](../01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md) and [BIC formation patterns](../05-competitive-dynamics/5e-bio-informational-complex.md):
 
 #### **Stage 1: Cognitive Structural Adoption**
 
