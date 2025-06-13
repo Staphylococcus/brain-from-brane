@@ -102,7 +102,7 @@ Once information patterns achieve a degree of **[self-stabilization](../glossary
 
 **Core Mechanism for Stabilization:** [Self-stabilizing information systems](../glossary/O.md#outward-stabilization-propensity) embody specific **organizational patterns** that achieve a high degree of internal coherence and recognizability, serving as templates for further informational activity.
 
-**Hallmark Properties of Stabilized Information Structures**
+#### **Hallmark Properties of Stabilized Information Structures**
 
 - **Emergent Order** – regularities and coherence arise spontaneously from local interactions once the template has nucleated.
 - **Informational Properties** – measurable density, redundancy, and resilience that distinguish the structure from noise.
