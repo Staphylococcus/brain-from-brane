@@ -37,7 +37,7 @@ Creating institutional structures that enable diverse ethical frameworks to comp
 **Healthcare Systems:**
 
 - Ethics committees including diverse professional and community perspectives
-- Patient choice among different treatment approach philosophies where medically appropriate  
+- Patient choice among different treatment approach philosophies where medically appropriate
 - Transparent ethical framework disclosure for treatment recommendations
 - Pilot programs testing different resource allocation approaches with systematic evaluation
 

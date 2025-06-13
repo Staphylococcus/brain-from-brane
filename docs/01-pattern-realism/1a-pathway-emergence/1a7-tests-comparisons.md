@@ -5,7 +5,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-The pathway is only useful if it risks being wrong.  Below are concrete criteria that could **falsify** the model, followed by a side-by-side comparison with alternative accounts of consciousness and meaning.
+The pathway is only useful if it risks being wrong. Below are concrete criteria that could **falsify** the model, followed by a side-by-side comparison with alternative accounts of consciousness and meaning.
 
 ## Falsification Criteria for Pathway Emergence
 
@@ -31,11 +31,11 @@ The pathway is only useful if it risks being wrong.  Below are concrete criteria
 
 ### Unique Contributions
 
-1. **Thermodynamic Grounding** – ties meaning to energy dissipation.  
-2. **Stage-Specific Predictions** – six qualitative thresholds with measurable markers.  
-3. **Autocatalytic Dynamics** – explains rapid take-off once proto-semantics appears.  
-4. **Autopoietic Integration** – necessity of self-maintenance loops.  
-5. **Worldsheet Ontology** – continuous physical grounding across scales.  
+1. **Thermodynamic Grounding** – ties meaning to energy dissipation.
+2. **Stage-Specific Predictions** – six qualitative thresholds with measurable markers.
+3. **Autocatalytic Dynamics** – explains rapid take-off once proto-semantics appears.
+4. **Autopoietic Integration** – necessity of self-maintenance loops.
+5. **Worldsheet Ontology** – continuous physical grounding across scales.
 6. **Falsifiable Architecture** – multiple shots-on-goal for empirical refutation.
 
 ---

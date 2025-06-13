@@ -32,9 +32,9 @@
 
 ### **4.e.1.4. Framework-Level Hypotheses**
 
-The framework posits three overarching hypotheses that tie together material organization (Section 4a), stabilization dynamics (4b), and evolutionary competition (4c).  These principles generate families of experiments rather than single-point predictions and therefore sit above the enumerated tests that follow.
+The framework posits three overarching hypotheses that tie together material organization (Section 4a), stabilization dynamics (4b), and evolutionary competition (4c). These principles generate families of experiments rather than single-point predictions and therefore sit above the enumerated tests that follow.
 
-1. **The Pliability Principle** – High-entropy or loosely structured substrates (social, technological, or neural) will adopt well-defined information templates more rapidly than substrates already saturated with strong organizational patterns.  Empirical expectation: measurable acceleration in adoption curves when environmental "informational entropy" is high.
+1. **The Pliability Principle** – High-entropy or loosely structured substrates (social, technological, or neural) will adopt well-defined information templates more rapidly than substrates already saturated with strong organizational patterns. Empirical expectation: measurable acceleration in adoption curves when environmental "informational entropy" is high.
 2. **Informational Compatibility Testing** – When a stabilized information structure couples to an autopoietic agent (crossing the Engine Threshold), we should observe abrupt increases in coherence, propagation efficiency, and adaptive capacity relative to standalone templates.
 3. **Cross-Substrate Pattern Coherence Measurement** – Identical organizing principles (graph connectivity, symmetry constraints, attractor geometry) will appear across biological, social, and technological instantiations of the same information template, yielding statistically significant cross-domain correlations.
 
@@ -44,9 +44,9 @@ Each hypothesis is unpacked into concrete tests in the sections below and in com
 
 These predictions extend the framework to anticipate how next-generation information architectures—particularly AI systems—will evolve as they span biological, social, and technological substrates.
 
-- **Multi-Substrate Informational Resonance** – Systems that establish **coherent and influential information patterns across multiple substrate types** (neuronal, institutional, computational) will demonstrate superior evolutionary fitness and persistence relative to single-substrate systems.  Expected empirical signature: higher cross-domain coherence scores and longer mean persistence times.
-- **Autocatalytic Pattern Stabilization** – Once an information pattern exceeds a critical adoption threshold, feedback loops will produce **self-reinforcing cycles** that optimize structural compatibility and entrench the pattern within host substrates.  Expected empirical signature: super-linear growth in adoption curves followed by plateau stabilization.
-- **Predicting Information Pattern Evolution** – The framework forecasts which AI architectures will achieve successful cross-substrate propagation by analyzing their **structural compatibility metrics** with existing biological, social, and technological systems.  Expected empirical signature: architectures with higher compatibility indices will out-compete alternatives across successive adoption cohorts.
+- **Multi-Substrate Informational Resonance** – Systems that establish **coherent and influential information patterns across multiple substrate types** (neuronal, institutional, computational) will demonstrate superior evolutionary fitness and persistence relative to single-substrate systems. Expected empirical signature: higher cross-domain coherence scores and longer mean persistence times.
+- **Autocatalytic Pattern Stabilization** – Once an information pattern exceeds a critical adoption threshold, feedback loops will produce **self-reinforcing cycles** that optimize structural compatibility and entrench the pattern within host substrates. Expected empirical signature: super-linear growth in adoption curves followed by plateau stabilization.
+- **Predicting Information Pattern Evolution** – The framework forecasts which AI architectures will achieve successful cross-substrate propagation by analyzing their **structural compatibility metrics** with existing biological, social, and technological systems. Expected empirical signature: architectures with higher compatibility indices will out-compete alternatives across successive adoption cohorts.
 
 These forward-looking predictions can be operationalized via the quantitative structural metrics described in [§4.e.2.5](#4e25-quantitative-structural-metrics) and subjected to the falsification criteria in [§4.e.3](#4e3-falsification-criteria).
 

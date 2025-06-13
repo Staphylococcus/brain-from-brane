@@ -15,15 +15,15 @@ The "fluid dynamics" metaphor offers a useful lens to understand these shifts. E
 
 When these external inflows meet internal currents, several outcomes can manifest:
 
-### Erosion of Existing Boundaries
+## Erosion of Existing Boundaries
 
 Strong or persistent external currents can wear down previously firm conceptual, cultural, or identity-based "borders." For example, prolonged exposure to global media can dilute local traditions or reshape individual self-perceptions by introducing alternative models of identity and success. The lines between "us" and "them," or between distinct conceptual categories, can become blurred or more permeable.
 
-### Creation of New "Confluences" and Hybrid Spaces
+## Creation of New "Confluences" and Hybrid Spaces
 
 Different informational streams can merge, creating novel "confluences" or hybrid informational spaces. An immigrant community, for instance, primarily consuming media, using language, and engaging with social networks from their country of origin (country A) while residing in a different geographical territory (country B), inhabits such a hybrid space. Their collective consciousness is shaped by the intermingling currents from both A and B, leading to unique cultural expressions, identity formations, and social dynamics that challenge traditional notions of singular cultural or informational sovereignty. This is not merely a blend but an emergent new pattern within the collective consciousness.
 
-### Reshaping of Identity and Awareness
+## Reshaping of Identity and Awareness
 
 The constant interplay of these informational currents can fundamentally reshape both individual and collective identity and awareness. New solidarities may form based on shared information consumption rather than shared geography, while previously cohesive groups might experience internal fragmentation as members are pulled by diverging informational tides. The very categories through which agents perceive and make sense of the world (their "subjective distinctions" as per Section 2.a) can be transformed by these fluid informational dynamics.
 

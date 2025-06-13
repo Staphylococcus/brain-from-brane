@@ -39,7 +39,7 @@ Within the unified worldsheet foundation, information manifests through three in
 
 The worldsheet substrate itself—pure relational dynamics embodied in the **intrinsic properties of fundamental strings**. The specific, stable, and quantized vibrational modes of these strings determine their apparent characteristics (mass, charge, spin), manifesting as distinct types of elementary particles. This represents the first layer of stable building blocks, arising directly from vibrational patterns within the unified continuum.
 
-### Organizational Information  
+### Organizational Information
 
 **Stabilized patterns** that exhibit stability and boundary-maintenance capabilities, embodied in the specific configurations and histories of string worldsheets through spacetime. This includes their dynamic forms, interactions (joining and splitting), and relational configurations, as well as broader emergent patterns arising from the collective tapestry of interwoven worldsheets observed at different scales.
 
@@ -79,20 +79,20 @@ This representation shows the complete cycle of relationships within Pattern Rea
 
 ## 2.3 Stabilization Dynamics and Template Formation
 
-Outward **stabilization propensity**—first introduced in Section 1—captures how certain informational arrangements become *templates* that guide compatible pattern formation around them. When local interactions among worldsheets fall into mutually reinforcing feedback, they create meso-scale structures that resist perturbation and, in turn, bias their environment toward states that reproduce the same structure.  This is the core mechanic by which diversity of form emerges from a single worldsheet continuum: stable templates propagate, recruit, or align neighboring patterns, weaving larger coherent fabrics of organization.
+Outward **stabilization propensity**—first introduced in Section 1—captures how certain informational arrangements become *templates* that guide compatible pattern formation around them. When local interactions among worldsheets fall into mutually reinforcing feedback, they create meso-scale structures that resist perturbation and, in turn, bias their environment toward states that reproduce the same structure. This is the core mechanic by which diversity of form emerges from a single worldsheet continuum: stable templates propagate, recruit, or align neighboring patterns, weaving larger coherent fabrics of organization.
 
 ### Stabilization as an Organizational Process
 
-Information patterns **stabilize** when local feedback loops produce **self-reinforcing organization**.  Practical information-theoretic analogues include redundancy in error-correcting codes (extra bits actively correct deviations), attractor states in dynamical systems or neural networks, and compression dictionaries that persist because high-frequency tokens continually reinforce their own reuse.  The claim is *functional*: stabilized patterns exhibit robustness and template-like influence irrespective of the physical medium that instantiates them, neatly fitting the Fundamental → Organizational → Semantic information stack.
+Information patterns **stabilize** when local feedback loops produce **self-reinforcing organization**. Practical information-theoretic analogues include redundancy in error-correcting codes (extra bits actively correct deviations), attractor states in dynamical systems or neural networks, and compression dictionaries that persist because high-frequency tokens continually reinforce their own reuse. The claim is *functional*: stabilized patterns exhibit robustness and template-like influence irrespective of the physical medium that instantiates them, neatly fitting the Fundamental → Organizational → Semantic information stack.
 
 **Information-Theoretic Examples:**
 
 - **Scientific paradigms**: Stable conceptual lattices with characteristic symmetries that determine which theories can be incorporated through epitaxial matching rules
-- **Cultural frameworks**: Organizational geometries with specific lattice parameters that constrain compatible value systems and social practices  
+- **Cultural frameworks**: Organizational geometries with specific lattice parameters that constrain compatible value systems and social practices
 - **Technological standards**: Geometric templates with defined interface symmetries that enable or prevent integration with other technical systems
 - **Institutional structures**: Crystalline organizational patterns with measurable defect densities and annealing characteristics
 - **DNA proofreading & repair**: Redundant base-pairing plus dedicated repair enzymes correct most replication errors, preserving a high-fidelity genetic message across billions of copies.
-- **Cell-fate attractors**: Gene-regulatory networks settle into stable expression patterns (e.g., liver vs. neuron) that act as attractor basins in a high-dimensional information landscape (Waddington).  Nearby perturbations relax back to the same pattern.
+- **Cell-fate attractors**: Gene-regulatory networks settle into stable expression patterns (e.g., liver vs. neuron) that act as attractor basins in a high-dimensional information landscape (Waddington). Nearby perturbations relax back to the same pattern.
 - **Ferromagnetic domains**: Below the Curie temperature, local spin interactions align, creating mesoscopic regions of uniform orientation—a physical example of bits "locking in" through mutual reinforcement.
 - **Natural-language redundancy (Zipf's law)**: Highly frequent words form a stable compression dictionary that shapes how sentences are encoded, transmitted, and remembered across time and media.
 - **Cultural rituals & rhythms**: Repetition and synchronization (chants, drum patterns) create high mutual information among participants, stabilizing collective memory and reinforcing social bonds.
@@ -106,7 +106,7 @@ While the universe maintains fundamental oneness through its worldsheet substrat
 Agents develop internal models of reality that prioritize information relevant to their persistence and flourishing. This "inside-out" orientation means that:
 
 - **Boundaries appear stable** where underlying worldsheet patterns manifest as self-stabilizing structures with organizational coherence
-- **Categories form and solidify** around recurring, self-stabilizing pattern configurations that matter for agent decision-making  
+- **Categories form and solidify** around recurring, self-stabilizing pattern configurations that matter for agent decision-making
 - **Hierarchies emerge** based on informational relevance rather than arbitrary classification schemes
 - **Meanings develop** through the agent's interaction history with specific pattern types
 
@@ -173,7 +173,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 
 - [Complete Framework Navigation](../../README.md) - High-altitude overview of all concepts and their relationships
 
-### ⚙️ Lower Altitude: Detailed Analysis  
+### ⚙️ Lower Altitude: Detailed Analysis
 
 - [2.a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md) - Granular exploration of how agent-relative distinctions emerge from worldsheet structure
 - [2.b. Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md) - Detailed analysis of competitive dynamics within interconnected systems
@@ -181,7 +181,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 ### 🔗 Related Explorations
 
 - [1. Pattern Realism](../01-pattern-realism/1-pattern-realism.md) - The foundational dual-lens framework
-- [3. Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md) - How oneness manifests through agent perspectives  
+- [3. Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md) - How oneness manifests through agent perspectives
 - [4. Information Systems](../04-information-systems/4-information-systems.md) - Stabilization and propagation of patterns
 - [5. Competitive Dynamics](../05-competitive-dynamics/5-competitive-dynamics.md) - Competition within interconnected substrates
 
@@ -190,7 +190,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 **Key Insights from This Exploration:**
 
 1. **Unified Foundation**: All reality emerges from a single worldsheet continuum, avoiding dualistic separations
-2. **Hierarchical Information**: Three layers (Fundamental → Organizational → Semantic) explain diversity within unity  
+2. **Hierarchical Information**: Three layers (Fundamental → Organizational → Semantic) explain diversity within unity
 3. **Outward Stabilization**: Patterns persist through environmental integration rather than isolation
 4. **Agent-Relative Distinctions**: Boundaries and categories emerge through agent-reality dialogue
 5. **Practical Applications**: Framework applies to consciousness, culture, technology, ethics, and science

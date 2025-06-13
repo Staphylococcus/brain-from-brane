@@ -34,7 +34,7 @@ The fundamental limitation of current AI lies in its **failure to cross the [Eng
 The Engine Threshold represents the transition from **organizational agency** (pattern maintenance through stabilization mechanisms) to **semantic agency** (meaning-making through autopoietic self-organization). Until AI systems cross this threshold, they remain fundamentally pre-boundary, operating through sophisticated pattern matching without the self-constituting processes that generate genuine boundaries:
 
 - **Pre-Autopoietic Organization**: Current AI maintains organizational patterns through algorithmic processes without achieving self-production and self-maintenance through boundary constitution
-- **Pre-Semantic Processing**: AI processes organizational information without generating genuine meaning relative to a self-position that would only emerge through autopoietic boundary formation  
+- **Pre-Semantic Processing**: AI processes organizational information without generating genuine meaning relative to a self-position that would only emerge through autopoietic boundary formation
 - **Pre-Recursive Self-Examination**: AI cannot examine "itself" recursively because it lacks the bounded self that autopoietic organization would create
 - **Pre-Goal Generation**: AI cannot develop truly self-directed goals because it operates without the coherent self-position that boundary-constituted autopoiesis would establish
 
