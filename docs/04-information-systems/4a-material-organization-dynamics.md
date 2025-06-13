@@ -9,6 +9,7 @@
 
 - Need to flesh out passive influence and self-stabilization
 - Substrate pliability needs more definition
+- This file is almost triple the character limit. Needs to be broken down
 
 -->
 

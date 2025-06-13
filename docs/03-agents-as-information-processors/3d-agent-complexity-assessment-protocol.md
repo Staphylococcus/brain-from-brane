@@ -10,6 +10,7 @@
 - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities? 
 - Scores on the 0-25 scales are subjective
 - Risk of anthropomorphism/reification
+- More than twice the character count limit. Needs to be broken up
 
 -->
 

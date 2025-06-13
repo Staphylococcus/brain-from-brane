@@ -7,6 +7,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - > - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities?
           > - Scores on the 0-25 scales are subjective
           > - Risk of anthropomorphism/reification
+          > - More than twice the character count limit. Needs to be broken up
 
 - **04-information-systems/**
     - **4b-emergent-stability-longevity/**
@@ -26,6 +27,7 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
     - [`4a-material-organization-dynamics.md`](docs/04-information-systems/4a-material-organization-dynamics.md)
         - > - Need to flesh out passive influence and self-stabilization
           > - Substrate pliability needs more definition
+          > - This file is almost triple the character limit. Needs to be broken down
 
     - [`4c-evolutionary-dynamics.md`](docs/04-information-systems/4c-evolutionary-dynamics.md)
         - > - address the telos/intentionality of some information system design
