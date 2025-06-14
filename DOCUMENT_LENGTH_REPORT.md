@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 92
-- **Total characters in all documents**: 694382
+- **Total characters in all documents**: 700078
 - **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
@@ -44,6 +44,7 @@ Character length warning threshold: `15000` characters.
 | `docs\03-agents-as-information-processors\3a-inside-out-lens-self-preservation.md` | 8106 | ✅ No |
 | `docs\01-pattern-realism\1b-emergence-of-consciousness.md` | 7912 | ✅ No |
 | `docs\abstraction-altitudes.md` | 7899 | ✅ No |
+| `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 7870 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a3-material-organization-in-practice.md` | 7614 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a1-repeater-jitter-anchor-model.md` | 7400 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 7264 | ✅ No |
@@ -77,7 +78,6 @@ Character length warning threshold: `15000` characters.
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b5-implications-system-design.md` | 2522 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a2-environmental-information.md` | 2252 | ✅ No |
 | `docs\02-oneness-interconnectedness\2b-reconciling-oneness-and-competition.md` | 2204 | ✅ No |
-| `docs\06-influence-collective-consciousness\6d-implications-identity.md` | 2174 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a6-core-principles.md` | 2113 | ✅ No |
 | `docs\glossary\E.md` | 2086 | ✅ No |
 | `docs\glossary\I.md` | 1612 | ✅ No |
@@ -108,4 +108,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-14 12:02:28*
+*Report generated on: 2025-06-14 12:32:26*
