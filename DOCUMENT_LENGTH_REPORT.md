@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 92
-- **Total characters in all documents**: 689423
+- **Total characters in all documents**: 689448
 - **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
@@ -46,7 +46,7 @@ Character length warning threshold: `15000` characters.
 | `docs\abstraction-altitudes.md` | 7899 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a3-material-organization-in-practice.md` | 7614 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a1-repeater-jitter-anchor-model.md` | 7400 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 7239 | ✅ No |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 7264 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b-emergent-stability-longevity.md` | 7195 | ✅ No |
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 7015 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a5-full-semantics.md` | 6937 | ✅ No |
@@ -108,4 +108,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-14 11:26:40*
+*Report generated on: 2025-06-14 11:42:44*

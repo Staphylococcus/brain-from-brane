@@ -13,7 +13,7 @@
 
 **Generative Capacity:**
 
-Longevity correlates strongly with an information system's ability to keep producing value in novel contexts. When a framework contains heuristics or meta-principles that help users generate new insights, it remains perennially useful rather than historically interesting. This [Generativity](../../glossary/G.md#generativity) mirrors the evolutionary advantage of a genotype that can explore large fitness landscapes: useful [**Jitter**](../../glossary/R.md#repeaterjitteranchor-rja-model) (variation) is encouraged, evaluated, and then re-anchored as an accepted extension. Mathematics, for instance, continuously spawns fresh theorems, applications, and sub-fields without abandoning its axiomatic spine. Each successful innovation reinforces the parent system's reputation, draws new investment, and motivates hosts to maintain the lineage.
+Longevity correlates strongly with an information system's ability to keep producing value in novel contexts. When a framework contains heuristics or meta-principles that help users generate new insights, it remains perennially useful rather than historically interesting. This [Generativity](../../glossary/G.md#generativity-of-an-information-system) mirrors the evolutionary advantage of a genotype that can explore large fitness landscapes: useful [**Jitter**](../../glossary/R.md#repeaterjitteranchor-rja-model) (variation) is encouraged, evaluated, and then re-anchored as an accepted extension. Mathematics, for instance, continuously spawns fresh theorems, applications, and sub-fields without abandoning its axiomatic spine. Each successful innovation reinforces the parent system's reputation, draws new investment, and motivates hosts to maintain the lineage.
 
 **Scalable Architecture:**
 
