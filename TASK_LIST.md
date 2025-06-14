@@ -11,9 +11,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 
 - **04-information-systems/**
     - **4b-emergent-stability-longevity/**
-        - [`4b2-factors-contributing-longevity.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md)
-            - > - Flesh out the bullet points
-
         - [`4b3-stability-patterns-across-types.md`](docs/04-information-systems/4b-emergent-stability-longevity/4b3-stability-patterns-across-types.md)
             - > - examining monuments through information theory lens, as an exceptionally stable anchor pattern that preserves and reinstantiates an encoded message across time.
               > - Flesh out the bullet points

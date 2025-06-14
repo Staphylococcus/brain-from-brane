@@ -44,7 +44,7 @@ This glossary provides precise definitions of technical terms used throughout th
 
 ## [G](glossary/G.md)
 
-[Structural Information Dynamics](glossary/G.md#structural-information-dynamics)
+[Structural Information Dynamics](glossary/G.md#structural-information-dynamics) | [Generativity (of an Information System)](glossary/G.md#generativity-of-an-information-system)
 
 ---
 

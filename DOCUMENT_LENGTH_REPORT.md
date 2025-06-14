@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 92
-- **Total characters in all documents**: 684860
+- **Total characters in all documents**: 689423
 - **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
@@ -46,11 +46,12 @@ Character length warning threshold: `15000` characters.
 | `docs\abstraction-altitudes.md` | 7899 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a3-material-organization-in-practice.md` | 7614 | ✅ No |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a1-repeater-jitter-anchor-model.md` | 7400 | ✅ No |
+| `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 7239 | ✅ No |
 | `docs\04-information-systems\4b-emergent-stability-longevity\4b-emergent-stability-longevity.md` | 7195 | ✅ No |
 | `docs\01-pattern-realism\1c-hard-problem-of-consciousness.md` | 7015 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a5-full-semantics.md` | 6937 | ✅ No |
+| `docs\glossary.md` | 6835 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6807 | ✅ No |
-| `docs\glossary.md` | 6738 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a4-developing-semantics.md` | 6409 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6129 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a1-foundation.md` | 5865 | ✅ No |
@@ -69,7 +70,6 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5a-mechanisms-competition.md` | 3506 | ✅ No |
 | `docs\glossary\P.md` | 3483 | ✅ No |
 | `docs\06-influence-collective-consciousness\6c-fluid-dynamics-metaphor.md` | 3411 | ✅ No |
-| `docs\04-information-systems\4b-emergent-stability-longevity\4b2-factors-contributing-longevity.md` | 3361 | ✅ No |
 | `docs\02-oneness-interconnectedness\2a-emergent-subjective-distinctions.md` | 3126 | ✅ No |
 | `docs\05-competitive-dynamics\5-competitive-dynamics.md` | 3058 | ✅ No |
 | `docs\05-competitive-dynamics\5c-evolutionary-outcomes-competition.md` | 2888 | ✅ No |
@@ -83,6 +83,7 @@ Character length warning threshold: `15000` characters.
 | `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1608 | ✅ No |
 | `docs\glossary\O.md` | 1522 | ✅ No |
 | `docs\08-fluid-reality\8-fluid-reality.md` | 1469 | ✅ No |
+| `docs\glossary\G.md` | 1166 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7a-mechanism-persistence.md` | 1159 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7b-dynamic-conditional-persistence.md` | 1155 | ✅ No |
 | `docs\glossary\M.md` | 1076 | ✅ No |
@@ -91,7 +92,6 @@ Character length warning threshold: `15000` characters.
 | `docs\glossary\F.md` | 929 | ✅ No |
 | `docs\glossary\V.md` | 732 | ✅ No |
 | `docs\glossary\T.md` | 588 | ✅ No |
-| `docs\glossary\G.md` | 578 | ✅ No |
 | `docs\glossary\W.md` | 577 | ✅ No |
 | `docs\glossary\N.md` | 559 | ✅ No |
 | `docs\glossary\L.md` | 469 | ✅ No |
@@ -108,4 +108,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-14 10:31:11*
+*Report generated on: 2025-06-14 11:26:40*
