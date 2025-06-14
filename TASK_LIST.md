@@ -92,10 +92,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
     - [`6-influence-collective-consciousness.md`](docs/06-influence-collective-consciousness/6-influence-collective-consciousness.md)
         - > - Rebase in self-reinforcing patterns
 
-    - [`6b-redrawing-borders-collective-consciousness.md`](docs/06-influence-collective-consciousness/6b-redrawing-borders-collective-consciousness.md)
-        - > - Needs good old fleshing out. Not low enough altitude
-          > - Elaborate on causal mechanics
-
     - [`6c-fluid-dynamics-metaphor.md`](docs/06-influence-collective-consciousness/6c-fluid-dynamics-metaphor.md)
         - > - Potentially stretching the fluid dynamics metaphor too thin
 

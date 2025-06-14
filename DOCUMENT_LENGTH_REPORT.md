@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 92
-- **Total characters in all documents**: 689448
+- **Total characters in all documents**: 694382
 - **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
@@ -27,7 +27,7 @@ Character length warning threshold: `15000` characters.
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d9-managing-competition.md` | 17856 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d10-framework-implications.md` | 17484 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d-ethical-dimensions.md` | 16405 | ⚠️ YES |
-| `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15824 | ⚠️ YES |
+| `docs\06-influence-collective-consciousness\6-influence-collective-consciousness.md` | 15971 | ⚠️ YES |
 | `docs\04-information-systems\4a-material-organization-dynamics\4a5-empirical-predictions.md` | 15557 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d5-meta-ethical-competition.md` | 15394 | ⚠️ YES |
 | `docs\05-competitive-dynamics\5d-ethical-dimensions\5d7-comparative-analysis.md` | 15366 | ⚠️ YES |
@@ -53,6 +53,7 @@ Character length warning threshold: `15000` characters.
 | `docs\glossary.md` | 6835 | ✅ No |
 | `docs\07-agentive-dissolution-legacy\7-agentive-dissolution-legacy.md` | 6807 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a4-developing-semantics.md` | 6409 | ✅ No |
+| `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 6395 | ✅ No |
 | `docs\03-agents-as-information-processors\3b-broader-agency-reciprocal-dynamics.md` | 6129 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a1-foundation.md` | 5865 | ✅ No |
 | `docs\01-pattern-realism\1a-pathway-emergence\1a-pathway-emergence.md` | 4457 | ✅ No |
@@ -80,7 +81,6 @@ Character length warning threshold: `15000` characters.
 | `docs\01-pattern-realism\1a-pathway-emergence\1a6-core-principles.md` | 2113 | ✅ No |
 | `docs\glossary\E.md` | 2086 | ✅ No |
 | `docs\glossary\I.md` | 1612 | ✅ No |
-| `docs\06-influence-collective-consciousness\6b-redrawing-borders-collective-consciousness.md` | 1608 | ✅ No |
 | `docs\glossary\O.md` | 1522 | ✅ No |
 | `docs\08-fluid-reality\8-fluid-reality.md` | 1469 | ✅ No |
 | `docs\glossary\G.md` | 1166 | ✅ No |
@@ -108,4 +108,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-06-14 11:42:44*
+*Report generated on: 2025-06-14 12:02:28*

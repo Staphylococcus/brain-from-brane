@@ -51,7 +51,7 @@ Yet new boundaries emerge through **algorithmic organization**—the computation
 
 **BIC-based community formation** occurs where shared **information structures** create new forms of social cohesion organized around **template content** rather than traditional demographic factors, with online communities demonstrating the [Lock-In phase characteristics](../05-competitive-dynamics/5e-bio-informational-complex.md#5e3-developmental-trajectory) of mature BIC development including cognitive dominance, resource allocation, and protective reactions through **organizational template defense**.
 
-Most significantly, borders become **fluid and dynamic** rather than static—context-dependent, gradient rather than binary, and evolutionarily adaptive in response to **template changes** and competitive pressures, consistent with the [adaptive resilience mechanisms](../05-competitive-dynamics/5a-mechanisms-competition.md) identified in competitive dynamics analysis through **parameter optimization**.
+Most significantly, borders become **fluid and dynamic** rather than static—context-dependent, gradient rather than binary, and evolutionarily adaptive in response to **template changes** and competitive pressures, consistent with the [adaptive resilience mechanisms](../05-competitive-dynamics/5a-mechanisms-competition.md) identified in competitive dynamics analysis through **parameter optimization**. For a low-altitude, mechanism-level exploration of these boundary shifts, see **[Section 6.b](6b-redrawing-borders-collective-consciousness.md)**.
 
 ## **Empirical Framework Integration and Structural Measurability**
 
