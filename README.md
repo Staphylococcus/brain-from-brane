@@ -16,6 +16,8 @@ As you embark on this intellectual journey, you'll encounter a unique blend of e
 
 **What to Expect:** This framework aims to integrate insights from multiple disciplines into a coherent worldview, generate novel conceptual tools for understanding consciousness and information, and provide practical frameworks for analyzing complex systems. Throughout the journey, we maintain intellectual honesty by clearly marking the difference between established knowledge and theoretical proposals, inviting you to engage with both as part of a sophisticated synthesis rather than established doctrine.
 
+**A Framework in Motion:** This ontology is in a continuous state of becoming. Some sections are more fleshed out than others, and the ideas presented here will evolve as they are confronted with new insights, critiques, and reality itself. Consider this a living document, and engage with it as such.
+
 ## Table of Contents
 
 - [Project Structure](#project-structure)
