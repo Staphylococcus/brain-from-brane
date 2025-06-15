@@ -4,8 +4,6 @@
 <!-- markdownlint-enable MD036 -->
 **Altitude**: High (10,000+ feet) - Panoramic Overview
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 Welcome to the "Brain from Brane" project—a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum. This framework explores the intricate relationships between information, matter, and consciousness, providing insights into the nature of reality and the role of agents as information processors.
 
 ## Navigating This Exploration
@@ -186,7 +184,7 @@ These frameworks are freely available for academic research, commercial applicat
 
 ## License and Citation
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ### How to Cite
 
@@ -209,7 +207,7 @@ For BibTeX:
 
 ## Contributing
 
-We welcome contributions to expand and refine this ontology framework. Please see our [contribution guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions to expand and refine this ontology framework. Please see our [contribution guidelines](https://github.com/Staphylococcus/brain-from-brane/blob/main/CONTRIBUTING.md) for more information.
 
 ---
 
