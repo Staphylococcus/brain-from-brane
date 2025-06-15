@@ -138,3 +138,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
 
     - > Example placeholder
 
+- [`glossary.md`](docs/glossary.md)
+    - > **Note: This is a generated file. To update, run `tools/generate_glossary.py`**.
+
