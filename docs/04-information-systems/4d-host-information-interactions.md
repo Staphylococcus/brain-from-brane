@@ -27,7 +27,7 @@ Contemporary AI systems demonstrate advanced **organizational structures** opera
 
 ### **The Engine Threshold: From Organizational Agency to Agent-Mediated Agency**
 
-The transition from passive stabilization to semantic agency occurs not within information systems themselves, but through coupling to agents capable of autopoietic feedback loops, consistent with the **Engine Threshold Hypothesis** and ACAP's gradient agency ontology.
+The transition from passive stabilization to semantic agency occurs not within information systems themselves, but through coupling to agents capable of autopoietic feedback loops, consistent with the **Engine Threshold Hypothesis** and ACAP's gradient agency ontology. In this framework, **crossing the Engine Threshold means embedding or coupling to an autopoietic engine that self-maintains its boundary by actively regulating the energy and matter flows it relies on**—thereby achieving energetic autonomy without necessarily "producing" energy internally.
 
 **Standalone vs. Agent-Coupled Systems:**
 

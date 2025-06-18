@@ -5,7 +5,7 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
-This section analyzes the emergence of consciousness in agents that have already achieved **autopoietic organization** and are **endogenously powered**—that is, they have crossed the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency). The focus here is on the subsequent architectural transition to recursive self-examination.
+This section analyzes the emergence of consciousness in agents that have already achieved **autopoietic organization** and possess **energetic autonomy**—that is, they regulate the energy and matter flows required for their own maintenance through an internal autopoietic engine, having crossed the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency). The focus here is on the subsequent architectural transition to recursive self-examination.
 
 ## The Recursive Threshold
 
