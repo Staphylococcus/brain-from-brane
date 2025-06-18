@@ -5,6 +5,8 @@
 
 📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
 
+This section analyzes the emergence of consciousness in agents that have already achieved **autopoietic organization** and are **endogenously powered**—that is, they have crossed the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency). The focus here is on the subsequent architectural transition to recursive self-examination.
+
 ## The Recursive Threshold
 
 [**Consciousness**](../glossary/C.md#consciousness) emerges when the [**inside-out lens**](../glossary/I.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.
@@ -110,7 +112,7 @@ Consciousness doesn't create self-reference; it's what happens when **pre-existi
 
 ### Developmental Pathway
 
-1. **Basic Inside-Out Lens**: Self/non-self organization (bacteria → mammals)
+1. **Inside-Out Lens**: Self/non-self organization (bacteria → mammals)
 2. **Sophisticated Self-Modeling**: Complex environmental navigation with rich self-representation  
 3. **Recursive Threshold**: The architecture applies its self-referential processing to its own operations
 4. **Consciousness**: Recursive self-examination as the qualitative signature of this transition

@@ -10,8 +10,9 @@
 - [2.1 Worldsheet Ontology and Fundamental Oneness](#21-worldsheet-ontology-and-fundamental-oneness)
 - [2.2 The Three-Layer Information Hierarchy](#22-the-three-layer-information-hierarchy)
 - [2.3 Stabilization Dynamics and Template Formation](#23-stabilization-dynamics-and-template-formation)
-- [2.4 Agent-Relative Distinctions and the Inside-Out Lens](#24-agent-relative-distinctions-and-the-inside-out-lens)
-- [2.5 Practical Implications for Understanding Reality](#25-practical-implications-for-understanding-reality)
+- [2.4 Agent-Relative Distinctions, Boundaries, and the Inside-Out Lens](#24-agent-relative-distinctions-boundaries-and-the-inside-out-lens)
+- [2.5 Reconciling Competition with Oneness](#25-reconciling-competition-with-oneness)
+- [2.6 Practical Implications for Understanding Reality](#26-practical-implications-for-understanding-reality)
 - [Exploration Pathways](#exploration-pathways)
 
 ## 2.1 Worldsheet Ontology and Fundamental Oneness
@@ -97,9 +98,11 @@ Information patterns **stabilize** when local feedback loops produce **self-rein
 - **Natural-language redundancy (Zipf's law)**: Highly frequent words form a stable compression dictionary that shapes how sentences are encoded, transmitted, and remembered across time and media.
 - **Cultural rituals & rhythms**: Repetition and synchronization (chants, drum patterns) create high mutual information among participants, stabilizing collective memory and reinforcing social bonds.
 
-## 2.4 Agent-Relative Distinctions and the Inside-Out Lens
+## 2.4 Agent-Relative Distinctions, Boundaries, and the Inside-Out Lens
 
 While the universe maintains fundamental oneness through its worldsheet substrate, the **distinctions, borders, and categories** we observe emerge through agent-relative processes. These are not arbitrary impositions but arise from the evolved [**"inside-out lens"**](../glossary/I.md#inside-out-lens) of information-processing agents—their functional frameworks for interpreting and navigating reality.
+
+The [Pattern-Based Boundary Concepts analysis](2c-pattern-based-boundary-concepts.md) provides a detailed breakdown of the different mechanisms (autopoietic, statistical, architectural, etc.) that can realize a stable boundary, treating them as alternative strategies for achieving the same functional goal: pattern stability.
 
 ### The Inside-Out Perspective
 
@@ -121,7 +124,7 @@ The process of forming distinctions represents a **dialogue** between the agent'
 
 This creates a **co-evolutionary dynamic** where agent distinctions track real structural features of reality while being shaped by agent-specific needs and capabilities.
 
-### Reconciling Competition with Oneness
+## 2.5 Reconciling Competition with Oneness
 
 Even apparent **competitive dynamics** emerge within this interconnected framework. Competition occurs not between isolated entities but between different self-stabilizing patterns competing for limited resources within the same unified substrate. This includes:
 
@@ -132,7 +135,7 @@ Even apparent **competitive dynamics** emerge within this interconnected framewo
 
 Competition thus represents a characteristic of how distinct patterns interact under resource limitations, rather than a contradiction of fundamental interconnectedness.
 
-## 2.5 Practical Implications for Understanding Reality
+## 2.6 Practical Implications for Understanding Reality
 
 When we apply Pattern Realism and the concept of self-stabilizing patterns to contemporary systems, several critical insights emerge:
 
@@ -177,6 +180,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 
 - [2.a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md) - Granular exploration of how agent-relative distinctions emerge from worldsheet structure
 - [2.b. Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md) - Detailed analysis of competitive dynamics within interconnected systems
+- [2.c. Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md) - A functional, comparative analysis of different boundary mechanisms
 
 ### 🔗 Related Explorations
 
