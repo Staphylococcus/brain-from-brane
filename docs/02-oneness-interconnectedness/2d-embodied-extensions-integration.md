@@ -7,9 +7,11 @@
 
 ---
 
-## 1  From Cane to Culture
+## 1  From Cane to Culture — A Pattern Perspective
 
-In classic macaque experiments by **Iriki et al.**, neurons that normally fire for the space right beyond the fingertips start firing at the tip of a handheld rake after only a few minutes of use.  Similar remapping has since been shown with computer mice, wheelchairs and surgical robots.  Cognitive-scientists such as **Clark** argue that this plastic extension of the body-schema is not a curiosity but a *central design feature* of intelligent systems: brains are built to spin up "soft prostheses" on demand.
+Seen through the **Pattern Realism** lens (§1), embodiment is a story about **patterns merging into larger, more stable patterns**.  A biological body, a wooden cane, and the neural control routine that welds them together are each self-stabilising configurations.  When their feedback loops interlock, the result is a *composite pattern* whose overall stability (and behavioural reach) exceeds that of the parts.
+
+Classic macaque work by **Iriki et al** shows how quickly such mergers occur: neurons that normally encode the near-hand space start responding at the tip of a handheld rake within minutes.  Similar remapping has been observed for computer mice, wheelchairs, surgical robots, even blind people's white canes.  Cognitive-scientists like **Clark** treat this plasticity as a built-in *pattern-aggregation engine*: brains are wired to spin up "soft prostheses" on demand whenever coupling improves the agent's overall pattern stability and outward-stabilisation capacity.
 
 At the opposite end of the time-axis we find organism–culture composites: the sailor navigating with sextant and nautical charts in **Hutchins' "Cognition in the Wild"**, the coder fused with an IDE, the laboratory whose instruments and protocols jointly constitute a sensing-thinking whole.  Here, too, boundaries blur; only the refresh-rate differs (seconds for a rake, decades for a research paradigm).
 
@@ -32,7 +34,7 @@ How embodied extensions integrate across scales
 | **Socio-technical** | Laboratory + scientists | Language, roles, workflows | years – decades | Institution as sensing/thinking unit |
 | **Cultural loop** | Organism + symbolic ecosystem | Legal-economic & linguistic circuits | decades – centuries | Self-reinforcing organism–information whole |
 
-The closure criterion is identical at every level: the composite must cancel perturbations fast enough to preserve its pattern.  What changes is *latency* and the *channel* through which errors propagate.
+Under the pattern lens, the closure criterion is identical at every level: **a composite survives only if it cancels perturbations faster than they accumulate**.  What changes up the scale ladder is *latency* (how fast correction happens) and the *channel* through which prediction errors propagate.
 
 ---
 
