@@ -85,10 +85,10 @@ Most importantly, recognizing collective consciousness as **structurally-driven 
 
 **Deep Dive Sections:**
 
-- **[6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md)** - Detailed analysis of traditional and AI-mediated influence pathways with empirical testing protocols
-- **[6.b. Redrawing Borders in Collective Consciousness](6b-redrawing-borders-collective-consciousness.md)** - Comprehensive examination of boundary dynamics and algorithmic organization
-- **[6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md)** - Conceptual framework for understanding dynamic boundary systems within worldsheet substrate
-- **[6.d. Implications for Individual and Collective Identity](6d-implications-identity.md)** - Analysis of identity formation in information system ecology environments
+- **[6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md)**: Detailed analysis of traditional and AI-mediated influence pathways with empirical testing protocols
+- **[6.b. Redrawing Borders in Collective Consciousness](6b-redrawing-borders-collective-consciousness.md)**: Comprehensive examination of boundary dynamics and algorithmic organization
+- **[6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md)**: Conceptual framework for understanding dynamic boundary systems within worldsheet substrate
+- **[6.d. Implications for Individual and Collective Identity](6d-implications-identity.md)**: Analysis of identity formation in information system ecology environments
 
 ---
 [<< Previous: ⚙️ 5.e. The Bio-Informational Complex (BIC)](../05-competitive-dynamics/5e-bio-informational-complex.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 6.a. Mechanisms of Influence on Reality >>](6a-mechanisms-influence-reality.md)

@@ -174,20 +174,20 @@ The practical power of this approach lies in its potential for **enhanced modeli
 
 ### 🔍 Higher Altitude: Framework Overview
 
-- [Complete Framework Navigation](../../README.md) - High-altitude overview of all concepts and their relationships
+- [Complete Framework Navigation](../../README.md): High-altitude overview of all concepts and their relationships
 
 ### ⚙️ Lower Altitude: Detailed Analysis
 
-- [2.a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md) - Granular exploration of how agent-relative distinctions emerge from worldsheet structure
-- [2.b. Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md) - Detailed analysis of competitive dynamics within interconnected systems
-- [2.c. Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md) - A functional, comparative analysis of different boundary mechanisms
+- [2.a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md): Granular exploration of how agent-relative distinctions emerge from worldsheet structure
+- [2.b. Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md): Detailed analysis of competitive dynamics within interconnected systems
+- [2.c. Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md): A functional, comparative analysis of different boundary mechanisms
 
 ### 🔗 Related Explorations
 
-- [1. Pattern Realism](../01-pattern-realism/1-pattern-realism.md) - The foundational dual-lens framework
-- [3. Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md) - How oneness manifests through agent perspectives
-- [4. Information Systems](../04-information-systems/4-information-systems.md) - Stabilization and propagation of patterns
-- [5. Competitive Dynamics](../05-competitive-dynamics/5-competitive-dynamics.md) - Competition within interconnected substrates
+- [1. Pattern Realism](../01-pattern-realism/1-pattern-realism.md): The foundational dual-lens framework
+- [3. Agents as Information Processors](../03-agents-as-information-processors/3-agents-as-information-processors.md): How oneness manifests through agent perspectives
+- [4. Information Systems](../04-information-systems/4-information-systems.md): Stabilization and propagation of patterns
+- [5. Competitive Dynamics](../05-competitive-dynamics/5-competitive-dynamics.md): Competition within interconnected substrates
 
 ---
 

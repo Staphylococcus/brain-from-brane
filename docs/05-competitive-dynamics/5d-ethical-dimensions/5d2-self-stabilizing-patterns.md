@@ -39,10 +39,10 @@ Psychological stabilization mechanisms
 
 | Mechanism | Operation | Stability Effect | Resistance Level |
 |-----------|-----------|------------------|------------------|
-| **Cognitive Dissonance Resolution** | Automatic rationalization of conflicts between moral beliefs and behavior | Prevents abandonment during ethical failures | **Extremely High** - occurs below conscious awareness |
-| **Moral Emotion Activation** | Guilt, shame, and pride reinforce ethical compliance | Creates powerful behavioral feedback loops | **High** - overrides rational calculation |
-| **Identity Protection Response** | Threats to ethical framework trigger defensive identity mechanisms | Challenges become personal attacks requiring resistance | **Extreme** - mobilizes fight-or-flight responses |
-| **Selective Attention Bias** | Preferential processing of information supporting moral framework | Reduces exposure to disconfirming evidence | **High** - operates automatically |
+| **Cognitive Dissonance Resolution** | Automatic rationalization of conflicts between moral beliefs and behavior | Prevents abandonment during ethical failures | **Extremely High**: occurs below conscious awareness |
+| **Moral Emotion Activation** | Guilt, shame, and pride reinforce ethical compliance | Creates powerful behavioral feedback loops | **High**: overrides rational calculation |
+| **Identity Protection Response** | Threats to ethical framework trigger defensive identity mechanisms | Challenges become personal attacks requiring resistance | **Extreme**: mobilizes fight-or-flight responses |
+| **Selective Attention Bias** | Preferential processing of information supporting moral framework | Reduces exposure to disconfirming evidence | **High**: operates automatically |
 
 ### **Social Stabilization (Interpersonal Level)**
 
@@ -50,10 +50,10 @@ Social stabilization mechanisms
 
 | Mechanism | Operation | Stability Effect | Network Dependencies |
 |-----------|-----------|------------------|---------------------|
-| **Moral Community Formation** | Shared ethics create in-group bonds and mutual reinforcement | Abandoning ethics means losing social connections | **Extensive** - entire social network at risk |
-| **Reciprocal Moral Monitoring** | Community members police each other's ethical compliance | Prevents individual drift from group norms | **High** - peer pressure and surveillance |
-| **Moral Exemplar Modeling** | Identification with ethical heroes provides behavioral templates | Creates aspirational pull toward framework maintenance | **Moderate** - depends on exemplar availability |
-| **Ethical Signaling Requirements** | Social status depends on visible commitment to moral framework | Makes ethical abandonment socially costly | **High** - affects reputation and opportunities |
+| **Moral Community Formation** | Shared ethics create in-group bonds and mutual reinforcement | Abandoning ethics means losing social connections | **Extensive**: entire social network at risk |
+| **Reciprocal Moral Monitoring** | Community members police each other's ethical compliance | Prevents individual drift from group norms | **High**: peer pressure and surveillance |
+| **Moral Exemplar Modeling** | Identification with ethical heroes provides behavioral templates | Creates aspirational pull toward framework maintenance | **Moderate**: depends on exemplar availability |
+| **Ethical Signaling Requirements** | Social status depends on visible commitment to moral framework | Makes ethical abandonment socially costly | **High**: affects reputation and opportunities |
 
 ### **Cultural Stabilization (Generational Level)**
 
@@ -61,10 +61,10 @@ Cultural stabilization mechanisms
 
 | Mechanism | Operation | Stability Effect | Temporal Scale |
 |-----------|-----------|------------------|----------------|
-| **Educational Embedding** | Ethical frameworks integrated into learning from early childhood | Creates foundational cognitive structures resistant to change | **Decades** - shapes basic moral intuitions |
-| **Ritual Reinforcement** | Regular ceremonial activities strengthen commitment to moral framework | Provides embodied, emotional renewal of ethical bonds | **Continuous** - weekly/daily reinforcement cycles |
-| **Narrative Integration** | Personal and collective stories organized around ethical themes | Makes framework abandonment require complete life reinterpretation | **Lifelong** - affects autobiography and meaning |
-| **Institutional Embodiment** | Ethics embedded in laws, organizations, and formal procedures | Creates structural momentum independent of individual belief | **Generational** - outlasts individual commitment |
+| **Educational Embedding** | Ethical frameworks integrated into learning from early childhood | Creates foundational cognitive structures resistant to change | **Decades**: shapes basic moral intuitions |
+| **Ritual Reinforcement** | Regular ceremonial activities strengthen commitment to moral framework | Provides embodied, emotional renewal of ethical bonds | **Continuous**: weekly/daily reinforcement cycles |
+| **Narrative Integration** | Personal and collective stories organized around ethical themes | Makes framework abandonment require complete life reinterpretation | **Lifelong**: affects autobiography and meaning |
+| **Institutional Embodiment** | Ethics embedded in laws, organizations, and formal procedures | Creates structural momentum independent of individual belief | **Generational**: outlasts individual commitment |
 
 ## **5.d.2.3. Meta-Stability: Self-Stabilization of Stabilization Mechanisms**
 
