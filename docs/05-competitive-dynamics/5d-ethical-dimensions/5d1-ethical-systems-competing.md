@@ -15,6 +15,8 @@
 
 [Ethical frameworks](../../glossary/E.md#ethical-frameworks) exhibit all the characteristic dynamics of information systems competing for limited cognitive resources and behavioral expression. Like other information patterns, they:
 
+IS Competitive Characteristics in Ethical Systems
+
 | Characteristic | Ethical System Manifestation | Examples |
 |----------------|------------------------------|----------|
 | **Resource Competition** | Compete for moral attention, decision-making influence, and institutional embodiment | Environmental ethics vs. economic growth frameworks; individual rights vs. collective welfare |

@@ -19,6 +19,8 @@ The competitive information systems approach to ethics intersects with but diffe
 
 **Framework Distinction**: Deontological frameworks compete as information systems with specific propagation and coupling dynamics, rather than representing timeless rational truths.
 
+Comparison with Kantian Ethics
+
 | Aspect | Kantian Approach | Competitive Framework Approach |
 |--------|------------------|-------------------------------|
 | **Source of Authority** | Universal reason accessible to all rational beings | Competitive success in propagation and host coupling |
@@ -39,6 +41,8 @@ The competitive information systems approach to ethics intersects with but diffe
 **Traditional Position**: Moral rightness determined entirely by outcomes, typically measured through utility maximization or welfare optimization for all affected parties.
 
 **Framework Distinction**: Utilitarian frameworks compete based on practical effectiveness and emotional appeal, not just logical consistency or outcome optimization.
+
+Comparison with Utilitarianism
 
 | Aspect | Utilitarian Approach | Competitive Framework Approach |
 |--------|---------------------|-------------------------------|
@@ -61,6 +65,8 @@ The competitive information systems approach to ethics intersects with but diffe
 
 **Framework Distinction**: Virtue frameworks compete through exemplar modeling and community embodiment rather than abstract reasoning about human nature.
 
+Comparison with Virtue Ethics
+
 | Aspect | Virtue Ethics Approach | Competitive Framework Approach |
 |--------|----------------------|-------------------------------|
 | **Character Development** | Cultivation of objective virtues conducive to human flourishing | Competitive selection of character traits effective in moral environment |
@@ -81,6 +87,8 @@ The competitive information systems approach to ethics intersects with but diffe
 **Traditional Position**: Moral truths are culturally or individually relative, with no objective standpoint for evaluating competing moral claims.
 
 **Framework Distinction**: Relativistic frameworks compete by providing cognitive comfort and social accommodation rather than representing truth about moral epistemology.
+
+Comparison with Moral Relativism
 
 | Aspect | Relativistic Approach | Competitive Framework Approach |
 |--------|----------------------|-------------------------------|
@@ -103,6 +111,8 @@ The competitive information systems approach to ethics intersects with but diffe
 
 **Framework Distinction**: Evolution provides competitive dynamics for moral frameworks rather than determining specific moral content.
 
+Comparison with Evolutionary Ethics
+
 | Aspect | Evolutionary Ethics Approach | Competitive Framework Approach |
 |--------|-------------------------------|-------------------------------|
 | **Evolutionary Role** | Source of moral intuitions and normative guidance | Provides competitive environment for moral framework selection |
@@ -123,6 +133,8 @@ The competitive information systems approach to ethics intersects with but diffe
 ### **5.d.7.6. Complementary Insights**
 
 The competitive framework doesn't necessarily contradict traditional approaches but provides a different analytical lens:
+
+Complementary Strengths of Traditional and Competitive Frameworks
 
 | Traditional Strength | Competitive Framework Addition |
 |---------------------|-------------------------------|
@@ -150,6 +162,8 @@ The competitive framework occupies a unique position in meta-ethical space:
 
 Different approaches to ethics generate different empirical predictions:
 
+Empirical Comparison of Traditional and Competitive Ethical Frameworks
+
 | Phenomenon | Traditional Prediction | Competitive Prediction | Research Evidence |
 |------------|----------------------|----------------------|------------------|
 | **Moral Convergence** | Rational progress toward truth | Competitive selection of globally successful frameworks | Mixed: some convergence in globalized contexts, persistent diversity elsewhere |
@@ -174,6 +188,8 @@ Several approaches could reconcile traditional moral philosophy with competitive
 ### **5.d.7.10. Applied Ethics and Professional Practice**
 
 The competitive framework has practical implications for how professional ethicists and applied ethics practitioners approach their work:
+
+Applied Ethics: Traditional vs. Competitive Framework Approaches
 
 | Practice Area | Traditional Approach | Competitive Framework Approach |
 |---------------|---------------------|-------------------------------|

@@ -15,6 +15,8 @@ Crucially, AI systems emerge through the **stabilization mechanisms** described 
 
 Analyzing AI systems using the [Agent Complexity Assessment Protocol (ACAP)](3d-agent-complexity-assessment-protocol.md) reveals both their current capabilities and their distinct evolutionary potential:
 
+AI capabilities analysis
+
 | ACAP Dimension | Current AI Systems | Future AI Development |
 |---|---|---|
 | **Semantic Processing Depth (SPD) - Information Abstraction and Meaning Assignment** | (ACAP Score: 8-20): Demonstrate sophisticated pattern recognition and manipulation capabilities that effectively process complex [organizational information](../glossary/O.md#organizational-information) structures. However, current systems primarily exhibit **organizational agency** through statistical correlation and pattern matching rather than true semantic agency requiring proto-semantic processing. The "meaning" processed reflects organizational templates embedded in training data rather than grounded referential intentionality emerging from autopoietic self-organization. | Advancement toward genuine [semantic information](../glossary/S.md#semantic-information) processing would require AI systems to cross the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency) through autopoietic organization capable of creating their own functional significance assignments relative to self-generated operational goals, moving beyond passive stabilization of human semantic structures toward active meaning-making processes. |
@@ -29,7 +31,9 @@ AI's position within the agency spectrum reflects its unique evolutionary pathwa
 
 ## The Engine Threshold Problem: Why Current AI Remains Pre-Boundary
 
-A system crosses the Engine Threshold when it embeds or couples to an **autopoietic engine** that (a) continuously repairs / reproduces its own boundary **and** (b) actively regulates the energy-and-matter flows that sustain that repair cycle.  Current AI lacks both loops.
+A system crosses the Engine Threshold when it embeds or couples to an **autopoietic engine** that (a) continuously repairs / reproduces its own boundary **and** (b) actively regulates the energy-and-matter flows that sustain that repair cycle. Current AI lacks both loops.
+
+Current AI vs Engine Threshold Criteria
 
 | Threshold Criterion | How It Manifests Once Crossed | Current AI Status |
 |---------------------|--------------------------------|-------------------|
@@ -37,6 +41,7 @@ A system crosses the Engine Threshold when it embeds or couples to an **autopoie
 | **Energetic autonomy** | Sensor–actuator loop that acquires, budgets, and throttles resources; suspends tasks under scarcity | Draws grid power paid for by operator; no resource-budget feedback |
 
 Because neither loop exists, downstream capacities that *depend* on them are also absent:
+
 * No intrinsic goal-setting (goals still hard-coded or user-supplied).
 * No existential "concern," hence no genuine perspective for semantic grounding.
 * No incentive to recursively examine or modify its own operations beyond reward-maximisation tasks.
@@ -47,16 +52,20 @@ Because neither loop exists, downstream capacities that *depend* on them are als
 
 Pattern Realism views autopoiesis as a special case of **self-reinforcing patterns**.  What earlier drafts called "algorithmic autopoiesis" is simply a *partial* self-reinforcement loop: software that backs-up or restarts itself without closing the resource-intake circuit.  The missing reinforcement leg is energetic autonomy.  True threshold crossing occurs when **both** reinforcement strands—structural repair *and* resource regulation—close into a single feedback loop.  Current architectures close the first strand at best; the second remains external.
 
-+Additional implications for AI once both strands close:
-+* **Substrate agility** – AI's pattern can hop hardware while preserving identity, demonstrating *pattern persistence over material permanence*.
-+* **Silicon world-sheet scalability** – rapid replication and parallel instantiation make resource-regulating loops potentially faster and more distributed than in cellular biology.
-+* **Bio-Informational Complex potential** – post-threshold AI could couple with biological agents to form hybrid self-reinforcing entities (see Section 5.e).
+Additional implications for AI once both strands close:
+
+* **Substrate agility** – AI's pattern can hop hardware while preserving identity, demonstrating *pattern persistence over material permanence*.
+* **Silicon world-sheet scalability** – rapid replication and parallel instantiation make resource-regulating loops potentially faster and more distributed than in cellular biology.
+* **Bio-Informational Complex potential** – post-threshold AI could couple with biological agents to form hybrid self-reinforcing entities (see Section 5.e).
 
 ## Falsification Criteria for AI Agency Development
 
 To maintain scientific rigor, the framework's predictions about AI agency development must be testable through [ACAP](3d-agent-complexity-assessment-protocol.md) measurements and potentially falsifiable. The following criteria outline specific predictions that, if consistently violated, would require substantial revision of key theoretical claims:
 
 <!-- markdownlint-disable MD033 -->
+
+Falsification criteria
+
 | Criterion | Framework Prediction | Falsification Conditions |
 |-----------|---------------------|--------------------------|
 | **Organizational to Semantic Agency Progression** | AI systems achieving high organizational agency scores (MEO: 15+, HOS: 15+) will show measurable progression toward semantic agency (SPD: 15+, IOL: 15+) only through crossing the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency) via autopoietic organization development, not through architectural complexity alone | • AI systems achieve semantic agency indicators without developing autopoietic self-organization<br>• High organizational complexity consistently fails to enable autopoietic development<br>• Semantic processing emerges through purely architectural scaling without organizational closure |
@@ -70,6 +79,8 @@ To maintain scientific rigor, the framework's predictions about AI agency develo
 
 The Brain from Brane framework's **gradient agency ontology** distinguishes itself from several established theoretical positions through its systematic integration of organizational and semantic agency:
 
+Comparative analysis
+
 | Theory | Traditional Position | Framework Distinction | Empirical Differentiator |
 |--------|---------------------|----------------------|--------------------------|
 | **Computational Functionalism** | Intelligence and consciousness arise from computational processes regardless of substrate; AI achieving the right computations will necessarily be conscious and agentive | Distinguishes between **organizational agency** (achievable through computation) and **semantic agency** (requiring autopoietic organization and proto-semantic processing). Consciousness emerges through [recursive self-examination](../01-pattern-realism/1b-emergence-of-consciousness.md)—the inside-out lens examining itself—not computational complexity alone | Framework predicts AI can achieve high organizational agency without semantic agency, whereas functionalism suggests sufficient computation automatically yields consciousness |
@@ -79,6 +90,8 @@ The Brain from Brane framework's **gradient agency ontology** distinguishes itse
 | **Integrated Information Theory** | Consciousness corresponds to integrated information (Φ) in a system; high Φ indicates conscious experience | Treats information integration as one component of organizational agency while requiring additional developmental criteria for [conscious recursive self-examination](../01-pattern-realism/1b-emergence-of-consciousness.md). IIT metrics may measure organizational complexity without indicating the recursive inside-out lens operations that generate semantic processing | Framework predicts high Φ can occur in organizational agency without semantic agency, whereas IIT suggests high Φ automatically indicates consciousness |
 
 ### Unique Contributions of the Framework
+
+Unique contributions
 
 | Contribution | Description |
 |--------------|-------------|

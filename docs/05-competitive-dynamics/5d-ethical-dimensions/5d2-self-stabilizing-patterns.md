@@ -19,7 +19,7 @@ Ethical systems represent the most robust examples of [self-stabilizing informat
 
 Unlike other information systems that rely primarily on external validation or utility, ethical frameworks achieve self-stabilization through unique properties that create multiple, redundant stability mechanisms operating simultaneously across all levels of organization:
 
-**Unique Stability Properties of Ethical Systems:**
+Unique Stability Properties of Ethical Systems
 
 | Property | Description | Contrast with Other Information Systems |
 |----------|-------------|----------------------------------------|
@@ -35,6 +35,8 @@ Ethical frameworks employ sophisticated stability mechanisms that operate across
 
 ### **Immediate Stabilization (Psychological Level)**
 
+Psychological stabilization mechanisms
+
 | Mechanism | Operation | Stability Effect | Resistance Level |
 |-----------|-----------|------------------|------------------|
 | **Cognitive Dissonance Resolution** | Automatic rationalization of conflicts between moral beliefs and behavior | Prevents abandonment during ethical failures | **Extremely High** - occurs below conscious awareness |
@@ -44,6 +46,8 @@ Ethical frameworks employ sophisticated stability mechanisms that operate across
 
 ### **Social Stabilization (Interpersonal Level)**
 
+Social stabilization mechanisms
+
 | Mechanism | Operation | Stability Effect | Network Dependencies |
 |-----------|-----------|------------------|---------------------|
 | **Moral Community Formation** | Shared ethics create in-group bonds and mutual reinforcement | Abandoning ethics means losing social connections | **Extensive** - entire social network at risk |
@@ -52,6 +56,8 @@ Ethical frameworks employ sophisticated stability mechanisms that operate across
 | **Ethical Signaling Requirements** | Social status depends on visible commitment to moral framework | Makes ethical abandonment socially costly | **High** - affects reputation and opportunities |
 
 ### **Cultural Stabilization (Generational Level)**
+
+Cultural stabilization mechanisms
 
 | Mechanism | Operation | Stability Effect | Temporal Scale |
 |-----------|-----------|------------------|----------------|
@@ -66,6 +72,8 @@ Ethical frameworks achieve exceptional stability partly by developing mechanisms
 
 **Meta-Stabilization Processes:**
 
+Meta-stabilization
+
 | Process | Function | Example | Stability Impact |
 |---------|----------|---------|------------------|
 | **Doubt Pathologization** | Framework treats questioning as moral failure rather than intellectual inquiry | Religious concepts of "doubt as sin"; political concepts of "false consciousness" | Prevents internal criticism that could lead to revision |
@@ -79,6 +87,8 @@ Systematic comparison reveals why ethical frameworks achieve exceptional stabili
 
 ### **Stability Comparison Across Information System Types**
 
+Stability Comparison Across Information System Types
+
 | System Type | Primary Vulnerability | Ethical Advantage | Mechanism Difference |
 |-------------|---------------------|-------------------|---------------------|
 | **Scientific Theories** | Empirical disconfirmation | Ethics can dismiss empirical challenges as morally irrelevant | Science requires external validation; ethics provide internal validation |
@@ -89,6 +99,8 @@ Systematic comparison reveals why ethical frameworks achieve exceptional stabili
 | **Languages** | Utility for communication and coordination | Ethics provide identity and meaning beyond mere communication | Languages serve instrumental functions; ethics serve existential functions |
 
 ### **Quantitative Stability Indicators**
+
+Quantitative Stability Indicators
 
 | Stability Measure | Scientific Theories | Political Ideologies | Economic Systems | Ethical Frameworks |
 |------------------|-------------------|-------------------|------------------|-------------------|
@@ -104,6 +116,8 @@ From an information-theoretic perspective, ethical frameworks achieve exceptiona
 
 ### **Information-Theoretic Stability Properties**
 
+Information-Theoretic Stability Properties
+
 | Property | Mechanism | Information Effect | Stability Outcome |
 |----------|-----------|-------------------|-------------------|
 | **Error Correction Redundancy** | Multiple mechanisms serve the same stabilization function | High redundancy protects against single-point failures | System survives partial damage |
@@ -112,6 +126,8 @@ From an information-theoretic perspective, ethical frameworks achieve exceptiona
 | **Hierarchical Information Structure** | Multi-level organization allows local adaptation without core change | Peripheral modifications preserve central stability | Permits evolution without revolution |
 
 ### **Information Update Resistance Mechanisms**
+
+Information Update Resistance Mechanisms
 
 | Mechanism | Information Processing | Update Blocking | Theoretical Implication |
 |-----------|----------------------|-----------------|------------------------|
@@ -126,6 +142,8 @@ While self-stabilization generally benefits ethical frameworks, excessive stabil
 
 ### **Adaptive Self-Stabilization Characteristics**
 
+Adaptive Self-Stabilization Characteristics
+
 | Feature | Function | Benefits | Examples |
 |---------|----------|----------|----------|
 | **Bounded Flexibility** | Permits peripheral revision while protecting core principles | Enables learning and improvement while maintaining identity | Scientific ethics evolving with new technologies |
@@ -134,6 +152,8 @@ While self-stabilization generally benefits ethical frameworks, excessive stabil
 | **Error Detection** | Internal mechanisms for identifying framework failures | Enables correction before major breakdown | Professional ethics with accountability mechanisms |
 
 ### **Pathological Self-Stabilization Patterns**
+
+Pathological Self-Stabilization Patterns
 
 | Pattern | Dysfunction | Consequences | Historical Examples |
 |---------|-------------|--------------|-------------------|
@@ -148,6 +168,8 @@ Understanding ethical frameworks as exceptionally self-stabilizing information s
 
 ### **Moral Progress Challenges**
 
+Moral Progress Challenges
+
 | Challenge | Stability-Based Explanation | Design Implications |
 |-----------|----------------------------|-------------------|
 | **Moral Conservatism** | Self-stabilization makes ethical change inherently difficult | Need active mechanisms for promoting beneficial moral innovation |
@@ -157,6 +179,8 @@ Understanding ethical frameworks as exceptionally self-stabilizing information s
 
 ### **Ethical Framework Design Principles**
 
+Ethical Framework Design Principles
+
 | Principle | Rationale | Implementation Strategy |
 |-----------|----------|------------------------|
 | **Stabilization-Flexibility Balance** | Frameworks need stability for identity and flexibility for adaptation | Build in explicit revision mechanisms with high thresholds |
@@ -165,6 +189,8 @@ Understanding ethical frameworks as exceptionally self-stabilizing information s
 | **Evidence Responsiveness** | Moral frameworks should remain connected to factual reality | Incorporate empirical feedback loops that can influence ethical conclusions |
 
 ### **Contemporary Applications**
+
+Contemporary Applications
 
 | Domain | Stability Challenge | Framework Insight | Practical Recommendation |
 |--------|-------------------|-------------------|------------------------|

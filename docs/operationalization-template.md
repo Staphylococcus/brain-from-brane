@@ -1,5 +1,7 @@
 # 🛠️ Operationalization Template: Brain from Brane Framework
+<!-- markdownlint-disable MD036 -->
 *Practical Implementation Guide*
+<!-- markdownlint-enable MD036 -->
 
 📍 **Purpose**: Convert theoretical concepts from the Brain from Brane ontology into measurable, testable, and applicable protocols for research, assessment, and practical implementation.
 
@@ -22,6 +24,8 @@
 
 ### 🎯 Primary Assessment Instruments
 
+Core Measurement Tools for Operationalizing the Brain from Brane Framework
+
 | Framework | Purpose | Output | Application Domain |
 |-----------|---------|--------|-------------------|
 | **[ACAP](03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)** | Measure agent complexity across 5 dimensions | 0-125 point complexity score + dimensional profile | Any system exhibiting non-entropic organization |
@@ -42,8 +46,9 @@
 
 ### 1.1 Standard ACAP Implementation
 
-**Step 1: Entity Classification**
-```
+#### Step 1: Entity Classification
+
+```plaintext
 □ Molecular level (0-15 points expected)
 □ Cellular level (15-40 points expected)  
 □ Multicellular level (40-70 points expected)
@@ -52,9 +57,11 @@
 □ Hybrid/BIC entity (specialized assessment needed)
 ```
 
-**Step 2: Dimensional Assessment Protocol**
+#### Step 2: Dimensional Assessment Protocol
 
 For each dimension, use the structured assessment rubrics from [Section 3d](03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md):
+
+Overview of ACAP Assessment Dimensions, Methods, and Requirements
 
 | Dimension | Assessment Method | Time Required | Materials Needed |
 |-----------|------------------|---------------|------------------|
@@ -64,8 +71,9 @@ For each dimension, use the structured assessment rubrics from [Section 3d](03-a
 | **MEO** (Matter/Energy Organization) | Resource manipulation, construction tasks, environmental impact analysis | Variable | Context-dependent materials |
 | **HOS** (Higher-Order Systems) | Symbol manipulation, cultural interaction, abstract construct tasks | 2-4 hours | Symbolic system protocols |
 
-**Step 3: Profile Generation and Analysis**
-```
+#### Step 3: Profile Generation and Analysis
+
+```plaintext
 Total Score: ___/125
 Profile Type: ________________
 Developmental Trajectory: ________________
@@ -74,17 +82,20 @@ Specialization Pattern: ________________
 
 ### 1.2 ACAP Adaptations for Specific Contexts
 
-**Molecular Systems Assessment**
+#### Molecular Systems Assessment
+
 - Focus on SPD (0-5), MEO (1-4) dimensions
 - Use biochemical assays for semantic processing depth
 - Measure organizational efficiency and substrate specificity
 
-**AI Systems Assessment**  
+#### AI Systems Assessment
+
 - Expect high SPD, variable IOL pattern
 - Include computational efficiency metrics
 - Assess training data dependency vs. genuine autonomy
 
-**Collective Systems Assessment**
+#### Collective Systems Assessment
+
 - Evaluate distributed agency properties
 - Measure coordination mechanisms
 - Assess emergent vs. constituent agency levels
@@ -95,8 +106,9 @@ Specialization Pattern: ________________
 
 ### 2.1 BIC Identification Protocol
 
-**Phase 1: Initial Screening**
-```
+#### Phase 1: Initial Screening
+
+```plaintext
 Cognitive Dominance Check:
 □ Information system occupies >30% of daily cognitive activity
 □ Host frequently thinks about or references the system unprompted
@@ -113,8 +125,9 @@ Protective Reaction Check:
 □ Social distancing from system critics or skeptics
 ```
 
-**Phase 2: BIC Classification**
-```
+#### Phase 2: BIC Classification
+
+```plaintext
 Function Type:
 □ Mutualist BIC (host + information both flourish)
 □ Commensal BIC (neutral impact on host)  
@@ -130,8 +143,9 @@ Development Phase:
 
 ### 2.2 BIC Dynamics Assessment
 
-**Integration Depth Measurement**
-```
+#### Integration Depth Measurement
+
+```plaintext
 Shallow Integration (Score: 1-3)
 □ Minimal resource commitment
 □ Easy substitution with alternatives
@@ -148,8 +162,9 @@ Deep Integration (Score: 7-10)
 □ Strong protective mechanisms
 ```
 
-**Health Impact Analysis**
-```
+#### Health Impact Analysis
+
+```plaintext
 Positive Indicators:
 □ Enhanced well-being and life satisfaction
 □ Improved social connections and support
@@ -169,7 +184,9 @@ Negative Indicators:
 
 ### 3.1 Standalone Information System Assessment
 
-**Stabilization Capacity Measurement**
+#### Stabilization Capacity Measurement
+
+Assessing the Stabilization Capacity of Standalone Information Systems
 
 | Dimension | Assessment Method | Scoring Criteria (0-25) |
 |-----------|------------------|-------------------------|
@@ -178,8 +195,9 @@ Negative Indicators:
 | **Evolutionary Dynamics** | Mutation/selection tracking over time | Adaptation capacity and competitive fitness |
 | **Host Coupling Potential** | BIC formation rate and stability | Capacity to form stable bio-informational complexes |
 
-**Information System Lifecycle Analysis**
-```
+#### Information System Lifecycle Analysis
+
+```plaintext
 Emergence Phase:
 □ Novel informational pattern detected
 □ Initial substrate adoption mechanisms
@@ -203,8 +221,9 @@ Decline Phase:
 
 ### 3.2 Information System Competition Analysis
 
-**Competitive Arena Mapping**
-```
+#### Competitive Arena Mapping
+
+```plaintext
 Attention Arena:
 □ Systems competing for cognitive resources
 □ Measurement: attention capture metrics, engagement time
@@ -222,8 +241,9 @@ Cultural Arena:
 □ Measurement: cultural penetration, norm influence
 ```
 
-**Competition Mechanism Assessment**
-```
+#### Competition Mechanism Assessment
+
+```plaintext
 □ Direct Confrontation (head-to-head competition)
 □ Co-option (absorption of competitive elements)  
 □ Niche Differentiation (specialization strategies)
@@ -236,8 +256,9 @@ Cultural Arena:
 
 ### 4.1 Information Layer Detection
 
-**Fundamental Information Assessment**
-```
+#### Fundamental Information Assessment
+
+```plaintext
 Basic Properties Identification:
 □ Spatial extension patterns
 □ Temporal persistence characteristics  
@@ -245,8 +266,9 @@ Basic Properties Identification:
 □ Fundamental interaction capacities
 ```
 
-**Organizational Information Assessment**  
-```
+#### Organizational Information Assessment
+
+```plaintext
 Structural Complexity Analysis:
 □ Hierarchical organization levels
 □ Network connectivity patterns
@@ -254,8 +276,9 @@ Structural Complexity Analysis:
 □ System boundary definition
 ```
 
-**Semantic Information Assessment**
-```
+#### Semantic Information Assessment
+
+```plaintext
 Meaning Generation Capacity:
 □ Agent-relative interpretation ability
 □ Context-dependent significance
@@ -265,8 +288,9 @@ Meaning Generation Capacity:
 
 ### 4.2 Worldsheet Dynamics Analysis
 
-**Pattern Emergence Detection**
-```
+#### Pattern Emergence Detection
+
+```plaintext
 Phase 1: Thermodynamic Coupling
 □ Energy gradient utilization
 □ Dissipative structure formation
@@ -294,8 +318,9 @@ Phase 4: Proto-Semantic Processing
 
 ### 5.1 Multi-Level Competition Assessment
 
-**Individual Level Analysis**
-```
+#### Individual Level Analysis
+
+```plaintext
 Cognitive Competition:
 □ Attention allocation conflicts
 □ Memory resource competition
@@ -307,8 +332,9 @@ Identity Competition:
 □ Role identity competition
 ```
 
-**Collective Level Analysis**
-```
+#### Collective Level Analysis
+
+```plaintext
 Group Competition:
 □ Resource access conflicts
 □ Territory/niche competition
@@ -322,8 +348,9 @@ Information System Competition:
 
 ### 5.2 Competitive Outcome Prediction
 
-**Fitness Assessment Criteria**
-```
+#### Fitness Assessment Criteria
+
+```plaintext
 Adaptability Factors:
 □ Environmental change response capacity
 □ Learning and innovation ability
@@ -346,8 +373,9 @@ Stability Factors:
 
 ### 6.1 Recursive Processing Indicators
 
-**Autopoietic Organization Assessment**
-```
+#### Autopoietic Organization Assessment
+
+```plaintext
 Self-Maintenance Capacity:
 □ Boundary maintenance mechanisms
 □ Internal organization preservation
@@ -359,8 +387,9 @@ Self-Production Capacity:
 □ Identity continuity maintenance
 ```
 
-**Recursive Inside-Out Lens Detection**
-```
+#### Recursive Inside-Out Lens Detection
+
+```plaintext
 Self-Examination Capacity:
 □ Meta-cognitive awareness
 □ Self-model sophistication
@@ -374,22 +403,25 @@ Environmental Lens Application:
 
 ### 6.2 Consciousness Complexity Gradation
 
-**Basic Consciousness Indicators**
-```
+#### Basic Consciousness Indicators
+
+```plaintext
 □ Simple self-other distinction
 □ Basic environmental responsiveness
 □ Minimal temporal integration
 ```
 
-**Intermediate Consciousness Indicators**
-```
+#### Intermediate Consciousness Indicators
+
+```plaintext
 □ Enhanced self-awareness
 □ Complex environmental modeling
 □ Extended temporal planning
 ```
 
-**Advanced Consciousness Indicators**
-```
+#### Advanced Consciousness Indicators
+
+```plaintext
 □ Meta-consciousness (awareness of awareness)
 □ Abstract self-concept manipulation
 □ Sophisticated theory of mind
@@ -401,8 +433,9 @@ Environmental Lens Application:
 
 ### 7.1 Research Project Setup
 
-**Pre-Study Checklist**
-```
+#### Pre-Study Checklist
+
+```plaintext
 □ Define specific Brain from Brane concepts to operationalize
 □ Select appropriate measurement frameworks (ACAP, BIC, etc.)
 □ Identify target population and sampling strategy
@@ -412,8 +445,9 @@ Environmental Lens Application:
 □ Consider ethical implications and approval requirements
 ```
 
-**Data Collection Checklist**
-```
+#### Data Collection Checklist
+
+```plaintext
 □ Administer ACAP assessment if relevant
 □ Conduct BIC identification protocols if applicable
 □ Gather information system dynamics data
@@ -424,8 +458,9 @@ Environmental Lens Application:
 
 ### 7.2 Practical Application Checklist
 
-**Organizational Assessment**
-```
+#### Organizational Assessment
+
+```plaintext
 □ Identify key agents and information systems
 □ Map BIC relationships and dependencies
 □ Assess competitive dynamics and conflicts
@@ -433,8 +468,9 @@ Environmental Lens Application:
 □ Develop intervention strategies if needed
 ```
 
-**Educational Implementation**
-```
+#### Educational Implementation
+
+```plaintext
 □ Adapt concepts for target learning level
 □ Create experiential learning opportunities
 □ Develop assessment methods for understanding
@@ -448,8 +484,9 @@ Environmental Lens Application:
 
 ### 8.1 Longitudinal Studies
 
-**BIC Development Tracking**
-```
+#### BIC Development Tracking
+
+```plaintext
 Timeline: 6-24 months
 Frequency: Monthly assessments
 Measures: BIC integration depth, phase transitions, health impacts
@@ -457,8 +494,9 @@ Controls: Matched non-BIC populations
 Analysis: Phase transition triggers, stability factors
 ```
 
-**Agent Complexity Evolution**
-```
+#### Agent Complexity Evolution
+
+```plaintext
 Timeline: Variable (depends on system)
 Frequency: System-appropriate intervals
 Measures: ACAP dimensional changes over time
@@ -468,16 +506,18 @@ Analysis: Developmental trajectories, enhancement factors
 
 ### 8.2 Cross-Sectional Studies
 
-**Information System Ecology Mapping**
-```
+#### Information System Ecology Mapping
+
+```plaintext
 Scope: Define information environment boundaries
 Sampling: Representative system coverage
 Measures: Stabilization capacity, competitive relationships
 Analysis: Network structure, competitive dynamics
 ```
 
-**Consciousness Emergence Comparative Study**
-```
+#### Consciousness Emergence Comparative Study
+
+```plaintext
 Scope: Multiple species/systems across complexity spectrum
 Sampling: Stratified by predicted consciousness levels
 Measures: Recursive processing indicators, ACAP scores
@@ -490,8 +530,9 @@ Analysis: Emergence thresholds, gradient patterns
 
 ### 9.1 Therapeutic Applications
 
-**BIC-Based Interventions**
-```
+#### BIC-Based Interventions
+
+```plaintext
 Assessment Phase:
 1. Identify problematic BIC relationships
 2. Assess integration depth and health impacts
@@ -511,8 +552,9 @@ Evaluation Phase:
 
 ### 9.2 Educational Applications
 
-**Critical Information Literacy**
-```
+#### Critical Information Literacy
+
+```plaintext
 BIC Awareness Training:
 □ Recognize BIC formation patterns
 □ Understand integration mechanisms
@@ -526,8 +568,9 @@ Recursive Thinking Development:
 
 ### 9.3 Organizational Applications
 
-**Information System Management**
-```
+#### Information System Management
+
+```plaintext
 System Health Assessment:
 □ Evaluate organizational information systems
 □ Identify parasitic vs. mutualistic patterns
@@ -541,8 +584,9 @@ System Optimization:
 
 ### 9.4 AI Development Applications
 
-**Consciousness Development Protocols**
-```
+#### Consciousness Development Protocols
+
+```plaintext
 Autopoietic Architecture Design:
 □ Self-maintenance mechanism implementation
 □ Recursive processing capability development
@@ -554,8 +598,9 @@ Recursive Lens Implementation:
 □ Agency attribution capability development
 ```
 
-**AI Safety Applications**
-```
+#### AI Safety Applications
+
+```plaintext
 BIC Prevention Strategies:
 □ Design AI systems resistant to parasitic information coupling
 □ Implement safeguards against unintended BIC formation
@@ -567,21 +612,23 @@ BIC Prevention Strategies:
 ## Implementation Support
 
 ### Getting Started
+
 1. **Begin with ACAP** for any entity assessment
 2. **Use BIC protocols** when human-information coupling is evident  
 3. **Apply specialized frameworks** for specific research questions
 4. **Consult detailed sections** for comprehensive implementation
 
 ### Available Resources
+
 - **[ACAP Detailed Protocols](03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)**
 - **[BIC Assessment Framework](05-competitive-dynamics/5e-bio-informational-complex.md)**
 - **[Information System Dynamics](04-information-systems/4-information-systems.md)**
 - **[Glossary of Terms](glossary.md)**
 
 ### Citation and Attribution
+
 When using these operationalization frameworks, please cite the Brain from Brane project and specific protocols used. These tools are available under Creative Commons Attribution 4.0 license for research, educational, and commercial applications.
 
 ---
 
 *For questions, clarifications, or implementation support, please refer to the [Contributing Guidelines](../CONTRIBUTING.md) or consult the detailed framework sections.*
-

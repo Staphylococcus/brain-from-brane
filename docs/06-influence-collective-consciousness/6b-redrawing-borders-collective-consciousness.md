@@ -18,6 +18,8 @@ Two reinforcing trends emerge:
 
 ## **6.b.2. Mechanistic Pathways**
 
+Mechanistic Pathways Reshaping Collective Boundaries
+
 | Pathway | Causal Mechanics | R/J/A Implications |
 |---------|-----------------|--------------------|
 | **Algorithmic Curation Loops** | Engagement-optimized feeds prioritize emotionally charged or identity-relevant content, intensifying intra-group cohesion while exposing users to a global pool of frames. | Platform algorithms play the role of *Repeaters* that preferentially magnify high-valence patterns; *Jitter* is injected through remix, satire, or automated recommendations; weak *Anchors* allow narratives to drift rapidly. |
@@ -39,6 +41,8 @@ Two reinforcing trends emerge:
 * **Agency Redistribution:**  According to the **[ACAP](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md)** matrix, composite entities (BICs, influencer networks) accumulate higher **Matter/Energy Organization** scores, rivaling nation-state influence.
 
 ## **6.b.5. Predictive Hypotheses & Research Directions**
+
+Predictive Hypotheses on the Future of Collective Boundaries and Identity
 
 | Hypothesis | Observable Metric | Potential Falsifier |
 |------------|------------------|---------------------|

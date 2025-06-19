@@ -14,6 +14,8 @@
 
 Ethical systems employ sophisticated strategies in their competition for moral dominance, often mirroring the general competitive mechanisms identified in [Section 5.a](../5a-mechanisms-competition.md):
 
+Ethical system competitive mechanisms
+
 | Mechanism | Ethical System Application | Contemporary Examples |
 |-----------|---------------------------|---------------------|
 | **Direct Confrontation** | Overt attempts to discredit or suppress competing moral frameworks through moral crusades, ethical purges, or institutional exclusion | Culture wars; academic ethics committee battles; regulatory capture by specific ethical frameworks |

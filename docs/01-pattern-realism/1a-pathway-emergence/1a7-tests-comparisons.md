@@ -9,6 +9,8 @@ The pathway is only useful if it risks being wrong. Below are concrete criteria 
 
 ## Falsification Criteria for Pathway Emergence
 
+Falsification criteria table
+
 | Criterion | Framework Prediction | Falsification Conditions |
 |-----------|---------------------|--------------------------|
 | **Stage Progression** | Development must follow the sequence: organizational patterns → environmental cues → thermodynamic coupling → proto-semantics → neural representation → symbolic systems | Discovery of symbolic agents with no neural representation, or of proto-semantic agents that never experienced thermodynamic coupling |
@@ -20,6 +22,8 @@ The pathway is only useful if it risks being wrong. Below are concrete criteria 
 ---
 
 ## Comparative Framework Analysis
+
+Comparative framework analysis table
 
 | Theory | Traditional Position | This Framework's Distinction | Empirical Differentiator |
 |--------|---------------------|------------------------------|---------------------------|

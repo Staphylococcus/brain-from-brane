@@ -22,7 +22,6 @@ From the **pattern realism** perspective of [Section 1](../01-pattern-realism/1-
 
 Understanding these systems requires two complementary approaches from pattern realism's **dual-lens methodology**: an **evolutionary lens** tracing their historical development, and a **material organization lens** examining their persistence and influence via structural mechanisms in physical substrates. These systems co-evolve with their material substrates—primarily biological [agents](../glossary/A.md#agent) like humans, but increasingly AI and computational substrates—creating complex bio-informational relationships analyzable via the complexity assessment protocols in [Section 3d](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md).
 
-> **Ontology Callout – What Counts as a "Substrate?"**  
 > In this project's non-dual perspective, *substrate* does **not** mean a different ontic category ("matter" vs. "information"). It labels any **slower-changing or higher-inertia slice** of the worldsheet fabric *relative to* the focal pattern. A neural network is a substrate for memes; blood chemistry for neural networks; silicon for machine-learning weights. Substratehood is **relational and scale-dependent**, not an intrinsic property. Keep this framing in mind as later chapters discuss substrate *affinity* and cross-substrate *resonance*.
 
 ## **I. Material Organization: Structured Patterns in the Worldsheet Fabric**

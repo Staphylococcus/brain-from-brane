@@ -15,6 +15,8 @@ Building on the boundary-shift mechanics of **[6.b](6b-redrawing-borders-collect
 
 ## **6.d.1. Identity as a Multi-Substrate Information Pattern**
 
+Key Components and Mechanisms of Identity as an Information System
+
 | Component | Mechanism | R/J/A Role | Example |
 |-----------|-----------|-----------|---------|
 | **Narrative Core** | Autobiographical stories, value hierarchies | *Anchors* (provide stability & meaning) | Personal "origin story," religious creed |
@@ -34,6 +36,8 @@ When an external information system fuses with a host to form a **[Bio-Informati
 4. **Schism & Drift (Propagation → Breakdown)** – Divergent Jitter among sub-groups seeds new BIC splinters, each claiming authentic identity.
 
 ### **Spectrum of BIC Identity Outcomes**
+
+How Different BIC Types Shape Identity Coherence, Flexibility, and Well-Being
 
 | BIC Type | Identity Coherence | Flexibility | Well-Being Impact | Illustrative Case |
 |----------|-------------------|-------------|-------------------|------------------|
@@ -104,6 +108,8 @@ Risks mirror advantages:
 4. **BIC Health Checks** – Apply **ACAP**-style metrics (resource allocation balance, cognitive dominance index) to monitor coupled systems.
 
 ## **6.d.5. Research & Falsifiable Predictions**
+
+Falsifiable Predictions on Identity Dynamics in the Information Age
 
 | Hypothesis | Measure | Falsifier |
 |------------|---------|-----------|

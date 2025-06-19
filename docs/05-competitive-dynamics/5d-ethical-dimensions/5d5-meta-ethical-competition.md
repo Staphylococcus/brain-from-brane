@@ -15,6 +15,8 @@
 
 A crucial dimension of ethical competition involves meta-ethical frameworks—information systems that compete to define what counts as valid moral reasoning itself:
 
+Meta-Ethical Framework Comparison
+
 | Meta-Ethical Framework | Core Claims | Competitive Strategy |
 |----------------------|-------------|---------------------|
 | **Moral Realism** | Objective moral facts exist independently of beliefs | Claims epistemic authority through universal moral truths |
@@ -66,28 +68,28 @@ Meta-ethical frameworks don't just provide abstract philosophical positions—th
 
 ### **Moral Realism**
 
-#### **Core Claims**
+#### **Moral Realism Core Claims**
 
 - Objective moral facts exist independently of human beliefs, attitudes, or conventions
 - Moral statements can be literally true or false
 - Moral knowledge is possible through reason, intuition, or empirical investigation
 - Universal moral principles apply to all rational agents
 
-#### **Competitive Advantages**
+#### **Moral Realism Competitive Advantages**
 
 - **Epistemic Authority**: Claims access to objective moral truth
 - **Universal Application**: Provides basis for cross-cultural moral criticism
 - **Intellectual Respectability**: Appeals to scientific and philosophical standards
 - **Motivational Power**: Objective duties provide strong reasons for action
 
-#### **Competitive Strategies**
+#### **Moral Realism Competitive Strategies**
 
 - **Philosophical Argument**: Sophisticated theoretical justifications for moral objectivity
 - **Intuition Appeals**: Claims that moral realism reflects common moral experience
 - **Scientific Analogy**: Parallels between moral and scientific knowledge
 - **Practical Necessity**: Arguments that effective moral discourse requires objectivity
 
-#### **Vulnerabilities**
+#### **Moral Realism Vulnerabilities**
 
 - **Disagreement Problem**: Persistent moral disagreement challenges claims to objectivity
 - **Cultural Variation**: Anthropological evidence of moral diversity
@@ -96,28 +98,28 @@ Meta-ethical frameworks don't just provide abstract philosophical positions—th
 
 ### **Moral Relativism**
 
-#### **Core Claims**
+#### **Moral Relativism Core Claims**
 
 - Moral truths are relative to cultures, societies, or individuals
 - No universal moral standards exist across all contexts
 - Moral criticism is legitimate only from within shared frameworks
 - Moral diversity reflects legitimate differences rather than error
 
-#### **Competitive Advantages**
+#### **Moral Relativism Competitive Advantages**
 
 - **Cultural Sensitivity**: Accommodates moral diversity and avoids ethnocentrism
 - **Tolerance**: Supports pluralistic approaches to moral differences
 - **Descriptive Accuracy**: Better fits anthropological evidence of moral variation
 - **Democratic Values**: Aligns with ideals of equality and respect for difference
 
-#### **Competitive Strategies**
+#### **Moral Relativism Competitive Strategies**
 
 - **Anthropological Evidence**: Documentation of moral diversity across cultures
 - **Anti-Imperialism**: Criticism of universal moral frameworks as cultural imperialism
 - **Democratic Appeals**: Connection to values of pluralism and tolerance
 - **Practical Benefits**: Reduction of moral conflict through acceptance of difference
 
-#### **Vulnerabilities**
+#### **Moral Relativism Vulnerabilities**
 
 - **Self-Refutation**: Question of whether relativism itself is relative or universal
 - **Moral Progress**: Difficulty explaining how moral improvement is possible
@@ -126,28 +128,28 @@ Meta-ethical frameworks don't just provide abstract philosophical positions—th
 
 ### **Evolutionary Ethics**
 
-#### **Core Claims**
+#### **Evolutionary Ethics Core Claims**
 
 - Moral intuitions and behaviors evolved through natural selection
 - Morality serves functions related to cooperation and group survival
 - Understanding evolutionary origins explains moral phenomena
 - Scientific study of morality should inform ethical thinking
 
-#### **Competitive Advantages**
+#### **Evolutionary Ethics Competitive Advantages**
 
 - **Scientific Authority**: Leverages prestige and methods of evolutionary biology
 - **Explanatory Power**: Provides naturalistic account of moral phenomena
 - **Empirical Grounding**: Connects moral philosophy to scientific research
 - **Practical Applications**: Suggests evidence-based approaches to moral problems
 
-#### **Competitive Strategies**
+#### **Evolutionary Ethics Competitive Strategies**
 
 - **Research Programs**: Extensive scientific investigation of moral psychology and behavior
 - **Popular Science**: Accessible books and media explaining evolutionary approaches
 - **Academic Integration**: Incorporation into psychology, anthropology, and philosophy curricula
 - **Policy Applications**: Use of evolutionary insights in institutional design
 
-#### **Vulnerabilities**
+#### **Evolutionary Ethics Vulnerabilities**
 
 - **Is-Ought Problem**: Difficulty deriving normative conclusions from descriptive facts
 - **Genetic Fallacy**: Confusion between evolutionary origins and moral validity
@@ -156,28 +158,28 @@ Meta-ethical frameworks don't just provide abstract philosophical positions—th
 
 ### **Divine Command Theory**
 
-#### **Core Claims**
+#### **Divine Command Theory Core Claims**
 
 - Moral authority ultimately derives from divine commands or will
 - God's nature or commands constitute the foundation of moral obligation
 - Religious revelation provides access to moral truth
 - Morality without divine foundation lacks ultimate justification
 
-#### **Competitive Advantages**
+#### **Divine Command Theory Competitive Advantages**
 
 - **Ultimate Authority**: Grounds morality in transcendent, unquestionable source
 - **Motivational Power**: Divine commands provide compelling reasons for moral action
 - **Community Resources**: Access to extensive religious institutions and traditions
 - **Existential Meaning**: Connects morality to ultimate purpose and significance
 
-#### **Competitive Strategies**
+#### **Divine Command Theory Competitive Strategies**
 
 - **Religious Institution**: Extensive organizational infrastructure for promoting framework
 - **Sacred Texts**: Authoritative sources of moral guidance and justification
 - **Spiritual Experience**: Personal encounters with divine authority
 - **Cultural Integration**: Deep embedding in traditional moral practices and institutions
 
-#### **Vulnerabilities**
+#### **Divine Command Theory Vulnerabilities**
 
 - **Secular Challenge**: Loss of influence in increasingly secular societies
 - **Religious Pluralism**: Competition between different divine command systems
@@ -186,28 +188,28 @@ Meta-ethical frameworks don't just provide abstract philosophical positions—th
 
 ### **Procedural Ethics**
 
-#### **Core Claims**
+#### **Procedural Ethics Core Claims**
 
 - Focus on fair processes rather than predetermined moral outcomes
 - Legitimacy derives from proper procedures rather than substantive content
 - Democratic participation should determine moral and political decisions
 - Institutional design should enable fair resolution of moral conflicts
 
-#### **Competitive Advantages**
+#### **Procedural Ethics Competitive Advantages**
 
 - **Democratic Legitimacy**: Aligns with widespread acceptance of democratic values
 - **Practical Applicability**: Provides concrete methods for resolving moral conflicts
 - **Pluralism Accommodation**: Enables cooperation despite substantive moral disagreement
 - **Institutional Support**: Well-developed procedures in legal and political systems
 
-#### **Competitive Strategies**
+#### **Procedural Ethics Competitive Strategies**
 
 - **Institutional Design**: Development of fair procedures for moral decision-making
 - **Democratic Theory**: Sophisticated accounts of legitimate political authority
 - **Legal Integration**: Incorporation into constitutional and legal frameworks
 - **Practical Success**: Demonstration of effectiveness in resolving real-world conflicts
 
-#### **Vulnerabilities**
+#### **Procedural Ethics Vulnerabilities**
 
 - **Substantive Emptiness**: Criticism that procedures without content are meaningless
 - **Participation Problems**: Difficulties ensuring genuine democratic participation

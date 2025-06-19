@@ -9,6 +9,8 @@ This capacity for [information](../glossary/I.md#information) processing and env
 
 ## Complexity Spectrum in Non-Human Biological Agents
 
+Complexity Spectrum in Non-Human Biological Agents
+
 | Example Agent | ["Inside-Out Lens"](../glossary/I.md#inside-out-lens) & [Semantic Capabilities](../glossary/S.md#semantic-information) | Goal Complexity, Autonomy, & Learning/Adaptation | Novelty & Interaction with Info Systems |
 | --- | --- | --- | --- |
 | **Amoeba** | Rudimentary lens; internal states mediate responses to survival cues (e.g., light, chemical gradients), providing functional meaning ([Proto-Semantics](../glossary/P.md#proto-semantics), Stage III). | Simple goals (nutrients, harm avoidance, division); low, reactive autonomy; adaptation primarily genetic. | Novelty mainly via genetic mutation; no interaction with complex info systems. |

@@ -30,6 +30,8 @@ The consistent manifestation of these characteristics suggests a deep fusion of 
 
 The typical life-cycle unfolds in five recognizable phases:
 
+Life-Cycle of a Bio-Informational Complex (BIC)
+
 | Phase             | Description                                                              | Dominant Dynamics                                         |
 | ----------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
 | **(I) Exposure**  | Initial contact with the information pattern.                            | Curiosity, low commitment.                                |
@@ -62,6 +64,8 @@ The classification is fluid: contextual shifts ([resource scarcity](../glossary/
 To better understand the unique position of BICs within the broader landscape of information-processing entities, we can apply the agent complexity criteria established in [Section 3](../03-agents-as-information-processors/3-agents-as-information-processors.md) to compare BICs with individual human agents, AI systems, and pure information systems (ideologies). This analysis reveals how BICs represent a distinctive hybrid category that combines characteristics of both biological agents and information systems.
 
 ### **Comparative BIC Analysis**
+
+Comparing Bio-Informational Complexes (BICs), Human Agents, AI Agents, and Pure Information Systems Across Key Dimensions
 
 | Entity Type | Depth, Nature, & Efficiency of Semantic Processing | Sophistication of "Inside-Out Lens," Self-Awareness, & Goal Complexity | Autonomy, Adaptability, & Mode of Evolution/Learning | Capacity to Organize Matter, Energy, & Extent of Influence | Capacity for Novelty, Creativity, & Interaction with Higher-Order Info Systems |
 | --- | --- | --- | --- | --- | --- |
@@ -97,6 +101,8 @@ These hypotheses, derived from the BIC framework, suggest avenues for further em
 
 The BIC framework makes specific, testable predictions that could potentially weaken or require revision of the model if contradicted by empirical evidence:
 
+Falsification Criteria and Revision Conditions for the BIC Framework
+
 | Falsification Criterion | Framework Prediction | Conditions That Would Require Revision |
 |-------------------------|---------------------|---------------------------------------|
 | **Protective Reaction Hypothesis** | Hosts in mature BICs will exhibit characteristic defensive responses (cognitive dissonance, emotional defensiveness, social exclusion) when their coupled information systems are challenged | Extensive sociological research showing that adoption of high-demand ideologies does not correlate with predicted protective reactions when challenged |
@@ -106,6 +112,8 @@ The BIC framework makes specific, testable predictions that could potentially we
 | **Reversibility Predictions** | Parasitic BICs show measurable negative impacts on host well-being that are reversible upon BIC dissolution | Longitudinal studies failing to demonstrate predicted well-being patterns or reversibility upon BIC dissolution |
 
 ### **Boundary Conditions Requiring Framework Refinement:**
+
+Boundary Conditions That Would Require Revision of the BIC Framework
 
 | Condition | Required Response |
 |-----------|------------------|
@@ -118,6 +126,8 @@ The BIC framework makes specific, testable predictions that could potentially we
 The BIC concept intersects with several established theoretical frameworks. The following comparison illuminates both the unique contributions and potential limitations of the BIC model:
 
 <!-- markdownlint-disable MD033 -->
+Comparing the Bio-Informational Complex (BIC) to Other Theoretical Frameworks
+
 | Framework | Similarities with BIC | Key Differences | BIC's Distinctive Contribution |
 |-----------|----------------------|-----------------|------------------------------|
 | **Memetics (Dawkins, Dennett, Blackmore)** | • Ideas as replicating entities that "infect" hosts<br>• Successful patterns may not benefit hosts<br>• Evolutionary dynamics in cultural transmission | • **Unit of Analysis**: Memetics focuses on discrete memes; BIC emphasizes integrated host-information system<br>• **Host Agency**: BIC retains focus on host psychology; memetics treats hosts as passive vehicles<br>• **Coupling Dynamics**: BIC models reciprocal dependencies; memetics focuses on transmission | Specific observable criteria (cognitive dominance, resource allocation, protective reactions) for identifying phenomenon |
@@ -127,6 +137,8 @@ The BIC concept intersects with several established theoretical frameworks. The 
 <!-- markdownlint-enable MD033 -->
 
 ## **Unique Contributions of the BIC Framework**
+
+Unique Contributions of the Bio-Informational Complex (BIC) Framework
 
 | Contribution | Description |
 |--------------|-------------|

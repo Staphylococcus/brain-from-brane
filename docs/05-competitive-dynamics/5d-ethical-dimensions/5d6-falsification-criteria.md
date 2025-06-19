@@ -17,6 +17,8 @@ The framework's claims about ethical system competition generate specific, testa
 
 **Framework Prediction**: Individuals strongly identified with ethical frameworks will exhibit characteristic defensive responses when core moral commitments are challenged.
 
+Predicted response patterns
+
 | Predicted Response Pattern | Empirical Indicators | Measurement Methods |
 |---------------------------|---------------------|-------------------|
 | **Cognitive Dissonance Reduction** | Rationalization of contradictory evidence; selective information processing | Experimental paradigms measuring response to moral challenge scenarios |
@@ -29,6 +31,8 @@ The framework's claims about ethical system competition generate specific, testa
 ### **5.d.6.2. Ethical Resource Competition Dynamics**
 
 **Framework Prediction**: In contexts with limited moral attention/authority, competing ethical frameworks will demonstrate zero-sum competitive dynamics.
+
+Indicators of competitition
 
 | Competitive Indicator | Expected Pattern | Measurement Context |
 |----------------------|------------------|-------------------|
@@ -43,6 +47,8 @@ The framework's claims about ethical system competition generate specific, testa
 
 **Framework Prediction**: Changes in dominant meta-ethical frameworks will predict shifts in specific moral practices and institutional policies.
 
+Meta-Ethical Shifts and their Impact
+
 | Meta-Ethical Shift | Predicted Practical Changes | Empirical Tracking |
 |-------------------|----------------------------|-------------------|
 | **Relativism → Objectivism** | Increased moral universalism in policy; reduced cultural accommodation | Legal and policy analysis over time |
@@ -56,6 +62,8 @@ The framework's claims about ethical system competition generate specific, testa
 
 **Framework Prediction**: Ethical systems with higher emotional resonance and transmission efficiency will demonstrate faster spread and broader adoption.
 
+Propagation Efficiency Patterns
+
 | Efficiency Factor | Predicted Advantage | Measurement Method |
 |------------------|-------------------|-------------------|
 | **Emotional Resonance** | Frameworks triggering stronger emotional responses spread faster | Viral coefficient analysis for moral content; emotional response measurement |
@@ -68,6 +76,8 @@ The framework's claims about ethical system competition generate specific, testa
 ### **5.d.6.5. Bio-Informational Complex Formation Patterns**
 
 **Framework Prediction**: Ethical frameworks will form characteristic Bio-Informational Complexes with predictable developmental patterns and resource allocation effects.
+
+Bio-Informational Complex Formation Patterns
 
 | BIC Development Stage | Predicted Characteristics | Observable Indicators |
 |----------------------|--------------------------|---------------------|
@@ -122,6 +132,8 @@ The framework's claims about ethical system competition generate specific, testa
 
 Not all falsification evidence would require complete framework abandonment. The framework establishes criteria for different levels of revision:
 
+Proportionality of evidence strength to required responses
+
 | Evidence Strength | Required Response | Framework Implications |
 |------------------|------------------|----------------------|
 | **Single Study Contradiction** | Acknowledge limitation; seek replication | Minor adjustment to specific predictions |
@@ -132,6 +144,8 @@ Not all falsification evidence would require complete framework abandonment. The
 ### **5.d.6.10. Alternative Explanatory Frameworks**
 
 The competitive framework acknowledges potential alternative explanations that could account for observed ethical phenomena:
+
+Alternative Explanatory Frameworks
 
 | Alternative Framework | Potential Evidence | Competitive Framework Response |
 |----------------------|-------------------|------------------------------|

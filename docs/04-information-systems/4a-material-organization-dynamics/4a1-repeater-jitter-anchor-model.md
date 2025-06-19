@@ -11,6 +11,8 @@ Information systems depend on three fundamental material components that work to
 
 **Repeaters** are the engines of informational continuity—material systems that receive, process, and retransmit patterns. They function as the active propagation mechanisms for information systems, ensuring that knowledge, behaviors, and cultural norms are passed on. Their function is grounded in Shannon's theory of high-fidelity transmission, which explains how information can be replicated accurately across noisy channels. In the R/J/A model, this capacity for repetition is the foundation upon which evolutionary dynamics unfold. Repeaters can be categorized into biological, technological, and hybrid systems, each playing a distinct role in propagation.
 
+Repeater types
+
 | Repeater Type | Description | Examples |
 | :--- | :--- | :--- |
 | **Biological** | Living systems that inherently process and transmit information. | Human brains (neural networks), social groups (cultural transmission), institutional structures (schools, religious bodies). |
@@ -20,6 +22,8 @@ Information systems depend on three fundamental material components that work to
 ## 4.a.1.2 Jitter: Sources of Variation and Innovation
 
 **Jitter** introduces the necessary element of variation, encompassing all processes that alter information during transmission. This variability is not mere noise; it is the raw material for evolutionary adaptation, allowing information systems to innovate and adjust to new conditions. Jitter can arise from biological, technological, or environmental sources, each contributing to the system's dynamic nature.
+
+Jitter sources
 
 | Jitter Source | Description | Examples |
 | :--- | :--- | :--- |
@@ -31,6 +35,8 @@ Information systems depend on three fundamental material components that work to
 
 **Anchors** are the mechanisms of stability that prevent information systems from dissolving into chaos. By providing fidelity and reference points, they counteract the effects of jitter and ensure that the system maintains its core identity over time, allowing for controlled evolution rather than excessive drift. These stabilizing forces can be physical, social, or logical, each contributing to the system's resilience and longevity.
 
+Anchor types
+
 | Anchor Type | Description | Examples |
 | :--- | :--- | :--- |
 | **Physical** | Tangible, material embodiments of information that resist change. | Written texts, architectural monuments, technological implementations (e.g., source code), ritualized practices. |
@@ -40,6 +46,8 @@ Information systems depend on three fundamental material components that work to
 ## 4.a.1.4 Comparative Analysis: Positioning the R/J/A Model
 
 While the Repeater / Jitter / Anchor triad stands on the shoulders of decades of work in communication theory and evolutionary thinking, it also introduces useful distinctions that simplify real-world analysis and design. The table below maps R/J/A onto several influential frameworks and highlights the additional clarity or scope provided by this model.
+
+Comparative analysis
 
 | Reference Framework | Core Components | Correspondence to R / J / A | What R/J/A Contributes |
 | :--- | :--- | :--- | :--- |

@@ -17,6 +17,8 @@ This table compares the stability mechanisms, longevity factors, and illustrativ
 <!-- markdownlint-disable MD033 -->
 <a id="4b35-architectural-and-monumental-systems"></a>
 
+Stability across major types of information systems
+
 | System Type | Stability Mechanisms | Longevity Factors | Example Analysis |
 |-------------|---------------------|-------------------|------------------|
 | **Scientific Knowledge** | - Empirical validation creates objective anchors<br>- Peer review filters errors<br>- Institutional support (universities, research institutions)<br>- Practical applications demonstrate value | - Predictive power justifies preservation<br>- Cumulative nature enables building on achievements<br>- International coordination spreads responsibility<br>- Educational integration ensures transmission | **Newtonian Mechanics**<br>- Core principles stable for centuries<br>- Applications evolve (astronomy → engineering → space travel)<br>- Education adapts (proofs → computation)<br>- Institutional support shifts (patronage → universities) |

@@ -84,9 +84,7 @@ Researchers who want to build formal models might start by focusing on four empi
 
 Rule of thumb: higher SAC and P speed up adoption, while higher RI—and especially higher RI paired with low ρ—extends the pattern's lifespan. Section 4.a.5 outlines study designs that translate these ideas into measurable variables.
 
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Scholarly Context — Substrate Affinity</summary>
+Scholarly Context — Substrate Affinity
 
 | Prior Concept / Model | Field(s) | Core Claim | Overlap with SAP | SAP's Distinctive Twist |
 | --- | --- | --- | --- | --- |
@@ -96,10 +94,7 @@ Rule of thumb: higher SAC and P speed up adoption, while higher RI—and especia
 | Ecological Fitting & Niche Construction | Evolutionary biology | Organisms flourish when environmental affordances suit their traits | Same fitness-via-fit logic | Elevates logic to information patterns (memes, code, norms), encouraging cross-domain metrics |
 | Cultural Epidemiology (Sperber) | Cognitive anthropology | Cultural items spread when they resonate with cognitive biases | Cognitive substrate fit | SAC treats cognitive, social, and technological fit symmetrically |
 
-</details>
-
-<details>
-<summary>Scholarly Context — Multi-Substrate Resonance</summary>
+Scholarly Context — Multi-Substrate Resonance
 
 | Prior Concept / Model | Field(s) | Core Claim | Overlap with MSRRE | MSRRE's Distinctive Twist |
 | --- | --- | --- | --- | --- |
@@ -108,9 +103,6 @@ Rule of thumb: higher SAC and P speed up adoption, while higher RI—and especia
 | Gene–Culture Co-evolution / Multi-level Cultural Evolution | Evolutionary biology, Anthropology | Cultural traits stabilise when encoded in genes, minds, and artifacts | Mind–artifact dual hosting echoes resonance | Draws explicit line to emergent hybrid agency (Bio-Informational Complexes) |
 | Institutionalisation & Isomorphism | Sociology | Practices endure when embedded in multiple organisational layers | Multi-layer embedding theme | Expands layers beyond social to include neural and technical substrates |
 | Multi-layer Network Robustness | Network science | Networks survive attacks better when connectivity spreads across weakly-correlated layers | Correlated-failure concern matches | Packages idea as RI inviting cross-domain empirical testing |
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 [<< Previous: ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.3. Material Organization in Practice >>](4a3-material-organization-in-practice.md)

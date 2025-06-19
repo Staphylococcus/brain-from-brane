@@ -15,6 +15,8 @@ The coupling between hosts and ethical systems creates particularly powerful [Bi
 
 ## **Characteristics of Ethical BICs**
 
+Ethical BIC Characteristics
+
 | Phase | Ethical BIC Development | Identifying Features |
 |-------|------------------------|---------------------|
 | **Moral Exposure** | Initial contact with ethical framework | Curiosity about moral questions; exposure to new value systems |
@@ -101,21 +103,21 @@ Once ethical BICs reach the lock-in phase, powerful mechanisms maintain the conn
 
 These complexes promote both individual flourishing and social cooperation:
 
-#### **Characteristics**
+#### **Mutualistic Characteristics**
 
 - **Individual Benefit**: Enhanced meaning, community, and moral clarity
 - **Social Benefit**: Increased cooperation, trust, and collective problem-solving
 - **Adaptive Flexibility**: Capacity to evolve in response to new challenges
 - **Open Discourse**: Welcome dialogue with other moral frameworks
 
-#### **Examples**
+#### **Mutualistic Examples**
 
 - **Evidence-Based Ethics**: Frameworks emphasizing empirical assessment of moral outcomes
 - **Compassionate Religious Systems**: Faith traditions focusing on love, service, and inclusion
 - **Professional Ethics**: Codes promoting both practitioner integrity and public welfare
 - **Democratic Moral Frameworks**: Systems enabling participatory moral discourse and evolution
 
-#### **Benefits**
+#### **Mutualistic Benefits**
 
 - Enhanced individual well-being and social cohesion
 - Productive moral innovation and adaptation
@@ -126,21 +128,21 @@ These complexes promote both individual flourishing and social cooperation:
 
 These complexes provide meaning without significant social impact:
 
-#### **Characteristics**
+#### **Commensal Characteristics**
 
 - **Individual Focus**: Primary benefits accrue to framework adherents
 - **Limited External Impact**: Minimal influence on broader social moral discourse
 - **Peaceful Coexistence**: Non-competitive relationship with other frameworks
 - **Personal Satisfaction**: Effective meaning-making for participants
 
-#### **Examples**
+#### **Commensal Examples**
 
 - **Personal Spiritual Practices**: Individual meditation, prayer, and contemplation traditions
 - **Philosophical Ethics**: Academic and intellectual approaches to moral questions
 - **Aesthetic Morality**: Ethics based on beauty, creativity, and artistic expression
 - **Hobbyist Philosophy**: Casual engagement with moral ideas for personal enrichment
 
-#### **Characteristics**
+#### **Commensal Benefits**
 
 - Provide valuable individual benefits without social costs
 - Enable moral diversity and experimentation
@@ -151,14 +153,14 @@ These complexes provide meaning without significant social impact:
 
 These complexes exploit moral sentiments for destructive ends:
 
-#### **Characteristics**
+#### **Parasitic Characteristics**
 
 - **Host Exploitation**: Extract resources from adherents without proportional benefit
 - **Social Harm**: Damage relationships and communities
 - **Manipulation**: Use psychological pressure and deception to maintain control
 - **Resistance to Change**: Extreme stability prevents beneficial adaptation
 
-#### **Examples**
+#### **Parasitic Examples**
 
 - **Cult Moral Systems**: Totalistic frameworks exploiting commitment for leader benefit
 - **Extremist Ideologies**: Frameworks promoting violence and hatred toward out-groups

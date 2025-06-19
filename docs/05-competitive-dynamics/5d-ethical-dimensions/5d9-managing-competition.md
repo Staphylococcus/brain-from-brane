@@ -24,6 +24,8 @@ Understanding ethics as competitive information systems suggests specific approa
 
 Creating institutional structures that enable diverse ethical frameworks to compete through discourse and demonstration rather than suppression or coercion:
 
+Institutional Design Principles for Managing Ethical Competition
+
 | Design Principle | Implementation Strategy | Expected Outcomes | Measurement Indicators |
 |------------------|----------------------|------------------|---------------------|
 | **Multi-Framework Representation** | Ensure diverse ethical perspectives in decision-making bodies | Reduced ethical monoculture; increased moral innovation | Diversity metrics in ethics committees; range of frameworks represented in institutional policies |
@@ -32,7 +34,7 @@ Creating institutional structures that enable diverse ethical frameworks to comp
 | **Experimental Ethics Zones** | Allow pilot programs testing different ethical approaches | Evidence-based ethical selection; reduced implementation risk | Success rates of different ethical approaches; stakeholder satisfaction across frameworks |
 | **Meta-Ethical Governance** | Institutions for managing competition among ethical frameworks rather than imposing specific frameworks | Sustainable ethical pluralism; adaptive moral governance | Stability of ethical pluralism over time; effectiveness of conflict resolution mechanisms |
 
-**Implementation Examples:**
+#### Implementation Examples
 
 **Healthcare Systems:**
 

@@ -21,6 +21,8 @@ The following subsections will explore specific categories of agents—humans, o
 
 ## Comparative Agent Complexity Overview
 
+Comparative analysis table
+
 | Agent Type | Depth, Nature, & Efficiency of Semantic Processing | Sophistication of "Inside-Out Lens," Self-Awareness, & Goal Complexity | Autonomy, Adaptability, & Mode of Evolution/Learning | Capacity to Organize Matter, Energy, & Extent of Influence | Capacity for Novelty, Creativity, & Interaction with Higher-Order Info Systems |
 | --- | --- | --- | --- | --- | --- |
 | **Simple Biological (e.g., Bacterium)** | Proto-semantic; direct functional meaning (e.g., nutrient=good). | Primitive lens; basic self-preservation "goal." Minimal self-modeling. | Limited autonomy; genetic evolution, basic adaptation (e.g., mutation). | Localized metabolic organization of matter/energy. | Minimal novelty (random mutation). No interaction with higher systems. |

@@ -63,6 +63,8 @@ Building on the Bio-Informational Complex (BIC) framework from [Section 5.e](../
 
 The protocol evaluates agent complexity across five independent dimensions, each scored on a 0-25 point scale:
 
+ACAP dimensions
+
 | Dimension | Core Indicators | Assessment Focus |
 |-----------|----------------|------------------|
 | **Semantic Processing Depth (SPD)** | Information abstraction capacity, symbolic manipulation, predictive modeling efficiency | How deeply and efficiently the agent processes meaning from raw information (requires proto-semantic threshold per Section 1a) |
@@ -82,6 +84,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 ## Developmental Framework
 
 ### Multi-Dimensional Assessment Matrix
+
+ACAP assessment matrix
 
 | Agent Category | SPD Score | IOL Score | AAD Score | MEO Score | HOS Score | Total | Profile Type |
 |----------------|-----------|-----------|-----------|-----------|-----------|-------|--------------|
@@ -117,6 +121,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 #### 1. Semantic Processing Depth (SPD) - 0-25 Points
 
+Semantic Processing Depth
+
 | Score Range | Level | Characteristics | Assessment Methods |
 |-------------|-------|-----------------|-------------------|
 | 0-5 Points | Proto-Semantic | Molecular recognition patterns (lock-key, complementarity), Basic chemical selectivity (substrate specificity), Functional meaning through molecular geometry | Binding affinity measures, substrate selectivity |
@@ -126,6 +132,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 | 21-25 Points | Full-Blown Semantic | Recursive symbolic systems, Meta-representational abilities, Sophisticated theoretical modeling | Language competence, mathematical reasoning, scientific modeling |
 
 #### 2. Inside-Out Lens Sophistication (IOL) - 0-25 Points
+
+Inside-Out Lens Sophistication
 
 | Score Range | Level | Characteristics | Assessment Methods |
 |-------------|-------|-----------------|-------------------|
@@ -137,6 +145,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 #### 3. Autonomy & Adaptability (AAD) - 0-25 Points
 
+Autonomy & Adaptability
+
 | Score Range | Level | Characteristics | Assessment Methods |
 |-------------|-------|-----------------|-------------------|
 | 0-5 Points | Stimulus-Dependent | Thermodynamic responses to environmental changes, Molecular conformational shifts, Basic chemical equilibrium adjustments | Response kinetics, equilibrium measurements |
@@ -147,6 +157,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 
 #### 4. Matter/Energy Organization (MEO) - 0-25 Points
 
+Matter/Energy Organization
+
 | Score Range | Level | Characteristics | Assessment Methods |
 |-------------|-------|-----------------|-------------------|
 | 0-5 Points | Metabolic Organization | Basic biochemical processes, Cellular maintenance, Minimal environmental impact | Metabolic efficiency, resource utilization |
@@ -156,6 +168,8 @@ The protocol evaluates agent complexity across five independent dimensions, each
 | 21-25 Points | Planetary Organization | Global technological systems, Planetary-scale influence, Space-based capabilities | Global impact measures, technological reach |
 
 #### 5. Higher-Order System Interaction (HOS) - 0-25 Points
+
+Higher-Order System Interaction
 
 | Score Range | Level | Characteristics | Assessment Methods |
 |-------------|-------|-----------------|-------------------|
@@ -200,6 +214,8 @@ Pure information systems (languages, scientific theories, cultural narratives, a
 - *Assessment: Host adoption patterns, BIC stability measures, autonomous operation capacity*
 
 #### Information System Categories
+
+Information System Categories
 
 | Information System Type | Structural | Stabilization | Evolutionary | Coupling | Total | Classification |
 |-------------------------|------------|---------------|--------------|----------|-------|----------------|
@@ -279,6 +295,8 @@ Bio-Informational Complexes (BICs) represent a unique category of agency requiri
 
 BICs should be assessed relative to their developmental phase, as defined in Section 5.e.3:
 
+BIC developmental phases
+
 | Phase | Characteristic Score Patterns | Assessment Focus |
 |-------|------------------------------|------------------|
 | **Exposure** | Lower AAD, variable SPD/IOL | Initial receptivity and compatibility assessment |
@@ -290,6 +308,8 @@ BICs should be assessed relative to their developmental phase, as defined in Sec
 ## Illustrative Instances
 
 ### Comparative Agent Profile {#comparative-agent-profile}
+
+Comparative Agent Profile
 
 | Agent Type | SPD | IOL | AAD | MEO | HOS | Total | Key Characteristics |
 |------------|-----|-----|-----|-----|-----|-------|-------------------|

@@ -31,6 +31,8 @@ The sophistication and integration of these characteristics reflects the depth a
 
 Rather than a single developmental trajectory, the Inside-Out Lens develops along multiple independent dimensions that can progress at different rates and reach different levels of sophistication across agent types:
 
+Inside-Out lens across agent types
+
 | Dimension | Basic (0-8) | Intermediate (9-16) | Advanced (17-25) |
 |-----------|-------------|---------------------|------------------|
 | **Self-Model Sophistication** | Simple self/non-self discrimination and basic state awareness | Coherent self-representation with properties and capabilities | Rich self-understanding including meta-cognitive awareness and identity reflection |
