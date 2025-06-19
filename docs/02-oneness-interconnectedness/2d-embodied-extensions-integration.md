@@ -23,6 +23,9 @@ Both cases instantiate the same recursive pattern:
 
 ## 2  A Scale-Table of Integration
 
+How embodied extensions integrate across scales
+
+
 | Scale | Everyday Example | Coupling Medium | Typical Cycle-Time | New Operational Boundary |
 |-------|------------------|-----------------|-------------------:|--------------------------|
 | **Neural** | Cane becomes an arm-extension | Hebbian plasticity in parietal areas | seconds – minutes | Tool tip enters peripersonal space |
