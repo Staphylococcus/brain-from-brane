@@ -181,6 +181,7 @@ The practical power of this approach lies in its potential for **enhanced modeli
 - [2.a. Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md): Granular exploration of how agent-relative distinctions emerge from worldsheet structure
 - [2.b. Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md): Detailed analysis of competitive dynamics within interconnected systems
 - [2.c. Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md): A functional, comparative analysis of different boundary mechanisms
+- [2.d. Embodied Extensions & Multi-Scale Integration](2d-embodied-extensions-integration.md): Integration of embodied extensions and multi-scale analysis
 
 ### 🔗 Related Explorations
 

@@ -49,4 +49,4 @@ See also:
 - [3.d. Agent Complexity Assessment Protocol](3d-agent-complexity-assessment-protocol.md)
 
 ---
-[<< Previous: ⚙️ 2.c. Pattern-Based Boundary Concepts](../02-oneness-interconnectedness/2c-pattern-based-boundary-concepts.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation >>](3a-inside-out-lens-self-preservation.md)
+[<< Previous: ⚙️ 2.d. Embodied Extensions & Multi-Scale Integration](../02-oneness-interconnectedness/2d-embodied-extensions-integration.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation >>](3a-inside-out-lens-self-preservation.md)

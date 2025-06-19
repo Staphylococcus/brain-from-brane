@@ -82,7 +82,7 @@ Our exploration begins with a fundamental reimagining: the universe as a dynamic
 
 The **Worldsheet** tapestry weaves a universe that is simultaneously one interconnected whole and inherently structured reality. This apparent paradox resolves through understanding how individual perspectives emerge as agent-relative interpretations of pre-existing universal structure, while competitive dynamics arise naturally within the interconnected system due to resource scarcity and evolutionary pressures. A unified functional framework explains how different **boundary mechanisms**—from biochemical membranes to statistical and social constructs—all serve the same core purpose: stabilizing information patterns.
 
-**Explore Deeper**: [Subjective Distinctions (2a)](docs/02-oneness-interconnectedness/2a-emergent-subjective-distinctions.md) • [Competition Reconciliation (2b)](docs/02-oneness-interconnectedness/2b-reconciling-oneness-and-competition.md) • [Boundary Concepts (2c)](docs/02-oneness-interconnectedness/2c-pattern-based-boundary-concepts.md)
+**Explore Deeper**: [Subjective Distinctions (2a)](docs/02-oneness-interconnectedness/2a-emergent-subjective-distinctions.md) • [Competition Reconciliation (2b)](docs/02-oneness-interconnectedness/2b-reconciling-oneness-and-competition.md) • [Boundary Concepts (2c)](docs/02-oneness-interconnectedness/2c-pattern-based-boundary-concepts.md) • [Embodied Extensions (2d)](docs/02-oneness-interconnectedness/2d-embodied-extensions-integration.md)
 
 ---
 
