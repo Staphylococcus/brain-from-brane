@@ -48,4 +48,4 @@ The [emergence](../../glossary/E.md#emergence) of full-blown semantic capabiliti
 *Stage V takeaway: Symbolic systems enable combinatorial and socially shared meaning beyond individual agents.*
 
 ---
-[<< Previous: ⚙️ 1.a.4. Developing Semantics: Internal Representation & Prediction](1a4-developing-semantics.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: ⚙️ 1.a.6. Core Principles in the Emergence of Semantic Information >>](1a6-core-principles.md)
+[<< Previous: 1A4 Developing Semantics](1a4-developing-semantics.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A6 Core Principles >>](1a6-core-principles.md)

@@ -47,4 +47,4 @@ The model is falsifiable. It predicts, for instance, that pliable societies adop
 [Deep dive →](4a5-empirical-predictions.md)
 
 ---
-[<< Previous: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model >>](4a1-repeater-jitter-anchor-model.md)
+[<< Previous: 4 Information Systems](../4-information-systems.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4A1 Repeater Jitter Anchor Model >>](4a1-repeater-jitter-anchor-model.md)

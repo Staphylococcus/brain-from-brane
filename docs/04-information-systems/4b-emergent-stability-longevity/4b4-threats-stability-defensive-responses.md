@@ -106,4 +106,4 @@ emoji: "⚙️"
 * Legal challenges and constitutional protections
 
 ---
-[<< Previous: ⚙️ 4.b.3. Stability Patterns Across Information System Types](4b3-stability-patterns-across-types.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.b.5. Implications for Information System Design >>](4b5-implications-system-design.md)
+[<< Previous: 4B3 Stability Patterns Across Types](4b3-stability-patterns-across-types.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4B5 Implications System Design >>](4b5-implications-system-design.md)

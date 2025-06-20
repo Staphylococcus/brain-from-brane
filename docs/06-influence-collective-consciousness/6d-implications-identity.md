@@ -143,4 +143,4 @@ The sweet spot resembles a **spoked wheel**: heterogeneous sub-groups (the rim) 
 These mechanisms convert diversity from a centrifugal threat into an engine of collective generativity—providing a mechanistic backing to the slogan *"diversity is our strength"* **when** centripetal structures are intentionally maintained.
 
 ---
-[<< Previous: ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md) | [Up: 🔍 6. Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 🔍 7. Agentive Dissolution and the Enduring Flow of Informational Legacies >>](../07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)
+[<< Previous: 6C Fluid Dynamics Metaphor](6c-fluid-dynamics-metaphor.md) | [Up: 6 Influence Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 7 Agentive Dissolution Legacy >>](../07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)

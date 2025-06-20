@@ -34,4 +34,4 @@ The constant interplay of these informational currents can fundamentally reshape
 This ongoing process highlights how "borders" in the collective consciousness are not static lines but dynamic, permeable interfaces constantly being negotiated and reshaped by the ever-flowing and interacting patterns of information, particularly accelerated in the current age.
 
 ---
-[<< Previous: ⚙️ 6.b. Redrawing Borders in Collective Consciousness](6b-redrawing-borders-collective-consciousness.md) | [Up: 🔍 6. Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: ⚙️ 6.d. Implications for Individual and Collective Identity >>](6d-implications-identity.md)
+[<< Previous: 6B Redrawing Borders Collective Consciousness](6b-redrawing-borders-collective-consciousness.md) | [Up: 6 Influence Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 6D Implications Identity >>](6d-implications-identity.md)

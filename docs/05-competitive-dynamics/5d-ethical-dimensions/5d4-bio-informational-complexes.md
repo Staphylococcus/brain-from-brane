@@ -260,4 +260,4 @@ The BIC perspective on ethical development reveals several important insights:
 Understanding ethical systems as Bio-Informational Complexes provides tools for promoting beneficial moral development while preventing exploitation and harm. This perspective emphasizes the need for supporting healthy moral community formation while maintaining individual autonomy and critical capacity.
 
 ---
-[<< Previous: ⚙️ 5.d.3. Mechanisms of Ethical Competition](5d3-mechanisms-competition.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.5. Meta-Ethical Competition: Frameworks for Evaluation >>](5d5-meta-ethical-competition.md)
+[<< Previous: 5D3 Mechanisms Competition](5d3-mechanisms-competition.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D5 Meta Ethical Competition >>](5d5-meta-ethical-competition.md)

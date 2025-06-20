@@ -52,4 +52,4 @@ Looking back we can state the invariants: physical grounding at every tier, stai
 [Empirical tests & comparisons ›](1a7-tests-comparisons.md)
 
 ---
-[<< Previous: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: ⚙️ 1.a.1. Foundation: Stable Structures and Inherent Patterns >>](1a1-foundation.md)
+[<< Previous: 1 Pattern Realism](../1-pattern-realism.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A1 Foundation >>](1a1-foundation.md)

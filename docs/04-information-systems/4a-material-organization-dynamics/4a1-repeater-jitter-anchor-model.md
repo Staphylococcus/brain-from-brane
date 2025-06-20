@@ -65,4 +65,4 @@ Comparative analysis
 By separating the **propagation mechanism** (Repeater) from the **stabilizing mechanism** (Anchor) and treating **variation** (Jitter) as an ever-present driver of adaptation, the R/J/A model integrates communication-engineering fidelity concerns with evolutionary dynamics in a form that is immediately applicable to both biological and socio-technological systems.
 
 ---
-[<< Previous: ⚙️ 4.a. Material Organization and Dynamics](4a-material-organization-dynamics.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.2. Passive Structural Influence: Self-Stabilizing Patterns >>](4a2-passive-structural-influence.md)
+[<< Previous: 4A Material Organization Dynamics](4a-material-organization-dynamics.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4A2 Passive Structural Influence >>](4a2-passive-structural-influence.md)

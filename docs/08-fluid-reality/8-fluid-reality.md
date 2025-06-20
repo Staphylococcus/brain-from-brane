@@ -27,4 +27,4 @@ The remarkable stability and reliability of many physical
 laws and material properties can be understood as arising from exceptionally stable, self-reinforcing, and widely instantiated patterns within this fundamental flow. These highly robust patterns form the "bedrock" or consistent background against which more transient or rapidly evolving patterns (like specific thoughts or social trends) emerge and dissipate.
 
 ---
-[<< Previous: ⚙️ 7.b. Dynamic and Conditional Persistence](../07-agentive-dissolution-legacy/7b-dynamic-conditional-persistence.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: README.md >>](../../README.md)
+[<< Previous: 7B Dynamic Conditional Persistence](../07-agentive-dissolution-legacy/7b-dynamic-conditional-persistence.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: README.md >>](../../README.md)

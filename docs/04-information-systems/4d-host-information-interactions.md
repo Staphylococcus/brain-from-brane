@@ -166,4 +166,4 @@ Understanding host-information system interaction dynamics—viewed as the inter
 **Bridge to Section 5**: The interaction patterns described here can, under certain conditions, develop into deeper forms of coupling where hosts and information systems become so interdependent that they function as integrated units. The analysis of these more complex couplings—termed Bio-Informational Complexes—is explored in Section 5.
 
 ---
-[<< Previous: ⚙️ 4.c. Evolutionary Dynamics of Information Systems](4c-evolutionary-dynamics.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: ⚙️ 4.e. Empirical Predictions and Falsification Criteria >>](4e-empirical-predictions-falsification.md)
+[<< Previous: 4C Evolutionary Dynamics](4c-evolutionary-dynamics.md) | [Up: 4 Information Systems](4-information-systems.md) | [Next: 4E Empirical Predictions Falsification >>](4e-empirical-predictions-falsification.md)

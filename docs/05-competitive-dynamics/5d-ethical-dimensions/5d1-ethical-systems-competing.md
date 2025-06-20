@@ -152,4 +152,4 @@ Viewing ethics as competing information systems reveals several important insigh
 This perspective provides tools for understanding how ethical frameworks gain and maintain influence, how they respond to challenges, and how they might be designed to better serve human flourishing while maintaining their essential competitive vitality.
 
 ---
-[<< Previous: ⚙️ 5.d. Ethical Dimensions](5d-ethical-dimensions.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.d.10. Ethical Implications of the Framework Itself >>](5d10-framework-implications.md)
+[<< Previous: 5D Ethical Dimensions](5d-ethical-dimensions.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D10 Framework Implications >>](5d10-framework-implications.md)

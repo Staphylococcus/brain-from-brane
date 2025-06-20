@@ -185,4 +185,4 @@ Each empirical prediction includes specific falsification conditions:
 **Note:** While this section focuses on general host-information system interactions, the deepest forms of coupling—where hosts and information systems achieve biological integration—represent a distinct phenomenon explored in [Section 5.e Bio-Informational Complexes](../05-competitive-dynamics/5e-bio-informational-complex.md).
 
 ---
-[<< Previous: ⚙️ 4.d. Host-Information System Interactions](4d-host-information-interactions.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](4-information-systems.md) | [Next: 🔍 5. Competitive Dynamics of Information Systems >>](../05-competitive-dynamics/5-competitive-dynamics.md)
+[<< Previous: 4D Host Information Interactions](4d-host-information-interactions.md) | [Up: 4 Information Systems](4-information-systems.md) | [Next: 5 Competitive Dynamics >>](../05-competitive-dynamics/5-competitive-dynamics.md)

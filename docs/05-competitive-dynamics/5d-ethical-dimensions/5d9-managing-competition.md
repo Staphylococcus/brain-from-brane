@@ -232,4 +232,4 @@ Developing individual and community capacity to resist exploitative ethical fram
 - Social safety nets reducing desperation-driven vulnerability to harmful ethical frameworks
 
 ---
-[<< Previous: ⚙️ 5.d.8. Practical Applications and Case Studies](5d8-practical-applications.md) | [Up: 🔍 5. Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: ⚙️ 5.e. The Bio-Informational Complex (BIC) >>](../5e-bio-informational-complex.md)
+[<< Previous: 5D8 Practical Applications](5d8-practical-applications.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5E Bio Informational Complex >>](../5e-bio-informational-complex.md)

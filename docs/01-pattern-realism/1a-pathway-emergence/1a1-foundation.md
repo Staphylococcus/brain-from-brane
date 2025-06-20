@@ -76,4 +76,4 @@ These particles, defined by the stable, informationally structured patterns of *
 *Stage I takeaway: The universe's foundation is a discrete alphabet of stable particles whose inherent probabilistic bias, and thus its informational complexity, can be quantified by a fundamental Shannon entropy value.*
 
 ---
-[<< Previous: ⚙️ 1.a. From Organizational Information to Semantic Information](1a-pathway-emergence.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: ⚙️ 1.a.2. Environmental Information: Patterns as Potential Cues >>](1a2-environmental-information.md)
+[<< Previous: 1A Pathway Emergence](1a-pathway-emergence.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A2 Environmental Information >>](1a2-environmental-information.md)

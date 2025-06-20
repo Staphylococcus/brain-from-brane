@@ -109,4 +109,4 @@ Scholarly Context — Multi-Substrate Resonance
 | Multi-layer Network Robustness | Network science | Networks survive attacks better when connectivity spreads across weakly-correlated layers | Correlated-failure concern matches | Packages idea as RI inviting cross-domain empirical testing |
 
 ---
-[<< Previous: ⚙️ 4.a.1. The Repeater/Jitter/Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.a.3. Material Organization in Practice >>](4a3-material-organization-in-practice.md)
+[<< Previous: 4A1 Repeater Jitter Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4A3 Material Organization In Practice >>](4a3-material-organization-in-practice.md)

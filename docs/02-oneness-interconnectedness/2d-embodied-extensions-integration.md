@@ -59,4 +59,4 @@ Earlier in this chapter we argued that **oneness vs. multiplicity** depends on t
 3. **Trans-scale fragility** — Rapid neural remapping can outpace slower cultural adaptation, creating mismatched boundaries (e.g., social media extends reach without extending empathy), a recognised source of systemic risk (**Farnè & de Vignemont** on peripersonal space plasticity).
 
 ---
-[<< Previous: ⚙️ 2.c. Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md) | [Up: 🔍 2. Oneness, Interconnectedness, and the Nature of Distinctions](2-oneness-interconnectedness.md) | [Next: 🔍 Agents as Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)
+[<< Previous: 2C Pattern Based Boundary Concepts](2c-pattern-based-boundary-concepts.md) | [Up: 2 Oneness Interconnectedness](2-oneness-interconnectedness.md) | [Next: 3 Agents As Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)

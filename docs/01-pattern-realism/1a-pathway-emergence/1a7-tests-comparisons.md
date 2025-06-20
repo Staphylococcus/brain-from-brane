@@ -47,4 +47,4 @@ Comparative framework analysis table
 6. **Falsifiable Architecture** – multiple shots-on-goal for empirical refutation.
 
 ---
-[<< Previous: ⚙️ 1.a.6. Core Principles in the Emergence of Semantic Information](1a6-core-principles.md) | [Up: 🔍 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: ⚙️ 1.b. Emergence of Consciousness >>](../1b-emergence-of-consciousness.md)
+[<< Previous: 1A6 Core Principles](1a6-core-principles.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1B Emergence Of Consciousness >>](../1b-emergence-of-consciousness.md)

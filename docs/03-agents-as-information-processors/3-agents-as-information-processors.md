@@ -53,4 +53,4 @@ See also:
 - [3.d. Agent Complexity Assessment Protocol](3d-agent-complexity-assessment-protocol.md)
 
 ---
-[<< Previous: ⚙️ 2.d. Embodied Extensions & Multi-Scale Integration](../02-oneness-interconnectedness/2d-embodied-extensions-integration.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation >>](3a-inside-out-lens-self-preservation.md)
+[<< Previous: 2D Embodied Extensions Integration](../02-oneness-interconnectedness/2d-embodied-extensions-integration.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: 3A Inside Out Lens Self Preservation >>](3a-inside-out-lens-self-preservation.md)

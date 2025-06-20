@@ -29,4 +29,4 @@ See also:
 - [5.e. The Bio-Informational Complex (BIC)](5e-bio-informational-complex.md)
 
 ---
-[<< Previous: ⚙️ 4.e. Empirical Predictions and Falsification Criteria](../04-information-systems/4e-empirical-predictions-falsification.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: ⚙️ 5.a. Mechanisms of Competition: Strategies in the Informational Arena >>](5a-mechanisms-competition.md)
+[<< Previous: 4E Empirical Predictions Falsification](../04-information-systems/4e-empirical-predictions-falsification.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: 5A Mechanisms Competition >>](5a-mechanisms-competition.md)

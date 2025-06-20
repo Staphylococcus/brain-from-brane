@@ -33,4 +33,4 @@ Stability across major types of information systems
 <!-- markdownlint-enable MD033 -->
 
 ---
-[<< Previous: ⚙️ 4.b.2. Factors Contributing to Longevity](4b2-factors-contributing-longevity.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.b.4. Threats to Stability and Defensive Responses >>](4b4-threats-stability-defensive-responses.md)
+[<< Previous: 4B2 Factors Contributing Longevity](4b2-factors-contributing-longevity.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4B4 Threats Stability Defensive Responses >>](4b4-threats-stability-defensive-responses.md)
