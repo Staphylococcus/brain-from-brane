@@ -1,4 +1,10 @@
-# P
+---
+title: "Glossary: P"
+summary: >
+  Glossary for all terms starting with P in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with P in the Brain to Brane ontology framework
+---
 
 ## Parasitic Frameworks
 

@@ -1,4 +1,10 @@
-# C
+---
+title: "Glossary: C"
+summary: >
+  Glossary for all terms starting with C in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with C in the Brain to Brane ontology framework
+---
 
 ## Collective Consciousness
 

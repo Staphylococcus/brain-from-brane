@@ -1,4 +1,10 @@
-# S
+---
+title: "Glossary: S"
+summary: >
+  Glossary for all terms starting with S in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with S in the Brain to Brane ontology framework
+---
 
 ## Self-Awareness
 
@@ -37,6 +43,12 @@ Shared behavioral expectations and regulatory patterns that coordinate group beh
 ## Social Structures
 
 Organized patterns of relationships, roles, and institutions that coordinate collective behavior and information processing within social systems.
+
+## Structural Parameter
+
+**Measurable specifications that define the organizational architecture of an information system, including its architecture, operational rules, and interaction protocols.**
+
+Structural parameters provide quantitative characterization of information system properties, enabling prediction of pattern-matching success, substrate compatibility assessment, and organizational efficiency optimization across different material configurations.
 
 ## Structural Resonance
 

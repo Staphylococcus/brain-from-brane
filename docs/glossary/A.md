@@ -1,4 +1,10 @@
-# A
+---
+title: "Glossary: A"
+summary: >
+  Glossary for all terms starting with A in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with A in the Brain to Brane ontology framework
+---
 
 ## Adaptation
 

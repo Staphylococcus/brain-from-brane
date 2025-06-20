@@ -1,4 +1,10 @@
-# Abstraction Altitudes: A Meta-Design Principle
+---
+title: "Abstraction Altitudes: A Meta-Design Principle"
+summary: >
+  Multi-level navigation and design principle for organizing framework content by depth.
+description: >
+  Explains the Abstraction Altitudes meta-design principle in the Brain from Brane framework, detailing how documents are structured at high, medium, and low levels of abstraction to support diverse audiences, seamless navigation, and scalable understanding. Includes guidelines for contributors, implementation patterns, and the benefits of altitude-based organization for cognitive load management and flexible engagement.
+---
 
 ## Overview
 

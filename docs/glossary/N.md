@@ -1,4 +1,10 @@
-# N
+---
+title: "Glossary: N"
+summary: >
+  Glossary for all terms starting with N in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with N in the Brain to Brane ontology framework
+---
 
 ## Natural Selection
 

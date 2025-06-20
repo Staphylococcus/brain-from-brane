@@ -1,4 +1,10 @@
-# R
+---
+title: "Glossary: R"
+summary: >
+  Glossary for all terms starting with R in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with R in the Brain to Brane ontology framework
+---
 
 ## Repeater/Jitter/Anchor (R/J/A) Model
 

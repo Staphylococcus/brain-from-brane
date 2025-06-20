@@ -1,4 +1,10 @@
-# T
+---
+title: "Glossary: T"
+summary: >
+  Glossary for all terms starting with T in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with T in the Brain to Brane ontology framework
+---
 
 ## Technological Change
 

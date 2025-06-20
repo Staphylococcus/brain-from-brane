@@ -1,4 +1,10 @@
-# O
+---
+title: "Glossary: O"
+summary: >
+  Glossary for all terms starting with O in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with O in the Brain to Brane ontology framework
+---
 
 ## Organizational Agency
 

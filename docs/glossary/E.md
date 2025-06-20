@@ -1,4 +1,10 @@
-# E
+---
+title: "Glossary: E"
+summary: >
+  Glossary for all terms starting with E in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with E in the Brain to Brane ontology framework
+---
 
 ## Emergence
 

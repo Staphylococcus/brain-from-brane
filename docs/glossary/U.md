@@ -1,4 +1,10 @@
-# U
+---
+title: "Glossary: U"
+summary: >
+  Glossary for all terms starting with U in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with U in the Brain to Brane ontology framework
+---
 
 ## Utility (of an Information System)
 

@@ -1,4 +1,10 @@
-# B
+---
+title: "Glossary: B"
+summary: >
+  Glossary for all terms starting with B in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with B in the Brain to Brane ontology framework
+---
 
 ## Behavioral Feedback Loops
 

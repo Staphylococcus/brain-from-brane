@@ -1,10 +1,12 @@
-# Glossary
-
-This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
+---
+title: "Glossary"
+summary: >
+  This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
+description: >
+  This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
+---
 
 <!-- **Note: This is a generated file. To update, run `tools/generate_glossary.py`**. -->
-
----
 
 ## [A](glossary/A.md)
 

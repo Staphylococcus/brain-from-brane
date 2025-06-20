@@ -1,4 +1,10 @@
-# I
+---
+title: "Glossary: I"
+summary: >
+  Glossary for all terms starting with I in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with I in the Brain to Brane ontology framework
+---
 
 ## Ideologies
 

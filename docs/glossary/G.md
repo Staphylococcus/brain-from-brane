@@ -1,4 +1,10 @@
-# G
+---
+title: "Glossary: G"
+summary: >
+  Glossary for all terms starting with G in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with G in the Brain to Brane ontology framework
+---
 
 ## Structural Information Dynamics
 

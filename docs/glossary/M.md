@@ -1,4 +1,10 @@
-# M
+---
+title: "Glossary: M"
+summary: >
+  Glossary for all terms starting with M in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with M in the Brain to Brane ontology framework
+---
 
 ## Meta-Ethical Frameworks
 

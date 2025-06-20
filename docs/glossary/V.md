@@ -1,4 +1,10 @@
-# V
+---
+title: "Glossary: V"
+summary: >
+  Glossary for all terms starting with V in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with V in the Brain to Brane ontology framework
+---
 
 ## Value (of an Information System)
 

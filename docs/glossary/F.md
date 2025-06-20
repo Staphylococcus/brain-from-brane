@@ -1,4 +1,10 @@
-# F
+---
+title: "Glossary: F"
+summary: >
+  Glossary for all terms starting with F in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with F in the Brain to Brane ontology framework
+---
 
 ## Flow and Interactions of Its Contents
 

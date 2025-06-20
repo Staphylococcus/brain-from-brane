@@ -1,4 +1,10 @@
-# D
+---
+title: "Glossary: D"
+summary: >
+  Glossary for all terms starting with D in the Brain to Brane ontology framework
+description: >
+  Glossary for all terms starting with D in the Brain to Brane ontology framework
+---
 
 ## Dissipative Adaptation
 
