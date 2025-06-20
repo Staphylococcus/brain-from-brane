@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a.2.5. Thermodynamic & Autopoietic Bridge
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## II.5. The Bridge: From Environmental Patterns to True Agency
 
 The transition from passive environmental patterns to active [agents](../../glossary/A.md#agent) capable of [proto-semantic](../../glossary/P.md#proto-semantics) interpretation follows a thermodynamically driven progression that bridges the gap between mere physical complexity and true agency.

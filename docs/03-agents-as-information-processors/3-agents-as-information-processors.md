@@ -9,13 +9,6 @@ altitude: medium
 emoji: "🔍"
 ---
 
-# 🔍 Agents as Information Processors
-<!-- markdownlint-disable MD036 -->
-*Medium Altitude Exploration*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Medium (1,000-10,000 feet) - Conceptual Exploration
-
 Humans and other [agents](../glossary/A.md#agent) are characterized as self-aware "pockets" of the universe, not only existing within it but actively organizing matter and, crucially, processing, creating, being influenced by, and constituted by [information](../glossary/I.md#information). While diverse in form and origin, these agents can be understood and compared along a spectrum or scale of complexity. This scale is not intended as a rigid hierarchy but as a conceptual tool to explore the varying degrees and kinds of agentive capabilities within this framework. It helps unify our understanding by highlighting common principles of information processing and agency, while also acknowledging profound differences arising from distinct evolutionary or developmental pathways. The framework posits that any system exhibiting non-entropic organization of matter/energy/information possesses measurable **organizational agency**, but distinguishes this from **semantic agency** which requires the specific developmental sequence of thermodynamic coupling → autocatalytic networks → autopoietic organization → proto-semantic processing.
 
 Key criteria for assessing an agent's position on this complexity scale emerge from the principles outlined earlier, particularly the pathway from organizational to [semantic information](../glossary/S.md#semantic-information) and the nature of the agent's ["inside-out lens"](../glossary/I.md#inside-out-lens):

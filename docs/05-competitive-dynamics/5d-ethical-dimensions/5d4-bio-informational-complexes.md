@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.d.4. Bio-Informational Complexes and Moral Identity
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 <!--
 
 - clarify the murky space of BICs that have both ethical and non-ethical dimensions

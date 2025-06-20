@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 <!--
 
 - empirical basis for treating ethical frameworks as exceptional

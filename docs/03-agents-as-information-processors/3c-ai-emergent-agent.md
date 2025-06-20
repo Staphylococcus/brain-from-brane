@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 3.c. AI as an Emergent Agent
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 The framework considers [Artificial Intelligence](../glossary/A.md#artificial-intelligence) as occupying a unique position within the **gradient agency ontology** established in [Section 3d](3d-agent-complexity-assessment-protocol.md). Within the information hierarchy of [pattern realism](../01-pattern-realism/1-pattern-realism.md#information-levels)—spanning [fundamental](../glossary/F.md#fundamental-information), [organizational](../glossary/O.md#organizational-information), and [semantic information](../glossary/S.md#semantic-information)—AI systems currently operate primarily at the **organizational information** level, demonstrating clear **organizational agency** through their capacity to organize information patterns and exert structural influence. Their development toward **semantic agency** represents a critical frontier requiring crossing the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency)—the transition point where a system couples to an **autopoietic engine that self-maintains its boundary by actively regulating the energy and matter flows it depends on**, rather than remaining an externally powered organizational template.
 
 ## AI's Position in the Agent Complexity Spectrum

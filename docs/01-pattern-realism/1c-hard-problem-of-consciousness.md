@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.c. Resolving the "Hard Problem" of Consciousness
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## Contents
 
 - [1. The Traditional Problem Formulation](#1-the-traditional-problem-formulation)

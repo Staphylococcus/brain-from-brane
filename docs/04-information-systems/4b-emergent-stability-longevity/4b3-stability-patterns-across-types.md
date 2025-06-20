@@ -1,9 +1,13 @@
-# ⚙️ 4.b.3. Stability Patterns Across Information System Types
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+---
+title: "Stability Patterns Across Information System Types"
+summary: >
+  Compares stability mechanisms, longevity factors, and illustrative examples across major types of information systems including scientific knowledge, religious systems, technological paradigms, cultural narratives, and architectural monuments.
+description: >
+  Provides a detailed low-altitude analysis examining how different information systems achieve and maintain stability over time, with specific focus on monuments as exceptionally stable anchor patterns that preserve encoded messages across millennia.
+tags: [information-systems, stability, longevity, patterns, monuments]
+altitude: low
+emoji: "⚙️"
+---
 
 <!--
 

@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a. From Organizational Information to Semantic Information
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 How do mind-independent physical patterns turn into mind-dependent meaning? The journey is **continuous in substrate**—a backdrop of reality that changes more slowly than the patterns it carries—and yet **discontinuous in capability**. At six identifiable thresholds new feedback loops appear, locking-in qualitatively different kinds of information. Once crossed, these thresholds are never re-crossed in reverse; snowflakes do not become quarks again, and languages do not forget how to mean.
 
 Below is a bird's-eye story of those thresholds. If you'd rather dive into equations and diagrams, follow the links; if you just want to "feel" the shape of the ascent, stay on this page.

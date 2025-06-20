@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a.3. Proto-Semantics: Simple Agents, Detection & Functional Significance
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## III. Proto-Semantics: Simple Agents, Detection, and Functional Significance
 
 With the emergence of autopoietic organization and its primitive inside-out lens (Stage II.5), we now have genuine agents capable of functional meaning assignment. The following stage explores how this basic architecture develops into more sophisticated forms of semantic processing while maintaining its grounding in self-preserving organization.

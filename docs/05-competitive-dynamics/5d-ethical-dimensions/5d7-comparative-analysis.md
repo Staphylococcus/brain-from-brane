@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.d.7. Comparative Analysis: Ethics vs. Established Moral Philosophy
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 [← Back to Overview](5d-ethical-dimensions.md) | [Next: Practical Applications →](5d8-practical-applications.md)
 
 ---

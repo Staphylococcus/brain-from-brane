@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a.4. Developing Semantics: Internal Representation & Prediction
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## IV. Developing Semantics: Complex Agents, Internal Representation, and Prediction
 
 ```mermaid

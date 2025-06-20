@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 The capacity for [self-awareness](../glossary/S.md#self-awareness) emerges from a fundamental information-processing architecture: the **["Inside-Out Lens"](../glossary/I.md#inside-out-lens)**. This evolved first-person perspective represents one of the most crucial innovations in biological information processing, transforming how [agents](../glossary/A.md#agent) organize sensory data, construct world-models, and navigate complex environments.
 
 ## **3.a.1. Concise Characterization**

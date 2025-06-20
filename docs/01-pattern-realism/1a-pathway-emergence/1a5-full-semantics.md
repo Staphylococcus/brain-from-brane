@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a.5. Full-Blown Semantics: Symbolic Systems & Shared Meaning
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## V. Full-Blown Semantics: Symbolic Systems, Language, and Shared Meaning
 
 ```mermaid

@@ -9,17 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.d.10. Ethical Implications of the Framework Itself
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
-[← Back to Overview](5d-ethical-dimensions.md) | [Next: Bio-Informational Complex →](../5e-bio-informational-complex.md)
-
----
-
 The competitive information systems approach to ethics raises important meta-ethical questions about its own status and implications. As an analytical framework that claims to explain how ethical systems function and compete, it must confront the question of its own ethical commitments, potential for misuse, and relationship to the moral phenomena it analyzes.
 
 ## **Framework Self-Application**

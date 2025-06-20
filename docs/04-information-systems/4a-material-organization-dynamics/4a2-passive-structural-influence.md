@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 4.a.2. Passive Structural Influence: Self-Stabilizing Patterns
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 Once information patterns achieve a degree of **[self-stabilization](../../glossary/O.md#outward-stabilization-propensity)** through the interplay of Repeaters, Jitter, and Anchors, they can exert a passive structural influence on their environment. This section explores this influence, focusing on how these **[self-stabilizing patterns](../../glossary/O.md#outward-stabilization-propensity)** achieve broader coherence, persistence, and an organizing effect on receptive substrates. This is distinct from their active propagation via the R/J/A model, emphasizing instead the structural power of the stabilized pattern itself.
 
 > **Ontology Note – Substrate, Relationally Defined**  

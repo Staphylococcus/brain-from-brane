@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.b. Emergence of Consciousness
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 This section analyzes the emergence of consciousness in agents that have already achieved **autopoietic organization** and possess **energetic autonomy**—that is, they regulate the energy and matter flows required for their own maintenance through an internal autopoietic engine, having crossed the [Engine Threshold](../04-information-systems/4d-host-information-interactions.md#the-engine-threshold-from-organizational-agency-to-agent-mediated-agency). The focus here is on the subsequent architectural transition to recursive self-examination.
 
 ## The Recursive Threshold

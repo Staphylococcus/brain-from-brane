@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.d.5. Meta-Ethical Competition: Frameworks for Evaluation
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 <!--
 
 - How does explanatory power and logical consistency of a given framework impact its "market share"?

@@ -1,9 +1,13 @@
-# ⚙️ 4.b.4. Threats to Stability and Defensive Responses
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+---
+title: "Threats to Stability and Defensive Responses"
+summary: >
+  Analyzes the internal and external threats that can destabilize information systems, including transmission errors, contradictions, competition, and host resistance, along with corresponding defensive mechanisms.
+description: >
+  Provides a detailed low-altitude analysis of how information systems maintain stability through defensive responses to degradation, competition, and rejection threats, examining both internal vulnerabilities and external challenges.
+tags: [information-systems, stability, threats, defensive-responses, degradation, competition, host-resistance]
+altitude: low
+emoji: "⚙️"
+---
 
 <!--
 

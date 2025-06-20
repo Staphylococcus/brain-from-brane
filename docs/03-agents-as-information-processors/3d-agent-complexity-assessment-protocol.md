@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 3.d. Agent Complexity Assessment Protocol
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 <!-- 
 
 - How does one measure the dimensions, especially IOL and aspects of SPD, across such a diverse range of entities? 

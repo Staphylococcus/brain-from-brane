@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 4.a. Material Organization and Dynamics
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 [Information systems](../4-information-systems.md) are material organizations—specific patterns of physical processes that exhibit persistence, variation, and [competitive dynamics](../../05-competitive-dynamics/5-competitive-dynamics.md). While we can analyze them through the information lens, they remain fundamentally physical phenomena. Understanding these material foundations reveals how information systems achieve persistence, undergo change, and compete for resources within physical reality.
 
 ## 4.a.1 The Repeater/Jitter/Anchor Model

@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 1.a.7. Tests, Falsification, and Framework Comparison
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 The pathway is only useful if it risks being wrong. Below are concrete criteria that could **falsify** the model, followed by a side-by-side comparison with alternative accounts of consciousness and meaning.
 
 ## Falsification Criteria for Pathway Emergence

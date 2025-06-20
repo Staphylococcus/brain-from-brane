@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 2.c. Pattern-Based Boundary Concepts
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 ## Overview
 
 > *"An entity is a pattern stable enough to hold its shape across perturbations.  Its boundary is the zone where that stabilising regularity fades."* — Pattern Realism thesis

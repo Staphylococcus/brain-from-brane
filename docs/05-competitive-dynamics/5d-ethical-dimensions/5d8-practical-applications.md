@@ -16,17 +16,6 @@ emoji: "⚙️"
 
 -->
 
-# ⚙️ 5.d.8. Practical Applications and Case Studies
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
-[← Back to Overview](5d-ethical-dimensions.md) | [Next: Managing Competition →](5d9-managing-competition.md)
-
----
-
 The competitive framework provides practical insights for managing ethical challenges across diverse domains. By understanding ethical systems as competing information systems, we can develop more effective strategies for promoting beneficial moral outcomes and managing destructive ethical conflicts.
 
 ## **Technology Ethics Competition**

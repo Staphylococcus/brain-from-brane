@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 3.b. Broader Agency and Reciprocal Dynamics
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 This capacity for [information](../glossary/I.md#information) processing and environmental interaction is not exclusive to humans. Other biological [agents](../glossary/A.md#agent) also process [information](../glossary/I.md#information) and shape their reality, leading to **reciprocal feedback loops and co-evolutionary dynamics** between different agentive systems. These interactions can be incredibly deep, fostering forms of co-[evolution](../glossary/E.md#evolution) where the persistence and [evolution](../glossary/E.md#evolution) of one system become critically dependent on the functions and resources provided by another, and vice-versa, creating a tightly woven fabric of existence. This is particularly evident in the intricate relationship between biological [agents](../glossary/A.md#agent) and the complex [information systems](../glossary/I.md#information-system) they host, generate, and propagate—a dynamic that will be explored in greater detail when examining the [evolution](../glossary/E.md#evolution) of [information systems](../glossary/I.md#information-system) themselves (see [Section 4](../04-information-systems/4-information-systems.md)). The spectrum of complexity among these non-human biological [agents](../glossary/A.md#agent) is vast, reflecting diverse evolutionary paths and adaptations. Applying the refined complexity criteria, we can create a comparative table:
 
 ## Complexity Spectrum in Non-Human Biological Agents

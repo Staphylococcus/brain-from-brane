@@ -1,9 +1,13 @@
-# ⚙️ 4.b.2. Factors Contributing to Longevity
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
+---
+title: "Factors Contributing to Longevity"
+summary: >
+  Analyzes the key factors that contribute to the longevity of information systems, including intrinsic characteristics, environmental compatibility, and host relationship quality.
+description: >
+  Provides a detailed low-altitude analysis of how information systems achieve long-term stability through foundational coherence, generative capacity, scalable architecture, cultural resonance, technological fitness, economic viability, mutual benefit, respectful integration, and community building.
+tags: [information-systems, longevity, stability, coherence, generativity]
+altitude: low
+emoji: "⚙️"
+---
 
 ## **4.b.2.1. Intrinsic Characteristics**
 

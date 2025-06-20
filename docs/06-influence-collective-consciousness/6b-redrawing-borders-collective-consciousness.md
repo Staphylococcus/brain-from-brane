@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 6.b. Redrawing Borders in Collective Consciousness
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 Building directly on the dual-pathway model outlined in **[6.a. Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md)**, this section zooms down to the boundary layer—examining how those macro-level influence mechanisms redraw the contours of collective consciousness and social identity in practice.
 
 ## **6.b.1. Drivers of Boundary Redrawing**

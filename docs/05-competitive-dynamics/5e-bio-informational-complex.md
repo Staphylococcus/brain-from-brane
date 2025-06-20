@@ -9,13 +9,6 @@ altitude: low
 emoji: "⚙️"
 ---
 
-# ⚙️ 5.e. The Bio-Informational Complex (BIC)
-<!-- markdownlint-disable MD036 -->
-*Low Altitude Analysis*
-<!-- markdownlint-enable MD036 -->
-
-📍 **Altitude**: Low (0-1,000 feet) - Detailed Analysis
-
 Thus far we have analyzed information systems and biological agents as distinct but co-evolving entities. In practice the two frequently interlock so tightly that they function as a single, higher-order unit of selection. We can designate such a unit a **[Bio-Informational Complex (BIC)](../glossary/B.md#bio-informational-complex-bic)**.
 
 ## **5.e.1. Concise Characterization**
