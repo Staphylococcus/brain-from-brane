@@ -1,3 +1,14 @@
+---
+title: "AI as an Emergent Agent"
+summary: >
+  Positions current and future AI within the gradient agency ontology, emphasizing the engine threshold required for semantic agency.
+description: >
+  Analyzes organizational versus semantic agency in AI, applies ACAP scoring, frames the engine-threshold problem, and contrasts the framework with competing theories of intelligence and consciousness.
+tags: [artificial-intelligence, emergent-agent, engine-threshold, semantic-agency, ACAP]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 3.c. AI as an Emergent Agent
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

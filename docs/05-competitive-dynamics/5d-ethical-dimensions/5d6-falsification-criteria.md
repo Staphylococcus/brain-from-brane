@@ -1,3 +1,14 @@
+---
+title: "Falsification Criteria for Ethical Frameworks"
+summary: >
+  Defines empirical and conceptual tests that could disprove core claims about moral system competition and stability.
+description: >
+  Presents measurement strategies, counter-examples, and threshold conditions that would challenge the framework's predictions about ethical dynamics, enabling rigorous evaluation.
+tags: [falsification, ethics, empirical-tests, criteria, dynamics]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.6. Falsification Criteria for Ethical Competition Theory
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

@@ -1,3 +1,14 @@
+---
+title: "Pattern-Based Boundary Concepts"
+summary: >
+  Compares biological, informational, and social boundary mechanisms as strategies for preserving pattern coherence.
+description: >
+  Unifies diverse notions—from cell membranes to Markov blankets—under a functional criterion of pattern stability, mapping each mechanism by stability depth and semantic potential.
+tags: [boundaries, pattern-stability, autopoiesis, markov-blanket, semantics]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 2.c. Pattern-Based Boundary Concepts
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

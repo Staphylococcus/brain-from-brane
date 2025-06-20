@@ -1,3 +1,14 @@
+---
+title: "Embodied Extensions & Multi-Scale Integration"
+summary: >
+  Describes how agents integrate tools, institutions, and culture into expanded composite patterns across neural to socio-technical scales.
+description: >
+  Analyzes embodiment as pattern aggregation, presenting examples from cane usage to laboratories, and discusses agency, ethics, and boundary fluidity in pattern composites.
+tags: [embodiment, integration, multi-scale, extensions, agency]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 2.d. Embodied Extensions & Multi-Scale Integration
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

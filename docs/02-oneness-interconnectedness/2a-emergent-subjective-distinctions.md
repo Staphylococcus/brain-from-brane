@@ -1,3 +1,14 @@
+---
+title: "Emergent and Subjective Distinctions within a Structured Whole"
+summary: >
+  Explains how agent-relative inside-out lenses carve meaningful distinctions from a physically structured yet unified reality.
+description: >
+  Discusses how inherent structural propensities of the worldsheet continuum interact with evolutionary and cognitive factors to produce the boundaries and categories agents perceive and use.
+tags: [subjective-distinctions, agents, structure, oneness, pattern-realism]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 2. a. Emergent and Subjective Distinctions within a Structured Whole
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

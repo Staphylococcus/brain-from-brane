@@ -1,3 +1,14 @@
+---
+title: "Mechanism of Persistence"
+summary: >
+  Outlines how an agent's informational creations survive across substrates after biological death, grounding legacy persistence in copy and transmission processes.
+description: >
+  Introduces low-altitude analysis of substrates, curation, and propagation modifiers that determine which patterns endure and how they transform.
+tags: [persistence, legacy, substrates, transmission, information]
+altitude: low
+emoji: "⚙️"
+---
+
 <!--
 
 - Needs expansion and elaboration.

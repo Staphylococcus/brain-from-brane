@@ -1,3 +1,14 @@
+---
+title: "Evolutionary Implications"
+summary: >
+  Discusses how material organization dynamics drive selection pressures and co-evolution between patterns and substrates.
+description: >
+  Explores compatibility and efficiency as selection forces, explaining why certain designs spread across neurons, institutions, and hardware while others stagnate.
+tags: [evolution, coevolution, selection, material-organization, patterns]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.a.4. Evolutionary Implications of Self-Stabilizing Information Patterns
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

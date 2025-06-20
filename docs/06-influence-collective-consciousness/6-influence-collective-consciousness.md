@@ -1,3 +1,14 @@
+---
+title: "Mechanisms of Influence and Collective Consciousness"
+summary: >
+  Explores how information systems reshape reality and collective consciousness via agent-mediated pathways and emerging AI-driven direct environmental structuring.
+description: >
+  Frames Section 6 by integrating earlier frameworks—information systems, BICs, competitive dynamics—to show dual influence mechanisms, fluid border formation, and strategic implications for education, policy, and AI ethics.
+tags: [influence, collective-consciousness, information-systems, AI, borders]
+altitude: medium
+emoji: "🔍"
+---
+
 # 🔍 6. Mechanisms of Influence and Collective Consciousness
 <!-- markdownlint-disable MD036 -->
 *Medium Altitude Exploration*

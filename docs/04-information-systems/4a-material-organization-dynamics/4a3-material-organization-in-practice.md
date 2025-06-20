@@ -1,3 +1,14 @@
+---
+title: "Material Organization in Practice"
+summary: >
+  Provides case studies—science, language, finance—showing R/J/A dynamics and passive influence in real-world systems.
+description: >
+  Analyzes how paradigms, grammar, and accounting standards act as repeaters, jitter sources, and anchors, demonstrating multi-scale material organization of information.
+tags: [case-studies, science, language, finance, material-organization]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.a.3. Material Organization in Practice
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

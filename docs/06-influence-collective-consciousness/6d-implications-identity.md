@@ -1,3 +1,14 @@
+---
+title: "Implications for Individual and Collective Identity"
+summary: >
+  Investigates how fluid borders and integrated bio-informational networks reshape personal and group identities in the information age.
+description: >
+  Explores adaptive identity formation, hybrid self-concepts, and ethical considerations for autonomy and authenticity amid pervasive template influence.
+tags: [identity, collective-consciousness, bio-informational, autonomy, authenticity]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 6.d. Implications for Individual and Collective Identity
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

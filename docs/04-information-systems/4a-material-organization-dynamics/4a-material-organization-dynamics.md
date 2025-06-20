@@ -1,3 +1,14 @@
+---
+title: "Material Organization and Dynamics"
+summary: >
+  Introduces the R/J/A model and related mechanisms that let information patterns persist, vary, and passively shape their physical substrates.
+description: >
+  Provides the low-altitude overview for Section 4.a, outlining how repeaters, jitter, anchors, and passive structural influence govern the material life-cycle of information systems before diving into detailed sub-sections.
+tags: [material-organization, RJA-model, structural-influence, information-systems, patterns]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.a. Material Organization and Dynamics
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

@@ -1,3 +1,14 @@
+---
+title: "Mechanisms of Ethical Competition"
+summary: >
+  Catalogs direct confrontation, co-option, niche specialization, propagation efficiency, and adaptive resilience as tactics moral systems use to secure dominance.
+description: >
+  Dissects how ethical frameworks deploy emotional narratives, institutional control, and revision mechanisms to outcompete rivals, highlighting both constructive innovation and risks like polarization and manipulation.
+tags: [ethical-competition, mechanisms, propagation, adaptation, narratives]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.3. Mechanisms of Ethical Competition
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

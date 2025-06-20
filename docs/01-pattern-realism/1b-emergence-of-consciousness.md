@@ -1,3 +1,14 @@
+---
+title: "Emergence of Consciousness"
+summary: >
+  Explains how consciousness arises when an agent's inside-out lens architecture becomes recursively self-referential, leading to subjective experience.
+description: >
+  Details the transition from sophisticated self-modeling to full recursive processing, showing how Pattern Realism's outward-stabilization mechanisms enable autopoietic agents to cross the recursive threshold that marks the emergence of consciousness.
+tags: [consciousness, recursion, self-modeling, emergence, cognition]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.b. Emergence of Consciousness
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

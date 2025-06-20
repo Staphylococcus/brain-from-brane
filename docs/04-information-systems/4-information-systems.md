@@ -1,3 +1,14 @@
+---
+title: "Information as an Active, Evolving System"
+summary: >
+  Examines languages, narratives, and algorithms as high-level patterns that stabilize, evolve, and exert causal influence across substrates.
+description: >
+  Introduces Section 4 by framing information systems through the R/J/A model, evolutionary hierarchy, and contemporary computational dynamics, integrating matter-energy and information lenses to show how abstract constructs weave into the worldsheet fabric.
+tags: [information-systems, stabilization, evolution, RJA-model, pattern-realism]
+altitude: medium
+emoji: "🔍"
+---
+
 # 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)
 <!-- markdownlint-disable MD036 -->
 *Medium Altitude Exploration*

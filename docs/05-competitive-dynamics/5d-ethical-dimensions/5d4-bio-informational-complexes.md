@@ -1,3 +1,14 @@
+---
+title: "Bio-Informational Complexes in Ethical Contexts"
+summary: >
+  Explores how ethical systems couple with hosts to form BICs, detailing lifecycle stages and mutual reinforcement mechanisms.
+description: >
+  Analyzes identity integration, social embedding, and behavioral organization within moral BICs, distinguishing mutualist, commensal, and parasitic variants and their impact on competition.
+tags: [BIC, ethics, coupling, identity, lifecycle]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.4. Bio-Informational Complexes and Moral Identity
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

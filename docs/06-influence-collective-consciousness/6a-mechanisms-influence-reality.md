@@ -1,3 +1,14 @@
+---
+title: "Mechanisms of Influence on Reality"
+summary: >
+  Details three influence pathways—direct environmental structuring, agent-mediated adoption, and AI-mediated coordination—that let information systems reshape physical and social reality.
+description: >
+  Provides low-altitude analysis of pattern constraint propagation, template adoption sequences, and Engine-Threshold AI amplification, setting empirical and strategic groundwork for later subsections.
+tags: [influence, AI, environmental-structuring, template-adoption, engine-threshold]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 6.a. Mechanisms of Influence on Reality
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

@@ -1,3 +1,14 @@
+---
+title: "Full-Blown Semantics: Symbolic Systems & Shared Meaning"
+summary: >
+  Explores the rise of language and symbolic systems that allow agents to construct and share vast abstract worlds of meaning.
+description: >
+  Details Stage V, covering symbolization, syntax, grounding, and cultural transmission, showing how collective conventions turn arbitrary tokens into powerful vehicles for combinatorial thought and collaborative cognition.
+tags: [symbols, language, shared-meaning, culture, semantics]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a.5. Full-Blown Semantics: Symbolic Systems & Shared Meaning
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

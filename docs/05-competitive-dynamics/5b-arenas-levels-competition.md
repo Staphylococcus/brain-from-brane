@@ -1,3 +1,14 @@
+---
+title: "Arenas and Levels of Competition"
+summary: >
+  Maps where and at what scales information systems compete—from intrapersonal cognition to global ideological clashes.
+description: >
+  Breaks down micro, meso, and macro arenas, clarifying resource types and feedback loops at each level to show how local victories cascade into broader dominance.
+tags: [arenas, competition, scales, cognition, ideology]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.b. Arenas and Levels of Competition
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

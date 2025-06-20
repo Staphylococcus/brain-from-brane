@@ -1,3 +1,14 @@
+---
+title: "The Fluid Dynamics Metaphor for Shifting Borders"
+summary: >
+  Uses fluid-flow analogies to model the dynamic, gradient nature of modern collective boundaries.
+description: >
+  Maps pattern pressure gradients, viscosity, and turbulence concepts onto informational border behavior, offering intuitive tools for analyzing rapid boundary reconfiguration.
+tags: [fluid-dynamics, metaphor, borders, collective-consciousness, patterns]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 6.c. The "Fluid Dynamics" Metaphor for Shifting Borders
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

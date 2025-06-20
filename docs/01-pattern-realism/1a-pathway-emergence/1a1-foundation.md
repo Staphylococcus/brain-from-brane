@@ -1,3 +1,14 @@
+---
+title: "Foundation: Stable Structures and Inherent Patterns"
+summary: >
+  Explores how stable, quantized particle modes form a foundational information alphabet and how their biased probabilities can be measured with Shannon entropy.
+description: >
+  Examines Stage I of the emergence pathway—stable structures—linking string worldsheets to elementary particles and introducing an entropy-based metric for the universe's inherent informational bias.
+tags: [foundation, stable-structures, particle-alphabet, information, physics]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a.1. Foundation: Stable Structures and Inherent Patterns
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

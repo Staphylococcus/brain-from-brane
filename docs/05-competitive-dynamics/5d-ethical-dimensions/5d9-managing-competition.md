@@ -1,3 +1,14 @@
+---
+title: "Managing Ethical Competition"
+summary: >
+  Outlines governance, mediation, and design approaches for steering moral system rivalry toward constructive outcomes.
+description: >
+  Discusses institutional design, meta-ethical agreements, conflict-resolution mechanisms, and feedback loops that can dampen polarization and support adaptive moral ecosystems.
+tags: [management, ethical-competition, governance, mediation, polarization]
+altitude: low
+emoji: "⚙️"
+---
+
 <!--
 
 - this is a meta-ethical rabbit hole

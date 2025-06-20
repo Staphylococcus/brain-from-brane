@@ -1,3 +1,14 @@
+---
+title: "The Bio-Informational Complex (BIC)"
+summary: >
+  Describes the coupled entity formed when an information system and its host agent co-adapt, achieving joint agency and competitive leverage.
+description: >
+  Details BIC structure, lifecycle phases, feedback loops, and implications for AI-human hybrids, illustrating how coupling amplifies stability and competitive dynamics.
+tags: [bio-informational-complex, coupling, agency, competition, hybrids]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.e. The Bio-Informational Complex (BIC)
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
@@ -12,7 +23,7 @@ Thus far we have analyzed information systems and biological agents as distinct 
 A **BIC** is the dynamically coupled system consisting of biological host(s) and persistently instantiated information system(s), whose reciprocal dependencies are strong enough that:
 
 1. the information system commandeers significant host resources (attention, energy, time, material assets); and
-2. the host’s continued well-being and identity become conditionally tied to the maintenance and propagation of that information system.
+2. the host's continued well-being and identity become conditionally tied to the maintenance and propagation of that information system.
 
 In short, the host *embodies* the information, while the information *shapes* the host—together forming a quasi-organismic whole.
 
@@ -35,7 +46,7 @@ Life-Cycle of a Bio-Informational Complex (BIC)
 | Phase             | Description                                                              | Dominant Dynamics                                         |
 | ----------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
 | **(I) Exposure**  | Initial contact with the information pattern.                            | Curiosity, low commitment.                                |
-| **(II) Adoption** | Pattern is rehearsed and begins to feel “intuitive.”                     | Reinforcement, early habit-loops.                         |
+| **(II) Adoption** | Pattern is rehearsed and begins to feel "intuitive."                     | Reinforcement, early habit-loops.                         |
 | **(III) Lock-In** | Routines, identity, and social ties reorganize around the pattern.       | Cognitive-immunity mechanisms activate; high stability.   |
 | **(IV) Propagation**| Host actively recruits or transmits the pattern to new hosts / substrates. | Evangelism, replication, scaling.                         |
 | **(V) Drift or Breakdown** | Pattern mutates, fragments, or loses support.                         | Reform, schism, extinction.                               |
@@ -48,16 +59,16 @@ BICs are not intrinsically beneficial or harmful; their net effect on host vital
 
 - **Mutualist BIC** – Both host and information flourish (e.g., literacy practices, scientific method).
 - **Commensal BIC** – Information thrives with negligible cost or benefit to the host (e.g., benign hobby fandoms).
-- **Parasitic BIC** – Information prospers at the host’s expense (e.g., self-harm cults, predatory conspiracy networks).
+- **Parasitic BIC** – Information prospers at the host's expense (e.g., self-harm cults, predatory conspiracy networks).
 
 The classification is fluid: contextual shifts ([resource scarcity](../glossary/R.md#resource-scarcity), [technological change](../glossary/T.md#technological-change), new competing patterns) can push a single BIC along this continuum.
 
 ## **5.e.5. Illustrative Instances**
 
-- A dedicated sports supporter whose calendar, friendships, and expenditures orbit the team’s narrative and rituals.
+- A dedicated sports supporter whose calendar, friendships, and expenditures orbit the team's narrative and rituals.
 - A smartphone user entangled with always-on social-media algorithms that regulate sleep patterns and mood.
 - A centuries-old monastic order, sustained by its rule-book, chants, and recruitment practices.
-- An online conspiracy collective whose jargon, videos, and initiation pathways capture and redirect newcomers’ behavior.
+- An online conspiracy collective whose jargon, videos, and initiation pathways capture and redirect newcomers' behavior.
 
 ## **5.e.6. Comparative Analysis: BICs in the Agent Complexity Spectrum**
 

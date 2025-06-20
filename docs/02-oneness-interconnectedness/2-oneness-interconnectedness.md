@@ -1,3 +1,14 @@
+---
+title: "Oneness, Interconnectedness, and the Nature of Distinctions"
+summary: >
+  Explores how a unified worldsheet substrate gives rise to apparent diversity through stabilization, hierarchical information layers, and agent-relative boundaries.
+description: >
+  Introduces Section 2 by reconciling fundamental oneness with emergent distinctions, outlining a three-layer information hierarchy, stabilization dynamics, the inside-out lens, and practical implications for analyzing modern systems.
+tags: [oneness, interconnectedness, distinctions, pattern-realism, stabilization]
+altitude: medium
+emoji: "🔍"
+---
+
 # 🔍 2. Oneness, Interconnectedness, and the Nature of Distinctions
 <!-- markdownlint-disable MD036 -->
 *Medium Altitude Exploration*

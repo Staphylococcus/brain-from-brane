@@ -1,3 +1,14 @@
+---
+title: "Ethical Systems as Competing Information Systems"
+summary: >
+  Treats moral frameworks as information patterns that vie for cognitive, social, and institutional resources.
+description: >
+  Analyzes resource competition, propagation mechanisms, host coupling, defensive responses, and evolutionary adaptation of ethical frameworks through the lens of information-system dynamics.
+tags: [ethics, information-systems, competition, moral-frameworks, resources]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.1. Ethical Systems as Competing Information Systems
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

@@ -1,3 +1,14 @@
+---
+title: "\"Inside-Out Lens\" and Self-Preservation"
+summary: >
+  Defines the inside-out lens architecture that grounds self-aware agents and lays out multi-dimensional criteria for assessing its sophistication.
+description: >
+  Examines how agents organize information around a self/non-self boundary, provides developmental dimensions and functional spectra, and proposes hypotheses for empirical study of lens configurations across biological and artificial systems.
+tags: [inside-out-lens, self-preservation, self-awareness, information-processing, agency]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 3.a. "Inside-Out Lens" and Self-Preservation
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

@@ -1,3 +1,14 @@
+---
+title: "Evolutionary Dynamics of Information Systems"
+summary: >
+  Traces macroevolutionary stages from proto-organizational cues to formal frameworks and algorithmic templates, highlighting selection and crossover forces.
+description: >
+  Provides a detailed timeline and mechanism analysis of how information systems diversify, complexify, and co-adapt with substrates, setting the stage for contemporary computational hybrids.
+tags: [evolutionary-dynamics, information-systems, macroevolution, selection, adaptation]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.c. Evolutionary Dynamics of Information Systems
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

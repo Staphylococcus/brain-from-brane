@@ -1,3 +1,14 @@
+---
+title: "Meta-Ethical Dimensions of Competition"
+summary: >
+  Investigates how underlying theories of morality themselves vie for legitimacy, shaping the rules of ethical engagement.
+description: >
+  Compares realism, relativism, constructivism, and pragmatism as meta-ethical stances, examining their competitive strategies, reinforcement loops, and implications for moral discourse.
+tags: [meta-ethics, competition, realism, relativism, discourse]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.5. Meta-Ethical Competition: Frameworks for Evaluation
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

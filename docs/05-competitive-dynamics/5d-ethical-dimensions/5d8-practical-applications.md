@@ -1,3 +1,14 @@
+---
+title: "Practical Applications of Ethical Competition Theory"
+summary: >
+  Translates insights from ethical competition dynamics into design, policy, and organizational strategies.
+description: >
+  Covers interventions such as incentive structuring, narrative engineering, and governance models to foster beneficial moral patterns while mitigating harmful ones in domains like AI, health, and education.
+tags: [practical-applications, ethics, policy, design, governance]
+altitude: low
+emoji: "⚙️"
+---
+
 <!--
 
 - Be deliberate about breadth/depth tradeoff

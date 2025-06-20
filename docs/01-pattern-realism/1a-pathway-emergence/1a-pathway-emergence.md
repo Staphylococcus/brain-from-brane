@@ -1,3 +1,14 @@
+---
+title: "From Organizational Information to Semantic Information"
+summary: >
+  Surveys six emergence thresholds that transform raw physical patterns into progressively richer forms of meaning, culminating in shared symbolic language.
+description: >
+  Provides a narrative overview—from stable particle structures to autopoiesis, proto-semantics, internal models, and finally cultural symbol systems—showing how each stage tightens feedback loops between pattern and interpreter and lays groundwork for later consciousness sections.
+tags: [semantic-emergence, information, thresholds, autopoiesis, meaning]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a. From Organizational Information to Semantic Information
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
@@ -7,7 +18,7 @@
 
 How do mind-independent physical patterns turn into mind-dependent meaning? The journey is **continuous in substrate**—a backdrop of reality that changes more slowly than the patterns it carries—and yet **discontinuous in capability**. At six identifiable thresholds new feedback loops appear, locking-in qualitatively different kinds of information. Once crossed, these thresholds are never re-crossed in reverse; snowflakes do not become quarks again, and languages do not forget how to mean.
 
-Below is a bird’s-eye story of those thresholds. If you’d rather dive into equations and diagrams, follow the links; if you just want to “feel” the shape of the ascent, stay on this page.
+Below is a bird's-eye story of those thresholds. If you'd rather dive into equations and diagrams, follow the links; if you just want to "feel" the shape of the ascent, stay on this page.
 
 ## Stage I – Stable Structures & the Particle Alphabet
 

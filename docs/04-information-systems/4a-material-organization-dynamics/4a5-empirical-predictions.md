@@ -1,3 +1,14 @@
+---
+title: "Empirical Predictions and Testable Hypotheses"
+summary: >
+  Lists falsifiable claims about pliability, template adoption, and engine-threshold crossings in self-stabilizing information systems.
+description: >
+  Provides measurement indicators and suggested experiments for validating the R/J/A framework and template dynamics across cognitive, social, and technological domains.
+tags: [empirical-predictions, hypotheses, falsification, information-systems, RJA]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.a.5. Empirical Predictions and Testable Hypotheses
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

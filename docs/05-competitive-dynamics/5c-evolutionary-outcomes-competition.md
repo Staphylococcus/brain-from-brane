@@ -1,3 +1,14 @@
+---
+title: "Evolutionary Outcomes of Competition"
+summary: >
+  Surveys the diversification, convergence, and extinction patterns that result when information systems struggle over shared substrates.
+description: >
+  Explains how competitive pressures drive innovation, niche formation, and systemic resets, using examples from language shifts to technological paradigm fights.
+tags: [evolutionary-outcomes, competition, diversification, extinction, information]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.c. Evolutionary Outcomes of Competition
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

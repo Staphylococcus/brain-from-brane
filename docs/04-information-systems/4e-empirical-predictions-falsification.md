@@ -1,3 +1,14 @@
+---
+title: "Empirical Predictions and Falsification"
+summary: >
+  Enumerates measurable signatures, experiments, and criteria for disproving key claims about information-system stabilization and agency emergence.
+description: >
+  Provides test matrices linking pliability, template formation, engine-threshold crossings, and competitive outcomes to observable data across cognitive, social, and technological domains.
+tags: [empirical-tests, falsification, predictions, information-systems, stabilization]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.e. Empirical Predictions and Falsification Criteria
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

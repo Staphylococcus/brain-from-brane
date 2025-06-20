@@ -1,3 +1,14 @@
+---
+title: "Proto-Semantics: Simple Agents, Detection & Functional Significance"
+summary: >
+  Explains how early autopoietic agents couple specific environmental patterns to self-preserving behaviors, giving rise to proto-semantic meaning.
+description: >
+  Details Stage III of the emergence sequence, showing receptors, valence encoding, and DNA/RNA examples that illustrate how simple detection-response loops ground the first functional semantics.
+tags: [proto-semantics, agents, detection, valence, meaning]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a.3. Proto-Semantics: Simple Agents, Detection & Functional Significance
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

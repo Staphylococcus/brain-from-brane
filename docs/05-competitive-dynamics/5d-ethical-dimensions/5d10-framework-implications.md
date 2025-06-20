@@ -1,3 +1,14 @@
+---
+title: "Ethical Implications of the Framework Itself"
+summary: >
+  Reflects on meta-responsibilities and potential risks arising from adopting the competitive-dynamics perspective on information and ethics.
+description: >
+  Explores self-referential concerns, stewardship duties, and guardrails needed to prevent misuse of the framework in manipulating moral landscapes.
+tags: [framework-implications, meta-ethics, responsibility, risk, stewardship]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.10. Ethical Implications of the Framework Itself
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

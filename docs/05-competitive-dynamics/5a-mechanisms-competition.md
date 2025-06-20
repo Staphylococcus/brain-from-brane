@@ -1,3 +1,14 @@
+---
+title: "Mechanisms of Competition: Strategies in the Informational Arena"
+summary: >
+  Catalogs the tactics information systems use—propaganda, enclosure, compatibility hacks—to outcompete rivals for attention and resources.
+description: >
+  Details strategic mechanisms across duplication, shielding, transformative coupling, and host manipulation, illustrating how patterns leverage cognitive and infrastructural channels to secure dominance.
+tags: [competition-mechanisms, strategies, attention, resources, information]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.a. Mechanisms of Competition: Strategies in the Informational Arena
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

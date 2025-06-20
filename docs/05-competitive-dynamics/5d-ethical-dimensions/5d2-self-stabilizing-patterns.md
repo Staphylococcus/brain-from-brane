@@ -1,3 +1,14 @@
+---
+title: "Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns"
+summary: >
+  Explains why moral systems display unparalleled persistence by fusing value with identity and layering redundancy across psychological, social, and cultural mechanisms.
+description: >
+  Dissects unique stability properties, multi-scale reinforcement loops, meta-stability, adaptive versus pathological forms, and design principles for fostering moral progress while managing excessive rigidity.
+tags: [ethical-stability, self-stabilizing, identity, redundancy, moral-progress]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 5.d.2. Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

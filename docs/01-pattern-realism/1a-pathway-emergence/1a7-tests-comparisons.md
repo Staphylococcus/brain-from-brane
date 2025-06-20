@@ -1,3 +1,14 @@
+---
+title: "Tests, Falsification, and Framework Comparison"
+summary: >
+  Provides concrete falsification criteria for each emergence stage and contrasts the framework with competing theories of consciousness and meaning.
+description: >
+  Outlines empirical conditions that could disprove the pathway—from thermodynamic coupling to symbolic thresholds—and presents a comparative table highlighting distinctions from IIT, predictive processing, enactivism, computationalism, and panpsychism.
+tags: [falsification, tests, comparison, emergence, consciousness]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a.7. Tests, Falsification, and Framework Comparison
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

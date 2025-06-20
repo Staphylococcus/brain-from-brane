@@ -1,3 +1,14 @@
+---
+title: "Thermodynamic & Autopoietic Bridge"
+summary: >
+  Traces how energy-driven dissipative structures evolve into autocatalytic, autopoietic systems that set the stage for proto-semantic meaning and true agency.
+description: >
+  Presents Stage II.5 of the emergence ladder, integrating England's dissipative adaptation, Kauffman's autocatalytic networks, and Maturana–Varela autopoiesis to show the thermodynamic path from passive patterns to self-maintaining agents equipped with an inside-out evaluative lens.
+tags: [thermodynamics, autopoiesis, autocatalysis, agency, proto-semantics]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 1.a.2.5. Thermodynamic & Autopoietic Bridge
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*

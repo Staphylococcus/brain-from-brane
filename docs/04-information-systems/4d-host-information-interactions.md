@@ -1,3 +1,14 @@
+---
+title: "Host–Information System Interactions"
+summary: >
+  Explores the engine threshold where information templates couple to autopoietic hosts, transforming organizational agency into semantic agency.
+description: >
+  Analyzes energy, matter, and feedback loops between hosts and information systems, detailing coupling phases, autonomy shifts, and implications for AI-human bio-informational complexes.
+tags: [host-interaction, engine-threshold, autopoiesis, semantic-agency, bio-informational]
+altitude: low
+emoji: "⚙️"
+---
+
 # ⚙️ 4.d. Host-Information System Interactions
 <!-- markdownlint-disable MD036 -->
 *Low Altitude Analysis*
