@@ -26,3 +26,5 @@ parts/
 sdist/
 var/
 wheels/
+
+.DS_Store
