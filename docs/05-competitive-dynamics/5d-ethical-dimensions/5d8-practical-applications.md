@@ -230,4 +230,4 @@ Competing Ethical Frameworks in Higher Education: Philosophies, Strategies, and 
 - **Resource Allocation**: University budgets reflect competitive outcomes among ethical frameworks
 
 ---
-[<< Previous: 5D7 Comparative Analysis](5d7-comparative-analysis.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D9 Managing Competition >>](5d9-managing-competition.md)
+[<< Previous: Comparative Analysis of Ethical Frameworks](5d7-comparative-analysis.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Managing Ethical Competition >>](5d9-managing-competition.md)

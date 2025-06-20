@@ -31,4 +31,4 @@ graph LR
 *Stage VI takeaway: All semantic information remains grounded in physical patterns, structured by agents' lenses.*
 
 ---
-[<< Previous: 1A5 Full Semantics](1a5-full-semantics.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A7 Tests Comparisons >>](1a7-tests-comparisons.md)
+[<< Previous: Full-Blown Semantics: Symbolic Systems & Shared Meaning](1a5-full-semantics.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Tests, Falsification, and Framework Comparison >>](1a7-tests-comparisons.md)

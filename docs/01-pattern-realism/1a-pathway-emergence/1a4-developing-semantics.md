@@ -46,4 +46,4 @@ The development of these semantic capabilities represents a significant increase
 *Stage IV takeaway: Complex agents form internal models for prediction, enriching the meaning of patterns.*
 
 ---
-[<< Previous: 1A3 Proto Semantics](1a3-proto-semantics.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A5 Full Semantics >>](1a5-full-semantics.md)
+[<< Previous: Proto-Semantics: Simple Agents, Detection & Functional Significance](1a3-proto-semantics.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Full-Blown Semantics: Symbolic Systems & Shared Meaning >>](1a5-full-semantics.md)

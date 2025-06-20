@@ -28,4 +28,4 @@ The competitive dynamics of information systems unfold across various arenas and
 - **Competition in Abstract Domains:** Even within specialized domains like science, mathematics, or philosophy, information systems (theories, proofs, arguments) "compete" for acceptance and utility. This competition is typically governed by domain-specific criteria such as explanatory power, logical consistency, empirical validation, parsimony, or predictive accuracy, often playing out in academic journals, conferences, and research communities before (and if) these systems achieve wider societal instantiation.
 
 ---
-[<< Previous: 5A Mechanisms Competition](5a-mechanisms-competition.md) | [Up: 5 Competitive Dynamics](5-competitive-dynamics.md) | [Next: 5C Evolutionary Outcomes Competition >>](5c-evolutionary-outcomes-competition.md)
+[<< Previous: Mechanisms of Competition: Strategies in the Informational Arena](5a-mechanisms-competition.md) | [Up: Competitive Dynamics of Information Systems](5-competitive-dynamics.md) | [Next: Evolutionary Outcomes of Competition >>](5c-evolutionary-outcomes-competition.md)

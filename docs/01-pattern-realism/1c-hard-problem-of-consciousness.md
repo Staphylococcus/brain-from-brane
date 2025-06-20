@@ -111,4 +111,4 @@ This eliminative approach enables rigorous scientific investigation by focusing 
 [^ 1. Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md)
 
 ---
-[<< Previous: 1B Emergence Of Consciousness](1b-emergence-of-consciousness.md) | [Up: 1 Pattern Realism](1-pattern-realism.md) | [Next: 2 Oneness Interconnectedness >>](../02-oneness-interconnectedness/2-oneness-interconnectedness.md)
+[<< Previous: Emergence of Consciousness](1b-emergence-of-consciousness.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: Oneness, Interconnectedness, and the Nature of Distinctions >>](../02-oneness-interconnectedness/2-oneness-interconnectedness.md)

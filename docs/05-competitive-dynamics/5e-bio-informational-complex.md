@@ -153,4 +153,4 @@ Unique Contributions of the Bio-Informational Complex (BIC) Framework
 | **Practical Applications** | Offers concrete tools for identifying and analyzing real-world phenomena from religious movements to political ideologies to consumer brand loyalty |
 
 ---
-[<< Previous: 5D9 Managing Competition](5d-ethical-dimensions/5d9-managing-competition.md) | [Up: 5 Competitive Dynamics](5-competitive-dynamics.md) | [Next: 6 Influence Collective Consciousness >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)
+[<< Previous: Managing Ethical Competition](5d-ethical-dimensions/5d9-managing-competition.md) | [Up: Competitive Dynamics of Information Systems](5-competitive-dynamics.md) | [Next: Mechanisms of Influence and Collective Consciousness >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)

@@ -90,4 +90,4 @@ This energetic dimension directly impacts both stability and semantics. The exis
 This breakdown reveals a recurring trade-off: mechanisms offering the strongest stability (often externally imposed and powered) tend to have the lowest semantic potential. Conversely, the mechanisms that enable rich, self-generated meaning are often more fragile and must solve the difficult problem of powering their own existence. The challenge for advanced AI is to develop systems that combine the stability of an engineered architecture with the semantic and energetic autonomy of an autopoietic self.
 
 ---
-[<< Previous: 2B Reconciling Oneness And Competition](2b-reconciling-oneness-and-competition.md) | [Up: 2 Oneness Interconnectedness](2-oneness-interconnectedness.md) | [Next: 2D Embodied Extensions Integration >>](2d-embodied-extensions-integration.md)
+[<< Previous: Reconciling Oneness with Competition](2b-reconciling-oneness-and-competition.md) | [Up: Oneness, Interconnectedness, and the Nature of Distinctions](2-oneness-interconnectedness.md) | [Next: Embodied Extensions & Multi-Scale Integration >>](2d-embodied-extensions-integration.md)

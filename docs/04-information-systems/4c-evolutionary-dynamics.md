@@ -465,4 +465,4 @@ Information systems follow predictable patterns of development over time, though
 Understanding evolutionary dynamics provides insights into how information systems develop, adapt, and spread through human populations and technological environments. This knowledge is essential for predicting system trajectories, designing more effective systems, and managing the impacts of information system evolution on society and individuals.
 
 ---
-[<< Previous: 4B5 Implications System Design](4b-emergent-stability-longevity/4b5-implications-system-design.md) | [Up: 4 Information Systems](4-information-systems.md) | [Next: 4D Host Information Interactions >>](4d-host-information-interactions.md)
+[<< Previous: Implications for Information System Design](4b-emergent-stability-longevity/4b5-implications-system-design.md) | [Up: Information as an Active, Evolving System](4-information-systems.md) | [Next: Host–Information System Interactions >>](4d-host-information-interactions.md)

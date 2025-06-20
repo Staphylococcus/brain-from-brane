@@ -200,4 +200,4 @@ This analysis reveals that the competitive information systems framework for eth
 The framework's ultimate justification is pragmatic: if it helps create conditions where beneficial ethical frameworks flourish while harmful ones are contained, then it succeeds in its core purpose. This success must be measured empirically through the welfare of individuals and communities, the quality of moral discourse, and the effectiveness of institutions in managing ethical pluralism.
 
 ---
-[<< Previous: 5D1 Ethical Systems Competing](5d1-ethical-systems-competing.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D2 Self Stabilizing Patterns >>](5d2-self-stabilizing-patterns.md)
+[<< Previous: Ethical Systems as Competing Information Systems](5d1-ethical-systems-competing.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns >>](5d2-self-stabilizing-patterns.md)

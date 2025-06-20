@@ -211,4 +211,4 @@ This analysis reveals that ethical frameworks represent the pinnacle of informat
 The exceptional nature of ethical stability suggests that moral progress requires careful attention to the information-processing dynamics of ethical systems themselves, not just their content. By understanding how ethical frameworks maintain themselves, we can better design systems that preserve their essential meaning-making and identity-providing functions while enabling the adaptation necessary for continued relevance and benefit.
 
 ---
-[<< Previous: 5D10 Framework Implications](5d10-framework-implications.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D3 Mechanisms Competition >>](5d3-mechanisms-competition.md)
+[<< Previous: Ethical Implications of the Framework Itself](5d10-framework-implications.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Mechanisms of Ethical Competition >>](5d3-mechanisms-competition.md)

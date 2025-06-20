@@ -469,4 +469,4 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 **Ecological Validity:** Assessment contexts that reflect natural behavioral repertoires and environmental challenges.
 
 ---
-[<< Previous: 3C Ai Emergent Agent](3c-ai-emergent-agent.md) | [Up: 3 Agents As Information Processors](3-agents-as-information-processors.md) | [Next: 4 Information Systems >>](../04-information-systems/4-information-systems.md)
+[<< Previous: AI as an Emergent Agent](3c-ai-emergent-agent.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: Information as an Active, Evolving System >>](../04-information-systems/4-information-systems.md)

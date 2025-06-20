@@ -37,4 +37,4 @@ The [emergence](../../glossary/E.md#emergence) of simple life forms marks a cruc
 *Stage III takeaway: Simple detection mechanisms grant basic functional meaning to environmental cues.*
 
 ---
-[<< Previous: 1A25 Thermodynamic Bridge](1a25-thermodynamic-bridge.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A4 Developing Semantics >>](1a4-developing-semantics.md)
+[<< Previous: Thermodynamic & Autopoietic Bridge](1a25-thermodynamic-bridge.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Developing Semantics: Internal Representation & Prediction >>](1a4-developing-semantics.md)

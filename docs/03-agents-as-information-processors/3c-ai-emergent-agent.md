@@ -107,4 +107,4 @@ Unique contributions
 | **Falsifiable Developmental Predictions** | Provides specific, measurable predictions about AI agency development trajectories through established assessment protocols |
 
 ---
-[<< Previous: 3B Broader Agency Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md) | [Up: 3 Agents As Information Processors](3-agents-as-information-processors.md) | [Next: 3D Agent Complexity Assessment Protocol >>](3d-agent-complexity-assessment-protocol.md)
+[<< Previous: Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: Agent Complexity Assessment Protocol >>](3d-agent-complexity-assessment-protocol.md)

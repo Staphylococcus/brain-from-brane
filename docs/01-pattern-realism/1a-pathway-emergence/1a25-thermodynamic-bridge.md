@@ -118,4 +118,4 @@ flowchart TB
 *Stage II.5 takeaway: Thermodynamic necessity drives the emergence of autopoietic agents with primitive functional meaning and the foundational inside-out lens architecture that will enable full agency and consciousness.*
 
 ---
-[<< Previous: 1A2 Environmental Information](1a2-environmental-information.md) | [Up: 1 Pattern Realism](../1-pattern-realism.md) | [Next: 1A3 Proto Semantics >>](1a3-proto-semantics.md)
+[<< Previous: Environmental Information: Patterns as Potential Cues](1a2-environmental-information.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Proto-Semantics: Simple Agents, Detection & Functional Significance >>](1a3-proto-semantics.md)

@@ -186,4 +186,4 @@ The framework commits to specific evidence standards for falsification:
 **Mechanistic Evidence**: Falsification requires not just correlational but mechanistic evidence about how competitive processes operate.
 
 ---
-[<< Previous: 5D5 Meta Ethical Competition](5d5-meta-ethical-competition.md) | [Up: 5 Competitive Dynamics](../5-competitive-dynamics.md) | [Next: 5D7 Comparative Analysis >>](5d7-comparative-analysis.md)
+[<< Previous: Meta-Ethical Dimensions of Competition](5d5-meta-ethical-competition.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Comparative Analysis of Ethical Frameworks >>](5d7-comparative-analysis.md)

@@ -27,4 +27,4 @@ The "vying for dominance" among information systems employs a range of strategie
 - **Resilience through Adaptability and Self-Correction:** Information systems that possess inherent mechanisms for [adaptation](../glossary/A.md#adaptation), learning, or self-correction may exhibit greater long-term competitive resilience. For instance, scientific methodologies, with their emphasis on falsifiability and revision based on new evidence, allow scientific theories to evolve and maintain explanatory power. Open-source software development models, as information systems for producing other information systems, thrive on iterative improvement and community-driven adaptation.
 
 ---
-[<< Previous: 5 Competitive Dynamics](5-competitive-dynamics.md) | [Up: 5 Competitive Dynamics](5-competitive-dynamics.md) | [Next: 5B Arenas Levels Competition >>](5b-arenas-levels-competition.md)
+[<< Previous: Competitive Dynamics of Information Systems](5-competitive-dynamics.md) | [Up: Competitive Dynamics of Information Systems](5-competitive-dynamics.md) | [Next: Arenas and Levels of Competition >>](5b-arenas-levels-competition.md)

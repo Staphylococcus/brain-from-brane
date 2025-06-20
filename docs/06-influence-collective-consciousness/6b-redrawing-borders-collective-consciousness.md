@@ -56,4 +56,4 @@ Predictive Hypotheses on the Future of Collective Boundaries and Identity
 | **BIC Export Advantage** – Societies nurturing high-generativity information ecosystems will export more BICs than they import. | Tracking origin and adoption rates of global movements/products. | Net import dominance despite domestic generativity metrics. |
 
 ---
-[<< Previous: 6A Mechanisms Influence Reality](6a-mechanisms-influence-reality.md) | [Up: 6 Influence Collective Consciousness](6-influence-collective-consciousness.md) | [Next: 6C Fluid Dynamics Metaphor >>](6c-fluid-dynamics-metaphor.md)
+[<< Previous: Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md) | [Up: Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: The Fluid Dynamics Metaphor for Shifting Borders >>](6c-fluid-dynamics-metaphor.md)

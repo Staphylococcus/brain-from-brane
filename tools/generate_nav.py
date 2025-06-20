@@ -1,22 +1,74 @@
-\
 import os
 import re
 import glob
+from typing import Optional
+
+# Attempt to import PyYAML for robust front-matter parsing. If unavailable, fall
+# back to a minimal, line-based parser so the script remains functional without
+# additional dependencies.
+try:
+    import yaml  # type: ignore
+except ModuleNotFoundError:  # Keep going without hard dependency.
+    yaml = None
 
 # --- Configuration ---
 DOCS_DIR_NAME = "docs"  # Name of the docs directory relative to project root
 
 # --- Helper Functions ---
 def get_h1_title(filepath):
-    """Extracts the H1 title (e.g., # Title) from a Markdown file."""
+    """Return the document title preferring YAML front-matter, otherwise H1 line.
+
+    All markdown files now begin with a YAML block delimited by `---`.  When
+    present, we parse that block and use the `title` field.  If the YAML parser
+    (PyYAML) is unavailable or the file lacks front-matter, we fall back to the
+    first H1 heading ("# Title") and finally to a prettified filename.
+    """
+
+    title_from_front_matter = None  # type: Optional[str]
+
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            for line in f:
-                if line.startswith("# "):
-                    return line[2:].strip()
+        with open(filepath, "r", encoding="utf-8") as f:
+            first_line = f.readline()
+
+            # Detect front-matter opening delimiter
+            if first_line.strip() == "---":
+                front_matter_lines: list[str] = []
+
+                for line in f:
+                    if line.strip() == "---":
+                        break  # End of front-matter
+                    front_matter_lines.append(line)
+
+                yaml_block = "".join(front_matter_lines)
+
+                # Parse using PyYAML when available
+                if yaml is not None:
+                    try:
+                        meta = yaml.safe_load(yaml_block) or {}
+                        title_from_front_matter = meta.get("title")
+                    except Exception as e:  # pragma: no cover – non-critical
+                        print(f"Debug: YAML parse error in {filepath}: {e}")
+                else:
+                    # Minimal fallback: search for a `title:` line
+                    match = re.search(r"^title:\s*\"?(.*?)\"?$", yaml_block, re.MULTILINE)
+                    if match:
+                        title_from_front_matter = match.group(1).strip()
+
+            # If we didn't get title from front-matter, scan the rest for first H1
+            if not title_from_front_matter:
+                for line in f:
+                    if line.startswith("# "):
+                        title_from_front_matter = line[2:].strip()
+                        break
+
     except FileNotFoundError:
-        pass 
-    return os.path.splitext(os.path.basename(filepath))[0].replace('-', ' ').title()
+        pass
+
+    # Final fallback – derive from filename if nothing else worked.
+    return (
+        title_from_front_matter
+        or os.path.splitext(os.path.basename(filepath))[0].replace("-", " ").title()
+    )
 
 def get_relative_path(target_abs_path, current_file_abs_path):
     """Computes the relative path from the directory of current_file_abs_path to target_abs_path."""

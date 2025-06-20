@@ -165,4 +165,4 @@ The recursive insight bridges scientific mechanism with philosophical phenomenol
 This provides the foundation for Section 1.c's philosophical analysis with concrete, measurable organizational principles rooted in the same **self-stabilizing patterns** that govern all reality.
 
 ---
-[<< Previous: 1A7 Tests Comparisons](1a-pathway-emergence/1a7-tests-comparisons.md) | [Up: 1 Pattern Realism](1-pattern-realism.md) | [Next: 1C Hard Problem Of Consciousness >>](1c-hard-problem-of-consciousness.md)
+[<< Previous: Tests, Falsification, and Framework Comparison](1a-pathway-emergence/1a7-tests-comparisons.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)

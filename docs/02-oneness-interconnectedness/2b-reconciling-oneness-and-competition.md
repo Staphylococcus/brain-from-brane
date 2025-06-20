@@ -19,4 +19,4 @@ The "striving" of these patterns for persistence is not a teleological impositio
 Thus, competition does not necessarily contradict fundamental oneness but is a characteristic of how distinct patterns interact and strive for persistence at emergent levels under conditions of limitation. The patterns that outcompete other patterns are the ones that end up persisting.
 
 ---
-[<< Previous: 2A Emergent Subjective Distinctions](2a-emergent-subjective-distinctions.md) | [Up: 2 Oneness Interconnectedness](2-oneness-interconnectedness.md) | [Next: 2C Pattern Based Boundary Concepts >>](2c-pattern-based-boundary-concepts.md)
+[<< Previous: Emergent and Subjective Distinctions within a Structured Whole](2a-emergent-subjective-distinctions.md) | [Up: Oneness, Interconnectedness, and the Nature of Distinctions](2-oneness-interconnectedness.md) | [Next: Pattern-Based Boundary Concepts >>](2c-pattern-based-boundary-concepts.md)

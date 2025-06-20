@@ -55,4 +55,4 @@ This understanding transforms how we approach challenges ranging from educationa
 The implications extend to contemporary challenges including AI alignment, social media platform governance, and the management of competing ideological frameworks in democratic societies. By understanding how information systems achieve and maintain stability, we can better predict their behavior, design beneficial interventions, and create governance structures capable of managing the complex dynamics of informational competition and evolution.
 
 ---
-[<< Previous: 4A5 Empirical Predictions](../4a-material-organization-dynamics/4a5-empirical-predictions.md) | [Up: 4 Information Systems](../4-information-systems.md) | [Next: 4B1 Mechanisms Emergent Stability >>](4b1-mechanisms-emergent-stability.md)
+[<< Previous: Empirical Predictions and Testable Hypotheses](../4a-material-organization-dynamics/4a5-empirical-predictions.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Mechanisms of Emergent Stability >>](4b1-mechanisms-emergent-stability.md)
