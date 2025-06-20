@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamic & Autopoietic Bridge"
+number: "1.A.2.5"
 summary: >
   Traces how energy-driven dissipative structures evolve into autocatalytic, autopoietic systems that set the stage for proto-semantic meaning and true agency.
 description: >
