@@ -5,7 +5,7 @@ summary: >
   Enumerates measurable signatures, experiments, and criteria for disproving key claims about information-system stabilization and agency emergence.
 description: >
   Provides test matrices linking pliability, template formation, engine-threshold crossings, and competitive outcomes to observable data across cognitive, social, and technological domains.
-tags: [empirical-tests, falsification, predictions, information-systems, stabilization]
+tags: [Empirical Tests, Falsification, Predictions, Information Systems, Stabilization]
 altitude: low
 emoji: "⚙️"
 ---

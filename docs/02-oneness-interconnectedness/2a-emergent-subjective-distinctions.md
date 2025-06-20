@@ -5,7 +5,7 @@ summary: >
   Explains how agent-relative inside-out lenses carve meaningful distinctions from a physically structured yet unified reality.
 description: >
   Discusses how inherent structural propensities of the worldsheet continuum interact with evolutionary and cognitive factors to produce the boundaries and categories agents perceive and use.
-tags: [subjective-distinctions, agents, structure, oneness, pattern-realism]
+tags: [Subjective Distinctions, Agents, Structure, Oneness, Pattern Realism]
 altitude: low
 emoji: "⚙️"
 ---

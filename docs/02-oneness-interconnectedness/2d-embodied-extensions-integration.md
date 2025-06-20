@@ -5,11 +5,9 @@ summary: >
   Describes how agents integrate tools, institutions, and culture into expanded composite patterns across neural to socio-technical scales.
 description: >
   Analyzes embodiment as pattern aggregation, presenting examples from cane usage to laboratories, and discusses agency, ethics, and boundary fluidity in pattern composites.
-tags: [embodiment, integration, multi-scale, extensions, agency]
+tags: [Embodiment, Integration, Multi-Scale, Extensions, Agency]
 altitude: low
 emoji: "⚙️"
----
-
 ---
 
 ## 1  From Cane to Culture — A Pattern Perspective

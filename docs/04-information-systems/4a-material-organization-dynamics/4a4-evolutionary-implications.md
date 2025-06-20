@@ -5,7 +5,7 @@ summary: >
   Discusses how material organization dynamics drive selection pressures and co-evolution between patterns and substrates.
 description: >
   Explores compatibility and efficiency as selection forces, explaining why certain designs spread across neurons, institutions, and hardware while others stagnate.
-tags: [evolution, coevolution, selection, material-organization, patterns]
+tags: [Evolution, Coevolution, Selection, Material Organization, Patterns]
 altitude: low
 emoji: "⚙️"
 ---

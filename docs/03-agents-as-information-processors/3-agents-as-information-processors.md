@@ -5,7 +5,7 @@ summary: >
   Introduces a complexity spectrum for biological, human, and AI agents viewed through their information-processing capacities and inside-out lenses.
 description: >
   Explores criteria such as semantic depth, autonomy, and environmental influence to compare agents, setting context for deeper dives into self-preservation, reciprocal dynamics, AI emergence, and assessment protocols in subsequent subsections.
-tags: [agents, information-processing, complexity, inside-out-lens, comparison]
+tags: [Agents, Information Processing, Complexity, Inside-Out Lens, Comparison]
 altitude: medium
 emoji: "🔍"
 ---

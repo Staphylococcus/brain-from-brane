@@ -5,7 +5,7 @@ summary: >
   Introduces how information systems compete for limited cognitive, material, and energetic resources across individual to societal scales.
 description: >
   Frames Section 5 by linking resource-driven struggle to evolution, mechanisms of dominance, and the role of bio-informational complexes, providing entry points to detailed subsections on strategies, arenas, outcomes, ethics, and BICs.
-tags: [competition, information-systems, resources, evolution, BIC]
+tags: [Competition, Information Systems, Resources, Evolution, BIC]
 altitude: medium
 emoji: "🔍"
 ---

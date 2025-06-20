@@ -5,7 +5,7 @@ summary: >
   Investigates moral questions arising when information systems and BICs pursue dominance, including harm, autonomy, and governance challenges.
 description: >
   Outlines ethical frameworks, self-stabilizing pattern risks, mitigation mechanisms, and implications for responsible design and policy across sub-sections d1–d10.
-tags: [ethics, competition, information-systems, autonomy, governance]
+tags: [Ethics, Competition, Information Systems, Autonomy, Governance]
 altitude: low
 emoji: "⚙️"
 ---

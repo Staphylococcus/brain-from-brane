@@ -5,7 +5,7 @@ summary: >
   Analyzes the internal and external threats that can destabilize information systems, including transmission errors, contradictions, competition, and host resistance, along with corresponding defensive mechanisms.
 description: >
   Provides a detailed low-altitude analysis of how information systems maintain stability through defensive responses to degradation, competition, and rejection threats, examining both internal vulnerabilities and external challenges.
-tags: [information-systems, stability, threats, defensive-responses, degradation, competition, host-resistance]
+tags: [Information Systems, Stability, Threats, Defensive Responses, Degradation, Competition, Host Resistance]
 altitude: low
 emoji: "⚙️"
 ---

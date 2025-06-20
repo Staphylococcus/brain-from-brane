@@ -5,7 +5,7 @@ summary: >
   Describes how informational legacies evolve and endure through ongoing reinterpretation, replication, and host interaction.
 description: >
   Explains that persistence is an active process contingent on remembrance and re-instantiation by human and AI systems, emphasizing emergent stability and continual re-evaluation.
-tags: [dynamic-persistence, legacy, reinterpretation, replication, evolution]
+tags: [Dynamic Persistence, Legacy, Reinterpretation, Replication, Evolution]
 altitude: low
 emoji: "⚙️"
 ---

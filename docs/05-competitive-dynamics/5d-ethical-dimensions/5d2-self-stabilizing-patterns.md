@@ -5,7 +5,7 @@ summary: >
   Explains why moral systems display unparalleled persistence by fusing value with identity and layering redundancy across psychological, social, and cultural mechanisms.
 description: >
   Dissects unique stability properties, multi-scale reinforcement loops, meta-stability, adaptive versus pathological forms, and design principles for fostering moral progress while managing excessive rigidity.
-tags: [ethical-stability, self-stabilizing, identity, redundancy, moral-progress]
+tags: [Ethical Stability, Self-Stabilizing, Identity, Redundancy, Moral Progress]
 altitude: low
 emoji: "⚙️"
 ---

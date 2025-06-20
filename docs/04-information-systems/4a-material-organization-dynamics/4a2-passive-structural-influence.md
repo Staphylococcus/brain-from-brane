@@ -5,7 +5,7 @@ summary: >
   Explores how stabilized patterns mold their environments without active propagation, guiding compatible arrangements via template effects.
 description: >
   Details hallmark properties like redundancy, self-reinforcement, and cascading order, illustrating passive influence across neural, social, and technological systems.
-tags: [passive-influence, templates, stabilization, information-patterns, self-reinforcement]
+tags: [Passive Influence, Templates, Stabilization, Information Patterns, Self-Reinforcement]
 altitude: low
 emoji: "⚙️"
 ---

@@ -5,7 +5,7 @@ summary: >
   Provides a five-dimensional, 0-125 scoring system (ACAP) for measuring organizational and semantic agency across biological, artificial, and hybrid entities.
 description: >
   Details indicators, scoring anchors, developmental trajectories, and falsifiable predictions, enabling rigorous comparison of agents and information systems within the gradient agency ontology.
-tags: [assessment, complexity, ACAP, agency, measurement]
+tags: [Assessment, Complexity, ACAP, Agency, Measurement]
 altitude: low
 emoji: "⚙️"
 ---

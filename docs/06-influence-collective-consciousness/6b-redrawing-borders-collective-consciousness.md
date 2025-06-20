@@ -5,7 +5,7 @@ summary: >
   Examines how algorithmic organization and template affinity dissolve traditional boundaries while creating new fluid, context-dependent divisions.
 description: >
   Analyzes permeability of geographic, institutional, and temporal borders under global networks, and how new algorithmically-shaped epistemic communities emerge.
-tags: [borders, collective-consciousness, algorithmic-organization, fluidity, networks]
+tags: [Borders, Collective Consciousness, Algorithmic Organization, Fluidity, Networks]
 altitude: low
 emoji: "⚙️"
 ---

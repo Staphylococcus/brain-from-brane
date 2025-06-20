@@ -5,7 +5,7 @@ summary: >
   Reflects on meta-responsibilities and potential risks arising from adopting the competitive-dynamics perspective on information and ethics.
 description: >
   Explores self-referential concerns, stewardship duties, and guardrails needed to prevent misuse of the framework in manipulating moral landscapes.
-tags: [framework-implications, meta-ethics, responsibility, risk, stewardship]
+tags: [Framework Implications, Meta-Ethics, Responsibility, Risk, Stewardship]
 altitude: low
 emoji: "⚙️"
 ---

@@ -5,7 +5,7 @@ summary: >
   Investigates how underlying theories of morality themselves vie for legitimacy, shaping the rules of ethical engagement.
 description: >
   Compares realism, relativism, constructivism, and pragmatism as meta-ethical stances, examining their competitive strategies, reinforcement loops, and implications for moral discourse.
-tags: [meta-ethics, competition, realism, relativism, discourse]
+tags: [Meta-Ethics, Competition, Realism, Relativism, Discourse]
 altitude: low
 emoji: "⚙️"
 ---

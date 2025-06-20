@@ -5,7 +5,7 @@ summary: >
   Traces macroevolutionary stages from proto-organizational cues to formal frameworks and algorithmic templates, highlighting selection and crossover forces.
 description: >
   Provides a detailed timeline and mechanism analysis of how information systems diversify, complexify, and co-adapt with substrates, setting the stage for contemporary computational hybrids.
-tags: [evolutionary-dynamics, information-systems, macroevolution, selection, adaptation]
+tags: [Evolutionary Dynamics, Information Systems, Macroevolution, Selection, Adaptation]
 altitude: low
 emoji: "⚙️"
 ---

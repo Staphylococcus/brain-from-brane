@@ -5,7 +5,7 @@ summary: >
   Shows how competitive dynamics among self-stabilizing patterns arise within a single interconnected substrate without contradicting fundamental unity.
 description: >
   Links resource scarcity, outward stabilization propensity, and emergent competition to argue that striving patterns complement rather than violate the ontology of oneness.
-tags: [competition, oneness, resource-scarcity, stabilization, emergence]
+tags: [Competition, Oneness, Resource Scarcity, Stabilization, Emergence]
 altitude: low
 emoji: "⚙️"
 ---

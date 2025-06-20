@@ -5,7 +5,7 @@ summary: >
   Summarizes the foundational principles—physical grounding, layered emergence, the inside-out lens, and interconnectedness—that govern how semantic information arises.
 description: >
   Concludes the Stage VI overview by weaving together themes from earlier thresholds, emphasizing that meaning remains rooted in physical patterns while gaining complexity through evolutionary and cognitive layering.
-tags: [semantic-information, principles, grounding, emergence, inside-out-lens]
+tags: [Semantic Information, Principles, Grounding, Emergence, Inside-Out Lens]
 altitude: low
 emoji: "⚙️"
 ---

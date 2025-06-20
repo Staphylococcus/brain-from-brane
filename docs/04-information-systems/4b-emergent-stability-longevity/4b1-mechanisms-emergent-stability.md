@@ -1,11 +1,10 @@
 ---
 title: "Mechanisms of Emergent Stability"
-number: "4.B.1"
 summary: >
   Explores how information systems achieve and maintain stability through dynamic processes including self-reinforcing feedback loops, adaptive stabilization, and error correction mechanisms.
 description: >
   Analyzes the material and cognitive mechanisms that enable information systems to persist and thrive, including utility reinforcement, identity integration, cognitive entrenchment, content evolution, transmission innovation, and quality control processes.
-tags: [information-systems, stability, feedback-loops, adaptive-stabilization, error-correction]
+tags: [Information Systems, Stability, Feedback Loops, Adaptive Stabilization, Error Correction]
 altitude: low
 emoji: "⚙️"
 ---
@@ -170,4 +169,4 @@ Once inconsistencies or degradations are identified, restoration processes are e
 Quality selection mechanisms ensure that the information system evolves by filtering out detrimental elements and incorporating beneficial ones. Peer review and evaluation processes, facilitated by social **Repeaters** who apply **Anchored** criteria, serve to filter out inferior variants (detrimental **Jitter**) while identifying and promoting high-quality contributions (beneficial **Jitter**). A degree of competition between different versions or manifestations of the system, each potentially incorporating various forms of **Jitter**, allows for the testing and selection of higher quality implementations, which are subsequently more widely propagated by **Repeaters**. User feedback, which can be considered a form of environmental **Jitter**, provides valuable input for improvement and refinement efforts; it signals to **Repeaters** and system maintainers areas where existing **Anchors** might require adjustment or where new, beneficial variations should be adopted. Finally, performance metrics, acting as quantitative **Anchors**, help identify areas within the system that need enhancement, often highlighting where current **Repeaters** may be underperforming or where the system is particularly vulnerable to the negative impacts of detrimental **Jitter**.
 
 ---
-[<< Previous: Emergent Stability and Longevity](4b-emergent-stability-longevity.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Factors Contributing to Longevity >>](4b2-factors-contributing-longevity.md)
+[<< Previous: ⚙️ 4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity.md) | [Up: 🔍 4. Information as an Active, Evolving System (e.g., Language, Meta-Narratives)](../4-information-systems.md) | [Next: ⚙️ 4.b.2. Factors Contributing to Longevity >>](4b2-factors-contributing-longevity.md)

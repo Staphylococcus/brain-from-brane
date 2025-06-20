@@ -5,7 +5,7 @@ summary: >
   Maps where and at what scales information systems compete—from intrapersonal cognition to global ideological clashes.
 description: >
   Breaks down micro, meso, and macro arenas, clarifying resource types and feedback loops at each level to show how local victories cascade into broader dominance.
-tags: [arenas, competition, scales, cognition, ideology]
+tags: [Arenas, Competition, Scales, Cognition, Ideology]
 altitude: low
 emoji: "⚙️"
 ---

@@ -5,7 +5,7 @@ summary: >
   Explores how information systems reshape reality and collective consciousness via agent-mediated pathways and emerging AI-driven direct environmental structuring.
 description: >
   Frames Section 6 by integrating earlier frameworks—information systems, BICs, competitive dynamics—to show dual influence mechanisms, fluid border formation, and strategic implications for education, policy, and AI ethics.
-tags: [influence, collective-consciousness, information-systems, AI, borders]
+tags: [Influence, Collective Consciousness, Information Systems, AI, Borders]
 altitude: medium
 emoji: "🔍"
 ---

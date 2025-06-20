@@ -5,7 +5,7 @@ summary: >
   Lists falsifiable claims about pliability, template adoption, and engine-threshold crossings in self-stabilizing information systems.
 description: >
   Provides measurement indicators and suggested experiments for validating the R/J/A framework and template dynamics across cognitive, social, and technological domains.
-tags: [empirical-predictions, hypotheses, falsification, information-systems, RJA]
+tags: [Empirical Predictions, Hypotheses, Falsification, Information Systems, R/J/A Model]
 altitude: low
 emoji: "⚙️"
 ---

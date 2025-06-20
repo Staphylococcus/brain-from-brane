@@ -5,7 +5,7 @@ summary: >
   Shows how identifying consciousness with recursive information processing eliminates the explanatory gap traditionally framed as the hard problem.
 description: >
   Builds on the emergence account to argue that subjective experience is constituted—not generated—by recursive self-examination, dissolving qualia-based dualisms and setting clear empirical criteria for consciousness research.
-tags: [consciousness, hard-problem, qualia, recursion, philosophy]
+tags: [Consciousness, Hard Problem, Qualia, Recursion, Philosophy]
 altitude: low
 emoji: "⚙️"
 ---

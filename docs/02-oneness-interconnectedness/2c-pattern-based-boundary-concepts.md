@@ -5,7 +5,7 @@ summary: >
   Compares biological, informational, and social boundary mechanisms as strategies for preserving pattern coherence.
 description: >
   Unifies diverse notions—from cell membranes to Markov blankets—under a functional criterion of pattern stability, mapping each mechanism by stability depth and semantic potential.
-tags: [boundaries, pattern-stability, autopoiesis, markov-blanket, semantics]
+tags: [Boundaries, Pattern Stability, Autopoiesis, Markov Blanket, Semantics]
 altitude: low
 emoji: "⚙️"
 ---

@@ -5,7 +5,7 @@ summary: >
   Provides side-by-side evaluation of major moral systems using the competitive dynamics lens, highlighting strengths, vulnerabilities, and adaptability.
 description: >
   Uses standardized metrics to compare deontological, consequentialist, virtue, care, and religious ethics across propagation efficiency, stability, resource use, and host impact.
-tags: [comparative-analysis, ethical-frameworks, metrics, strengths, vulnerabilities]
+tags: [Comparative Analysis, Ethical Frameworks, Metrics, Strengths, Vulnerabilities]
 altitude: low
 emoji: "⚙️"
 ---

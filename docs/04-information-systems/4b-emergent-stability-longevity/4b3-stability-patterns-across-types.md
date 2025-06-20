@@ -5,7 +5,7 @@ summary: >
   Compares stability mechanisms, longevity factors, and illustrative examples across major types of information systems including scientific knowledge, religious systems, technological paradigms, cultural narratives, and architectural monuments.
 description: >
   Provides a detailed low-altitude analysis examining how different information systems achieve and maintain stability over time, with specific focus on monuments as exceptionally stable anchor patterns that preserve encoded messages across millennia.
-tags: [information-systems, stability, longevity, patterns, monuments]
+tags: [Information Systems, Stability, Longevity, Patterns, Monuments]
 altitude: low
 emoji: "⚙️"
 ---

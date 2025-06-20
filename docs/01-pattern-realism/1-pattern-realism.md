@@ -5,7 +5,7 @@ summary: >
   Explores how information and matter/energy offer complementary descriptive lenses, united under Pattern Realism, and why this duality matters for understanding complex systems and consciousness.
 description: >
   Introduces Pattern Realism—the view that reality is fundamentally structured patterns interpretable through both physical (matter/energy) and informational perspectives—and outlines key concepts like dual lenses, information levels, and pattern stability that set the stage for the framework.
-tags: [pattern-realism, dual-lenses, information-theory, emergence, consciousness]
+tags: [Pattern Realism, Dual Lenses, Information Theory, Emergence, Consciousness]
 altitude: medium
 emoji: "🔍"
 ---

@@ -5,7 +5,7 @@ summary: >
   Catalogs the tactics information systems use—propaganda, enclosure, compatibility hacks—to outcompete rivals for attention and resources.
 description: >
   Details strategic mechanisms across duplication, shielding, transformative coupling, and host manipulation, illustrating how patterns leverage cognitive and infrastructural channels to secure dominance.
-tags: [competition-mechanisms, strategies, attention, resources, information]
+tags: [Competition Mechanisms, Strategies, Attention, Resources, Information]
 altitude: low
 emoji: "⚙️"
 ---

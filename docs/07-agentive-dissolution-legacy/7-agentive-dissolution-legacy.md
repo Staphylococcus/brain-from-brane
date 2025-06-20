@@ -5,7 +5,7 @@ summary: >
   Discusses what happens to an agent's informational patterns after death, examining how legacies persist, spread, and transform.
 description: >
   Connects legacy persistence to agent complexity criteria, outlines factors like longevity, breadth, transformative power, and fidelity, and sets context for mechanisms explored in subsections 7a and 7b.
-tags: [legacy, dissolution, information-patterns, persistence, agent-complexity]
+tags: [Legacy, Dissolution, Information Patterns, Persistence, Agent Complexity]
 altitude: medium
 emoji: "🔍"
 ---

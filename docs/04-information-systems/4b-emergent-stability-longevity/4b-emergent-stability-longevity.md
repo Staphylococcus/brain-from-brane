@@ -5,7 +5,7 @@ summary: >
   Analyzes how information systems maintain persistence through feedback loops, adaptive stabilization, and host integration, outlining mechanisms, factors, and threats.
 description: >
   Serves as the overview for Section 4.b, detailing mechanisms of stability, longevity contributors, pattern differences across system types, defensive responses, and design principles for robust yet ethical information systems.
-tags: [stability, longevity, information-systems, feedback-loops, design]
+tags: [Stability, Longevity, Information Systems, Feedback Loops, Design]
 altitude: low
 emoji: "⚙️"
 ---

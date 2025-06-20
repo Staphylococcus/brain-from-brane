@@ -5,7 +5,7 @@ summary: >
   Surveys six emergence thresholds that transform raw physical patterns into progressively richer forms of meaning, culminating in shared symbolic language.
 description: >
   Provides a narrative overview—from stable particle structures to autopoiesis, proto-semantics, internal models, and finally cultural symbol systems—showing how each stage tightens feedback loops between pattern and interpreter and lays groundwork for later consciousness sections.
-tags: [semantic-emergence, information, thresholds, autopoiesis, meaning]
+tags: [Semantic Emergence, Information, Thresholds, Autopoiesis, Meaning]
 altitude: low
 emoji: "⚙️"
 ---

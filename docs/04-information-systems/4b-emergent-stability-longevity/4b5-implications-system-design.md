@@ -5,7 +5,7 @@ summary: >
   Explores how understanding stability mechanisms provides insights for intentionally designing robust information systems that can persist and evolve effectively.
 description: >
   Details design principles for stability including building on solid foundations, implementing multiple stability mechanisms, and planning for evolution, along with ethical considerations for beneficial stability and responsible evolution.
-tags: [information-systems, system-design, stability, longevity, design-principles, ethics]
+tags: [Information Systems, System Design, Stability, Longevity, Design Principles, Ethics]
 altitude: low
 emoji: "⚙️"
 ---

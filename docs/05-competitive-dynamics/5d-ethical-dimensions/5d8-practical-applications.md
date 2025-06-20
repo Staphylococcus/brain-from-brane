@@ -5,7 +5,7 @@ summary: >
   Translates insights from ethical competition dynamics into design, policy, and organizational strategies.
 description: >
   Covers interventions such as incentive structuring, narrative engineering, and governance models to foster beneficial moral patterns while mitigating harmful ones in domains like AI, health, and education.
-tags: [practical-applications, ethics, policy, design, governance]
+tags: [Practical Applications, Ethics, Policy, Design, Governance]
 altitude: low
 emoji: "⚙️"
 ---

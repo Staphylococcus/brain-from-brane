@@ -5,7 +5,7 @@ summary: >
   Defines repeaters, jitter, and anchors as the core triad governing persistence, variation, and fidelity in information systems.
 description: >
   Presents examples, comparative analysis with other frameworks, and shows how the R/J/A triad integrates communication theory with evolutionary dynamics for biological, social, and technological patterns.
-tags: [RJA-model, repeaters, jitter, anchors, information-systems]
+tags: [R/J/A Model, Repeaters, Jitter, Anchors, Information Systems]
 altitude: low
 emoji: "⚙️"
 ---

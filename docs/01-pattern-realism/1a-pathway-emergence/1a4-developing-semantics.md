@@ -5,7 +5,7 @@ summary: >
   Explores how nervous-system agents build internal representations and predictive models, greatly expanding the depth and context-sensitivity of meaning.
 description: >
   Covers Stage IV, detailing sensory encoding, generative models, learning, and planning mechanisms that transform detection loops into rich, abstract semantics grounded in prediction error minimization.
-tags: [developing-semantics, internal-models, prediction, nervous-systems, meaning]
+tags: [Developing Semantics, Internal Models, Prediction, Nervous Systems, Meaning]
 altitude: low
 emoji: "⚙️"
 ---

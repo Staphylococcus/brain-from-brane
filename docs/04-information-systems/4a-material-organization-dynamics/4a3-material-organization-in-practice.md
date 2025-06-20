@@ -5,7 +5,7 @@ summary: >
   Provides case studies—science, language, finance—showing R/J/A dynamics and passive influence in real-world systems.
 description: >
   Analyzes how paradigms, grammar, and accounting standards act as repeaters, jitter sources, and anchors, demonstrating multi-scale material organization of information.
-tags: [case-studies, science, language, finance, material-organization]
+tags: [Case Studies, Science, Language, Finance, Material Organization]
 altitude: low
 emoji: "⚙️"
 ---

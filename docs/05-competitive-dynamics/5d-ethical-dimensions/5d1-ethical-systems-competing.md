@@ -5,7 +5,7 @@ summary: >
   Treats moral frameworks as information patterns that vie for cognitive, social, and institutional resources.
 description: >
   Analyzes resource competition, propagation mechanisms, host coupling, defensive responses, and evolutionary adaptation of ethical frameworks through the lens of information-system dynamics.
-tags: [ethics, information-systems, competition, moral-frameworks, resources]
+tags: [Ethics, Information Systems, Competition, Moral Frameworks, Resources]
 altitude: low
 emoji: "⚙️"
 ---

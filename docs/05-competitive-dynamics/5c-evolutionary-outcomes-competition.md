@@ -5,7 +5,7 @@ summary: >
   Surveys the diversification, convergence, and extinction patterns that result when information systems struggle over shared substrates.
 description: >
   Explains how competitive pressures drive innovation, niche formation, and systemic resets, using examples from language shifts to technological paradigm fights.
-tags: [evolutionary-outcomes, competition, diversification, extinction, information]
+tags: [Evolutionary Outcomes, Competition, Diversification, Extinction, Information]
 altitude: low
 emoji: "⚙️"
 ---

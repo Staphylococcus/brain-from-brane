@@ -5,7 +5,7 @@ summary: >
   Describes the coupled entity formed when an information system and its host agent co-adapt, achieving joint agency and competitive leverage.
 description: >
   Details BIC structure, lifecycle phases, feedback loops, and implications for AI-human hybrids, illustrating how coupling amplifies stability and competitive dynamics.
-tags: [bio-informational-complex, coupling, agency, competition, hybrids]
+tags: [BIC, Coupling, Agency, Competition, Hybrids]
 altitude: low
 emoji: "⚙️"
 ---

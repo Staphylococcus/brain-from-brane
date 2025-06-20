@@ -5,7 +5,7 @@ summary: >
   Explains how early autopoietic agents couple specific environmental patterns to self-preserving behaviors, giving rise to proto-semantic meaning.
 description: >
   Details Stage III of the emergence sequence, showing receptors, valence encoding, and DNA/RNA examples that illustrate how simple detection-response loops ground the first functional semantics.
-tags: [proto-semantics, agents, detection, valence, meaning]
+tags: [Proto-Semantics, Agents, Detection, Valence, Meaning]
 altitude: low
 emoji: "⚙️"
 ---

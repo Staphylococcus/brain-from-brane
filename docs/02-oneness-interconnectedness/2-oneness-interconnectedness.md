@@ -5,7 +5,7 @@ summary: >
   Explores how a unified worldsheet substrate gives rise to apparent diversity through stabilization, hierarchical information layers, and agent-relative boundaries.
 description: >
   Introduces Section 2 by reconciling fundamental oneness with emergent distinctions, outlining a three-layer information hierarchy, stabilization dynamics, the inside-out lens, and practical implications for analyzing modern systems.
-tags: [oneness, interconnectedness, distinctions, pattern-realism, stabilization]
+tags: [Oneness, Interconnectedness, Distinctions, Pattern Realism, Stabilization]
 altitude: medium
 emoji: "🔍"
 ---

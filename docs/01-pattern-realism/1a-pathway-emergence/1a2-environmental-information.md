@@ -5,7 +5,7 @@ summary: >
   Describes how physical regularities in the environment become potential information that gains meaning only when interpreted by an agent.
 description: >
   Introduces Stage II of the emergence pathway, explaining how non-semantic patterns such as light patches, gradients, and scents represent latent cues whose information value depends on an organism's sensory and correlational capacities.
-tags: [environmental-information, cues, agents, patterns, information]
+tags: [Environmental Information, Cues, Agents, Patterns, Information]
 altitude: low
 emoji: "⚙️"
 ---

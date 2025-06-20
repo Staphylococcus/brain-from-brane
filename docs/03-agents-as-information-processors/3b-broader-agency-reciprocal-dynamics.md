@@ -5,7 +5,7 @@ summary: >
   Surveys non-human biological agents and the co-evolutionary feedback loops that link multiple agent types and information systems.
 description: >
   Uses the complexity criteria to contrast amoebae, insects, birds, and mammals, highlighting reciprocal dynamics and resource-driven feedback that weave agents into shared informational ecosystems.
-tags: [agency, reciprocity, coevolution, biological-agents, complexity]
+tags: [Agency, Reciprocity, Coevolution, Biological Agents, Complexity]
 altitude: low
 emoji: "⚙️"
 ---

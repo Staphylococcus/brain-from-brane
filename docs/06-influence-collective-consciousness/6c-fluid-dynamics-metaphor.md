@@ -5,7 +5,7 @@ summary: >
   Uses fluid-flow analogies to model the dynamic, gradient nature of modern collective boundaries.
 description: >
   Maps pattern pressure gradients, viscosity, and turbulence concepts onto informational border behavior, offering intuitive tools for analyzing rapid boundary reconfiguration.
-tags: [fluid-dynamics, metaphor, borders, collective-consciousness, patterns]
+tags: [Fluid Dynamics, Metaphor, Borders, Collective Consciousness, Patterns]
 altitude: low
 emoji: "⚙️"
 ---

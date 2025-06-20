@@ -5,7 +5,7 @@ summary: >
   Introduces the R/J/A model and related mechanisms that let information patterns persist, vary, and passively shape their physical substrates.
 description: >
   Provides the low-altitude overview for Section 4.a, outlining how repeaters, jitter, anchors, and passive structural influence govern the material life-cycle of information systems before diving into detailed sub-sections.
-tags: [material-organization, RJA-model, structural-influence, information-systems, patterns]
+tags: [Material Organization, R/J/A Model, Structural Influence, Information Systems, Patterns]
 altitude: low
 emoji: "⚙️"
 ---
