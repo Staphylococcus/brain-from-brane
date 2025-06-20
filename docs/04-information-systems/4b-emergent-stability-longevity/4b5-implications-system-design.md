@@ -1,5 +1,6 @@
 ---
 title: "Implications for Information System Design"
+number: "4.B.5"
 summary: >
   Explores how understanding stability mechanisms provides insights for intentionally designing robust information systems that can persist and evolve effectively.
 description: >

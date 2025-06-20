@@ -1,5 +1,6 @@
 ---
 title: "Comparative Analysis of Ethical Frameworks"
+number: "5.D.7"
 summary: >
   Provides side-by-side evaluation of major moral systems using the competitive dynamics lens, highlighting strengths, vulnerabilities, and adaptability.
 description: >

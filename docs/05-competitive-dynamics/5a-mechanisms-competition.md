@@ -1,5 +1,6 @@
 ---
 title: "Mechanisms of Competition: Strategies in the Informational Arena"
+number: "5.A"
 summary: >
   Catalogs the tactics information systems use—propaganda, enclosure, compatibility hacks—to outcompete rivals for attention and resources.
 description: >

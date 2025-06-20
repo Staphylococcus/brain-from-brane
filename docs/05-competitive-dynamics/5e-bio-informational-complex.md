@@ -1,5 +1,6 @@
 ---
 title: "The Bio-Informational Complex (BIC)"
+number: "5.E"
 summary: >
   Describes the coupled entity formed when an information system and its host agent co-adapt, achieving joint agency and competitive leverage.
 description: >

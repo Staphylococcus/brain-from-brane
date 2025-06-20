@@ -1,5 +1,6 @@
 ---
 title: "Agent Complexity Assessment Protocol"
+number: "3.D"
 summary: >
   Provides a five-dimensional, 0-125 scoring system (ACAP) for measuring organizational and semantic agency across biological, artificial, and hybrid entities.
 description: >

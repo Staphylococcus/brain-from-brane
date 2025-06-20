@@ -1,5 +1,6 @@
 ---
 title: "Evolutionary Outcomes of Competition"
+number: "5.C"
 summary: >
   Surveys the diversification, convergence, and extinction patterns that result when information systems struggle over shared substrates.
 description: >

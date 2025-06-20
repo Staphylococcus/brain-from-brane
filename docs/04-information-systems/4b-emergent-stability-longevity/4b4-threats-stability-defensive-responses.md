@@ -1,5 +1,6 @@
 ---
 title: "Threats to Stability and Defensive Responses"
+number: "4.B.4"
 summary: >
   Analyzes the internal and external threats that can destabilize information systems, including transmission errors, contradictions, competition, and host resistance, along with corresponding defensive mechanisms.
 description: >

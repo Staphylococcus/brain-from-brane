@@ -1,5 +1,6 @@
 ---
 title: "Arenas and Levels of Competition"
+number: "5.B"
 summary: >
   Maps where and at what scales information systems compete—from intrapersonal cognition to global ideological clashes.
 description: >

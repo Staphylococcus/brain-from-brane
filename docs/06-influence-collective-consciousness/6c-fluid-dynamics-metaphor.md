@@ -1,5 +1,6 @@
 ---
 title: "The Fluid Dynamics Metaphor for Shifting Borders"
+number: "6.C"
 summary: >
   Uses fluid-flow analogies to model the dynamic, gradient nature of modern collective boundaries.
 description: >

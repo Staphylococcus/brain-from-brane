@@ -1,5 +1,6 @@
 ---
 title: "Pattern-Based Boundary Concepts"
+number: "2.C"
 summary: >
   Compares biological, informational, and social boundary mechanisms as strategies for preserving pattern coherence.
 description: >

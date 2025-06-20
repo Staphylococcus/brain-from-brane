@@ -1,5 +1,6 @@
 ---
 title: "Oneness, Interconnectedness, and the Nature of Distinctions"
+number: "2"
 summary: >
   Explores how a unified worldsheet substrate gives rise to apparent diversity through stabilization, hierarchical information layers, and agent-relative boundaries.
 description: >

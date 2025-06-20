@@ -1,5 +1,6 @@
 ---
 title: "The Repeater/Jitter/Anchor Model"
+number: "4.A.1"
 summary: >
   Defines repeaters, jitter, and anchors as the core triad governing persistence, variation, and fidelity in information systems.
 description: >

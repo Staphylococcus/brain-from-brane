@@ -1,5 +1,6 @@
 ---
 title: "Empirical Predictions and Testable Hypotheses"
+number: "4.A.5"
 summary: >
   Lists falsifiable claims about pliability, template adoption, and engine-threshold crossings in self-stabilizing information systems.
 description: >

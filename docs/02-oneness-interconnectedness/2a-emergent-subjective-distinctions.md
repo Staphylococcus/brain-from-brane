@@ -1,5 +1,6 @@
 ---
 title: "Emergent and Subjective Distinctions within a Structured Whole"
+number: "2.A"
 summary: >
   Explains how agent-relative inside-out lenses carve meaningful distinctions from a physically structured yet unified reality.
 description: >

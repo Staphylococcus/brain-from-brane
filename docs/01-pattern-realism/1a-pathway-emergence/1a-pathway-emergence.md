@@ -1,5 +1,6 @@
 ---
 title: "From Organizational Information to Semantic Information"
+number: "1.A"
 summary: >
   Surveys six emergence thresholds that transform raw physical patterns into progressively richer forms of meaning, culminating in shared symbolic language.
 description: >

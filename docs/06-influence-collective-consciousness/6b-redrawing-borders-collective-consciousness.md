@@ -1,5 +1,6 @@
 ---
 title: "Redrawing Borders in Collective Consciousness"
+number: "6.B"
 summary: >
   Examines how algorithmic organization and template affinity dissolve traditional boundaries while creating new fluid, context-dependent divisions.
 description: >

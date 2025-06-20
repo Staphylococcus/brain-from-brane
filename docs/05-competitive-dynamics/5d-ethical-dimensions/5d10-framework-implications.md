@@ -1,5 +1,6 @@
 ---
 title: "Ethical Implications of the Framework Itself"
+number: "5.D.10"
 summary: >
   Reflects on meta-responsibilities and potential risks arising from adopting the competitive-dynamics perspective on information and ethics.
 description: >

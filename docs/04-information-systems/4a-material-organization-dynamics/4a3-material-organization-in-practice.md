@@ -1,5 +1,6 @@
 ---
 title: "Material Organization in Practice"
+number: "4.A.3"
 summary: >
   Provides case studies—science, language, finance—showing R/J/A dynamics and passive influence in real-world systems.
 description: >

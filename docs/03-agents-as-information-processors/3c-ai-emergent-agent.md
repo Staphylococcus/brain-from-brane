@@ -1,5 +1,6 @@
 ---
 title: "AI as an Emergent Agent"
+number: "3.C"
 summary: >
   Positions current and future AI within the gradient agency ontology, emphasizing the engine threshold required for semantic agency.
 description: >

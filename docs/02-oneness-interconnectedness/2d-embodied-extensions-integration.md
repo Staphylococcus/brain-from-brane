@@ -1,5 +1,6 @@
 ---
 title: "Embodied Extensions & Multi-Scale Integration"
+number: "2.D"
 summary: >
   Describes how agents integrate tools, institutions, and culture into expanded composite patterns across neural to socio-technical scales.
 description: >

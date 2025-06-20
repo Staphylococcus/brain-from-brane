@@ -1,5 +1,6 @@
 ---
 title: "Broader Agency and Reciprocal Dynamics"
+number: "3.B"
 summary: >
   Surveys non-human biological agents and the co-evolutionary feedback loops that link multiple agent types and information systems.
 description: >

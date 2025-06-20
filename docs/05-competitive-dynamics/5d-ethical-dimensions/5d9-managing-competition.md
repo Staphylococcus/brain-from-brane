@@ -1,5 +1,6 @@
 ---
 title: "Managing Ethical Competition"
+number: "5.D.9"
 summary: >
   Outlines governance, mediation, and design approaches for steering moral system rivalry toward constructive outcomes.
 description: >

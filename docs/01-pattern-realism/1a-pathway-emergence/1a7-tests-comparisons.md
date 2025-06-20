@@ -1,5 +1,6 @@
 ---
 title: "Tests, Falsification, and Framework Comparison"
+number: "1.A.7"
 summary: >
   Provides concrete falsification criteria for each emergence stage and contrasts the framework with competing theories of consciousness and meaning.
 description: >

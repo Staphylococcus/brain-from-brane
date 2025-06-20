@@ -1,5 +1,6 @@
 ---
 title: "Agentive Dissolution and the Enduring Flow of Informational Legacies"
+number: "7"
 summary: >
   Discusses what happens to an agent's informational patterns after death, examining how legacies persist, spread, and transform.
 description: >

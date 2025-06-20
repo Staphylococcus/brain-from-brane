@@ -1,5 +1,6 @@
 ---
 title: "\"Inside-Out Lens\" and Self-Preservation"
+number: "3.A"
 summary: >
   Defines the inside-out lens architecture that grounds self-aware agents and lays out multi-dimensional criteria for assessing its sophistication.
 description: >

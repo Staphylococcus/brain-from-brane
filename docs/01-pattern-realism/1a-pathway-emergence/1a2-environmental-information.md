@@ -1,5 +1,6 @@
 ---
 title: "Environmental Information: Patterns as Potential Cues"
+number: "1.A.2"
 summary: >
   Describes how physical regularities in the environment become potential information that gains meaning only when interpreted by an agent.
 description: >

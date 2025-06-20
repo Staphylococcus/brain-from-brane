@@ -1,5 +1,6 @@
 ---
 title: "Implications for Individual and Collective Identity"
+number: "6.D"
 summary: >
   Investigates how fluid borders and integrated bio-informational networks reshape personal and group identities in the information age.
 description: >

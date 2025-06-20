@@ -1,5 +1,6 @@
 ---
 title: "Practical Applications of Ethical Competition Theory"
+number: "5.D.8"
 summary: >
   Translates insights from ethical competition dynamics into design, policy, and organizational strategies.
 description: >

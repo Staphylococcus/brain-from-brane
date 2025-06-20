@@ -1,5 +1,6 @@
 ---
 title: "Ethical Dimensions of Competitive Dynamics"
+number: "5.D"
 summary: >
   Investigates moral questions arising when information systems and BICs pursue dominance, including harm, autonomy, and governance challenges.
 description: >

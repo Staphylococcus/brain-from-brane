@@ -1,5 +1,6 @@
 ---
 title: "Developing Semantics: Internal Representation & Prediction"
+number: "1.A.4"
 summary: >
   Explores how nervous-system agents build internal representations and predictive models, greatly expanding the depth and context-sensitivity of meaning.
 description: >

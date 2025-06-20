@@ -1,5 +1,6 @@
 ---
 title: "Evolutionary Implications"
+number: "4.A.4"
 summary: >
   Discusses how material organization dynamics drive selection pressures and co-evolution between patterns and substrates.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Reconciling Oneness with Competition"
+number: "2.B"
 summary: >
   Shows how competitive dynamics among self-stabilizing patterns arise within a single interconnected substrate without contradicting fundamental unity.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Agents as Information Processors"
+number: "3"
 summary: >
   Introduces a complexity spectrum for biological, human, and AI agents viewed through their information-processing capacities and inside-out lenses.
 description: >

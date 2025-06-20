@@ -1,5 +1,6 @@
 ---
 title: "Competitive Dynamics of Information Systems"
+number: "5"
 summary: >
   Introduces how information systems compete for limited cognitive, material, and energetic resources across individual to societal scales.
 description: >

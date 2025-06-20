@@ -1,5 +1,6 @@
 ---
 title: "Host–Information System Interactions"
+number: "4.D"
 summary: >
   Explores the engine threshold where information templates couple to autopoietic hosts, transforming organizational agency into semantic agency.
 description: >

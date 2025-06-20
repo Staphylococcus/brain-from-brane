@@ -1,5 +1,6 @@
 ---
 title: "Proto-Semantics: Simple Agents, Detection & Functional Significance"
+number: "1.A.3"
 summary: >
   Explains how early autopoietic agents couple specific environmental patterns to self-preserving behaviors, giving rise to proto-semantic meaning.
 description: >

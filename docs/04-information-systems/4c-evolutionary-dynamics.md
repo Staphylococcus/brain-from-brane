@@ -1,5 +1,6 @@
 ---
 title: "Evolutionary Dynamics of Information Systems"
+number: "4.C"
 summary: >
   Traces macroevolutionary stages from proto-organizational cues to formal frameworks and algorithmic templates, highlighting selection and crossover forces.
 description: >

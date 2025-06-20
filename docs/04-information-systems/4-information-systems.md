@@ -1,5 +1,6 @@
 ---
 title: "Information as an Active, Evolving System"
+number: "4"
 summary: >
   Examines languages, narratives, and algorithms as high-level patterns that stabilize, evolve, and exert causal influence across substrates.
 description: >

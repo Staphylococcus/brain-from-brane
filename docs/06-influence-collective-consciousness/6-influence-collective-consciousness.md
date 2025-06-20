@@ -1,5 +1,6 @@
 ---
 title: "Mechanisms of Influence and Collective Consciousness"
+number: "6"
 summary: >
   Explores how information systems reshape reality and collective consciousness via agent-mediated pathways and emerging AI-driven direct environmental structuring.
 description: >

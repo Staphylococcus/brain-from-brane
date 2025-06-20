@@ -1,5 +1,6 @@
 ---
 title: "Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns"
+number: "5.D.2"
 summary: >
   Explains why moral systems display unparalleled persistence by fusing value with identity and layering redundancy across psychological, social, and cultural mechanisms.
 description: >

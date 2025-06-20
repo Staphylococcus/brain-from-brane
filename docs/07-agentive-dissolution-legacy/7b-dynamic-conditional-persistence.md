@@ -1,5 +1,6 @@
 ---
 title: "Dynamic and Conditional Persistence"
+number: "7.B"
 summary: >
   Describes how informational legacies evolve and endure through ongoing reinterpretation, replication, and host interaction.
 description: >

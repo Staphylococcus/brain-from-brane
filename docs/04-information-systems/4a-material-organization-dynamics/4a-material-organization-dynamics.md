@@ -1,5 +1,6 @@
 ---
 title: "Material Organization and Dynamics"
+number: "4.A"
 summary: >
   Introduces the R/J/A model and related mechanisms that let information patterns persist, vary, and passively shape their physical substrates.
 description: >

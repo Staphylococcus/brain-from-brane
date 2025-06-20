@@ -1,5 +1,6 @@
 ---
 title: "Resolving the \"Hard Problem\" of Consciousness"
+number: "1.C"
 summary: >
   Shows how identifying consciousness with recursive information processing eliminates the explanatory gap traditionally framed as the hard problem.
 description: >

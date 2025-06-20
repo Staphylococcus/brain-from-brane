@@ -1,5 +1,6 @@
 ---
 title: "Ethical Systems as Competing Information Systems"
+number: "5.D.1"
 summary: >
   Treats moral frameworks as information patterns that vie for cognitive, social, and institutional resources.
 description: >

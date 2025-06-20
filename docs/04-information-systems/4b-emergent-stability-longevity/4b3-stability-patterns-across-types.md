@@ -1,5 +1,6 @@
 ---
 title: "Stability Patterns Across Information System Types"
+number: "4.B.3"
 summary: >
   Compares stability mechanisms, longevity factors, and illustrative examples across major types of information systems including scientific knowledge, religious systems, technological paradigms, cultural narratives, and architectural monuments.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Empirical Predictions and Falsification"
+number: "4.E"
 summary: >
   Enumerates measurable signatures, experiments, and criteria for disproving key claims about information-system stabilization and agency emergence.
 description: >

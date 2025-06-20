@@ -1,5 +1,6 @@
 ---
 title: "Bio-Informational Complexes in Ethical Contexts"
+number: "5.D.4"
 summary: >
   Explores how ethical systems couple with hosts to form BICs, detailing lifecycle stages and mutual reinforcement mechanisms.
 description: >

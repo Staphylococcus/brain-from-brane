@@ -1,5 +1,6 @@
 ---
 title: "Core Principles in the Emergence of Semantic Information"
+number: "1.A.6"
 summary: >
   Summarizes the foundational principles—physical grounding, layered emergence, the inside-out lens, and interconnectedness—that govern how semantic information arises.
 description: >

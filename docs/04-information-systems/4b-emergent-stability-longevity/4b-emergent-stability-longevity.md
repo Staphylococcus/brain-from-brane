@@ -1,5 +1,6 @@
 ---
 title: "Emergent Stability and Longevity"
+number: "4.B"
 summary: >
   Analyzes how information systems maintain persistence through feedback loops, adaptive stabilization, and host integration, outlining mechanisms, factors, and threats.
 description: >

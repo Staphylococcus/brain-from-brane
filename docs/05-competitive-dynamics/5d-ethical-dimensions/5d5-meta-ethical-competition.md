@@ -1,5 +1,6 @@
 ---
 title: "Meta-Ethical Dimensions of Competition"
+number: "5.D.5"
 summary: >
   Investigates how underlying theories of morality themselves vie for legitimacy, shaping the rules of ethical engagement.
 description: >

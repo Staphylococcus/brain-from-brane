@@ -1,5 +1,6 @@
 ---
 title: "Fluid Reality"
+number: "8"
 summary: >
   Concludes the framework by framing the universe as a dynamic, structured flow where all stable patterns are emergent and provisional.
 description: >

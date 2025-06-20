@@ -1,5 +1,6 @@
 ---
 title: "Factors Contributing to Longevity"
+number: "4.B.2"
 summary: >
   Analyzes the key factors that contribute to the longevity of information systems, including intrinsic characteristics, environmental compatibility, and host relationship quality.
 description: >

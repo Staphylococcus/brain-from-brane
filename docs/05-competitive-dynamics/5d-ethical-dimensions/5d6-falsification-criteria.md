@@ -1,5 +1,6 @@
 ---
 title: "Falsification Criteria for Ethical Frameworks"
+number: "5.D.6"
 summary: >
   Defines empirical and conceptual tests that could disprove core claims about moral system competition and stability.
 description: >

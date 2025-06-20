@@ -1,5 +1,6 @@
 ---
 title: "Mechanisms of Influence on Reality"
+number: "6.A"
 summary: >
   Details three influence pathways—direct environmental structuring, agent-mediated adoption, and AI-mediated coordination—that let information systems reshape physical and social reality.
 description: >

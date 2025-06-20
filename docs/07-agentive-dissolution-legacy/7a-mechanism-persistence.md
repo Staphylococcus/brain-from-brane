@@ -1,5 +1,6 @@
 ---
 title: "Mechanism of Persistence"
+number: "7.A"
 summary: >
   Outlines how an agent's informational creations survive across substrates after biological death, grounding legacy persistence in copy and transmission processes.
 description: >

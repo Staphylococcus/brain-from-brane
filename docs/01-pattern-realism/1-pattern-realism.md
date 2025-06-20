@@ -1,5 +1,6 @@
 ---
 title: "Pattern Realism: Matter/Energy and Information as Complementary Lenses"
+number: "1"
 summary: >
   Explores how information and matter/energy offer complementary descriptive lenses, united under Pattern Realism, and why this duality matters for understanding complex systems and consciousness.
 description: >

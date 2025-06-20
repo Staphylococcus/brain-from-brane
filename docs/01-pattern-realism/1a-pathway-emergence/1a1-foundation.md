@@ -1,5 +1,6 @@
 ---
 title: "Foundation: Stable Structures and Inherent Patterns"
+number: "1.A.1"
 summary: >
   Explores how stable, quantized particle modes form a foundational information alphabet and how their biased probabilities can be measured with Shannon entropy.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Passive Structural Influence"
+number: "4.A.2"
 summary: >
   Explores how stabilized patterns mold their environments without active propagation, guiding compatible arrangements via template effects.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Emergence of Consciousness"
+number: "1.B"
 summary: >
   Explains how consciousness arises when an agent's inside-out lens architecture becomes recursively self-referential, leading to subjective experience.
 description: >

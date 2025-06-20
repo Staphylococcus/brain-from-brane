@@ -1,5 +1,6 @@
 ---
 title: "Full-Blown Semantics: Symbolic Systems & Shared Meaning"
+number: "1.A.5"
 summary: >
   Explores the rise of language and symbolic systems that allow agents to construct and share vast abstract worlds of meaning.
 description: >

@@ -1,5 +1,6 @@
 ---
 title: "Mechanisms of Ethical Competition"
+number: "5.D.3"
 summary: >
   Catalogs direct confrontation, co-option, niche specialization, propagation efficiency, and adaptive resilience as tactics moral systems use to secure dominance.
 description: >
