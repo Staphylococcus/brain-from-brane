@@ -129,6 +129,3 @@ The analysis reveals several crucial insights about the nature of ethical system
 ## **Implications for Moral Progress**
 
 This competitive perspective on ethics suggests that moral progress requires careful balance between stability and [adaptation](../../glossary/A.md#adaptation). While [ethical frameworks](../../glossary/E.md#ethical-frameworks) need sufficient stability to provide identity and meaning, excessive [self-stabilization](../../glossary/S.md#self-stabilizing-patterns) can prevent necessary moral [evolution](../../glossary/E.md#evolution). The key is designing [ethical systems](../../glossary/E.md#ethical-system) with appropriate flexibility mechanisms while maintaining their essential stability properties.
-
----
-[<< Previous: Evolutionary Outcomes of Competition](../5c-evolutionary-outcomes-competition.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Ethical Systems as Competing Information Systems >>](5d1-ethical-systems-competing.md)

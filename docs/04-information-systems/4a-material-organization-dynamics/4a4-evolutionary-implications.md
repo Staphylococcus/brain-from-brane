@@ -31,6 +31,3 @@ Information systems exhibit both **active evolutionary dynamics** (driven by R/J
 ## Evolution Towards Enhanced Stability and Influence
 
 Successful information systems often evolve characteristics that enhance their ability to achieve self-stabilisation and to organise or integrate with new substrates they encounter. This can create evolutionary advantages for patterns that can rapidly establish themselves and exert structural influence in malleable environments, leading to accelerating adoption and broader organisational impact.
-
----
-[<< Previous: Material Organization in Practice](4a3-material-organization-in-practice.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Empirical Predictions and Testable Hypotheses >>](4a5-empirical-predictions.md)

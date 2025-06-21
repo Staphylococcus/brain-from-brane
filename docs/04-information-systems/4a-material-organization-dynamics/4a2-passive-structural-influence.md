@@ -108,6 +108,3 @@ Scholarly Context — Multi-Substrate Resonance
 | Gene–Culture Co-evolution / Multi-level Cultural Evolution | Evolutionary biology, Anthropology | Cultural traits stabilise when encoded in genes, minds, and artifacts | Mind–artifact dual hosting echoes resonance | Draws explicit line to emergent hybrid agency (Bio-Informational Complexes) |
 | Institutionalisation & Isomorphism | Sociology | Practices endure when embedded in multiple organisational layers | Multi-layer embedding theme | Expands layers beyond social to include neural and technical substrates |
 | Multi-layer Network Robustness | Network science | Networks survive attacks better when connectivity spreads across weakly-correlated layers | Correlated-failure concern matches | Packages idea as RI inviting cross-domain empirical testing |
-
----
-[<< Previous: The Repeater/Jitter/Anchor Model](4a1-repeater-jitter-anchor-model.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Material Organization in Practice >>](4a3-material-organization-in-practice.md)

@@ -214,6 +214,3 @@ Understanding ethics as competitive information systems suggests different appro
 **Critical Thinking**: Teach skills for evaluating moral frameworks based on their competitive effects and host welfare implications.
 
 **Dialogue Facilitation**: Develop methods for productive competition between moral frameworks rather than attempting to eliminate moral disagreement.
-
----
-[<< Previous: Falsification Criteria for Ethical Frameworks](5d6-falsification-criteria.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Practical Applications of Ethical Competition Theory >>](5d8-practical-applications.md)

@@ -467,6 +467,3 @@ ACAP reveals agency as a **continuous topology** rather than discrete categories
 **Temporal Dynamics:** Longitudinal assessment to capture developmental and learning trajectories.
 
 **Ecological Validity:** Assessment contexts that reflect natural behavioral repertoires and environmental challenges.
-
----
-[<< Previous: AI as an Emergent Agent](3c-ai-emergent-agent.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: Information as an Active, Evolving System >>](../04-information-systems/4-information-systems.md)

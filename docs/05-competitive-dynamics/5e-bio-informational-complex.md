@@ -151,6 +151,3 @@ Unique Contributions of the Bio-Informational Complex (BIC) Framework
 | **Dynamic Coupling** | Provides specific mechanisms for understanding how biological and informational entities become integrated over time |
 | **Falsifiable Predictions** | Generates specific, observable predictions about resource allocation, defensive reactions, and developmental trajectories |
 | **Practical Applications** | Offers concrete tools for identifying and analyzing real-world phenomena from religious movements to political ideologies to consumer brand loyalty |
-
----
-[<< Previous: Managing Ethical Competition](5d-ethical-dimensions/5d9-managing-competition.md) | [Up: Competitive Dynamics of Information Systems](5-competitive-dynamics.md) | [Next: Mechanisms of Influence and Collective Consciousness >>](../06-influence-collective-consciousness/6-influence-collective-consciousness.md)

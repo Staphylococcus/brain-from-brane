@@ -56,6 +56,3 @@ Earlier in this chapter we argued that **oneness vs. multiplicity** depends on t
 1. **Shifted responsibility loci** — If the human-tool pair is the operative agent, ethical appraisal must reference the composite, not just the biological individual.
 2. **Design as moral act** — Artefacts that will be embodied should be evaluated as prospective body-parts; their affordances become (literally) extensions of people.
 3. **Trans-scale fragility** — Rapid neural remapping can outpace slower cultural adaptation, creating mismatched boundaries (e.g., social media extends reach without extending empathy), a recognised source of systemic risk (**Farnè & de Vignemont** on peripersonal space plasticity).
-
----
-[<< Previous: Pattern-Based Boundary Concepts](2c-pattern-based-boundary-concepts.md) | [Up: Oneness, Interconnectedness, and the Nature of Distinctions](2-oneness-interconnectedness.md) | [Next: Agents as Information Processors >>](../03-agents-as-information-processors/3-agents-as-information-processors.md)

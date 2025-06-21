@@ -44,8 +44,3 @@ Because substrates (brains, institutions, hardware) and patterns co-adapt, evolu
 
 *How to falsify the claims about self-stabilizing patterns.*
 The model is falsifiable. It predicts, for instance, that pliable societies adopt new templates faster; that agency emerges only when a static pattern is coupled to an autopoietic feedback engine; and that adoption rates favour structurally compatible designs. Each claim maps to measurable indicators and suggested experiments outlined in the deep-dive.
-
-[Deep dive →](4a5-empirical-predictions.md)
-
----
-[<< Previous: Information as an Active, Evolving System](../4-information-systems.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: The Repeater/Jitter/Anchor Model >>](4a1-repeater-jitter-anchor-model.md)

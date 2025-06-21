@@ -125,6 +125,3 @@ These empirical predictions, focused on the behavior and influence of **[self-st
 - **[ACAP](../../glossary/A.md#agent-complexity-assessment-protocol-acap) Application:** All hypotheses rely on the [Agent Complexity Assessment Protocol (ACAP)](../../glossary/A.md#agent-complexity-assessment-protocol-acap) for systematic measurement of agency, helping to distinguish between the passive influence of [self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity) (even complex ones) and the active agency of autopoietic systems or BICs.
 
 These predictions aim to establish falsifiable criteria for understanding how **[self-stabilizing information patterns](../../glossary/O.md#outward-stabilization-propensity)** emerge, exert influence, and contribute to the development of agency, maintaining integration with the broader theoretical structure of Brain from Brane. This enables empirical investigation into the nature of these influential patterns and their relationship to active information system dynamics.
-
----
-[<< Previous: Evolutionary Implications](4a4-evolutionary-implications.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Emergent Stability and Longevity >>](../4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)

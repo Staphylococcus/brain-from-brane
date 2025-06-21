@@ -184,6 +184,3 @@ The framework commits to specific evidence standards for falsification:
 **Temporal Stability**: Findings must demonstrate stability over time rather than representing temporary historical anomalies.
 
 **Mechanistic Evidence**: Falsification requires not just correlational but mechanistic evidence about how competitive processes operate.
-
----
-[<< Previous: Meta-Ethical Dimensions of Competition](5d5-meta-ethical-competition.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Comparative Analysis of Ethical Frameworks >>](5d7-comparative-analysis.md)

@@ -51,6 +51,3 @@ Looking back we can state the invariants: physical grounding at every tier, stai
 
 **Want the hard science and rival theories?** These principles generate predictions—outlined in the Tests file—that invite the model to be proven wrong. See the falsification matrix and comparative analysis.
 [Empirical tests & comparisons ›](1a7-tests-comparisons.md)
-
----
-[<< Previous: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Foundation: Stable Structures and Inherent Patterns >>](1a1-foundation.md)

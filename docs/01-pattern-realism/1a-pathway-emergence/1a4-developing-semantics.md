@@ -44,6 +44,3 @@ The transition from proto-semantics to more developed semantic capabilities occu
 The development of these semantic capabilities represents a significant increase in an [agent\'s](../../glossary/A.md#agent) capacity to navigate its environment effectively, anticipate challenges, and exploit opportunities. The information processed is still ultimately grounded in the fundamental **patterns of [worldsheets](../../glossary/W.md#worldsheet)** that constitute reality, but it is now filtered, structured, represented, and imbued with complex, context-dependent, and goal-oriented meaning by the [agent\'s](../../glossary/A.md#agent) increasingly sophisticated "inside-out lens". This sets the stage for the even more abstract symbolic representation seen in full-blown language.
 
 *Stage IV takeaway: Complex agents form internal models for prediction, enriching the meaning of patterns.*
-
----
-[<< Previous: Proto-Semantics: Simple Agents, Detection & Functional Significance](1a3-proto-semantics.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Full-Blown Semantics: Symbolic Systems & Shared Meaning >>](1a5-full-semantics.md)

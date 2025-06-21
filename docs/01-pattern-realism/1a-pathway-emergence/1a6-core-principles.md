@@ -29,6 +29,3 @@ graph LR
 **Summary:** This pathway illustrates how raw organizational patterns transform into rich semantic structures through successive stages of detection, representation, and symbolic abstraction, culminating in the complex, shared information systems that define human cognition.
 
 *Stage VI takeaway: All semantic information remains grounded in physical patterns, structured by agents' lenses.*
-
----
-[<< Previous: Full-Blown Semantics: Symbolic Systems & Shared Meaning](1a5-full-semantics.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Tests, Falsification, and Framework Comparison >>](1a7-tests-comparisons.md)

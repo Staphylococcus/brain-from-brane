@@ -47,6 +47,3 @@ The [emergence](../../glossary/E.md#emergence) of full-blown semantic capabiliti
 [Full-blown semantics](../../glossary/F.md#full-blown-semantics), therefore, represents a level where the "inside-out lens" not only models the immediate environment for persistence but actively constructs, shares, and navigates complex, abstract, and culturally transmitted worlds of meaning. This capacity is deeply intertwined with the evolution of human sociality and cognition, and its material basis remains the intricate patterns of neural activity ([worldsheets](../../glossary/W.md#worldsheet)) shaped by both biological evolution and cultural learning.
 
 *Stage V takeaway: Symbolic systems enable combinatorial and socially shared meaning beyond individual agents.*
-
----
-[<< Previous: Developing Semantics: Internal Representation & Prediction](1a4-developing-semantics.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Core Principles in the Emergence of Semantic Information >>](1a6-core-principles.md)

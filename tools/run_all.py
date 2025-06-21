@@ -41,7 +41,6 @@ if __name__ == "__main__":
     scripts_to_run = [
         "generate_glossary.py",
         "generate_task_list.py",
-        "generate_nav.py",
         "check_broken_links.py",
         "document_length_reporter.py", # Added this line
     ]

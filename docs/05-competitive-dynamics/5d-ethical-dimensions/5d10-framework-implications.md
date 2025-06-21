@@ -198,6 +198,3 @@ The framework opens new areas for practical application:
 This analysis reveals that the competitive information systems framework for ethics must reflexively apply its own insights to itself. As a competing ethical framework, it must demonstrate its benefits through practical effectiveness rather than claiming neutral objectivity. Its value lies not in eliminating moral disagreement but in providing tools for managing ethical competition more productively, promoting frameworks that enhance human flourishing while identifying and mitigating those that exploit or harm their adherents.
 
 The framework's ultimate justification is pragmatic: if it helps create conditions where beneficial ethical frameworks flourish while harmful ones are contained, then it succeeds in its core purpose. This success must be measured empirically through the welfare of individuals and communities, the quality of moral discourse, and the effectiveness of institutions in managing ethical pluralism.
-
----
-[<< Previous: Ethical Systems as Competing Information Systems](5d1-ethical-systems-competing.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Ethical Frameworks as Exceptionally Self-Stabilizing Informational Patterns >>](5d2-self-stabilizing-patterns.md)

@@ -105,6 +105,3 @@ Unique contributions
 | **Autopoietic Pathway Specificity** | Establishes clear developmental requirements for semantic agency through autopoietic organization and proto-semantic processing |
 | **Bio-Informational Complex Integration** | Enables hybrid agency assessment for AI-human coupling scenarios, resolving theoretical tensions around distributed intelligence |
 | **Falsifiable Developmental Predictions** | Provides specific, measurable predictions about AI agency development trajectories through established assessment protocols |
-
----
-[<< Previous: Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: Agent Complexity Assessment Protocol >>](3d-agent-complexity-assessment-protocol.md)

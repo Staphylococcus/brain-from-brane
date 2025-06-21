@@ -46,6 +46,3 @@ Comparative framework analysis table
 4. **Autopoietic Integration** – necessity of self-maintenance loops.
 5. **Worldsheet Ontology** – continuous physical grounding across scales.
 6. **Falsifiable Architecture** – multiple shots-on-goal for empirical refutation.
-
----
-[<< Previous: Core Principles in the Emergence of Semantic Information](1a6-core-principles.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Emergence of Consciousness >>](../1b-emergence-of-consciousness.md)

@@ -204,6 +204,3 @@ The practical power of this approach lies in its potential for **enhanced modeli
 3. **Outward Stabilization**: Patterns persist through environmental integration rather than isolation
 4. **Agent-Relative Distinctions**: Boundaries and categories emerge through agent-reality dialogue
 5. **Practical Applications**: Framework applies to consciousness, culture, technology, ethics, and science
-
----
-[<< Previous: Resolving the "Hard Problem" of Consciousness](../01-pattern-realism/1c-hard-problem-of-consciousness.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: Emergent and Subjective Distinctions within a Structured Whole >>](2a-emergent-subjective-distinctions.md)

@@ -79,14 +79,3 @@ The theoretical developments above exemplify pattern realism's core method: usin
 **Empirical Grounding:** These theoretical components generate specific, falsifiable predictions bridging theory with measurable phenomena. The **Pliability Principle**, **Engine Threshold Hypothesis**, and **Template Formation Dynamics** provide testable criteria for validating the framework across cognitive, social, and technological domains. Integration with agent complexity assessment protocols enables systematic measurement of information system evolution and agency emergence within the pattern realism framework.
 
 For detailed exploration of the material mechanisms, template formation dynamics, and empirical measurement protocols, see the comprehensive analyses in the subsections below.
-
-See also:
-
-- [4.a. Material Organization and Dynamics](4a-material-organization-dynamics/4a-material-organization-dynamics.md) - *Detailed analysis of R/J/A Model, stabilization mechanisms, and empirical predictions*
-- [4.b. Emergent Stability and Longevity](4b-emergent-stability-longevity/4b-emergent-stability-longevity.md)
-- [4.c. Evolutionary Dynamics](4c-evolutionary-dynamics.md)
-- [4.d. Host-Information System Interactions](4d-host-information-interactions.md)
-- [4.e. Empirical Predictions and Falsification](4e-empirical-predictions-falsification.md)
-
----
-[<< Previous: Agent Complexity Assessment Protocol](../03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: Material Organization and Dynamics >>](4a-material-organization-dynamics/4a-material-organization-dynamics.md)

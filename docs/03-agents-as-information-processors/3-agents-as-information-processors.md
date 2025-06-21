@@ -45,13 +45,3 @@ Applying the refined complexity criteria outlined in the introduction to this Se
 - **Capacity for Novelty, Creativity, and Interaction with [Higher-Order Information Systems](../glossary/H.md#higher-order-information-systems):** Humans demonstrate a profound capacity for novelty and creativity, evident in art, music, literature, scientific invention, and technological innovation. Furthermore, humans are unique in their ability to create, be constituted by, and critically interact with an immense array of self-generated [higher-order information systems](../glossary/H.md#higher-order-information-systems)—including languages, cultural narratives, ethical frameworks, scientific theories, and political ideologies (as explored further in [Section 4](../04-information-systems/4-information-systems.md)). We are both products and producers of these complex informational environments, which in turn shape our cognition and collective behavior.
 
 In summary, the confluence of these advanced characteristics places humans at a high-echelon on the agent complexity scale. This position is defined by deep semantic processing, a reflective ["inside-out lens,"](../glossary/I.md#inside-out-lens) multifaceted adaptability, extensive environmental influence, and a unique co-[evolution](../glossary/E.md#evolution) with complex [information systems](../glossary/I.md#information-system). This intricate complexity, while a source of our species' capabilities, also presents unique challenges and responsibilities.
-
-See also:
-
-- [3.a. The "Inside-Out Lens" and Self-Preservation](3a-inside-out-lens-self-preservation.md)
-- [3.b. Broader Agency and Reciprocal Dynamics](3b-broader-agency-reciprocal-dynamics.md)
-- [3.c. AI as an Emergent Agent](3c-ai-emergent-agent.md)
-- [3.d. Agent Complexity Assessment Protocol](3d-agent-complexity-assessment-protocol.md)
-
----
-[<< Previous: Embodied Extensions & Multi-Scale Integration](../02-oneness-interconnectedness/2d-embodied-extensions-integration.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: "Inside-Out Lens" and Self-Preservation >>](3a-inside-out-lens-self-preservation.md)

@@ -88,18 +88,3 @@ This principle of outward stabilization is not merely an abstract concept but fi
 These diverse examples, from the molecular to the societal, underscore the scale-invariant nature of outward stabilization propensity.
 
 This outward stabilization propensity explains how complex hierarchical organizations emerge from simpler components and why stable patterns tend to cluster and reinforce each other across scales. It provides a foundational mechanism for understanding both the spontaneous emergence of order and the preservation of organizational complexity in dynamic systems.
-
----
-
-**Dive deeper:**
-
-- [1.a. From Organizational Information to Semantic Information: A Pathway of Emergence](1a-pathway-emergence/1a-pathway-emergence.md)
-- [1.b. Emergence of Consciousness](1b-emergence-of-consciousness.md)
-- [1.c. Addressing the "Hard Problem" of Consciousness](1c-hard-problem-of-consciousness.md)
-
----
-
-[^ Overview](../../README.md)
-
----
-[<< Previous: README.md](../../README.md) | [Home: README.md](../../README.md) | [Glossary: glossary.md](../glossary.md) | [Next: From Organizational Information to Semantic Information >>](1a-pathway-emergence/1a-pathway-emergence.md)

@@ -114,6 +114,3 @@ The multi-dimensional Inside-Out Lens framework generates several testable hypot
 5. **Integration Threshold Effect:** Advanced behaviors requiring multiple dimensions (e.g., complex social cooperation, abstract reasoning) should emerge only when multiple lens dimensions reach sufficient thresholds simultaneously.
 
 These hypotheses suggest empirical research directions for understanding how different lens configurations emerge, function, and adapt across biological and artificial systems, providing a more nuanced foundation for comparative agent analysis.
-
----
-[<< Previous: Agents as Information Processors](3-agents-as-information-processors.md) | [Up: Agents as Information Processors](3-agents-as-information-processors.md) | [Next: Broader Agency and Reciprocal Dynamics >>](3b-broader-agency-reciprocal-dynamics.md)

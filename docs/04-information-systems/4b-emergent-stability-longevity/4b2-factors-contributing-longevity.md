@@ -51,6 +51,3 @@ Hosts resist take-overs that threaten autonomy or identity. Systems that allow i
 **Community Building:**
 
 Finally, an active community converts individual commitment into a collective defense mechanism. Shared rituals, forums, conferences, and memes create social capital that is hard for alternatives to displace. The resulting [network effects](../../glossary/N.md#network-effects) mirror Metcalfe's law: as each new member joins, the communication graph—and therefore the system's resilience—grows super-linearly. Communities also function as decentralized quality-control labs, sifting [**Jitter**](../../glossary/R.md#repeaterjitteranchor-rja-model) for improvements and patching errors before they cascade.
-
----
-[<< Previous: Mechanisms of Emergent Stability](4b1-mechanisms-emergent-stability.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Stability Patterns Across Information System Types >>](4b3-stability-patterns-across-types.md)

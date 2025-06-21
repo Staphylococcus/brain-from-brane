@@ -64,6 +64,3 @@ Financial information systems (e.g., currency systems, market protocols, account
 - Regulatory frameworks and accounting standards impose a coherent structure on financial reporting and institutional conduct, ensuring a degree of transparency and predictability. These patterns, once adopted, guide the behavior of economic agents and the organization of financial institutions.
 
 **Key Insight:** Financial information systems illustrate how abstract patterns (like value, risk, or ownership) become deeply embedded in material infrastructure and social practices. These [self-stabilizing patterns](../../glossary/O.md#outward-stabilization-propensity) create robust, often highly structured, frameworks that organize vast networks of economic activity. Their influence shapes economic behavior, technological development in finance, and even the physical infrastructure supporting financial markets, often without centralized control, but through the widespread adoption and enforcement of these core informational structures
-
----
-[<< Previous: Passive Structural Influence](4a2-passive-structural-influence.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Evolutionary Implications >>](4a4-evolutionary-implications.md)

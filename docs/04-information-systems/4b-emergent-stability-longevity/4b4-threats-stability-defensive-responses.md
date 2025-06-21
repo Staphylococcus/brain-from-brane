@@ -105,6 +105,3 @@ emoji: "⚙️"
 * Political lobbying and influence campaigns
 * Cultural positioning and narrative management
 * Legal challenges and constitutional protections
-
----
-[<< Previous: Stability Patterns Across Information System Types](4b3-stability-patterns-across-types.md) | [Up: Information as an Active, Evolving System](../4-information-systems.md) | [Next: Implications for Information System Design >>](4b5-implications-system-design.md)

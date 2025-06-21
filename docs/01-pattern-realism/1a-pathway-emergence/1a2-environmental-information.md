@@ -37,6 +37,3 @@ flowchart LR
 ```
 
 *Stage II takeaway: Environmental patterns only become meaningful when detected and correlated by an agent.*
-
----
-[<< Previous: Foundation: Stable Structures and Inherent Patterns](1a1-foundation.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Thermodynamic & Autopoietic Bridge >>](1a25-thermodynamic-bridge.md)

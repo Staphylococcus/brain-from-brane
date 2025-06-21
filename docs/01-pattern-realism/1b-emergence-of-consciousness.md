@@ -163,6 +163,3 @@ This recursive foundation addresses the [**"Hard Problem" of Consciousness**](1c
 The recursive insight bridges scientific mechanism with philosophical phenomenology—consciousness emerges naturally from Pattern Realism's **outward stabilization propensity** when self-referential architectures achieve sufficient organizational coherence to examine themselves.
 
 This provides the foundation for Section 1.c's philosophical analysis with concrete, measurable organizational principles rooted in the same **self-stabilizing patterns** that govern all reality.
-
----
-[<< Previous: Tests, Falsification, and Framework Comparison](1a-pathway-emergence/1a7-tests-comparisons.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](1-pattern-realism.md) | [Next: Resolving the "Hard Problem" of Consciousness >>](1c-hard-problem-of-consciousness.md)

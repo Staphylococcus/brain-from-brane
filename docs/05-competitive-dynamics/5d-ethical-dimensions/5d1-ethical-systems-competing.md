@@ -151,6 +151,3 @@ Viewing ethics as competing information systems reveals several important insigh
 5. **Systemic Analysis**: Individual moral choices occur within larger competitive dynamics between information systems
 
 This perspective provides tools for understanding how ethical frameworks gain and maintain influence, how they respond to challenges, and how they might be designed to better serve human flourishing while maintaining their essential competitive vitality.
-
----
-[<< Previous: Ethical Dimensions of Competitive Dynamics](5d-ethical-dimensions.md) | [Up: Competitive Dynamics of Information Systems](../5-competitive-dynamics.md) | [Next: Ethical Implications of the Framework Itself >>](5d10-framework-implications.md)

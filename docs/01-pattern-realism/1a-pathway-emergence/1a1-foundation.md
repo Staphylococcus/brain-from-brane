@@ -75,6 +75,3 @@ This lower entropy value is not just a mathematical curiosity. It would represen
 These particles, defined by the stable, informationally structured patterns of **[Fundamental Information](../../glossary/F.md#fundamental-information)**, then combine to form stable atoms, molecules, and larger physical structures. This layered [emergence](../../glossary/E.md#emergence) provides the necessary, reliable physical substrate upon which more complex **[Organizational Information](../../glossary/O.md#organizational-information)** can be built.
 
 *Stage I takeaway: The universe's foundation is a discrete alphabet of stable particles whose inherent probabilistic bias, and thus its informational complexity, can be quantified by a fundamental Shannon entropy value.*
-
----
-[<< Previous: From Organizational Information to Semantic Information](1a-pathway-emergence.md) | [Up: Pattern Realism: Matter/Energy and Information as Complementary Lenses](../1-pattern-realism.md) | [Next: Environmental Information: Patterns as Potential Cues >>](1a2-environmental-information.md)

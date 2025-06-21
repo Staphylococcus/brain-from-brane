@@ -33,6 +33,3 @@ Different informational streams can merge, creating novel "confluences" or hybri
 The constant interplay of these informational currents can fundamentally reshape both individual and collective identity and awareness. New solidarities may form based on shared information consumption rather than shared geography, while previously cohesive groups might experience internal fragmentation as members are pulled by diverging informational tides. The very categories through which agents perceive and make sense of the world (their "subjective distinctions" as per Section 2.a) can be transformed by these fluid informational dynamics.
 
 This ongoing process highlights how "borders" in the collective consciousness are not static lines but dynamic, permeable interfaces constantly being negotiated and reshaped by the ever-flowing and interacting patterns of information, particularly accelerated in the current age.
-
----
-[<< Previous: Redrawing Borders in Collective Consciousness](6b-redrawing-borders-collective-consciousness.md) | [Up: Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: Implications for Individual and Collective Identity >>](6d-implications-identity.md)

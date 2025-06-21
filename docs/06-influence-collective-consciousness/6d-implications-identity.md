@@ -142,6 +142,3 @@ The sweet spot resembles a **spoked wheel**: heterogeneous sub-groups (the rim) 
 > **Design Heuristic**: Track the group's Anchor/Jitter ratio just as for individuals.  If novelty stalls, inject cross-pollination (diversity Jitter).  If coherence frays, strengthen meta-Anchors or increase bridge-role bandwidth.
 
 These mechanisms convert diversity from a centrifugal threat into an engine of collective generativity—providing a mechanistic backing to the slogan *"diversity is our strength"* **when** centripetal structures are intentionally maintained.
-
----
-[<< Previous: The Fluid Dynamics Metaphor for Shifting Borders](6c-fluid-dynamics-metaphor.md) | [Up: Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: Agentive Dissolution and the Enduring Flow of Informational Legacies >>](../07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md)

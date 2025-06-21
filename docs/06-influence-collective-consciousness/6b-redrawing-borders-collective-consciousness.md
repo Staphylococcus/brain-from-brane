@@ -54,6 +54,3 @@ Predictive Hypotheses on the Future of Collective Boundaries and Identity
 | **Mosaic Identity Dominance** – By 2030, majority of social-media users will self-report >5 salient group affiliations uncorrelated with geography. | Longitudinal identity surveys; clustering of self-descriptors. | Stable single-affiliation identities remain dominant across platforms. |
 | **Anchor-Deficit Volatility** – Communities with high *Jitter* but weak *Anchors* will exhibit shorter collective attention cycles and higher schism rates. | Topic lifespan analytics; rate of group fragmentation. | Discovery of long-lived, low-anchor communities with sustained coherence. |
 | **BIC Export Advantage** – Societies nurturing high-generativity information ecosystems will export more BICs than they import. | Tracking origin and adoption rates of global movements/products. | Net import dominance despite domestic generativity metrics. |
-
----
-[<< Previous: Mechanisms of Influence on Reality](6a-mechanisms-influence-reality.md) | [Up: Mechanisms of Influence and Collective Consciousness](6-influence-collective-consciousness.md) | [Next: The Fluid Dynamics Metaphor for Shifting Borders >>](6c-fluid-dynamics-metaphor.md)
