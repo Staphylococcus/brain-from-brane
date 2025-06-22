@@ -1,10 +1,17 @@
+---
+title: "Brain from Brane: An Ontology of Information and Fluid Reality"
+summary: An ontology of information and fluid reality
+description: The Brain from Brane project is a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum, exploring the relationships between information, matter, and consciousness.
+tags: []
+altitude: high
+emoji: "🔎"
+---
+
 # Brain from Brane: An Ontology of Information and Fluid Reality
-<!-- markdownlint-disable MD036 -->
-*High Altitude Overview - Complete Framework Navigation*
-<!-- markdownlint-enable MD036 -->
-**Altitude**: High (10,000+ feet) - Panoramic Overview
 
 Welcome to the "Brain from Brane" project—a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum. This framework explores the intricate relationships between information, matter, and consciousness, providing insights into the nature of reality and the role of agents as information processors.
+
+<!-- FRAMEWORK_GRAPH -->
 
 ## Navigating This Exploration
 
