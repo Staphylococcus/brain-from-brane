@@ -1,5 +1,6 @@
 ---
 title: "Mechanisms of Emergent Stability"
+number: "4.B.1"
 summary: >
   Explores how information systems achieve and maintain stability through dynamic processes including self-reinforcing feedback loops, adaptive stabilization, and error correction mechanisms.
 description: >
