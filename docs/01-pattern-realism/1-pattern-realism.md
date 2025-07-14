@@ -19,7 +19,7 @@ emoji: "🔍"
 
 Information and matter represent complementary aspects of physical processes, as demonstrated in quantum mechanics where the same phenomenon can be described in terms of both energy/momentum and information content. The worldsheet metaphor provides an intuitive visualization of this duality: imagine fundamental processes as dynamic patterns that can be 'read' through either lens.
 
-The universe, in its entirety, is an indivisible **higher-dimensional continuum** (spacetime, perhaps with compactified dimensions as envisaged by string theory) in which fundamental **one-dimensional strings** sweep out **two-dimensional "[worldsheets](../glossary/W.md#worldsheet)."** This ceaseless weave of worldsheets—from the quantum to the cosmic scale—*is* the fabric of reality.
+The universe, in this framework, is best understood as an infinitely zoomable graph—a single, interconnected tapestry of patterns interacting with one another. From the quantum weave of [worldsheets](../glossary/W.md#worldsheet) to the vast architecture of cultural narratives, everything we observe is a structure at a different magnification. This ontology, Pattern Realism, provides the tools to navigate this map, showing how all of reality emerges from a single, dynamic fabric.
 
 Throughout this document we will examine that fabric through two mutually-entailing descriptive lenses, a concept central to [Pattern Realism](../glossary/P.md#pattern-realism):
 
