@@ -36,6 +36,53 @@ This perspective focuses on the material infrastructure, channels, and transmiss
 - **Resource Flow Analysis:** Suppression redirects attention, material support, and cognitive resources away from the suppressed system toward the dominant one.
 - **Observable Effects:** The network becomes more fragmented, with longer and more circuitous routes required for information to travel between remaining systems. Isolated clusters or “echo chambers” may form, and the suppressed system loses its ability to act as a bridge or influencer.
 
+```mermaid
+graph TD
+    subgraph "Dominant System A"
+        A1[Influencer A1]
+        A2[Platform A2]
+        A3[Resource A3]
+    end
+    
+    subgraph "Suppressed System B"
+        B1[Influencer B1]
+        B2[Platform B2]
+        B3[Resource B3]
+    end
+    
+    subgraph "Audience"
+        C1[Audience C1]
+        C2[Audience C2]
+        C3[Audience C3]
+    end
+    
+    %% Original connections (dashed = blocked/removed)
+    A1 -.->|"blocked"| C1
+    A2 -.->|"blocked"| C2
+    A3 -.->|"blocked"| C3
+    B1 -.->|"removed"| C1
+    B2 -.->|"removed"| C2
+    B3 -.->|"removed"| C3
+    
+    %% Internal connections within suppressed system
+    B1 --> B2
+    B2 --> B3
+    
+    %% Dominant system maintains connections
+    A1 --> A2
+    A2 --> A3
+    A3 --> C1
+    A3 --> C2
+    A3 --> C3
+    
+    %% Isolated echo chamber
+    B1 --> B3
+    B3 --> B1
+```
+
+**Example: Network Suppression**  
+This diagram shows how suppression affects the communication network. System B's connections to audiences are severed (dashed lines), while System A maintains and strengthens its connections. System B becomes isolated, forming an echo chamber with limited external reach.
+
 #### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 While the first perspective examines transmission channels, this perspective focuses on the actual content, meaning, and internal logic of the information system—how its core concepts, beliefs, and relationships are structured and maintained. It examines the "what" and "why" of information systems.
