@@ -376,8 +376,178 @@ This diagram shows how a specialized subreddit (e.g., r/AskHistorians) creates i
 
 Beyond its content, the structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
 
+Efficient propagation works by optimizing **repeaters** (transmission mechanisms for speed and reach), minimizing destructive **jitter** (noise that reduces fidelity), and strengthening **anchors** (stabilizing mechanisms that resist competitive pressures).
+
+### Mechanics
+
+#### 1. Communication/Flow Network Perspective (Substrate Lens)
+
+This perspective examines how information systems optimize their transmission infrastructure for maximum reach and speed.
+
+- **Complete Transmission Chain:** Information flows through multiple substrates in sequence - from external networks (social media, messaging) through neural substrates (attention, memory, cognitive processing) and back to external networks. Each substrate hop introduces different constraints and opportunities for optimization.
+- **Neural Substrate Optimization:** Systems design content to navigate neural "security gates" (attention filters, cognitive load limits) and exploit neural "vulnerabilities" (biases, heuristics, emotional triggers) to maximize retention and transmission fidelity.
+- **Substrate Hopping Efficiency:** Successful systems optimize for the entire chain, not just individual substrates. This includes managing jitter across different transmission modes (high-fidelity digital vs. high-jitter oral transmission) and ensuring information can survive multiple substrate transitions.
+
+#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+
+This perspective quantifies the compatibility and long-term viability of information across different substrates.
+
+- **Neural Retention Optimization:** Content is designed to maximize retention in neural substrates through emotional salience, narrative structure, pattern recognition, and alignment with existing cognitive schemas. Systems leverage memory consolidation mechanisms (sleep, repetition, emotional encoding) to enhance long-term retention.
+- **External Anchor Compatibility:** Information is structured to be compatible with external stabilizing mechanisms (institutional archives, social consensus, technological platforms) that can preserve it across time and substrate transitions.
+- **Jitter Minimization:** Systems reduce variation and noise that could degrade information during transmission. This includes creating canonical versions, using redundant encoding, and designing content that resists distortion across different transmission modes.
+- **Identity Fusion:** When information systems achieve deep integration with hosts (forming [Bio-Informational Complexes](../05-competitive-dynamics/5e-bio-informational-complex.md)), the host becomes both a highly motivated repeater and a living anchor. The host's identity becomes fused with the information system, creating powerful protective reactions and dedicated resource allocation that amplify propagation efficiency.
+
+```mermaid
+graph TD
+    subgraph "External Substrates"
+        A1[Oral Traditions]
+        A2[Written Texts]
+        A3[Digital Platforms]
+        A4[Institutional Archives]
+        A5[Social Consensus]
+    end
+    
+    subgraph "Neural Substrates"
+        B1[Moral Framework]
+        B2[Explanatory Power]
+        B3[Emotional Resonance]
+        B4[Community Identity]
+        B5[Cognitive Schemas]
+    end
+    
+    subgraph "Transmission Chain"
+        C1[Canonical Versions]
+        C2[Ritual Practices]
+        C3[Memory Consolidation]
+        C4[Social Reinforcement]
+        C5[Institutional Backing]
+    end
+    
+    %% Substrate hopping flow
+    A1 -->|"oral transmission"| B1
+    A2 -->|"textual encoding"| B2
+    A3 -->|"digital sharing"| B3
+    A4 -->|"institutional preservation"| B4
+    A5 -->|"social consensus"| B5
+    
+    %% Neural optimization
+    B1 -->|"moral anchoring"| C1
+    B2 -->|"explanatory schemas"| C2
+    B3 -->|"emotional encoding"| C3
+    B4 -->|"identity formation"| C4
+    B5 -->|"cognitive compatibility"| C5
+    
+    %% Jitter minimization
+    C1 -->|"canonical stability"| A1
+    C2 -->|"ritual consistency"| A2
+    C3 -->|"memory reinforcement"| A3
+    C4 -->|"social validation"| A4
+    C5 -->|"institutional support"| A5
+    
+    %% Cross-substrate optimization
+    A1 -.->|"high jitter, high flexibility"| A2
+    A2 -.->|"low jitter, high fidelity"| A3
+    A3 -.->|"digital preservation"| A4
+    A4 -.->|"social anchoring"| A5
+    A5 -.->|"community transmission"| A1
+```
+
+**Example: Religious Information Systems**  
+This diagram shows how religious systems optimize propagation across the complete transmission chain. They leverage **neural substrates** (moral frameworks, explanatory power, emotional resonance) to enhance retention, use **external anchors** (institutional archives, social consensus) for long-term preservation, and employ **jitter minimization** (canonical versions, ritual practices) to maintain fidelity across substrate transitions from oral to written to digital transmission.
+
 ---
 
 ## Resilience through Adaptability and Self-Correction
 
 Information systems that possess inherent mechanisms for [adaptation](../glossary/A.md#adaptation), learning, or self-correction may exhibit greater long-term competitive resilience. For instance, scientific methodologies, with their emphasis on falsifiability and revision based on new evidence, allow scientific theories to evolve and maintain explanatory power. Open-source software development models, as information systems for producing other information systems, thrive on iterative improvement and community-driven adaptation.
+
+Resilient systems develop **adaptive repeaters** (transmission mechanisms that can modify themselves), **strategic jitter** (intentional variation that enables learning), and **flexible anchors** (stabilizing mechanisms that can evolve without losing core identity). Viable information systems exist in a precarious **Goldilocks zone** between maladaptive rigidity (where strong self-reinforcement creates resistance to beneficial change) and disintegration (where excessive adaptation erodes core identity and coherence). The most resilient systems balance these opposing forces through controlled evolution.
+
+### Mechanics
+
+#### 1. Communication/Flow Network Perspective (Substrate Lens)
+
+This perspective examines how information systems develop adaptive transmission infrastructure that can respond to competitive challenges.
+
+- **Adaptive Repeaters:** Systems develop transmission mechanisms that can modify their own structure and function in response to environmental changes. This includes learning algorithms, community-driven evolution, and institutional reform processes that allow the system to adapt its propagation strategies.
+- **Network Plasticity:** Information flows through networks that can reorganize, expand, or contract based on competitive pressures. Systems develop mechanisms for identifying and responding to threats, opportunities, and changing environmental conditions.
+- **Substrate Flexibility:** Systems can adapt to new transmission substrates and technologies, maintaining their competitive position as the information environment evolves.
+
+#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+
+This perspective focuses on how information systems maintain conceptual coherence while allowing strategic adaptation.
+
+- **Strategic Jitter:** Systems intentionally introduce variation to explore new possibilities and adapt to changing conditions. This includes experimentation, hypothesis testing, and controlled innovation that allows the system to learn and evolve.
+- **Learning Mechanisms:** Information systems develop processes for incorporating new knowledge, correcting errors, and improving their explanatory power or predictive accuracy.
+- **Identity Preservation:** While allowing adaptation, systems maintain core concepts and principles that define their essential identity and distinguish them from other systems.
+
+#### 3. Stabilization Mechanisms (Anchor Lens)
+
+Resilient systems develop stabilizing mechanisms that can evolve without losing core identity.
+
+- **Flexible Anchors:** Systems create stabilizing mechanisms that can adapt to new conditions while maintaining essential stability. This includes institutional reform processes, community-driven standards evolution, and adaptive quality control systems designed to support controlled evolution rather than rigid preservation.
+- **Identity Fusion Resilience:** When hosts become deeply fused with information systems (forming [Bio-Informational Complexes](../05-competitive-dynamics/5e-bio-informational-complex.md)), the host's adaptive capabilities become tools for information system resilience. The host's learning, creativity, and problem-solving abilities are directed toward protecting and evolving the information system, creating a highly resilient competitive unit.
+- **Self-Reinforcing Feedback Loops:** Resilient systems develop [positive feedback mechanisms](../04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md#4b11-self-reinforcing-feedback-loops-in-information-systems) that strengthen their own propagation through utility reinforcement, identity integration, and cognitive entrenchment. These loops create virtuous cycles that amplify the system's competitive position.
+- **Error Correction and Quality Control:** Systems develop mechanisms to detect and correct degradation through consistency monitoring, restoration processes, and quality selection. This includes peer review, automated verification, and community oversight that filter detrimental jitter while incorporating beneficial innovations.
+
+```mermaid
+graph TD
+    subgraph "GNU GPL License System"
+        A1[Free Software Foundation]
+        A2[Legal Community]
+        A3[Developer Networks]
+        A4[Corporate Adopters]
+        A5[Academic Institutions]
+    end
+    
+    subgraph "Adaptive Mechanisms"
+        B1[Version Evolution]
+        B2[Legal Precedent]
+        B3[Community Standards]
+        B4[Compatibility Layers]
+        B5[Enforcement Mechanisms]
+    end
+    
+    subgraph "Resilience Features"
+        C1[Copyleft Principle]
+        C2[Viral Protection]
+        C3[Community Governance]
+        C4[Legal Adaptability]
+        C5[Cross-Platform Compatibility]
+    end
+    
+    %% Network structure (Adaptive Repeaters)
+    A1 -->|"maintains"| A2
+    A2 -->|"interprets"| A3
+    A3 -->|"implements"| A4
+    A4 -->|"adopts"| A5
+    A5 -->|"contributes to"| A1
+    
+    %% Adaptive mechanisms (Strategic Jitter)
+    B1 -->|"evolves"| B2
+    B2 -->|"establishes"| B3
+    B3 -->|"enables"| B4
+    B4 -->|"strengthens"| B5
+    B5 -->|"informs"| B1
+    
+    %% Resilience features (Flexible Anchors)
+    C1 -->|"protects"| C2
+    C2 -->|"requires"| C3
+    C3 -->|"maintains"| C4
+    C4 -->|"ensures"| C5
+    C5 -->|"reinforces"| C1
+    
+    %% Cross-connections showing resilience
+    A1 -->|"enforces"| B5
+    A2 -->|"interprets"| C4
+    A3 -->|"implements"| B3
+    A4 -->|"adopts"| C5
+    A5 -->|"contributes to"| B1
+    
+    %% Goldilocks zone balance
+    B1 -.->|"controlled evolution"| C1
+    C1 -.->|"core stability"| B1
+```
+
+**Example: GNU GPL License Resilience**  
+This diagram shows how the GNU GPL license system demonstrates resilience through **adaptive repeaters** (FSF, legal community, developer networks), **strategic jitter** (version evolution, legal precedent, compatibility layers), and **flexible anchors** (copyleft principle, viral protection, community governance). The system balances between maladaptive rigidity (overly restrictive licensing) and disintegration (loss of copyleft protection), maintaining its core identity while adapting to new technologies and legal environments.
