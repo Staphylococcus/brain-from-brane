@@ -70,11 +70,6 @@ This list is automatically generated from `<!-- ... -->` comments found in the p
         - > - Clarify the mechanics of propagation and competition
           > - Clarify resource specificity: what are the differences and roles
 
-    - [`5a-mechanisms-competition.md`](docs/05-competitive-dynamics/5a-mechanisms-competition.md)
-        - > - What is the interplay between the strategies? Are there overlaps?
-          > - clarify zero-sum and positive-sum dynamics within this scope
-          > - Comparative analyses?
-
     - [`5b-arenas-levels-competition.md`](docs/05-competitive-dynamics/5b-arenas-levels-competition.md)
         - > - Massive operationalization gap
           > - Placeholder terms like viscosity need to be fleshed out

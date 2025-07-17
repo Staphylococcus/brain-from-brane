@@ -5,15 +5,14 @@ Character length warning threshold: `15000` characters.
 
 ## Summary
 
-- **Total files scanned**: 94
-- **Total characters in all documents**: 765782
+- **Total files scanned**: 99
+- **Total characters in all documents**: 778702
 - **Files exceeding warning threshold (15000 chars)**: 19
 
 ## Document Details
 
 | File Path | Character Count | Warning |
 |---|---|---|
-| `docs/05-competitive-dynamics/5a-mechanisms-competition.md` | 42553 | ⚠️ YES |
 | `docs/03-agents-as-information-processors/3d-agent-complexity-assessment-protocol.md` | 33464 | ⚠️ YES |
 | `docs/04-information-systems/4c-evolutionary-dynamics.md` | 27319 | ⚠️ YES |
 | `docs/04-information-systems/4d-host-information-interactions.md` | 25974 | ⚠️ YES |
@@ -30,6 +29,7 @@ Character length warning threshold: `15000` characters.
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d-ethical-dimensions.md` | 16428 | ⚠️ YES |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d5-meta-ethical-competition.md` | 15768 | ⚠️ YES |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d7-comparative-analysis.md` | 15763 | ⚠️ YES |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a-mechanisms-competition.md` | 15627 | ⚠️ YES |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a5-empirical-predictions.md` | 15501 | ⚠️ YES |
 | `docs/06-influence-collective-consciousness/6-influence-collective-consciousness.md` | 15285 | ⚠️ YES |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a2-passive-structural-influence.md` | 13734 | ✅ No |
@@ -42,20 +42,25 @@ Character length warning threshold: `15000` characters.
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d3-mechanisms-competition.md` | 11425 | ✅ No |
 | `docs/01-pattern-realism/1-pattern-realism.md` | 10839 | ✅ No |
 | `docs/06-influence-collective-consciousness/6d-implications-identity.md` | 10240 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a1-direct-confrontation.md` | 10026 | ✅ No |
 | `docs/02-oneness-interconnectedness/2c-pattern-based-boundary-concepts.md` | 8927 | ✅ No |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d1-ethical-systems-competing.md` | 8569 | ✅ No |
 | `docs/01-pattern-realism/1b-emergence-of-consciousness.md` | 8513 | ✅ No |
 | `docs/abstraction-altitudes.md` | 8454 | ✅ No |
 | `docs/03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md` | 8269 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a2-cooption-assimilation.md` | 8171 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a5-resilience-adaptability.md` | 8125 | ✅ No |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a3-material-organization-in-practice.md` | 7532 | ✅ No |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a1-repeater-jitter-anchor-model.md` | 7459 | ✅ No |
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md` | 7410 | ✅ No |
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md` | 7234 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a4-propagation-efficiency.md` | 7068 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a5-full-semantics.md` | 6940 | ✅ No |
 | `docs/01-pattern-realism/1c-hard-problem-of-consciousness.md` | 6937 | ✅ No |
 | `docs/glossary.md` | 6886 | ✅ No |
 | `docs/07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md` | 6665 | ✅ No |
 | `docs/06-influence-collective-consciousness/6b-redrawing-borders-collective-consciousness.md` | 6536 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a3-niche-differentiation.md` | 6456 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a4-developing-semantics.md` | 6440 | ✅ No |
 | `docs/05-competitive-dynamics/5-competitive-dynamics.md` | 6321 | ✅ No |
 | `docs/03-agents-as-information-processors/3b-broader-agency-reciprocal-dynamics.md` | 6245 | ✅ No |
@@ -110,4 +115,4 @@ Character length warning threshold: `15000` characters.
 
 ---
 
-*Report generated on: 2025-07-17 16:10:45*
+*Report generated on: 2025-07-17 18:07:10*
