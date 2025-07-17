@@ -24,7 +24,7 @@ The "vying for dominance" among information systems employs a range of strategie
 
 This involves overt attempts to eradicate, discredit, or suppress competing narratives or systems. Examples include ideological purges, censorship, public debunking campaigns, or even the violent destruction of cultural artifacts representing rival systems. The perceived emergent "intentionality" of the bio-informational complex is often at play here.
 
-These suppression mechanisms can be analyzed through two complementary perspectives that reveal different aspects of how information systems compete for dominance.
+These suppression mechanisms can be analyzed through two complementary perspectives that reveal different aspects of how information systems compete for dominance. These perspectives correspond to the [Repeater/Jitter/Anchor model](../04-information-systems/4a-material-organization-dynamics/4a1-repeater-jitter-anchor-model.md): the substrate lens examines how competition affects **repeaters** (transmission mechanisms) and **anchors** (stabilizing structures), while the substance lens examines how competition introduces **jitter** (variation) and transforms conceptual **anchors**.
 
 ### Mechanics
 
@@ -32,7 +32,7 @@ These suppression mechanisms can be analyzed through two complementary perspecti
 
 This perspective focuses on the material infrastructure, channels, and transmission systems that carry and propagate information—how the information system is instantiated and spread in the world. It examines the "how" of information transmission.
 
-- **Network Dynamics:** Direct confrontation operates through the removal of nodes (entities, agents, or channels) and edges (communication links) in the network of information flow. When System A suppresses System B, it may block B’s access to audiences, resources, or platforms, fragmenting the network and isolating B.
+- **Network Dynamics:** Direct confrontation operates through the removal of nodes (entities, agents, or channels) and edges (communication links) in the network of information flow. When System A suppresses System B, it may block B’s access to audiences, resources, or platforms, fragmenting the network and isolating B. This targets the rival system’s **repeaters** (transmission mechanisms) and **anchors** (stabilizing structures), disrupting its ability to propagate and maintain coherence.
 - **Resource Flow Analysis:** Suppression redirects attention, material support, and cognitive resources away from the suppressed system toward the dominant one.
 - **Observable Effects:** The network becomes more fragmented, with longer and more circuitous routes required for information to travel between remaining systems. Isolated clusters or “echo chambers” may form, and the suppressed system loses its ability to act as a bridge or influencer.
 
@@ -85,7 +85,8 @@ This diagram shows how suppression affects the communication network. System B's
 
 #### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
-While the first perspective examines transmission channels, this perspective focuses on the actual content, meaning, and internal logic of the information system—how its core concepts, beliefs, and relationships are structured and maintained. It examines the "what" and "why" of information systems.
+While the first perspective examines transmission channels, this perspective focuses on the actual content, meaning, and internal logic of the information system—how its core concepts, beliefs, and relationships are structured and maintained. It examines the "what" and "why" of information systems.  
+In R/J/A terms, direct confrontation at the substance level works by attacking the rival’s **anchors** (core concepts and stabilizing beliefs) and introducing **jitter** (semantic disruption, doubt, or reinterpretation) to destabilize the system’s internal coherence.
 
 ```mermaid
 graph TD
@@ -146,7 +147,7 @@ Like direct confrontation, co-option operates through both network and conceptua
 
 This perspective examines how co-option affects the material infrastructure and transmission channels of information systems.
 
-- **Network Integration:** Co-option involves the strategic absorption of nodes (influencers, platforms, communities) and edges (communication channels) from the rival system into the dominant system's network. Rather than isolating the rival, the dominant system creates new connections that redirect information flow toward itself. **The key insight is that by absorbing a node, the dominant system leverages network effects to replace the node's contents** - the node's connections to the dominant system's network begin to influence what information flows through it, gradually transforming its function and output.
+- **Network Integration:** Co-option involves the strategic absorption of nodes (influencers, platforms, communities) and edges (communication channels) from the rival system into the dominant system's network. Rather than isolating the rival, the dominant system creates new connections that redirect information flow toward itself. **The key insight is that by absorbing a node, the dominant system leverages network effects to replace the node's contents** - the node's connections to the dominant system's network begin to influence what information flows through it, gradually transforming its function and output. In R/J/A terms, this is the absorption of **repeaters** (transmission mechanisms) and their transformation to serve the dominant system's propagation needs.
 - **Resource Redirection:** The dominant system captures attention, material support, and cognitive resources that might otherwise flow to the rival system, but does so by offering a "home" for these resources within its own framework.
 - **Observable Effects:** The network becomes more centralized around the dominant system, with former rival nodes now acting as bridges or amplifiers for the dominant system's messages. The rival system may lose its distinct network identity as its components become integrated into the dominant system's infrastructure.
 
@@ -217,11 +218,7 @@ This diagram shows how departments and teams from a small company get absorbed i
 
 #### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
-This perspective focuses on how co-option transforms the meaning, concepts, and internal logic of both the dominant and rival information systems.
-
-- **Conceptual Absorption:** The dominant system selectively incorporates appealing concepts, themes, or narratives from the rival system, often reframing them to fit within its own conceptual framework. This can involve diluting, recontextualizing, or repurposing the rival's core ideas.
-- **Identity Transformation:** As concepts are absorbed, they may lose their original meaning or become "domesticated" - stripped of their radical or challenging elements while retaining their emotional appeal or cultural resonance.
-- **Observable Effects:** The rival system's conceptual distinctiveness is eroded as its key ideas become part of the dominant system's vocabulary. The dominant system becomes more flexible and appealing, while the rival system may struggle to maintain its unique identity or may appear derivative.
+This perspective focuses on how conceptual co-option works by absorbing the rival's **anchors** (core concepts and stabilizing beliefs) while introducing controlled **jitter** (reframing and reinterpretation) to transform these elements to serve the dominant system's interests.
 
 ```mermaid
 graph TD
@@ -281,13 +278,19 @@ graph TD
 **Example: Imperial Cultural Co-option**  
 This diagram shows how imperial systems co-opt minority cultural elements through simple relabeling. Traditional music becomes "Russian music," folk art becomes "Russian art," and cultural identity becomes "Russian culture." The original cultural context is erased through relabeling, and the elements are claimed as part of the dominant imperial system's cultural heritage.
 
+---
+
 ## Niche Differentiation and Specialization
 
 Not all competition is zero-sum. Information systems can evolve to occupy distinct cognitive, social, or functional niches, thereby reducing direct conflict and allowing for a diverse (though not necessarily equitable) ecosystem of coexisting systems. Different scientific disciplines, artistic genres, or spiritual traditions might cater to different aspects of human experience or inquiry, thus competing less directly for the same immediate "cognitive territory."
 
+---
+
 ## Efficiency of Propagation and Transmission
 
 Beyond its content, the structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
+
+---
 
 ## Resilience through Adaptability and Self-Correction
 
