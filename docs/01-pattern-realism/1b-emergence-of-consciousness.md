@@ -16,7 +16,7 @@ This section analyzes the emergence of consciousness in agents that have already
 
 [**Consciousness**](../glossary/C.md#consciousness) emerges when the [**inside-out lens**](../glossary/I.md#inside-out-lens) architecture ([Section 3.a](../03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md)) becomes **recursive**—applying its self-referential processing capabilities to its own operations.
 
-This transition exemplifies Pattern Realism's [**outward stabilization propensity**](1-pattern-realism.md#pattern-stability-and-outward-stabilization): when **self-stabilizing patterns** achieve sufficient organizational coherence, they naturally extend their stability outward by incorporating themselves as objects of their own processing.
+This transition exemplifies Pattern Realism's [**outward stabilization propensity**](1-pattern-realism.md#pattern-stability-and-adaptive-efficiency): when **self-stabilizing patterns** achieve sufficient organizational coherence, they naturally extend their stability outward by incorporating themselves as objects of their own processing.
 
 **Consciousness is recursion.** The inside-out lens examining itself.
 
@@ -137,7 +137,7 @@ Consciousness emerges through **phase transition** when **outward stabilization 
 
 Following Pattern Realism's principles, consciousness exhibits the fundamental characteristics of **self-stabilizing patterns**:
 
-- **Phase transition**: Discontinuous emergence when recursive thresholds are reached, reflecting the **cascading order** principle from [Section 1](1-pattern-realism.md#pattern-stability-and-outward-stabilization).
+- **Phase transition**: Discontinuous emergence when recursive thresholds are reached, reflecting the **cascading order** principle from [Section 1](1-pattern-realism.md#pattern-stability-and-adaptive-efficiency).
 - **Structural stability**: Conscious patterns maintain coherence through **boundary stabilization**, a mechanism that reduces local entropy and constrains neighboring patterns.
 - **Template propagation**: Recursive self-modeling through coordinated Pattern Realism mechanisms, directly applying the **template effects** principle to guide the formation of similar patterns.
 - **Critical dependencies**: Specific organizational substrates required for stable recursive operations, embodying the **structural recruitment** principle by organizing previously unstructured information.
