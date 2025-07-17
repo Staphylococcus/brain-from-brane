@@ -150,6 +150,71 @@ This perspective examines how co-option affects the material infrastructure and 
 - **Resource Redirection:** The dominant system captures attention, material support, and cognitive resources that might otherwise flow to the rival system, but does so by offering a "home" for these resources within its own framework.
 - **Observable Effects:** The network becomes more centralized around the dominant system, with former rival nodes now acting as bridges or amplifiers for the dominant system's messages. The rival system may lose its distinct network identity as its components become integrated into the dominant system's infrastructure.
 
+```mermaid
+graph TD
+    subgraph "Small Company"
+        A1[Department A]
+        A2[Department B]
+        A3[Department C]
+        A4[Team A]
+        A5[Team B]
+    end
+    
+    subgraph "Merger Integration"
+        B1[Division A]
+        B2[Division B]
+        B3[Division C]
+        B4[Unit A]
+        B5[Unit B]
+    end
+    
+    subgraph "Large Corporation"
+        C1[Corporate Policies]
+        C2[Standard Procedures]
+        C3[Reporting Structure]
+        C4[Performance Metrics]
+        C5[Strategic Priorities]
+    end
+    
+    %% Original connections showing independent company
+    A1 -->|"collaborates with"| A2
+    A2 -->|"supports"| A3
+    A3 -->|"coordinates with"| A4
+    A4 -->|"works with"| A5
+    A5 -->|"influences"| A1
+    
+    %% Absorption process (dashed lines show integration)
+    A1 -.->|"becomes division"| B1
+    A2 -.->|"becomes division"| B2
+    A3 -.->|"becomes division"| B3
+    A4 -.->|"becomes unit"| B4
+    A5 -.->|"becomes unit"| B5
+    
+    %% Integration into dominant system
+    B1 -->|"reports to"| C1
+    B2 -->|"reports to"| C2
+    B3 -->|"reports to"| C3
+    B4 -->|"reports to"| C4
+    B5 -->|"reports to"| C5
+    
+    %% Dominant system influences absorbed nodes
+    C1 -->|"enforces"| B1
+    C2 -->|"standardizes"| B2
+    C3 -->|"controls"| B3
+    C4 -->|"evaluates"| B4
+    C5 -->|"directs"| B5
+    
+    %% Dominant system reinforces itself
+    C1 -->|"informs"| C2
+    C2 -->|"guides"| C3
+    C3 -->|"generates"| C4
+    C4 -->|"shapes"| C5
+    C5 -->|"drives"| C1
+```
+
+**Example: Corporate Merger Network Absorption**  
+This diagram shows how departments and teams from a small company get absorbed into a large corporation's network through merger. As they become integrated, the corporation's policies, procedures, and reporting structures begin to influence their operations and decision-making. The absorbed units adapt their practices to match corporate standards and priorities, effectively transforming their function within the network.
+
 #### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 This perspective focuses on how co-option transforms the meaning, concepts, and internal logic of both the dominant and rival information systems.
