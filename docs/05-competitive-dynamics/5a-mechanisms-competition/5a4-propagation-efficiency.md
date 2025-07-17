@@ -10,7 +10,7 @@ altitude: low
 emoji: "🚀"
 ---
 
-Beyond its content, the structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
+Propagation efficiency focuses on the structural and transmissive properties that determine an information system's competitive success, independent of its content. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
 
 Efficient propagation works by optimizing **repeaters** (transmission mechanisms for speed and reach), minimizing destructive **jitter** (noise that reduces fidelity), and strengthening **anchors** (stabilizing mechanisms that resist competitive pressures).
 

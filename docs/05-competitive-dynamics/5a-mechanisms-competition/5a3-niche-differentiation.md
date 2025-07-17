@@ -10,7 +10,7 @@ altitude: low
 emoji: "🌱"
 ---
 
-Not all competition is zero-sum. Information systems can evolve to occupy distinct cognitive, social, or functional niches, thereby reducing direct conflict and allowing for a diverse (though not necessarily equitable) ecosystem of coexisting systems. Different scientific disciplines, artistic genres, or spiritual traditions might cater to different aspects of human experience or inquiry, thus competing less directly for the same immediate "cognitive territory."
+Niche differentiation represents a cooperative competitive mechanism where information systems evolve to occupy distinct cognitive, social, or functional niches, thereby reducing direct conflict and allowing for a diverse (though not necessarily equitable) ecosystem of coexisting systems. Different scientific disciplines, artistic genres, or spiritual traditions might cater to different aspects of human experience or inquiry, thus competing less directly for the same immediate "cognitive territory."
 
 Niche differentiation works by developing specialized **repeaters** (transmission mechanisms tailored to specific audiences), controlled **jitter** (variation within bounded domains), and domain-specific **anchors** (stabilizing mechanisms that maintain identity within the niche while allowing adaptation to niche-specific conditions).
 
