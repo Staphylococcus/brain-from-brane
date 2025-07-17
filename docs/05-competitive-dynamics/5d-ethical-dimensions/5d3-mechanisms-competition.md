@@ -17,7 +17,7 @@ emoji: "⚙️"
 
 -->
 
-Ethical systems employ sophisticated strategies in their competition for moral dominance, often mirroring the general competitive mechanisms identified in [Section 5.a](../5a-mechanisms-competition.md):
+Ethical systems employ sophisticated strategies in their competition for moral dominance, often mirroring the general competitive mechanisms identified in [Section 5.a](../5a-mechanisms-competition/5a-mechanisms-competition.md):
 
 Ethical system competitive mechanisms
 

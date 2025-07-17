@@ -10,7 +10,7 @@ altitude: low
 emoji: "🚀"
 ---
 
-Beyond its content, the structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
+Beyond its content, the structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable through available media (e.g., from easily retold oral myths to shareable digital memes), or those that more effectively leverage innate host psychology (e.g., [biases](../../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach. The nature of the available material substrates and transmission technologies (e.g., oral culture vs. printing press vs. internet) profoundly shapes these dynamics.
 
 Efficient propagation works by optimizing **repeaters** (transmission mechanisms for speed and reach), minimizing destructive **jitter** (noise that reduces fidelity), and strengthening **anchors** (stabilizing mechanisms that resist competitive pressures).
 
@@ -31,7 +31,7 @@ This perspective quantifies the compatibility and long-term viability of informa
 - **Neural Retention Optimization:** Content is designed to maximize retention in neural substrates through emotional salience, narrative structure, pattern recognition, and alignment with existing cognitive schemas. Systems leverage memory consolidation mechanisms (sleep, repetition, emotional encoding) to enhance long-term retention.
 - **External Anchor Compatibility:** Information is structured to be compatible with external stabilizing mechanisms (institutional archives, social consensus, technological platforms) that can preserve it across time and substrate transitions.
 - **Jitter Minimization:** Systems reduce variation and noise that could degrade information during transmission. This includes creating canonical versions, using redundant encoding, and designing content that resists distortion across different transmission modes.
-- **Identity Fusion:** When information systems achieve deep integration with hosts (forming [Bio-Informational Complexes](../05-competitive-dynamics/5e-bio-informational-complex.md)), the host becomes both a highly motivated repeater and a living anchor. The host's identity becomes fused with the information system, creating powerful protective reactions and dedicated resource allocation that amplify propagation efficiency.
+- **Identity Fusion:** When information systems achieve deep integration with hosts (forming [Bio-Informational Complexes](../5e-bio-informational-complex.md)), the host becomes both a highly motivated repeater and a living anchor. The host's identity becomes fused with the information system, creating powerful protective reactions and dedicated resource allocation that amplify propagation efficiency.
 
 ```mermaid
 graph TD

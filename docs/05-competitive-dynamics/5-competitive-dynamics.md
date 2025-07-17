@@ -26,7 +26,7 @@ A crucial aspect of this dynamic is how dominant information systems are maintai
 *How information systems employ strategic tactics to secure dominance and resources.*
 Information systems deploy sophisticated strategies beyond simple presence—direct confrontation and suppression, co-option and assimilation, niche differentiation, propagation efficiency, and resilience through adaptability. These mechanisms operate across cognitive, social, and infrastructural channels, with systems leveraging host psychology, transmission technologies, and structural properties to outcompete rivals. Understanding these tactics reveals why some patterns spread rapidly while others fade, and how competition drives both innovation and conflict.
 
-[Deep dive →](5a-mechanisms-competition.md)
+[Deep dive →](5a-mechanisms-competition/5a-mechanisms-competition.md)
 
 ## 5.b Arenas and Levels of Competition
 
