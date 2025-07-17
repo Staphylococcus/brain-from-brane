@@ -138,6 +138,84 @@ These two perspectives work together in practice. Suppression efforts typically 
 
 A more subtle mechanism where a dominant or evolving information system incorporates appealing or non-threatening elements from a competitor. This can neutralize the distinct appeal of the rival or broaden the dominant system's own applicability, effectively "domesticating" or absorbing the competition. For example, a mainstream ideology might adopt certain popular themes from a nascent counter-culture to maintain its relevance.
 
+Like direct confrontation, co-option operates through both network and conceptual channels, but instead of removing or suppressing rival elements, it selectively integrates them into the dominant system's structure.
+
+### Mechanics
+
+#### 1. Communication/Flow Network Perspective (Substrate Lens)
+
+This perspective examines how co-option affects the material infrastructure and transmission channels of information systems.
+
+- **Network Integration:** Co-option involves the strategic absorption of nodes (influencers, platforms, communities) and edges (communication channels) from the rival system into the dominant system's network. Rather than isolating the rival, the dominant system creates new connections that redirect information flow toward itself. **The key insight is that by absorbing a node, the dominant system leverages network effects to replace the node's contents** - the node's connections to the dominant system's network begin to influence what information flows through it, gradually transforming its function and output.
+- **Resource Redirection:** The dominant system captures attention, material support, and cognitive resources that might otherwise flow to the rival system, but does so by offering a "home" for these resources within its own framework.
+- **Observable Effects:** The network becomes more centralized around the dominant system, with former rival nodes now acting as bridges or amplifiers for the dominant system's messages. The rival system may lose its distinct network identity as its components become integrated into the dominant system's infrastructure.
+
+#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+
+This perspective focuses on how co-option transforms the meaning, concepts, and internal logic of both the dominant and rival information systems.
+
+- **Conceptual Absorption:** The dominant system selectively incorporates appealing concepts, themes, or narratives from the rival system, often reframing them to fit within its own conceptual framework. This can involve diluting, recontextualizing, or repurposing the rival's core ideas.
+- **Identity Transformation:** As concepts are absorbed, they may lose their original meaning or become "domesticated" - stripped of their radical or challenging elements while retaining their emotional appeal or cultural resonance.
+- **Observable Effects:** The rival system's conceptual distinctiveness is eroded as its key ideas become part of the dominant system's vocabulary. The dominant system becomes more flexible and appealing, while the rival system may struggle to maintain its unique identity or may appear derivative.
+
+```mermaid
+graph TD
+    subgraph "Original Minority Culture"
+        A1[Traditional Music]
+        A2[Folk Art]
+        A3[Religious Practices]
+        A4[Historical Narratives]
+        A5[Cultural Identity]
+    end
+    
+    subgraph "Imperial Co-option"
+        B1["Russian" Music]
+        B2["Russian" Art]
+        B3["Russian" Traditions]
+        B4["Russian" History]
+        B5["Russian" Culture]
+    end
+    
+    subgraph "Dominant System"
+        C1[Imperial Identity]
+        C2[National Unity]
+        C3[State Control]
+        C4[Territorial Claims]
+        C5[Cultural Hegemony]
+    end
+    
+    %% Original connections showing cultural coherence
+    A1 --> A2
+    A2 --> A3
+    A3 --> A4
+    A4 --> A5
+    A5 --> A1
+    
+    %% Co-option process (dashed lines show relabeling)
+    A1 -.->|"relabeled"| B1
+    A2 -.->|"relabeled"| B2
+    A3 -.->|"relabeled"| B3
+    A4 -.->|"relabeled"| B4
+    A5 -.->|"relabeled"| B5
+    
+    %% Integration into dominant system
+    B1 --> C1
+    B2 --> C2
+    B3 --> C3
+    B4 --> C4
+    B5 --> C5
+    
+    %% Dominant system reinforces itself
+    C1 --> C2
+    C2 --> C3
+    C3 --> C4
+    C4 --> C5
+    C5 --> C1
+```
+
+**Example: Imperial Cultural Co-option**  
+This diagram shows how imperial systems co-opt minority cultural elements through simple relabeling. Traditional music becomes "Russian music," folk art becomes "Russian art," and cultural identity becomes "Russian culture." The original cultural context is erased through relabeling, and the elements are claimed as part of the dominant imperial system's cultural heritage.
+
 ## Niche Differentiation and Specialization
 
 Not all competition is zero-sum. Information systems can evolve to occupy distinct cognitive, social, or functional niches, thereby reducing direct conflict and allowing for a diverse (though not necessarily equitable) ecosystem of coexisting systems. Different scientific disciplines, artistic genres, or spiritual traditions might cater to different aspects of human experience or inquiry, thus competing less directly for the same immediate "cognitive territory."
