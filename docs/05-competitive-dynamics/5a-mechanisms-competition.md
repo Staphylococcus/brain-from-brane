@@ -129,6 +129,8 @@ These two perspectives work together in practice. Suppression efforts typically 
 **Example:** In the suppression of a conspiracy theory, authorities might:
 - **Communication network:** Deplatform key influencers, block hashtags, or restrict sharing (removing nodes/edges in the flow network).
 - **Semantic network:** Publicly debunk core claims, introduce counter-narratives, or redefine key terms (removing or altering nodes/edges in the concept graph).
+- **Inoculation strategy:** Preemptively expose audiences to weakened versions of conspiracy claims alongside refutations, building cognitive resistance before exposure to the full theory. This creates "immune" nodes in the network that can resist and even counter-propagate against the rival system.
+- **Anticipatory counter-narratives:** Authorities may anticipate the proliferation of a harmful narrative and pre-emptively seed a highly viable, emotionally resonant counter-narrative that is directly hostile to the harmful one. By strategically placing this counter-narrative in key network nodes before the harmful narrative gains traction, they can "inoculate" the network—making audiences more resistant to persuasion and reducing the harmful narrative's ability to propagate. This approach leverages both cognitive and network effects, but must be carefully managed to avoid backlash or ethical pitfalls.
 
 ---
 
