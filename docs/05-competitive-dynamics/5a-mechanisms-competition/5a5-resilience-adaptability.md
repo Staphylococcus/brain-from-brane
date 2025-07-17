@@ -15,9 +15,9 @@ Resilience through adaptability represents the long-term competitive strategy wh
 
 Resilient systems develop **adaptive repeaters** (transmission mechanisms that can modify themselves), **strategic jitter** (intentional variation that enables learning), and **flexible anchors** (stabilizing mechanisms that can evolve without losing core identity). Viable information systems exist in a precarious **Goldilocks zone** between maladaptive rigidity (where strong self-reinforcement creates resistance to beneficial change) and disintegration (where excessive adaptation erodes core identity and coherence). The most resilient systems balance these opposing forces through controlled evolution.
 
-### Mechanics
+## Mechanics
 
-#### 1. Communication/Flow Network Perspective (Substrate Lens)
+### 1. Communication/Flow Network Perspective (Substrate Lens)
 
 This perspective examines how information systems develop adaptive transmission infrastructure that can respond to competitive challenges.
 
@@ -25,7 +25,7 @@ This perspective examines how information systems develop adaptive transmission 
 - **Network Plasticity:** Information flows through networks that can reorganize, expand, or contract based on competitive pressures. Systems develop mechanisms for identifying and responding to threats, opportunities, and changing environmental conditions.
 - **Substrate Flexibility:** Systems can adapt to new transmission substrates and technologies, maintaining their competitive position as the information environment evolves.
 
-#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 This perspective focuses on how information systems maintain conceptual coherence while allowing strategic adaptation.
 
@@ -33,7 +33,7 @@ This perspective focuses on how information systems maintain conceptual coherenc
 - **Learning Mechanisms:** Information systems develop processes for incorporating new knowledge, correcting errors, and improving their explanatory power or predictive accuracy.
 - **Identity Preservation:** While allowing adaptation, systems maintain core concepts and principles that define their essential identity and distinguish them from other systems.
 
-#### 3. Stabilization Mechanisms (Anchor Lens)
+### 3. Stabilization Mechanisms (Anchor Lens)
 
 Resilient systems develop stabilizing mechanisms that can evolve without losing core identity.
 
@@ -104,7 +104,7 @@ graph TD
 **Example: GNU GPL License Resilience**  
 This diagram shows how the GNU GPL license system demonstrates resilience through **adaptive repeaters** (FSF, legal community, developer networks), **strategic jitter** (version evolution, legal precedent, compatibility layers), and **flexible anchors** (copyleft principle, viral protection, community governance). The system balances between maladaptive rigidity (overly restrictive licensing) and disintegration (loss of copyleft protection), maintaining its core identity while adapting to new technologies and legal environments.
 
-### Causal Chain
+## Causal Chain
 
 1. **Environmental Shift:** A change in the social or technological environment challenges the validity of existing information systems.
 

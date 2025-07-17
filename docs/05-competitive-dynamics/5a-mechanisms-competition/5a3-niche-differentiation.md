@@ -14,9 +14,9 @@ Niche differentiation represents a cooperative competitive mechanism where infor
 
 Niche differentiation works by developing specialized **repeaters** (transmission mechanisms tailored to specific audiences), controlled **jitter** (variation within bounded domains), and domain-specific **anchors** (stabilizing mechanisms that maintain identity within the niche while allowing adaptation to niche-specific conditions).
 
-### Mechanics
+## Mechanics
 
-#### 1. Communication/Flow Network Perspective (Substrate Lens)
+### 1. Communication/Flow Network Perspective (Substrate Lens)
 
 This perspective examines how niche differentiation affects the material infrastructure and transmission channels of information systems.
 
@@ -24,7 +24,7 @@ This perspective examines how niche differentiation affects the material infrast
 - **Niche-Optimized Networks:** Information flows through networks of experts, practitioners, or enthusiasts who share common interests and communication norms, creating distinct transmission pathways.
 - **Network Segmentation:** The overall information ecosystem becomes segmented into specialized subnetworks, each with its own transmission mechanisms and audience connections.
 
-#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 This perspective focuses on how niche systems maintain distinct conceptual identities while allowing controlled variation.
 
@@ -32,7 +32,7 @@ This perspective focuses on how niche systems maintain distinct conceptual ident
 - **Niche-Specific Adaptation:** Variation is directed toward addressing the unique challenges and opportunities of the niche environment.
 - **Identity Preservation:** While allowing jitter, systems maintain core concepts and principles that define their niche identity and distinguish them from other systems.
 
-#### 3. Stabilization Mechanisms (Anchor Lens)
+### 3. Stabilization Mechanisms (Anchor Lens)
 
 Each niche develops stabilizing mechanisms tailored to its specific domain:
 
@@ -98,7 +98,7 @@ graph TD
 **Example: Specialized Subreddit Niche**  
 This diagram shows how a specialized subreddit (e.g., r/AskHistorians) creates its own niche through specialized **repeaters** (moderators, contributors, users), controlled **jitter** (variation in posts and comments that gets parsed and, for extreme cases of jitter, either contributes to the anchors or gets discarded as unproductive), and domain-specific **anchors** (rules, moderation, expert consensus). The network structure enables high-quality information transmission while the stabilizing mechanisms maintain the niche's distinct identity and standards.
 
-### Causal Chain
+## Causal Chain
 
 1. **Direct Competition Creates Pressure:** Two systems compete for the same broad audience, leading to conflict and inefficiency.
 

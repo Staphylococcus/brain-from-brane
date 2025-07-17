@@ -14,9 +14,9 @@ Direct confrontation represents the most overt competitive mechanism, where info
 
 These suppression mechanisms can be analyzed through two complementary perspectives that reveal different aspects of how information systems compete for dominance. These perspectives correspond to the [Repeater/Jitter/Anchor model](../../04-information-systems/4a-material-organization-dynamics/4a1-repeater-jitter-anchor-model.md): the substrate lens examines how competition affects **repeaters** (transmission mechanisms) and **anchors** (stabilizing structures), while the substance lens examines how competition introduces **jitter** (variation) and transforms conceptual **anchors**.
 
-### Mechanics
+## Mechanics
 
-#### 1. Communication/Flow Network Perspective (Substrate Lens)
+### 1. Communication/Flow Network Perspective (Substrate Lens)
 
 This perspective focuses on the material infrastructure, channels, and transmission systems that carry and propagate information—how the information system is instantiated and spread in the world. It examines the "how" of information transmission.
 
@@ -71,7 +71,7 @@ graph TD
 **Example: Network Suppression**  
 This diagram shows how suppression affects the communication network. System B's connections to audiences are severed (dashed lines), while System A maintains and strengthens its connections. System B becomes isolated, forming an echo chamber with limited external reach.
 
-#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 While the first perspective examines transmission channels, this perspective focuses on the actual content, meaning, and internal logic of the information system—how its core concepts, beliefs, and relationships are structured and maintained. It examines the "what" and "why" of information systems.  
 In R/J/A terms, direct confrontation at the substance level works by attacking the rival’s **anchors** (core concepts and stabilizing beliefs) and introducing **jitter** (semantic disruption, doubt, or reinterpretation) to destabilize the system’s internal coherence.
@@ -111,11 +111,11 @@ This concept graph shows how the "just world" belief system structures its core 
   - **Reframing:** Redefining concepts or relationships to alter the system’s logic (e.g., redefining “Success” as due to luck rather than good deeds, or redefining “Justice” as human-made rather than natural).
 - **Observable Effects:** The rival information system’s conceptual structure becomes less coherent, more vulnerable to doubt, and less able to explain or justify itself. If key nodes or connections are removed, the system may collapse or lose persuasive power.
 
-### Causal Chains
+## Causal Chains
 
 Each mechanism can be understood through two distinct but complementary causal pathways: the Substrate lens, which focuses on the material channels of information flow, and the Substance lens, which focuses on the conceptual and semantic content itself.
 
-#### Causal Chain (Substrate/Flow Lens)
+### Causal Chain (Substrate/Flow Lens)
 
 This pathway targets the rival's ability to transmit its message.
 
@@ -127,7 +127,7 @@ This pathway targets the rival's ability to transmit its message.
 
 4. **Capture Resources:** The dominant system captures the attention and resources that were previously allocated to its rival, strengthening its own position.
 
-#### Causal Chain (Substance/Conceptual Lens)
+### Causal Chain (Substance/Conceptual Lens)
 
 This pathway targets the internal coherence and believability of the rival's ideas.
 
@@ -139,7 +139,7 @@ This pathway targets the internal coherence and believability of the rival's ide
 
 4. **Collapse of Coherence:** Hosts find the rival system less able to explain the world, leading to a loss of confidence and potential abandonment of the system.
 
-### Implications
+## Implications
 
 These two perspectives work together in practice. Suppression efforts typically target both the transmission infrastructure and the conceptual foundations of rival systems, creating a comprehensive attack on their ability to compete effectively.
 

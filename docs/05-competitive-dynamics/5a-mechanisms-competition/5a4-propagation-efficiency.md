@@ -14,9 +14,9 @@ Propagation efficiency focuses on the structural and transmissive properties tha
 
 Efficient propagation works by optimizing **repeaters** (transmission mechanisms for speed and reach), minimizing destructive **jitter** (noise that reduces fidelity), and strengthening **anchors** (stabilizing mechanisms that resist competitive pressures).
 
-### Mechanics
+## Mechanics
 
-#### 1. Communication/Flow Network Perspective (Substrate Lens)
+### 1. Communication/Flow Network Perspective (Substrate Lens)
 
 This perspective examines how information systems optimize their transmission infrastructure for maximum reach and speed.
 
@@ -24,7 +24,7 @@ This perspective examines how information systems optimize their transmission in
 - **Neural Substrate Optimization:** Systems design content to navigate neural "security gates" (attention filters, cognitive load limits) and exploit neural "vulnerabilities" (biases, heuristics, emotional triggers) to maximize retention and transmission fidelity.
 - **Substrate Hopping Efficiency:** Successful systems optimize for the entire chain, not just individual substrates. This includes managing jitter across different transmission modes (high-fidelity digital vs. high-jitter oral transmission) and ensuring information can survive multiple substrate transitions.
 
-#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 This perspective quantifies the compatibility and long-term viability of information across different substrates.
 
@@ -91,7 +91,7 @@ graph TD
 **Example: Religious Information Systems**  
 This diagram shows how religious systems optimize propagation across the complete transmission chain. They leverage **neural substrates** (moral frameworks, explanatory power, emotional resonance) to enhance retention, use **external anchors** (institutional archives, social consensus) for long-term preservation, and employ **jitter minimization** (canonical versions, ritual practices) to maintain fidelity across substrate transitions from oral to written to digital transmission.
 
-### Causal Chain
+## Causal Chain
 
 1. **Encounter and Cognitive Load:** A host encounters two competing information systems. System A is simple, emotionally resonant, and easy to remember. System B is complex and requires significant cognitive effort.
 

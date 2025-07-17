@@ -14,9 +14,9 @@ Co-option and assimilation represent a more subtle competitive mechanism than di
 
 Like direct confrontation, co-option operates through both network and conceptual channels, but instead of removing or suppressing rival elements, it selectively integrates them into the dominant system's structure.
 
-### Mechanics
+## Mechanics
 
-#### 1. Communication/Flow Network Perspective (Substrate Lens)
+### 1. Communication/Flow Network Perspective (Substrate Lens)
 
 This perspective examines how co-option affects the material infrastructure and transmission channels of information systems.
 
@@ -89,7 +89,7 @@ graph TD
 **Example: Corporate Merger Network Absorption**  
 This diagram shows how departments and teams from a small company get absorbed into a large corporation's network through merger. As they become integrated, the corporation's policies, procedures, and reporting structures begin to influence their operations and decision-making. The absorbed units adapt their practices to match corporate standards and priorities, effectively transforming their function within the network.
 
-#### 2. Semantic/Conceptual Network Perspective (Substance Lens)
+### 2. Semantic/Conceptual Network Perspective (Substance Lens)
 
 This perspective focuses on how conceptual co-option works by absorbing the rival's **anchors** (core concepts and stabilizing beliefs) while introducing controlled **jitter** (reframing and reinterpretation) to transform these elements to serve the dominant system's interests.
 
@@ -151,9 +151,9 @@ graph TD
 **Example: Imperial Cultural Co-option**  
 This diagram shows how imperial systems co-opt minority cultural elements through simple relabeling. Traditional music becomes "Russian music," folk art becomes "Russian art," and cultural identity becomes "Russian culture." The original cultural context is erased through relabeling, and the elements are claimed as part of the dominant imperial system's cultural heritage.
 
-### Causal Chains
+## Causal Chains
 
-#### Causal Chain (Substrate/Flow Lens)
+### Causal Chain (Substrate/Flow Lens)
 
 1. **Identify High-Value Nodes:** The dominant system identifies influential nodes (e.g., a charismatic leader, a popular community) within the rival system's network.
 
@@ -163,7 +163,7 @@ This diagram shows how imperial systems co-opt minority cultural elements throug
 
 4. **Transform and Re-Transmit:** Over time, the node's own output begins to align with the dominant system's patterns and norms. It effectively becomes a repeater for the dominant system, broadcasting a modified, "domesticated" version of its original message.
 
-#### Causal Chain (Substance/Conceptual Lens)
+### Causal Chain (Substance/Conceptual Lens)
 
 1. **Identify Appealing Concepts:** The dominant system identifies popular or resonant concepts (anchors) from the rival system.
 
