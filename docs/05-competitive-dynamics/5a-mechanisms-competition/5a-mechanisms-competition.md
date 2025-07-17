@@ -14,35 +14,45 @@ The "vying for dominance" among information systems employs a range of strategie
 
 ## **The Arsenal of Competitive Mechanisms**
 
-### **[5.a.1. Direct Confrontation and Suppression](5a1-direct-confrontation.md)**
+### **5.a.1. Direct Confrontation and Suppression**
 
 Direct confrontation involves explicit attempts to eradicate, discredit, or suppress competing narratives or systems. This includes ideological purges, censorship, public debunking campaigns, and even the violent destruction of cultural artifacts representing rival systems. The perceived emergent "intentionality" of the bio-informational complex is often at play here.
 
 These suppression mechanisms can be analyzed through two complementary perspectives that correspond to the [Repeater/Jitter/Anchor model](../../04-information-systems/4a-material-organization-dynamics/4a1-repeater-jitter-anchor-model.md): the substrate lens examines how competition affects **repeaters** (transmission mechanisms) and **anchors** (stabilizing structures), while the substance lens examines how competition introduces **jitter** (variation) and transforms conceptual **anchors**. Direct confrontation operates through the removal of nodes and edges in the network of information flow, fragmenting the rival system's network and isolating it. At the conceptual level, it works by attacking the rival's **anchors** and introducing **jitter** to destabilize the system's internal coherence.
 
-### **[5.a.2. Co-option and Assimilation](5a2-cooption-assimilation.md)**
+**[→ Deep Dive: Direct Confrontation and Suppression](5a1-direct-confrontation.md)**
+
+### **5.a.2. Co-option and Assimilation**
 
 Co-option is a more subtle mechanism where a dominant information system incorporates appealing elements from a competitor, neutralizing the rival's distinctiveness while broadening its own reach. Rather than removing rival elements, it selectively integrates them into the dominant system's structure.
 
 This operates through both network and conceptual channels. Network integration involves the strategic absorption of nodes and edges from the rival system, redirecting information flow toward the dominant system. The key insight is that by absorbing a node, the dominant system leverages network effects to replace the node's contents. At the semantic level, co-option works by absorbing the rival's **anchors** while introducing controlled **jitter** to transform these elements to serve the dominant system's interests, often through simple relabeling that erases original context.
 
-### **[5.a.3. Niche Differentiation and Specialization](5a3-niche-differentiation.md)**
+**[→ Deep Dive: Co-option and Assimilation](5a2-cooption-assimilation.md)**
+
+### **5.a.3. Niche Differentiation and Specialization**
 
 Not all competition is zero-sum. Information systems can evolve to occupy distinct cognitive, social, or functional niches, reducing direct conflict and allowing for a diverse ecosystem of coexisting systems. Different scientific disciplines, artistic genres, or spiritual traditions might cater to different aspects of human experience, competing less directly for the same "cognitive territory."
 
 Niche differentiation works by developing specialized **repeaters** (transmission mechanisms tailored to specific audiences), controlled **jitter** (variation within bounded domains), and domain-specific **anchors** (stabilizing mechanisms that maintain identity within the niche while allowing adaptation). Each niche develops its own specialized organizations, standards bodies, or communities that maintain quality and coherence within their domain. By catering to different needs, systems no longer compete directly for the same cognitive territory, allowing for coexistence.
 
-### **[5.a.4. Efficiency of Propagation and Transmission](5a4-propagation-efficiency.md)**
+**[→ Deep Dive: Niche Differentiation and Specialization](5a3-niche-differentiation.md)**
+
+### **5.a.4. Efficiency of Propagation and Transmission**
 
 The structural and transmissive properties of an information system significantly impact its competitive success. Systems that are simpler, more emotionally resonant, highly memorable, easily replicable, or those that more effectively leverage innate host psychology (e.g., [biases](../../glossary/C.md#cognitive-biases), heuristics) often possess an advantage in propagation speed and reach.
 
 Efficient propagation works by optimizing **repeaters**, minimizing destructive **jitter**, and strengthening **anchors**. Information flows through multiple substrates in sequence—from external networks through neural substrates and back—with each substrate hop introducing different constraints and opportunities for optimization. Systems design content to navigate neural "security gates" and exploit neural "vulnerabilities" to maximize retention and transmission fidelity. When information systems achieve deep integration with hosts (forming [Bio-Informational Complexes](../5e-bio-informational-complex.md)), the host becomes both a highly motivated repeater and a living anchor, creating powerful protective reactions that amplify propagation efficiency.
 
-### **[5.a.5. Resilience through Adaptability and Self-Correction](5a5-resilience-adaptability.md)**
+**[→ Deep Dive: Efficiency of Propagation and Transmission](5a4-propagation-efficiency.md)**
+
+### **5.a.5. Resilience through Adaptability and Self-Correction**
 
 Information systems that possess inherent mechanisms for [adaptation](../../glossary/A.md#adaptation), learning, or self-correction may exhibit greater long-term competitive resilience. Scientific methodologies, with their emphasis on falsifiability and revision, allow theories to evolve and maintain explanatory power. Open-source software development models thrive on iterative improvement and community-driven adaptation.
 
 Resilient systems develop **adaptive repeaters**, **strategic jitter**, and **flexible anchors**. Viable information systems exist in a precarious **Goldilocks zone** between maladaptive rigidity and disintegration. Systems develop transmission mechanisms that can modify their own structure in response to environmental changes, intentionally introduce variation to explore new possibilities, and create stabilizing mechanisms that can adapt to new conditions while maintaining essential stability. The most resilient systems balance these opposing forces through controlled evolution, maintaining core identity while adapting to change.
+
+**[→ Deep Dive: Resilience through Adaptability and Self-Correction](5a5-resilience-adaptability.md)**
 
 ## The Integrated Nature of Competitive Dynamics
 
