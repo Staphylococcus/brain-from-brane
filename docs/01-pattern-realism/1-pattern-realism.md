@@ -20,9 +20,9 @@ Reality is a single, structured process. This ontology explores that process usi
 
 The two lenses used throughout this work are:
 
-The physical lens, which uses the vocabulary of dynamics, forces, and conserved quantities like matter and energy.
+- **The physical lens,** which uses the vocabulary of dynamics, forces, and conserved quantities like matter and energy.
 
-The informational lens, which uses the vocabulary of states, patterns, and the distinguishability between them.
+- **The informational lens,** which uses the vocabulary of states, patterns, and the distinguishability between them.
 
 Consider a single photon. Physics provides a unified mathematical description of this particle. The lenses are not looking at different parts of the photon, but are applying different descriptive frameworks to the whole:
 
