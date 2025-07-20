@@ -12,7 +12,6 @@ emoji: "🔍"
 
 ## Contents
 
-- [Dual Lenses](#dual-lenses)
 - [Information Levels](#information-levels)
 - [Ontic Structural Realism](#ontic-structural-realism)
 - [Pattern Stability and Adaptive Efficiency](#pattern-stability-and-adaptive-efficiency)
