@@ -28,7 +28,7 @@ Consider a single photon. Physics provides a unified mathematical description of
 
 Under the physical lens, we describe the photon by its dynamics—its energy, its momentum, and how its polarization affects its interaction with a magnetic field. The vocabulary is one of cause and effect, forces, and motion.
 
-Under the informational lens, we describe that same photon by its state. The complete set of its properties—energy, momentum, polarization—defines a single, distinguishable pattern. The vocabulary here is one of information: this specific pattern is different from another possible pattern (e.g., a photon with a different polarization). The semantic significance of this pattern (e.g., "this polarization means a '1'") is not in the photon, but is assigned by an agent using it as a signal.
+Under the informational lens, we describe that same photon by its state. The complete set of its properties—energy, momentum, polarization—defines a single, distinguishable pattern. The vocabulary here is one of information: this specific pattern is different from another possible pattern (e.g., _a photon with a different polarization_). The semantic significance of this pattern (e.g., _"this polarization means a '1'"_) is not in the photon, but is assigned by an agent using it as a signal.
 
 Neither lens is sufficient on its own because both are incomplete descriptions. The underlying reality is neither just classical "billiard balls" nor abstract "ones and zeroes." Much like how the old concept of wave-particle duality was an oversimplification for a reality that is fundamentally non-classical, these lenses are simplified models we use to grasp a unified process that transcends both descriptions.
 
