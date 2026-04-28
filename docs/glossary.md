@@ -76,7 +76,7 @@ description: >
 
 ## [L](glossary/L.md)
 
-[Structural Parameter](glossary/L.md#structural-parameter)
+*No terms defined for this letter yet.*
 
 ---
 
@@ -118,7 +118,7 @@ description: >
 
 ## [S](glossary/S.md)
 
-[Self-Awareness](glossary/S.md#self-awareness) | [Self-Reinforcing Feedback Loops (in Information Systems)](glossary/S.md#self-reinforcing-feedback-loops-in-information-systems) | [Self-Stabilizing Patterns](glossary/S.md#self-stabilizing-patterns) | [Semantic Agency](glossary/S.md#semantic-agency) | [Semantic Information](glossary/S.md#semantic-information) | [Semantic vs. Organizational vs. Fundamental](glossary/S.md#semantic-vs-organizational-vs-fundamental) | [Social Norms](glossary/S.md#social-norms) | [Social Structures](glossary/S.md#social-structures) | [Structural Resonance](glossary/S.md#structural-resonance) | [Substrate Affinity Coefficient (SAC)](glossary/S.md#substrate-affinity-coefficient-sac)
+[Self-Awareness](glossary/S.md#self-awareness) | [Self-Reinforcing Feedback Loops (in Information Systems)](glossary/S.md#self-reinforcing-feedback-loops-in-information-systems) | [Self-Stabilizing Patterns](glossary/S.md#self-stabilizing-patterns) | [Semantic Agency](glossary/S.md#semantic-agency) | [Semantic Information](glossary/S.md#semantic-information) | [Semantic vs. Organizational vs. Fundamental](glossary/S.md#semantic-vs-organizational-vs-fundamental) | [Social Norms](glossary/S.md#social-norms) | [Social Structures](glossary/S.md#social-structures) | [Structural Parameter](glossary/S.md#structural-parameter) | [Structural Resonance](glossary/S.md#structural-resonance) | [Substrate Affinity Coefficient (SAC)](glossary/S.md#substrate-affinity-coefficient-sac)
 
 ---
 

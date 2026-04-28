@@ -12,6 +12,8 @@ emoji: "⚙️"
 
 How do mind-independent physical patterns turn into mind-dependent meaning? The journey is **continuous in substrate**—a backdrop of reality that changes more slowly than the patterns it carries—and yet **discontinuous in capability**. At six identifiable thresholds new feedback loops appear, locking-in qualitatively different kinds of information. Once crossed, these thresholds are never re-crossed in reverse; snowflakes do not become quarks again, and languages do not forget how to mean.
 
+At the speculative physical altitude, worldsheets provide the continuity model for this pathway. The point is not that meaning is hidden inside particles from the beginning. The point is that the same patterned process can be followed as it stabilizes into particles, aggregates into environmental regularities, crosses thermodynamic and autopoietic thresholds, and finally becomes meaningful for agents with an inside-out lens.
+
 Below is a bird's-eye story of those thresholds. If you'd rather dive into equations and diagrams, follow the links; if you just want to "feel" the shape of the ascent, stay on this page.
 
 ## Stage I – Stable Structures & the Particle Alphabet

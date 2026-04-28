@@ -1,7 +1,7 @@
 ---
 title: "Brain from Brane: An Ontology of Information and Fluid Reality"
 summary: An ontology of information and fluid reality
-description: The Brain from Brane project is a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum, exploring the relationships between information, matter, and consciousness.
+description: The Brain from Brane project is a comprehensive ontology that reimagines reality as a dynamic patterned process, exploring information, matter, consciousness, and worldsheets as a speculative continuity model.
 tags: []
 altitude: high
 emoji: "🔎"
@@ -9,7 +9,7 @@ emoji: "🔎"
 
 # Brain from Brane: An Ontology of Information and Fluid Reality
 
-Welcome to the "Brain from Brane" project—a comprehensive ontology that reimagines the universe as a dynamic, higher-dimensional informational continuum. This framework explores the intricate relationships between information, matter, and consciousness, providing insights into the nature of reality and the role of agents as information processors.
+Welcome to the "Brain from Brane" project—a comprehensive ontology that reimagines reality as a dynamic, structured process in which matter, information, and consciousness appear as different readings of the same patterned world. Its deepest speculative image is the **worldsheet**: a candidate way to represent stable histories, relations, and transformations across scales.
 
 <!-- FRAMEWORK_GRAPH -->
 
@@ -17,9 +17,19 @@ Welcome to the "Brain from Brane" project—a comprehensive ontology that reimag
 
 As you embark on this intellectual journey, you'll encounter a unique blend of established scientific insights and speculative theoretical bridges. This exploration weaves together well-grounded principles from thermodynamics, information theory, complexity science, and emergence research with philosophical extrapolations that venture beyond current empirical boundaries.
 
-**The Nature of Our Journey:** This is not a presentation of experimentally validated theories, but rather a scientifically-informed philosophical expedition. Along the way, we'll distinguish between what current science firmly supports—such as thermodynamic principles, information-theoretic measures, and documented emergence phenomena—and where we venture into more speculative territory, such as worldsheet ontology and co-fundamental information theories.
+**The Nature of Our Journey:** This is not a presentation of experimentally validated theories, but rather a scientifically-informed philosophical expedition. Along the way, we'll distinguish between what current science firmly supports—such as thermodynamic principles, information-theoretic measures, and documented emergence phenomena—and where we venture into more speculative territory, such as worldsheet ontology and strong claims about information as a co-fundamental descriptive lens.
 
 **What to Expect:** This framework aims to integrate insights from multiple disciplines into a coherent worldview, generate novel conceptual tools for understanding consciousness and information, and provide practical frameworks for analyzing complex systems. Throughout the journey, we maintain intellectual honesty by clearly marking the difference between established knowledge and theoretical proposals, inviting you to engage with both as part of a sophisticated synthesis rather than established doctrine.
+
+**Why Worldsheets?** The framework needs a way to say that particles, molecules, environmental cues, receptors, agents, and meanings are not different substances stacked on top of one another. They are different stabilizations and interpretations of one continuous patterned process. Worldsheets provide the preferred speculative model for that continuity: an entity is understood less as a static object than as a persistent history traced through interactions.
+
+This commitment has layers:
+
+1. **Minimal:** reality is structured process.
+2. **Stronger:** entities are stable histories or patterns within that process.
+3. **Speculative:** worldsheet-like structures may be the deep physical form of those histories.
+
+The middle and applied layers of the framework can be read from the first two commitments alone. The low-altitude emergence pathway explores why the third commitment is a coherent fit, especially in the progression from stable physical modes to environmental cues, autopoietic agents, and proto-semantic meaning.
 
 **A Framework in Motion:** This ontology is in a continuous state of becoming. Some sections are more fleshed out than others, and the ideas presented here will evolve as they are confronted with new insights, critiques, and reality itself. Consider this a living document, and engage with it as such.
 
@@ -66,7 +76,7 @@ This framework employs **[Abstraction Altitudes](docs/abstraction-altitudes.md)*
 
 ### Introduction: Core Concepts of an Informational Universe
 
-Our exploration begins with a fundamental reimagining: the universe as a dynamic, higher-dimensional **informational continuum** where the dance between information, matter, and consciousness shapes all of reality. This "Brain from Brane" ontology reveals how complexity and meaning emerge from evolving informational patterns, offering a coherent framework that bridges physics, consciousness studies, and information theory.
+Our exploration begins with a fundamental reimagining: the universe as a dynamic **patterned continuum** where information, matter, and consciousness are not separate substances but different descriptive lenses on one evolving process. This "Brain from Brane" ontology asks how complexity and meaning emerge from stable histories, environmental regularities, autopoietic agents, and recursive self-modeling.
 
 ---
 
@@ -75,7 +85,7 @@ Our exploration begins with a fundamental reimagining: the universe as a dynamic
 <!-- markdownlint-disable MD036 -->
 *Reality as Co-Fundamental Information and Matter Patterns*
 <!-- markdownlint-enable MD036 -->
-**Pattern Realism** establishes our foundational perspective: reality consists of dynamic patterns best understood through two co-fundamental lenses—matter/energy and information. Information unfolds in layers from **Fundamental Information** (basic properties of foundational entities like **Worldsheets**) through **Organizational Information** (structural complexities) to **Semantic Information** (meaningful content interpreted by agents through their "inside-out lens"). This layered emergence enables consciousness to arise when the inside-out lens becomes **recursive**—examining itself through autopoietic self-reference, creating the sophisticated informational property where agents develop self-awareness through their unique lens-mediated environmental interactions.
+**Pattern Realism** establishes our foundational perspective: reality consists of dynamic patterns best understood through two co-fundamental lenses—matter/energy and information. **Worldsheets** enter here as the framework's deepest continuity model: a way to treat particles, molecules, signals, organisms, and meanings as scale-different organizations of one patterned process. Information unfolds in layers from **Fundamental Information** through **Organizational Information** to **Semantic Information** interpreted by agents through their "inside-out lens." This layered emergence enables consciousness to arise when the inside-out lens becomes **recursive**—examining itself through autopoietic self-reference, creating the sophisticated informational property where agents develop self-awareness through their unique lens-mediated environmental interactions.
 
 **Explore Deeper**: [Pathway Emergence (1a)](docs/01-pattern-realism/1a-pathway-emergence.md) • [Consciousness Emergence (1b)](docs/01-pattern-realism/1b-emergence-of-consciousness.md) • [Hard Problem Solutions (1c)](docs/01-pattern-realism/1c-hard-problem-of-consciousness.md)
 

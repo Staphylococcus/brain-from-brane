@@ -6,7 +6,7 @@ Character length warning threshold: `15000` characters.
 ## Summary
 
 - **Total files scanned**: 99
-- **Total characters in all documents**: 777354
+- **Total characters in all documents**: 774076
 - **Files exceeding warning threshold (15000 chars)**: 18
 
 ## Document Details
@@ -19,7 +19,7 @@ Character length warning threshold: `15000` characters.
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b1-mechanisms-emergent-stability.md` | 25836 | ⚠️ YES |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d8-practical-applications.md` | 21763 | ⚠️ YES |
 | `docs/06-influence-collective-consciousness/6a-mechanisms-influence-reality.md` | 21373 | ⚠️ YES |
-| `docs/03-agents-as-information-processors/3c-ai-emergent-agent.md` | 20111 | ⚠️ YES |
+| `docs/03-agents-as-information-processors/3c-ai-emergent-agent.md` | 20132 | ⚠️ YES |
 | `docs/02-oneness-interconnectedness/2-oneness-interconnectedness.md` | 19702 | ⚠️ YES |
 | `docs/operationalization-template.md` | 19002 | ⚠️ YES |
 | `docs/05-competitive-dynamics/5e-bio-informational-complex.md` | 18936 | ⚠️ YES |
@@ -31,7 +31,6 @@ Character length warning threshold: `15000` characters.
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d7-comparative-analysis.md` | 15763 | ⚠️ YES |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a5-empirical-predictions.md` | 15501 | ⚠️ YES |
 | `docs/06-influence-collective-consciousness/6-influence-collective-consciousness.md` | 15337 | ⚠️ YES |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a-mechanisms-competition.md` | 14211 | ✅ No |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a2-passive-structural-influence.md` | 13734 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a25-thermodynamic-bridge.md` | 13716 | ✅ No |
 | `docs/03-agents-as-information-processors/3-agents-as-information-processors.md` | 13333 | ✅ No |
@@ -40,35 +39,36 @@ Character length warning threshold: `15000` characters.
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d4-bio-informational-complexes.md` | 12862 | ✅ No |
 | `docs/04-information-systems/4e-empirical-predictions-falsification.md` | 12735 | ✅ No |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d3-mechanisms-competition.md` | 11451 | ✅ No |
-| `docs/01-pattern-realism/1-pattern-realism.md` | 10839 | ✅ No |
+| `docs/01-pattern-realism/1-pattern-realism.md` | 10985 | ✅ No |
 | `docs/06-influence-collective-consciousness/6d-implications-identity.md` | 10240 | ✅ No |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a1-direct-confrontation.md` | 10029 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a1-direct-confrontation.md` | 10106 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a-mechanisms-competition.md` | 9743 | ✅ No |
 | `docs/02-oneness-interconnectedness/2c-pattern-based-boundary-concepts.md` | 8927 | ✅ No |
 | `docs/05-competitive-dynamics/5d-ethical-dimensions/5d1-ethical-systems-competing.md` | 8569 | ✅ No |
 | `docs/01-pattern-realism/1b-emergence-of-consciousness.md` | 8513 | ✅ No |
 | `docs/abstraction-altitudes.md` | 8454 | ✅ No |
 | `docs/03-agents-as-information-processors/3a-inside-out-lens-self-preservation.md` | 8269 | ✅ No |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a2-cooption-assimilation.md` | 8171 | ✅ No |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a5-resilience-adaptability.md` | 8107 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a2-cooption-assimilation.md` | 8241 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a5-resilience-adaptability.md` | 8151 | ✅ No |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a3-material-organization-in-practice.md` | 7532 | ✅ No |
 | `docs/04-information-systems/4a-material-organization-dynamics/4a1-repeater-jitter-anchor-model.md` | 7459 | ✅ No |
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b2-factors-contributing-longevity.md` | 7410 | ✅ No |
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b-emergent-stability-longevity.md` | 7234 | ✅ No |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a4-propagation-efficiency.md` | 7047 | ✅ No |
+| `docs/glossary.md` | 7113 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a4-propagation-efficiency.md` | 7074 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a5-full-semantics.md` | 6940 | ✅ No |
 | `docs/01-pattern-realism/1c-hard-problem-of-consciousness.md` | 6937 | ✅ No |
-| `docs/glossary.md` | 6886 | ✅ No |
 | `docs/07-agentive-dissolution-legacy/7-agentive-dissolution-legacy.md` | 6665 | ✅ No |
 | `docs/06-influence-collective-consciousness/6b-redrawing-borders-collective-consciousness.md` | 6536 | ✅ No |
-| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a3-niche-differentiation.md` | 6456 | ✅ No |
+| `docs/05-competitive-dynamics/5a-mechanisms-competition/5a3-niche-differentiation.md` | 6489 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a4-developing-semantics.md` | 6440 | ✅ No |
 | `docs/05-competitive-dynamics/5-competitive-dynamics.md` | 6347 | ✅ No |
 | `docs/03-agents-as-information-processors/3b-broader-agency-reciprocal-dynamics.md` | 6245 | ✅ No |
-| `docs/01-pattern-realism/1a-pathway-emergence/1a1-foundation.md` | 5899 | ✅ No |
+| `docs/01-pattern-realism/1a-pathway-emergence/1a1-foundation.md` | 6013 | ✅ No |
+| `docs/01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md` | 4999 | ✅ No |
 | `docs/04-information-systems/4b-emergent-stability-longevity/4b3-stability-patterns-across-types.md` | 4899 | ✅ No |
 | `docs/02-oneness-interconnectedness/2d-embodied-extensions-integration.md` | 4817 | ✅ No |
 | `docs/glossary/S.md` | 4740 | ✅ No |
-| `docs/01-pattern-realism/1a-pathway-emergence/1a-pathway-emergence.md` | 4568 | ✅ No |
 | `docs/glossary/A.md` | 4326 | ✅ No |
 | `docs/altitude-indicators.md` | 4057 | ✅ No |
 | `docs/01-pattern-realism/1a-pathway-emergence/1a3-proto-semantics.md` | 4045 | ✅ No |
@@ -105,14 +105,14 @@ Character length warning threshold: `15000` characters.
 | `docs/glossary/D.md` | 627 | ✅ No |
 | `docs/glossary/H.md` | 457 | ✅ No |
 | `docs/glossary/Q.md` | 422 | ✅ No |
-| `docs/glossary/Y.md` | 257 | ✅ No |
-| `docs/glossary/J.md` | 257 | ✅ No |
-| `docs/glossary/K.md` | 257 | ✅ No |
 | `docs/glossary/X.md` | 257 | ✅ No |
 | `docs/glossary/Z.md` | 257 | ✅ No |
+| `docs/glossary/K.md` | 257 | ✅ No |
+| `docs/glossary/J.md` | 257 | ✅ No |
+| `docs/glossary/Y.md` | 257 | ✅ No |
 | `docs/glossary/L.md` | 256 | ✅ No |
 | `docs/glossary/_footer.md` | 154 | ✅ No |
 
 ---
 
-*Report generated on: 2025-07-17 18:18:51*
+*Report generated on: 2026-04-28 19:45:18*
