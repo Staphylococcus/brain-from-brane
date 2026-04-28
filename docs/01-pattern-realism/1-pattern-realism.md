@@ -12,9 +12,13 @@ emoji: "🔍"
 
 ## Contents
 
+- [Dual Lenses](#dual-lenses)
+- [Why Worldsheets?](#why-worldsheets)
 - [Information Levels](#information-levels)
 - [Ontic Structural Realism](#ontic-structural-realism)
 - [Pattern Stability and Adaptive Efficiency](#pattern-stability-and-adaptive-efficiency)
+
+## Dual Lenses
 
 Reality is a single, structured process. This ontology explores that process using two co-equal descriptive lenses. These are not claims about a duality in reality itself, but are different vocabularies for talking about the same underlying thing, in the way that a musical score and an audio waveform are two different but complete descriptions of the same piece of music.
 
@@ -34,13 +38,27 @@ Neither lens is sufficient on its own because both are incomplete descriptions. 
 
 The lenses are bookkeeping schemes for different kinds of questions. When this framework privileges informational vocabulary, it is a deliberate choice of descriptive language, not a claim that information is ontologically separate from matter.
 
+## Why Worldsheets?
+
+The framework's deepest speculative image is the [worldsheet](../glossary/W.md#worldsheet). This is not introduced as a standalone physics claim that proves the rest of the ontology. It answers a structural need inside the framework: if reality is one patterned process, we need a way to talk about stable entities as histories, relations, and transformations rather than as isolated static things.
+
+Worldsheets provide that continuity model. A particle can be read as a stable mode of an underlying process; a molecule as a higher-order organization of such modes; an environmental cue as a regularity available to agents; a receptor as a matching physical pattern; and semantic meaning as the functional significance that emerges when an autopoietic agent interprets the cue through its inside-out lens. The claim is that these are scale-different organizations of one process, not separate ontological layers added after the fact.
+
+The commitment is therefore layered:
+
+1. **Minimal:** reality is structured process.
+2. **Stronger:** entities are stable histories or patterns within that process.
+3. **Speculative:** worldsheet-like structures may be the deep physical form of those histories.
+
+The applied parts of the framework depend mainly on the first two claims. The worldsheet proposal earns its role by making the full emergence pathway continuous from fundamental stability to semantic interpretation.
+
 ## Information Levels
 
 The physical lens provides the foundational description of reality, but its vocabulary of forces and dynamics is not sufficient to describe the functional complexity that emerges from that foundation. The value of the informational lens is that it provides a necessary vocabulary for understanding how structure, function, and eventually meaning, arise from the physical world.
 
-To help visualize this, this ontology borrows a conceptual metaphor from speculative physics: the idea of reality emerging from the interactions of dynamic patterns called [worldsheets](../glossary/W.md#worldsheet). This is not an endorsement of string theory, but a tool to illustrate how a single type of underlying process can give rise to a rich hierarchy of organization.
+At the speculative physical altitude, this ontology models the underlying process through the interactions of dynamic [worldsheets](../glossary/W.md#worldsheet). This is not a requirement that readers accept a specific version of string theory before the rest of the framework can be understood. It is the preferred candidate picture for how one kind of structured process could give rise to a rich hierarchy of organization.
 
-The informational lens uses this metaphor to organize patterns by their functional complexity:
+The informational lens uses this picture to organize patterns by their functional complexity:
 
 - **[Fundamental Information](../glossary/F.md#fundamental-information)**: At the deepest level, the underlying process manifests as stable, quantized patterns. Each distinct, stable mode (visualized as a type of string vibration) appears as an elementary particle, forming a foundational alphabet for reality. This provides the stable components from which everything else is built.
 
@@ -54,7 +72,7 @@ This is the value add: the informational lens provides the only vocabulary we ha
 
 ## Ontic Structural Realism
 
-Thus, there is an **inseparable link** between the strings and the informational patterns they realise. A **string** _is_ its dynamic pattern of existence; describing that pattern in energy units or in bits are alternate projections of the same object. Ontologically, we therefore lean toward what philosophers call **ontic structural realism**: reality is structured process; "material" and "informational" are two coherent but partial glosses on that structure.
+On the speculative worldsheet reading, there is an **inseparable link** between the strings and the informational patterns they realise. A **string** _is_ its dynamic pattern of existence; describing that pattern in energy units or in bits are alternate projections of the same object. More generally, the framework leans toward what philosophers call **ontic structural realism**: reality is structured process; "material" and "informational" are two coherent but partial glosses on that structure.
 
 The transition from basic [organizational/structural pattern](../glossary/O.md#organizational-information) (e.g., the patterns of [worldsheets](../glossary/W.md#worldsheet) underlying an atom) to [_semantic_ or _processed_ information](../glossary/S.md#semantic-information) is therefore not a jump from "matter" to "information," but a **climb up the same pattern hierarchy** ([Semantic vs. Organizational vs. Fundamental](../glossary/S.md#semantic-vs-organizational-vs-fundamental)) toward configurations that model, predict, and act upon other configurations.
 

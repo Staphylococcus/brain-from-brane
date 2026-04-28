@@ -10,9 +10,20 @@ For each letter:
 Header and footer are preserved.
 """
 
-import os
 import re
 from pathlib import Path
+
+DEFAULT_HEADER = """---
+title: "Glossary"
+summary: >
+  This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
+description: >
+  This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
+---
+
+<!-- **Note: This is a generated file. To update, run `tools/generate_glossary.py`**. -->
+
+"""
 
 def slugify(text):
     """GitHub-style anchor slugification."""
@@ -20,6 +31,18 @@ def slugify(text):
     text = re.sub(r'[^a-z0-9\s-]', '', text)
     text = re.sub(r'\s+', '-', text)
     return text
+
+def read_existing_header(output_file):
+    """Preserve content before the first generated glossary letter section."""
+    if not output_file.exists():
+        return DEFAULT_HEADER
+
+    text = output_file.read_text(encoding='utf-8')
+    first_section = re.search(r'^## \[[A-Z]\]\(glossary/[A-Z]\.md\)', text, re.MULTILINE)
+    if not first_section:
+        return DEFAULT_HEADER
+
+    return text[:first_section.start()]
 
 def generate_glossary():
     """Generate the main glossary as a navigational index from individual letter files."""
@@ -30,16 +53,9 @@ def generate_glossary():
     glossary_dir = project_root / "docs" / "glossary"
     output_file = project_root / "docs" / "glossary.md"
     
-    # Header
-    header = """# Glossary
+    header = read_existing_header(output_file)
 
-This glossary provides precise definitions of technical terms used throughout the Brain from Brane framework. Terms are organized alphabetically with cross-references to related concepts.
-
-<!-- **Note: This is a generated file. To update, run `tools/generate_glossary.py`**. -->
-
----
-
-"""    # Footer
+    # Footer
     footer_file = glossary_dir / "_footer.md"
     if footer_file.exists():
         with open(footer_file, 'r', encoding='utf-8') as f:
